@@ -1,0 +1,5 @@
+# Padrão visual: outro:citacao-foto (3 slides)
+
+- `../prints/3RPetroleum_p036.jpg` (★★★) "Costs and capex are highest at the start of operations; per-barrel unit economics R$383 revenue to R$126 net income" · visual: icones+dado-curto, outro:citacao-foto, colunas+linha · propósito: modelo-negocio-unit-economics · truque: Barrel illustration with a stacked row of 4 green pills decomposing revenue per barrel down to net income, beside a portrait quote card and margin lines.
+- `../prints/3RPetroleum_p023.jpg` (★★) "Opex expected to peak in 2025 and capex to 290-440 then fall; CFO quotes guidance" · visual: colunas+linha, outro:citacao-foto · propósito: premissas-projecoes · truque: Two small chart panels on the left (capex bars, opex area) and a framed card with executive portrait and large quote on the right.
+- `../prints/3RPetroleum_p071.jpg` (★★) "3R production grew 93% since 2020 and a founder explains how it differs from OGX" · visual: colunas+linha, outro:citacao-foto · propósito: posicionamento-competitivo · truque: Stacked daily-production columns with a big rising arrow and +93% label beside a portrait quote card with phone call-log image.

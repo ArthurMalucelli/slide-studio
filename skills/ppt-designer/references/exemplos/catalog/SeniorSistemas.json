@@ -1,0 +1,540 @@
+[
+ {
+  "deck": "SeniorSistemas",
+  "page": 1,
+  "purpose": "capa",
+  "message": "Capa do deck do Liga do Mercado Financeiro Unicamp (PE) sobre a Senior Sistemas",
+  "visual": [
+   "outro:foto-full-bleed+bloco-diagonal"
+  ],
+  "layout_trick": "Foto da sede em full-bleed com polígono verde diagonal sobreposto carregando logo e título em branco.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 3,
+  "purpose": "industry-overview",
+  "message": "Software empresarial cresce acima do PIB e o ERP migra de on-premise para cloud/SaaS",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto",
+   "outro:antes-hoje"
+  ],
+  "layout_trick": "Linhas indexadas base 100 com rótulos escuros nos pontos finais, ao lado de cards Antes/Hoje e dois KPIs grandes (95%, 23%) no rodapé.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 4,
+  "purpose": "industry-overview",
+  "message": "Software empresarial reúne ERP, CRM, WMS, TMS, HCM, SCM, BI e EAM em ecossistema em expansão",
+  "visual": [
+   "outro:hub-and-spoke",
+   "colunas+linha"
+  ],
+  "layout_trick": "Ilustração central de prédio com módulos em raio ligados por linhas pontilhadas, par com mini-gráficos de linha à direita.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 5,
+  "purpose": "mercado-tam-demanda",
+  "message": "SaaS cresce a CAGR 16% e já é 54% do cloud em 2025, justificando migração para assinatura",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto",
+   "tabela"
+  ],
+  "layout_trick": "Colunas empilhadas com caixa de CAGR tracejada sobre o gráfico, caixa de conclusão com borda dupla e cards de vantagens com ícone circular.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 6,
+  "purpose": "posicionamento-competitivo",
+  "message": "Mercado concentrado em grandes players com baixa maturidade digital abre espaço para a Senior no mid-market",
+  "visual": [
+   "comps-barras",
+   "colunas+linha"
+  ],
+  "layout_trick": "Barras horizontais de share por porte com logos dos concorrentes (SAP, Oracle, Totvs) ao lado das barras e anotação conectando ao texto.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 7,
+  "purpose": "mercado-tam-demanda",
+  "message": "Baixo gasto por funcionário e 4,5 mi de microempresas indicam grande upside de penetração de ERP no Brasil",
+  "visual": [
+   "comps-barras",
+   "funil-piramide",
+   "tabela"
+  ],
+  "layout_trick": "Pirâmide 3D de segmentos por porte (grandes/PME/micro) com contagem de empresas, ao lado de tabela mercado atual vs maturidade OCDE e chamadas com ícone.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 8,
+  "purpose": "pesquisa-primaria",
+  "message": "Pesquisa com 183 empresas: 83% satisfeitas com o ERP atual e churn do TOTVS em torno de 6,7%",
+  "visual": [
+   "donut",
+   "outro:linha-sazonal",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Barra 83/17 com caixa '183 empresas entrevistadas' como pesquisa primária, donut de satisfação e dois KPIs de churn emoldurados.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 9,
+  "purpose": "mercado-tam-demanda",
+  "message": "IA no ERP tem mercado projetado de US$46 bi e cria ponto de inflexão na adoção de agentes",
+  "visual": [
+   "colunas+linha",
+   "outro:ilustracao-lateral"
+  ],
+  "layout_trick": "Colunas de mercado de IA em ERP com ilustração de rede em vetor à direita e callouts presos por conectores pontilhados.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 10,
+  "purpose": "mercado-tam-demanda",
+  "message": "Digitalização via ERP melhora acesso a crédito, especialmente para empresas menores com juros mais altos",
+  "visual": [
+   "colunas+linha",
+   "donut",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Colunas agrupadas por porte por ano e donut conectado por funil escuro a três blocos de explicação com ícone.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 11,
+  "purpose": "mercado-tam-demanda",
+  "message": "Crédito PF e consignado privado crescem e exigem sistemas de folha integrados às empresas",
+  "visual": [
+   "colunas+linha",
+   "comps-barras"
+  ],
+  "layout_trick": "Barras empilhadas por tipo de crédito com linha total e ranking horizontal de inclusão financeira com bandeiras dos países.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 13,
+  "purpose": "business-overview",
+  "message": "Senior at a Glance: plataforma de software com receita recorrente (ARR R$1,13 bi) e CAGR de 22% na receita",
+  "visual": [
+   "timeline",
+   "colunas+linha",
+   "tabela",
+   "donut"
+  ],
+  "layout_trick": "Painel lateral esquerdo com visão geral, timeline 1988-2024, e tabela de highlights, ao lado de coluna de receita com mix recorrente e donut de cloud.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 14,
+  "purpose": "business-overview",
+  "message": "Portfólio Senior em core ERP/HCM e near-core TMS/WMS/Wiipo/ERP Banking, atendendo seis setores",
+  "visual": [
+   "outro:hub-and-spoke",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Cubo isométrico central de produto cercado por módulos core e near-core, com lista vertical de setores atendidos em ícones.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 15,
+  "purpose": "business-overview",
+  "message": "Senior tem forte presença nos principais setores da economia (90% agro, 70% automotivo, 45% e-commerce)",
+  "visual": [
+   "donut",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Fita sinuosa de círculos verdes com percentual grande em cada um e ícone e texto curto ao lado, ligando setores a penetração.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 16,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Receita migra de licença on-premise para cloud recorrente, com ARR de R$1,2 bi e IA virando precificação por resultado",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto",
+   "outro:logos"
+  ],
+  "layout_trick": "Colunas empilhadas por tipo de receita com CAGR em seta, ARR em área ao lado e círculo de logos (Salesforce, SAP, Workday) mostrando precificação por resultado.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 17,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Wiipo e Senior Capital monetizam a base com crédito de folha, gerando R$2,4 bi em volume transacionado",
+  "visual": [
+   "colunas+linha",
+   "donut",
+   "tabela"
+  ],
+  "layout_trick": "Faixas de texto em caixas empilhadas para BTG/fintech ao lado de colunas de crédito consignado e donut de TPV, com sinal de igual ligando os blocos.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 18,
+  "purpose": "financials-historicos",
+  "message": "Senior opera com margens líquida e EBITDA consistentemente acima de TOTVS e SAP",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Linhas comparativas Senior vs peers com rótulos nos extremos, e trio de cards verdes com ícone explicando os drivers da margem.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 20,
+  "purpose": "financials-historicos",
+  "message": "EBITDA ajustado (IFRS-16 vs IAS-17) mostra impacto limitado dos ajustes sobre a margem",
+  "visual": [
+   "bridge-cascata",
+   "colunas+linha"
+  ],
+  "layout_trick": "Cascata de reconciliação IFRS-16 para IAS-17 com colunas verdes, ao lado de linha de margens com área sombreada pontilhada entre as duas métricas.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 21,
+  "purpose": "financials-historicos",
+  "message": "Rule of 40 de 40%+ sustentada por crescimento e margem, mesmo com alta conversão de caixa",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Colunas empilhadas crescimento + margem com linha tracejada de 40% e painel escuro à direita com três argumentos em ícone.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 22,
+  "purpose": "financials-historicos",
+  "message": "ROIC acima de 50% e ROE acima de 40% colocam a Senior à frente de TOTVS e SAP em retorno",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Duas linhas comparativas lado a lado com numeração 1-2-3 em quadradinhos ligando cada argumento à curva.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 23,
+  "purpose": "management-governanca-estrutura",
+  "message": "M&As escalam o ecossistema da Senior sob o CEO Carlênio, com receita recorrente a 80% da líquida",
+  "visual": [
+   "timeline",
+   "icones+dado-curto",
+   "outro:foto-executivo"
+  ],
+  "layout_trick": "Faixa verde de histórico de M&A com logos adquiridos por ano, foto do CEO centro e dois donuts de métrica ao rodapé.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 25,
+  "purpose": "premissas-projecoes",
+  "message": "Receita recorrente sustentada com EBITDA crescendo e ROIC acima do custo de capital no horizonte projetado",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Grade 2x2 de gráficos de colunas e linhas com títulos verdes e fonte pequena em cada quadrante, com mesma escala visual.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 26,
+  "purpose": "premissas-projecoes",
+  "message": "Conversão de EBITDA em caixa permanece elevada mesmo com M&A, com FCFF e FCO convergentes",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Linhas de conversão de caixa com rótulos em caixas escuras sobre as séries e coluna de receita recorrente vs não recorrente.",
+  "quality": 1
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 27,
+  "purpose": "cenarios",
+  "message": "Margens robustas mesmo em cenários mais exigentes: Bull, Base e Bear com e sem VC",
+  "visual": [
+   "outro:fan-chart-de-cenarios"
+  ],
+  "layout_trick": "Leque de linhas partindo do mesmo ponto (28,9%) divergindo em seis cenários, cada um com rótulo em caixa na ponta final.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 29,
+  "purpose": "valuation-multiplos",
+  "message": "Transações de M&A de software dão referência de EV/Receita de 5,5-8,5x e EV/EBITDA de 10-15x",
+  "visual": [
+   "comps-barras",
+   "tabela"
+  ],
+  "layout_trick": "Barras ordenadas de múltiplo por precedente com linha tracejada de mediana e tabela lateral detalhando comprador e data, mais caixa de range aplicável.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 30,
+  "purpose": "valuation-multiplos",
+  "message": "Trading comps de software/ERP sugerem EV/Receita de 3,0-4,0x e EV/EBITDA de 10-15x",
+  "visual": [
+   "comps-barras",
+   "tabela"
+  ],
+  "layout_trick": "Duas colunas ordenadas (EV/Receita e EV/EBITDA) com mediana tracejada e tabela de empresas à direita fechando em caixa de range aplicável.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 31,
+  "purpose": "valuation-multiplos",
+  "message": "Senior cresce acima da TOTVS e negocia a múltiplos históricos abaixo dos pares",
+  "visual": [
+   "outro:scatter",
+   "colunas+linha"
+  ],
+  "layout_trick": "Dois scatters de crescimento vs margem em cima e série histórica de múltiplos com picos rotulados embaixo.",
+  "quality": 1
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 32,
+  "purpose": "valuation-multiplos",
+  "message": "Múltiplo de saída de 11x é conservador frente a trading comps (16x) e precedentes (22,5x)",
+  "visual": [
+   "comps-barras",
+   "tabela"
+  ],
+  "layout_trick": "Barras horizontais empilhadas por referência com faixa aplicável destacada, tabela entrada vs saída e rodapé em três colunas: juros, referência, conclusão.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 33,
+  "purpose": "valuation-dcf",
+  "message": "Entrada via buy-out 100% a R$2,3 bi e saída em 2030 geram TIR de 31,9% e MOIC de 3,99x",
+  "visual": [
+   "donut",
+   "tabela",
+   "outro:antes-depois"
+  ],
+  "layout_trick": "Dois donuts de estrutura societária (pré e pós deal) com seta de LMF Entry no meio e caixas tracejadas Entry Check vs Exit Expectations.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 34,
+  "purpose": "sensibilidade",
+  "message": "TIR sólida mesmo com múltiplos e EBITDA comprimidos; MOIC é puxado pelo crescimento do EBITDA",
+  "visual": [
+   "heatmap-sensibilidade",
+   "bridge-cascata",
+   "tabela"
+  ],
+  "layout_trick": "Heatmap múltiplo de saída x EBITDA 2030 com célula do caso-base emoldurada, e cascata de MOIC embaixo com colunas vermelhas para negativos.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 35,
+  "purpose": "valuation-dcf",
+  "message": "Bridge de TIR de 28,2% para 31,9% (+3,74pp) quantifica cada alavanca de value creation",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Cascata de IRR com colunas de base e final em navy, degraus em verde por alavanca e caixa de explicação do impacto na saída.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 36,
+  "purpose": "catalisadores",
+  "message": "Alavancas de ARR e M&A concentram o ganho de retorno do VC: +0,90pp e +1,01pp na TIR",
+  "visual": [
+   "comps-barras",
+   "timeline",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Barras horizontais de NRR benchmark vs Senior ao lado de sequência de círculos por ano de aquisição e KPIs grandes em caixas.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 38,
+  "purpose": "catalisadores",
+  "message": "IPO é uma saída viável: precedente de 2022 e tabela de DCF de saída mostram TIR 31,9% a 11x",
+  "visual": [
+   "tabela",
+   "heatmap-sensibilidade",
+   "outro:recorte-de-notícia"
+  ],
+  "layout_trick": "Recortes de notícia estilizados como cards com ícone ao lado de DCF terminal e heatmap de TIR por múltiplo e ano de saída.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 39,
+  "purpose": "catalisadores",
+  "message": "Compradores estratégicos plausíveis: TOTVS, Oracle e Mercado Livre, cada um com racional e risco",
+  "visual": [
+   "lineup-imagens",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Três logos grandes no topo ligados por linhas pontilhadas a cards coloridos com racional, risco e mini-tabela de receita/EBITDA.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 40,
+  "purpose": "catalisadores",
+  "message": "Fundos como General Atlantic e Advent são compradores financeiros naturais para uma tese de growth equity",
+  "visual": [
+   "icones+dado-curto",
+   "tabela"
+  ],
+  "layout_trick": "Coluna esquerda com três critérios numerados e síntese em verde-escuro, coluna direita com linhas por fundo, badges de dado (EBITDA 47%, CAGR 20%) e bandeiras.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 44,
+  "purpose": "industry-overview",
+  "message": "Brasil é parcela pequena do mercado global de TI e tem software subpenetrado em relação ao PIB",
+  "visual": [
+   "donut",
+   "colunas+linha",
+   "mapa"
+  ],
+  "layout_trick": "Donut de share por país com bandeiras em círculo, barra 100% empilhada de composição e colunas de mercado com linha de % do PIB.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 46,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "LTV/CAC da Senior supera a média de SaaS e TOTVS, sustentando eficiência comercial",
+  "visual": [
+   "comps-barras",
+   "pilares",
+   "donut"
+  ],
+  "layout_trick": "Faixa verde de ciclo (base de clientes x LTV - CAC = valor) com ícones, losangos de múltiplo (5x, 8x) sobre as colunas e donut de cross-sell.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 47,
+  "purpose": "financials-historicos",
+  "message": "Alta conversão de caixa e baixa alavancagem sustentam a tese de crescimento via M&A",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Grade 2x2 de linhas e colunas com conversão FCO/EBITDA vs Totvs, prazo de pagamento e dívida líquida/EBITDA.",
+  "quality": 1
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 48,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "M&A recorrente de ~9% da receita adiciona escala e preserva geração de caixa positiva",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Colunas de gasto por aquisição com logos dos adquiridos embaixo de cada uma e linha de FCFF abaixo com área tracejada de gap.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 51,
+  "purpose": "management-governanca-estrutura",
+  "message": "Fundadores controlam 76% e mantêm direção de longo prazo, com histórico de pioneirismo tecnológico",
+  "visual": [
+   "timeline",
+   "organograma",
+   "outro:foto-executivo"
+  ],
+  "layout_trick": "Faixa de marcos tecnológicos 2018-2026 sobre fundo escuro, barra de composição acionária e três cards com foto dos fundadores.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 53,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Estratégia AI-Centric: SARA evolui de interface a agentes e ecossistema de IA com parceria IBM",
+  "visual": [
+   "timeline",
+   "icones+dado-curto",
+   "outro:recorte-de-notícia"
+  ],
+  "layout_trick": "Linha do tempo em círculos conectados por trilha verde, lista de ícones à esquerda, recorte de notícia e foto do CEO com citação.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 55,
+  "purpose": "valuation-dcf",
+  "message": "DCF sustenta valor intrínseco acima do múltiplo implícito: WACC 14,7% e g 4,17%",
+  "visual": [
+   "pilares",
+   "colunas+linha",
+   "bridge-cascata"
+  ],
+  "layout_trick": "Quatro círculos numerados da tese de investimento entrelaçados em trilha, com cascata de WACC e coluna de FCFF ao lado.",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 57,
+  "purpose": "premissas-projecoes",
+  "message": "Seis alavancas de value creation quantificadas somam impacto em pp de TIR, com meta base vs atual",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Tabela de alavanca, mecanismo, atual, meta e impacto em pp de TIR, com nota de benchmark de pares e teste isolado no Excel.",
+  "quality": 2
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 58,
+  "purpose": "football-field",
+  "message": "TIR varia de 23,7% a 40,6% em 72 cenários, sempre acima do hurdle de 25% quase todo o tempo",
+  "visual": [
+   "football-field"
+  ],
+  "layout_trick": "Barras flutuantes de TIR por sensibilidade com linha de hurdle de 25%, caso-base de 31,9% e rodapé em três colunas (amplitude, resiliência, conclusão).",
+  "quality": 3
+ },
+ {
+  "deck": "SeniorSistemas",
+  "page": 60,
+  "purpose": "riscos",
+  "message": "Concorrência e macro concentram os maiores riscos: matriz de probabilidade x impacto com 8 riscos codificados",
+  "visual": [
+   "matriz-riscos"
+  ],
+  "layout_trick": "Matriz probabilidade x impacto com bolhas codificadas (M1, C1, O2...) ligadas a blocos laterais agrupados por tipo com descrição curta.",
+  "quality": 3
+ }
+]

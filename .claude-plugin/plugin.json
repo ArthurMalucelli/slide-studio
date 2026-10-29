@@ -1,0 +1,7 @@
+{
+  "name": "slide-studio",
+  "version": "0.1.0",
+  "description": "Equity-research slides in two steps: /ppt-researcher (exhaustive research with a gap critic, ends in a slide script) and /ppt-designer (any master .pptx, reference catalog of 21 competition decks, validated in PowerPoint).",
+  "author": { "name": "Arthur Malucelli" },
+  "keywords": ["pptx", "equity-research", "slides", "research"]
+}

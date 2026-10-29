@@ -1,0 +1,1043 @@
+[
+ {
+  "deck": "Meliuz",
+  "page": 1,
+  "purpose": "capa",
+  "message": "Capa BTG Pactual Experience 2021 do Méliuz (CASH3) com mockup do app em círculo rosa",
+  "visual": [
+   "outro:mockup-celular",
+   "cor-vibrante"
+  ],
+  "layout_trick": "Fundo grafite com logo da empresa em seta branca à esquerda e celular real do app dentro de círculo rosa à direita; chevrons rosa como assinatura.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 2,
+  "purpose": "recomendacao-exec-summary",
+  "message": "CASH3 COMPRA: preço-alvo R$9,70 vs R$4,26 atual, upside 129% e TIR 23%",
+  "visual": [
+   "colunas+linha",
+   "outro:linha-preco-com-target-tracejado",
+   "outro:card-overview-lateral"
+  ],
+  "layout_trick": "Gráfico de preço histórico com linha tracejada horizontal no preço-alvo e card branco à direita com preço atual, fair value, upside e TIR em tipografia grande.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 3,
+  "purpose": "business-overview",
+  "message": "Méliuz é a pioneira dos cashbacks: IPO, 20 mi de contas e receita crescente, resumida num painel único",
+  "visual": [
+   "timeline",
+   "colunas+linha",
+   "outro:caixa-highlights-tracejada"
+  ],
+  "layout_trick": "Timeline 2011-2021 no topo, dois gráficos (área de contas e colunas de receita por segmento) embaixo e caixa tracejada HIGHLIGHTS com market cap, EBITDA, GMV, TPV.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 7,
+  "purpose": "business-overview",
+  "message": "Três produtos: Marketplace, Nota Fiscal e Serviços Financeiros, cada um com seu dado-chave",
+  "visual": [
+   "pilares",
+   "colunas",
+   "mapa",
+   "donut"
+  ],
+  "layout_trick": "Três cartões numerados 01/02/03 com mini-visual diferente (barras, mapa do Brasil, venn do cartão); nas páginas 4-6 o mesmo slide revela um cartão por vez (build progressivo).",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 8,
+  "purpose": "tese-pilares-divisor",
+  "message": "Tese: Capital Humano, Serviços Financeiros e Ecossistema como três pilares",
+  "visual": [
+   "pilares",
+   "outro:arco-radial-com-icones",
+   "outro:foto-cartao-produto"
+  ],
+  "layout_trick": "Divisor escuro recorrente com arco ligando 3 itens e logo M; o pilar da seção fica em destaque rosa e os outros esmaecidos, com cartão e celular ao fundo.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 10,
+  "purpose": "management-governanca-estrutura",
+  "message": "Capital humano: fundadores seguem no comando e a estrutura acionária está alinhada",
+  "visual": [
+   "donut",
+   "lineup-imagens"
+  ],
+  "layout_trick": "Fotos recortadas dos fundadores grandes à esquerda com legenda de cargo, donut acionário à direita e fila de fotos pequenas da diretoria embaixo.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 12,
+  "purpose": "management-governanca-estrutura",
+  "message": "Conselho independente e diretoria complementam a liderança",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Faixa grafite com retratos do conselho sobreposta ao slide anterior mantendo os fundadores, mudando só o bloco da direita.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 13,
+  "purpose": "historico-empresa",
+  "message": "Cultura de execução do time comprovada por quatro episódios de superação desde 2014",
+  "visual": [
+   "outro:roda-central",
+   "lista-numerada"
+  ],
+  "layout_trick": "Círculo semicolorido com ícones à esquerda e quatro blocos numerados 01-04 em caixa grafite à direita contando casos concretos.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 14,
+  "purpose": "pesquisa-primaria",
+  "message": "Pesquisa de campo: 2 da diretoria, 6 funcionários e 29 ex-funcionários, 63% voltariam a trabalhar no Méliuz",
+  "visual": [
+   "outro:numeros-grandes",
+   "fotos-de-calls",
+   "outro:barra-sim-nao"
+  ],
+  "layout_trick": "Números grandes rosa (2/6/29) abrindo a coluna esquerda, prints de videochamadas com nome e cargo, barra sim/não 63/37 e citação em caixa.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 15,
+  "purpose": "pesquisa-primaria",
+  "message": "Cultura percebida: nota Glassdoor do Méliuz fica no topo vs. peers, validada por depoimentos",
+  "visual": [
+   "outro:scatter-regressao",
+   "outro:scatter-com-logos",
+   "outro:citacoes-com-foto"
+  ],
+  "layout_trick": "Scatter de satisfação x nota Glassdoor com logos dos peers como pontos e Méliuz destacado em rosa, ao lado de citações com foto de ex e atual funcionário.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 16,
+  "purpose": "management-governanca-estrutura",
+  "message": "Partnership como retenção: 23% dos funcionários já são sócios",
+  "visual": [
+   "funil-piramide",
+   "colunas+linha"
+  ],
+  "layout_trick": "Pirâmide 3D rosa em degradê (carta, resultados, cliff e vesting) à esquerda e colunas de funcionários com linha de % sócios à direita.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 17,
+  "purpose": "kpis-operacionais",
+  "message": "Número de funcionários cresce de 144 para 292 mas turnover voluntário mensal segue baixo",
+  "visual": [
+   "outro:linha-escada",
+   "colunas"
+  ],
+  "layout_trick": "Dois painéis lado a lado ligados por setas vermelhas na margem; o da esquerda usa linha de crescimento com logos das aquisições anotados.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 18,
+  "purpose": "pesquisa-primaria",
+  "message": "Remuneração de engenheiros é menor que a de peers, mas permanência é maior",
+  "visual": [
+   "colunas",
+   "outro:barras-coloridas-por-logo"
+  ],
+  "layout_trick": "Colunas na cor de cada fintech (Nubank roxo, Inter laranja, C6 preto) com Méliuz em rosa e círculo-anotação para tempo médio de casa.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 19,
+  "purpose": "catalisadores",
+  "message": "Insider trading: compras de executivos e recompras alinhadas com a estratégia",
+  "visual": [
+   "outro:linha-preco-com-anotacoes"
+  ],
+  "layout_trick": "Linha de preço da ação com marcadores tracejados verticais apontando compras e vendas de insiders, cada um com callout de valor.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 21,
+  "purpose": "mercado-tam-demanda",
+  "message": "Marketing de afiliados ganha tração: GMV cresce muito acima do e-commerce",
+  "visual": [
+   "colunas",
+   "outro:fluxo-empresa-take-rate-usuario"
+  ],
+  "layout_trick": "Esquema de fluxo empresa > take rate > cashback > usuário com ilhas de players nacionais e internacionais, lado a lado com colunas de variação de GMV.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 22,
+  "purpose": "mercado-tam-demanda",
+  "message": "E-commerce brasileiro: GMV cresce 16,5% a.a. e deve manter CAGR de 7,2% até 2025",
+  "visual": [
+   "colunas+linha",
+   "comps-barras"
+  ],
+  "layout_trick": "Colunas de GMV com seta de crescimento curva e % de participação, e à direita barras horizontais de CAGR por país com o Brasil destacado em rosa.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 23,
+  "purpose": "mercado-tam-demanda",
+  "message": "Brasil tem penetração de e-commerce de 10% contra 27% da China: espaço para crescer",
+  "visual": [
+   "colunas"
+  ],
+  "layout_trick": "Colunas por país com linha tracejada de oportunidade acima do Brasil (rosa) e série de usuários em colunas empilhadas ao lado.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 24,
+  "purpose": "mercado-tam-demanda",
+  "message": "Revenue pool do marketing de afiliados de R$453 mi, podendo chegar a R$2 bi no melhor cenário",
+  "visual": [
+   "heatmap-sensibilidade",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Três premissas em números grandes inclinados (10%, 5%, 4,4%) levam a uma matriz de penetração x participação em heatmap vermelho-verde.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 25,
+  "purpose": "posicionamento-competitivo",
+  "message": "Redutor de CAC: afiliados são a via mais barata de aquisição para a empresa parceira",
+  "visual": [
+   "outro:tabs-3-razoes",
+   "colunas"
+  ],
+  "layout_trick": "Três etiquetas (Redutor de CAC, ROI garantido, Agregador de demanda) onde só a ativa fica nítida; o slide se repete trocando a ativa (págs. 25-27).",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 26,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "ROI garantido: caso Magalu mostra gasto de R$34 mi em Ads vs R$19 mi no Méliuz para a mesma venda",
+  "visual": [
+   "colunas",
+   "tabela"
+  ],
+  "layout_trick": "Duas colunas comparando custo via Méliuz x via Ads com tabela de apoio de participação, GMV, take rate e cashback e caixa tracejada de explicação.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 27,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Agregador de demanda: usuários voltam ao Méliuz e frequência de compra sobe frente à média",
+  "visual": [
+   "colunas"
+  ],
+  "layout_trick": "Colunas agrupadas rosa x grafite por ano comparando frequência de compra do usuário Méliuz com a média do marketplace.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 28,
+  "purpose": "posicionamento-competitivo",
+  "message": "Corrida por cashback: Méliuz tem mais lojas parceiras, mas oferece cashback médio mais baixo",
+  "visual": [
+   "colunas",
+   "outro:mapa-de-players"
+  ],
+  "layout_trick": "Colunas de lojas parceiras com % de cashback e à direita nuvem de logos em círculos ligados por setas mostrando migração de marketplace para serviços financeiros.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 29,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Embedded finance: empresas com serviços financeiros têm CAC menor que as de marketplace",
+  "visual": [
+   "colunas",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Colunas de CAC com caixa tracejada destacando o grupo de fintechs e seta curva, mais equação visual Méliuz + cartão = oferta completa e foto de especialista com citação.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 31,
+  "purpose": "mercado-tam-demanda",
+  "message": "Crédito no Brasil é incipiente: lucro bancário dobra enquanto agências caem e Open Banking reduz barreiras",
+  "visual": [
+   "colunas",
+   "outro:esquema-open-banking"
+  ],
+  "layout_trick": "Colunas pareadas faturamento e-commerce x lucro bancário, e diagrama escuro cliente-banco com setas de juros antes e depois do Open Banking.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 32,
+  "purpose": "mercado-tam-demanda",
+  "message": "Número de fintechs no Brasil cresce 23% a.a. e a receita vem majoritariamente de crédito",
+  "visual": [
+   "colunas+linha",
+   "outro:colunas-100pc-empilhadas"
+  ],
+  "layout_trick": "Colunas com seta curva de CAGR à esquerda e 100% empilhadas por fintech (NII vs taxas) à direita, rosa para crédito.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 34,
+  "purpose": "kpis-operacionais",
+  "message": "Cartões solicitados ao Banco Pan crescem 68% ao trimestre, mas só 13% foram emitidos",
+  "visual": [
+   "colunas"
+  ],
+  "layout_trick": "Colunas crescentes em grafite com callout tracejado e etiqueta de CAGR; slide se repete 34-37 adicionando blocos à direita.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 35,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Unit economics do cartão co-branded: sem take rate sobre fatura, receita vem de cashback financiado pelo Pan",
+  "visual": [
+   "tabela",
+   "colunas"
+  ],
+  "layout_trick": "Mesmo gráfico do slide anterior reduzido à esquerda e tabela de take rate/cashback por faixa de fatura com colunas de receita líquida à direita.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 36,
+  "purpose": "pesquisa-primaria",
+  "message": "Pesquisa de campo no Banco Pan revela falhas de UX e atendimento para ativar o cartão",
+  "visual": [
+   "outro:mockup-celular",
+   "timeline-ligacoes"
+  ],
+  "layout_trick": "Mockup de celular ao lado de lista cronológica de ligações com horário e problema encontrado, transformando o teste de campo em evidência.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 38,
+  "purpose": "catalisadores",
+  "message": "Aquisições (Acesso Bank) e parceria com Captalys expandem o braço de serviços financeiros",
+  "visual": [
+   "outro:hub-radial",
+   "outro:stack-de-camadas"
+  ],
+  "layout_trick": "Logo Méliuz central com satélites das aquisições à esquerda; à direita bloco empilhado de camadas (know-how, software, operação) da Captalys fechando em barra azul-escura.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 40,
+  "purpose": "posicionamento-competitivo",
+  "message": "Nos calls de resultado, citações a cashback caem e as de serviços financeiros sobem",
+  "visual": [
+   "outro:linhas-cruzadas",
+   "tabela"
+  ],
+  "layout_trick": "Gráfico de linhas em X (cashback caindo, serviços financeiros subindo) com tabelas de frequência de palavras por trimestre e trecho de código Python como prova de método.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 42,
+  "purpose": "posicionamento-competitivo",
+  "message": "Ecossistema eleva o ARPU: peers com super app monetizam muito mais por usuário que o Méliuz",
+  "visual": [
+   "outro:colunas-espelhadas"
+  ],
+  "layout_trick": "Gráfico espelhado: ARPU em colunas para cima (grafite) e MAU em colunas para baixo (rosa) com logos no eixo central, mais mini-diagrama circular de alavancas.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 43,
+  "purpose": "posicionamento-competitivo",
+  "message": "Caso Tinkoff: ecossistema multiplica cross-sell e eleva ROE acima de 40%",
+  "visual": [
+   "outro:diagrama-radial",
+   "colunas+linha"
+  ],
+  "layout_trick": "Linhas de DAU/MAU vs % de clientes totais com seta de tendência, diagrama circular de produtos do Tinkoff e foto do CEO com citação ancorando a tese.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 45,
+  "purpose": "kpis-operacionais",
+  "message": "Engajamento é a ferramenta mais poderosa: downloads crescem 8% a.a. e coortes mais velhas geram mais GMV",
+  "visual": [
+   "colunas",
+   "outro:area-coortes"
+  ],
+  "layout_trick": "Colunas mensais de downloads com seta curva e CAGR, ao lado de área empilhada em degradê rosa por coorte (safra).",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 46,
+  "purpose": "kpis-operacionais",
+  "message": "Usuários acessam o app 11 vezes por mês, provando recorrência apesar de sessão curta",
+  "visual": [
+   "colunas",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Dois gráficos de colunas (sessões/mês e tempo por sessão) com caixa tracejada convertendo 10,3 min em 11 acessos de 53 seg.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 47,
+  "purpose": "pesquisa-primaria",
+  "message": "Análise de 2.100 tweets com machine learning: 86% dos sentimentos sobre o Méliuz são promotores",
+  "visual": [
+   "donut",
+   "outro:codigo-e-mockup"
+  ],
+  "layout_trick": "Código em painel escuro e mockup de celular com tweets ao lado de um donut com ícone do Twitter, mostrando o método junto do resultado.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 49,
+  "purpose": "posicionamento-competitivo",
+  "message": "Benchmark de UX: Méliuz tem nota 8,9 entre peers mas tempo longo para chegada do cartão",
+  "visual": [
+   "outro:barras-slider",
+   "outro:regua-escala"
+  ],
+  "layout_trick": "Escala 0-4 com logos posicionados e barras horizontais tipo slider por empresa na cor da marca; à direita sliders verticais de dias de entrega do cartão.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 51,
+  "purpose": "novo:app-antes-depois",
+  "message": "Novo app: app atual vs app proposto com foco em serviços financeiros integrados",
+  "visual": [
+   "outro:mockup-antes-depois"
+  ],
+  "layout_trick": "Painel escuro com mockup do app atual e três falhas numeradas, ao lado de alvo e mockup com '?' para o novo app, sugerindo a oportunidade.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 52,
+  "purpose": "mercado-tam-demanda",
+  "message": "Novo app une marketplace e serviços financeiros em +20 mi de contas",
+  "visual": [
+   "outro:venn-ecossistema"
+  ],
+  "layout_trick": "Dois círculos grandes (Marketplace rosa claro, Serviços Financeiros cinza) com sobreposição '+20 mi de contas' e ícones de produtos em volta, aberto como popup branco sobre o slide.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 54,
+  "purpose": "tese-pilares-divisor",
+  "message": "Valuation: como a tese se traduz em números",
+  "visual": [
+   "outro:divisor-secao"
+  ],
+  "layout_trick": "Mesmo divisor escuro de tese reaproveitado como abertura do bloco de valuation, com faixa rosa inferior de pergunta.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 55,
+  "purpose": "premissas-projecoes",
+  "message": "Cálculo de usuários ativos: base ajustada de 2,5 bi de GMV e 452 de ticket médio a 54% menos usuários que o reportado",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Três números grandes em barras cinzas à esquerda alimentam colunas de usuários reportados vs ajustados com linha de % ajustado e caixa tracejada de conclusão.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 56,
+  "purpose": "premissas-projecoes",
+  "message": "Receita projetada cresce 41% a.a. até 2025, puxada por serviços financeiros",
+  "visual": [
+   "colunas+linha",
+   "outro:painel-drilldown"
+  ],
+  "layout_trick": "Colunas empilhadas marketplace x serviços financeiros com seta curva de CAGR e painel rosa claro ao lado fazendo zoom na base de cartões; slide 57 troca o zoom para premissas de crédito.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 58,
+  "purpose": "premissas-projecoes",
+  "message": "Cashback fica para trás: take rate líquida cai enquanto serviços financeiros somam 80% da receita por usuário em 2025",
+  "visual": [
+   "colunas+linha",
+   "colunas"
+  ],
+  "layout_trick": "Colunas de GMV com linha descendente de take rate, e à direita colunas empilhadas de ARPU com legenda lateral de mix (rotativo, parcelado, interchange).",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 59,
+  "purpose": "valuation-dcf",
+  "message": "DCF de três estágios com WACC de 12,1% dá upside de 129% e preço-alvo R$9,70 no cenário base",
+  "visual": [
+   "bridge-cascata",
+   "tabela",
+   "outro:barra-composicao-valor"
+  ],
+  "layout_trick": "Cascata do WACC (risk-free + prêmios), barra horizontal de breakdown do fair value (4%/14%/82% perpetuidade) e tabela Bear/Base/Bull com premissas e upside.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 60,
+  "purpose": "valuation-multiplos",
+  "message": "Regressão Price/Sales x crescimento mostra Méliuz abaixo da reta, logo potencial de upside",
+  "visual": [
+   "outro:scatter-regressao",
+   "outro:regua-multiplos-com-logos",
+   "tabela"
+  ],
+  "layout_trick": "Scatter com reta de regressão e Méliuz destacado, ao lado de régua de múltiplos com logos e tabela de excesso de retorno e TIR.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 61,
+  "purpose": "riscos",
+  "message": "Riscos: três internos (BC, execução, mismatch cultural) e dois externos (CP78, competição)",
+  "visual": [
+   "matriz-riscos"
+  ],
+  "layout_trick": "Matriz 3x3 impacto x probabilidade com células rosa para internos e cinza para externos (RI/RE numerados) e legenda ao lado em fitas diagonais Riscos Internos/Externos.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 62,
+  "purpose": "tese-pilares-divisor",
+  "message": "Recomendação final de compra apoiada em três pilares: capital humano, serviços financeiros por drivers e ecossistema",
+  "visual": [
+   "pilares",
+   "outro:bloco-3d-rosa"
+  ],
+  "layout_trick": "Bloco 3D rosa à esquerda com três números ligados por linhas tracejadas a três parágrafos de tese numerados, fechando o deck.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 67,
+  "purpose": "kpis-operacionais",
+  "message": "Coortes: quanto mais tempo o cliente fica, mais gera GMV; retenção por recorrência é a meta-mãe",
+  "visual": [
+   "outro:area-coortes"
+  ],
+  "layout_trick": "Dois gráficos de área empilhada em degradê rosa por safra, com cabeçalhos grafite carregando a leitura de cada um.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 68,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Plataforma não é end-to-end: usuário sai para site parceiro, o que prejudica a retenção de dados",
+  "visual": [
+   "outro:mockup-sequencia"
+  ],
+  "layout_trick": "Três celulares em sequência com setas mostrando o fluxo Méliuz > ofertas > site da Amazon, com régua de chamada no topo.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 69,
+  "purpose": "kpis-operacionais",
+  "message": "Despesas com cashback crescem 13,4% a.a. e consomem de 38% a 57% da receita",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Colunas de despesa por trimestre com linha rosa de % da receita e etiqueta de CAGR no canto.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 71,
+  "purpose": "riscos",
+  "message": "SWOT: forças e fraquezas do Méliuz resumidas em quadrantes em torno do logo",
+  "visual": [
+   "outro:swot-4-quadrantes"
+  ],
+  "layout_trick": "Quatro cartões cinza com fitas diagonais rosa/cinza (Forças, Fraquezas, Ameaças, Oportunidades) e logo M circular no centro como pivô.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 72,
+  "purpose": "posicionamento-competitivo",
+  "message": "Receita do Méliuz é concentrada: 63% de um só parceiro, similar ao e-commerce brasileiro",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Donut com logos de varejistas colocados ao lado das fatias coloridas, versão Méliuz vs Brasil.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 73,
+  "purpose": "riscos",
+  "message": "Concentração de receita é risco: 53% em Magalu vs 30% no e-commerce brasileiro",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Dois donuts lado a lado em caixas tracejadas (Méliuz rosa x Brasil grafite), moldura rosa deslocada atrás e frase de conclusão embaixo.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 74,
+  "purpose": "posicionamento-competitivo",
+  "message": "Cinco Forças de Porter: pentágono radar com notas ponderadas",
+  "visual": [
+   "outro:radar-pentagono"
+  ],
+  "layout_trick": "Pentágono radar de camadas rosa com cinco etiquetas e caixas tracejadas ligadas por setas curvas, seguido de slides de tabela de critérios com notas.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 79,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Modelo ganha-ganha-ganha: usuários, Méliuz e parceiras trocam economia, dados e take rate",
+  "visual": [
+   "outro:ciclo-3-partes"
+  ],
+  "layout_trick": "Dois painéis rosa (Usuários, Empresas parceiras) com ícones e números (+3 mi, +900) conectados ao logo central por setas contornadas de ida e volta.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 80,
+  "purpose": "historico-empresa",
+  "message": "Parceiros de longo prazo desde 2011 formam base sólida do marketplace",
+  "visual": [
+   "timeline",
+   "outro:gantt-parceiros"
+  ],
+  "layout_trick": "Gantt de barras grafite por parceiro com logos à esquerda, mostrando ano de início e permanência.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 81,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Plug In responde por 40% da receita de marketplace e atua no momento da compra",
+  "visual": [
+   "outro:screenshots-anotados"
+  ],
+  "layout_trick": "Screenshots reais do plug-in em lojas parceiras com legenda de momento (entra no site, busca no Google) e dados em ícones +600k usuários.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 82,
+  "purpose": "historico-empresa",
+  "message": "Avenidas de crescimento: serviços financeiros, novas verticais e M&As, internacionalização",
+  "visual": [
+   "outro:blocos-3d-isometricos"
+  ],
+  "layout_trick": "Três blocos 3D de alturas e cores diferentes (rosa, grafite, cinza) à esquerda alinhados com três títulos de avenida à direita.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 83,
+  "purpose": "historico-empresa",
+  "message": "Funcionários crescem de 142 a 769 em 2021 com cinco aquisições em curso",
+  "visual": [
+   "colunas",
+   "outro:cartoes-aquisicoes"
+  ],
+  "layout_trick": "Colunas mensais de headcount com lista à direita de cartões por aquisição (logo, descrição, números).",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 84,
+  "purpose": "apendice",
+  "message": "Promobit: aquisição de R$13 mi com GMV de R$160 mi e 1 mi de usuários",
+  "visual": [
+   "icones+dado-curto",
+   "outro:mockup-celular"
+  ],
+  "layout_trick": "Faixa de logo da adquirida no topo, quatro métricas em linhas com losango rosa conectadas a mockup do site; mesmo template para Melhor Plano, Alter, Picodi, Acesso Bank (págs. 85-89).",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 88,
+  "purpose": "apendice",
+  "message": "Picodi está presente em 44 países e 9 foram priorizados",
+  "visual": [
+   "mapa",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Mapa-múndi com países coloridos em laranja da marca da adquirida e três números grandes (44, 19, 9) no canto inferior.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 89,
+  "purpose": "apendice",
+  "message": "Acesso Bank: R$324 mi pagos por TPV de R$1,3 bi e 5 mi de usuários, ampliando o TAM",
+  "visual": [
+   "icones+dado-curto",
+   "outro:foto-recortada"
+  ],
+  "layout_trick": "Faixa de logo da adquirida, métricas em losangos com tipografia colorida da marca e foto recortada do fundador com citação.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 90,
+  "purpose": "apendice",
+  "message": "Parceria com Captalys para crédito: estrutura de FIDC com cota mezanino de 72,5% da Captalys",
+  "visual": [
+   "colunas",
+   "outro:logos-parceria"
+  ],
+  "layout_trick": "Logos Captalys e Méliuz à esquerda com texto da estrutura, colunas de cartões pedidos embaixo e balão arredondado de conclusão.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 95,
+  "purpose": "esg",
+  "message": "ESG do Méliuz: pouca iniciativa ambiental, forte em social e governança",
+  "visual": [
+   "outro:letras-E-S-G"
+  ],
+  "layout_trick": "Arco com letras E, S e G em círculos e três blocos de texto rosa à direita, com a cor do rótulo marcando o nível de iniciativa.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 96,
+  "purpose": "pesquisa-primaria",
+  "message": "Nota Great Place to Work do Méliuz sobe de 87 para 91 em 2021",
+  "visual": [
+   "outro:linha-suave"
+  ],
+  "layout_trick": "Linha curva com pontos numerados e coluna 2021 sombreada em rosa claro como destaque do ano atual.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 97,
+  "purpose": "kpis-operacionais",
+  "message": "Prévia operacional 3T21: 30 mil contas abertas por dia útil, GMV LTM e TPV crescem",
+  "visual": [
+   "colunas+linha",
+   "colunas"
+  ],
+  "layout_trick": "Quatro mini-gráficos em grade 2x2 com bullets em seta rosa explicando cada um, último período em rosa.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 99,
+  "purpose": "industry-overview",
+  "message": "Setor bancário brasileiro tem ROE acima da média global e alta concentração (RC-5 de 82%)",
+  "visual": [
+   "colunas+linha",
+   "colunas"
+  ],
+  "layout_trick": "Duas linhas ROE Brasil x média global à esquerda e colunas de concentração por país com Brasil à esquerda em rosa.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 100,
+  "purpose": "mercado-tam-demanda",
+  "message": "Penetração de cartão de crédito no Brasil é baixa e correlacionada com bancarização",
+  "visual": [
+   "outro:scatter-regressao",
+   "colunas"
+  ],
+  "layout_trick": "Scatter de penetração de cartão x bancarização com R² e países rotulados, ao lado de colunas com bandeiras no eixo.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 106,
+  "purpose": "industry-overview",
+  "message": "71% das agências bancárias pertencem aos 4 maiores players, concentradas no Sudeste",
+  "visual": [
+   "mapa",
+   "tabela"
+  ],
+  "layout_trick": "Mapa do Brasil em escala de cinza por % de agências e tabela grafite de distribuição por banco e região, dados quantitativos sem cor de acento.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 111,
+  "purpose": "mercado-tam-demanda",
+  "message": "Mercado endereçável Anbima: indústria de investimento de R$3,7 tri",
+  "visual": [
+   "colunas"
+  ],
+  "layout_trick": "Colunas empilhadas em tons de cinza por segmento com linha preta de total e rótulo de valor acima.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 112,
+  "purpose": "posicionamento-competitivo",
+  "message": "Análise competitiva de produtos: matriz de ofertas de Tinkoff, Mercado Livre, Méliuz e fintechs",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Matriz de check marks por empresa x produto com linhas alternadas cinza, formato enxuto de leitura rápida de lacunas.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 113,
+  "purpose": "mercado-tam-demanda",
+  "message": "Google Trends: interesse por cashback aumentou e quase ultrapassa o de e-commerce",
+  "visual": [
+   "outro:linhas-google-trends"
+  ],
+  "layout_trick": "Duas linhas (cashback rosa, e-commerce grafite) com caixa tracejada lateral e logo Google Trends na fonte.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 114,
+  "purpose": "posicionamento-competitivo",
+  "message": "Transações internacionais do setor: PayPal+Honey e Rakuten mostram potencial de múltiplo de receita",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Dois blocos com logos conectados por '+' e métricas (USD 4 bn, 40x) abaixo, caixa cinza de explicação à direita.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 115,
+  "purpose": "posicionamento-competitivo",
+  "message": "NPS: Méliuz tem nota 86, atrás de Inter e Nubank mas acima dos bancos tradicionais",
+  "visual": [
+   "outro:sliders-verticais"
+  ],
+  "layout_trick": "Barras verticais finas tipo slider na cor de cada marca com logo e nota acima, uma linha pontilhada marcando a média.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 117,
+  "purpose": "catalisadores",
+  "message": "Banco Pan compra Mosaico para construir ecossistema com marketplaces e comparador de cashback",
+  "visual": [
+   "outro:diagrama-circular"
+  ],
+  "layout_trick": "Dois lados (Pan e Mosaico) listando ativos, unidos por ciclo circular com Banking no centro e números 12 mi + 22 mi = 34 mi.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 119,
+  "purpose": "posicionamento-competitivo",
+  "message": "Ecossistemas de referência: Tinkoff e Kaspi mostram que o modelo funciona",
+  "visual": [
+   "outro:duas-colunas-case"
+  ],
+  "layout_trick": "Dois cabeçalhos cinza com logo (Tinkoff, Kaspi) e blocos de dados e gráfico embaixo, citação do CEO ancorando.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 120,
+  "purpose": "posicionamento-competitivo",
+  "message": "Comparando ecossistemas: matriz de bolinhas coloridas por produto e peer, com total",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Matriz de pontos na cor de cada marca em vez de checks, com linha de total na base e logos no cabeçalho.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 123,
+  "purpose": "mercado-tam-demanda",
+  "message": "Market share por visitas mensais: Méliuz perde para Pelando e fica com 32%",
+  "visual": [
+   "donut",
+   "tabela"
+  ],
+  "layout_trick": "Donut grande com logo de cada player em volta e centro com 10,06 mi de visitas, mais tabela de share ao lado.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 124,
+  "purpose": "pesquisa-primaria",
+  "message": "Pesquisa com clientes do Cartão Méliuz: 33% usam como primeiro cartão, motivo é cashback",
+  "visual": [
+   "outro:balões-de-chat",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Balões de conversa reais com avatar e ícones de assuntos mais mencionados embaixo, evidência qualitativa em estilo de mensagens.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 125,
+  "purpose": "posicionamento-competitivo",
+  "message": "O vencedor não leva tudo: setor financeiro é gigante e pode ser rentável para vários players",
+  "visual": [
+   "outro:diagrama-radial",
+   "colunas"
+  ],
+  "layout_trick": "Dois diagramas radiais (Tinkoff, Sber) em fundo escuro e colunas 100% empilhadas de share de cartão por ano embaixo.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 127,
+  "purpose": "sensibilidade",
+  "message": "Sensibilização do WACC x g: upside de 82% mantido na maioria dos cenários",
+  "visual": [
+   "heatmap-sensibilidade",
+   "tabela"
+  ],
+  "layout_trick": "Matriz WACC x g em verde-vermelho com tabela Bear/Base/Bull de preço-alvo e upside na lateral direita.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 143,
+  "purpose": "valuation-multiplos",
+  "message": "Múltiplos P/E e Price/Sales 2022E de peers nacionais e globais colocam Méliuz em faixa baixa",
+  "visual": [
+   "outro:regua-multiplos-com-logos"
+  ],
+  "layout_trick": "Duas réguas horizontais com pontos coloridos e logo abaixo de cada empresa com o múltiplo acima, ordenadas do menor ao maior.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 144,
+  "purpose": "valuation-multiplos",
+  "message": "Breakdown do Price to Sales: valuation por cliente x ARPU indica Méliuz com ARPU baixo e potencial",
+  "visual": [
+   "outro:colunas-espelhadas",
+   "tabela"
+  ],
+  "layout_trick": "Tabela de market cap/cliente e ARPU à esquerda e colunas espelhadas (Mkt Cap/cliente para cima, ARPU para baixo) com caixas tracejadas rosa.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 145,
+  "purpose": "sensibilidade",
+  "message": "Mercado endereçável do marketplace: dois heatmaps de revenue pool por penetração e take rate",
+  "visual": [
+   "heatmap-sensibilidade",
+   "tabela"
+  ],
+  "layout_trick": "Tabela de TAM à esquerda e dois heatmaps empilhados à direita (penetração x afiliados e take rate x afiliados) com célula base circulada.",
+  "quality": 2
+ },
+ {
+  "deck": "Meliuz",
+  "page": 146,
+  "purpose": "valuation-multiplos",
+  "message": "Best Price to Sales no Bloomberg mostra consenso de múltiplo ao longo do tempo",
+  "visual": [
+   "outro:linhas-multiplo-historico"
+  ],
+  "layout_trick": "Duas linhas históricas (Méliuz rosa e peer grafite) com eixo diário e legenda de método.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 147,
+  "purpose": "cenarios",
+  "message": "Simulação de Monte Carlo com 10.000 trajetórias: target de R$8,05 com upside de 89%",
+  "visual": [
+   "outro:monte-carlo",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Gráfico denso de trajetórias coloridas com três caixas tracejadas de racional e resultado em dois cards (preço e upside) como remate.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 149,
+  "purpose": "valuation-dcf",
+  "message": "Racional do Three Stage Model: crescimento alto, transição e estável, segundo Damodaran",
+  "visual": [
+   "outro:tres-esquemas-estagios"
+  ],
+  "layout_trick": "Três mini-gráficos de fases com cards numerados de CAGR (40%, 20%, 8%) e foto do autor com citação como âncora de autoridade.",
+  "quality": 3
+ },
+ {
+  "deck": "Meliuz",
+  "page": 126,
+  "purpose": "apendice",
+  "message": "DCF completo do Méliuz em tabela",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Modelo Excel colado inteiro com faixa vermelha de título, útil como exemplo de anexo de modelo.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 142,
+  "purpose": "valuation-multiplos",
+  "message": "Sum of the parts: Marketplace a 0,3x GMV e Serviços Financeiros a 14,3x chegam ao preço-alvo R$12,1",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Quadro SOTP com faixas de seção (Parts, NPV, Outputs) e células amarelas de premissa editável.",
+  "quality": 1
+ },
+ {
+  "deck": "Meliuz",
+  "page": 65,
+  "purpose": "apendice",
+  "message": "Sumário dos anexos por seção",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Índice em quatro colunas numeradas com estilo de barra de site, usado como mapa do apêndice.",
+  "quality": 1
+ }
+]

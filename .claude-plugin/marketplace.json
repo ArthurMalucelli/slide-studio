@@ -1,0 +1,11 @@
+{
+  "name": "slide-studio",
+  "owner": { "name": "Arthur Malucelli" },
+  "plugins": [
+    {
+      "name": "slide-studio",
+      "source": "./",
+      "description": "Equity-research slides: /ppt-researcher + /ppt-designer for any company and any master .pptx."
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+[
+ {
+  "deck": "Vibra",
+  "page": 1,
+  "purpose": "capa",
+  "message": "Private equity investment thesis on Vibra Energia (InFinance, May 2026), dark green brand cover with oversized logo-derived V shapes",
+  "visual": [
+   "outro:glifo-marca-gigante"
+  ],
+  "layout_trick": "Full-bleed black-to-green gradient with giant translucent brand glyph as background, small centered title block and team/partners footer",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 2,
+  "purpose": "recap",
+  "message": "Four-section index: Sector, Company, Investment Thesis, Structure & Returns",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Roman-numeral agenda lines separated by thin green hairlines over the glyph background",
+  "quality": 1
+ },
+ {
+  "deck": "Vibra",
+  "page": 3,
+  "purpose": "industry-overview",
+  "message": "Brazilian fuel demand grows 4.2% CAGR, diesel-heavy and structurally high despite electrification; distribution is a Petrobras-supplied oligopoly",
+  "visual": [
+   "colunas+linha",
+   "funil-piramide",
+   "tabela"
+  ],
+  "layout_trick": "Left stacked bars of volume by product with CAGR callout, right a 3-step supply chain strip with logos above a 100% stacked market-share bar by distributor",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 4,
+  "purpose": "business-overview",
+  "message": "Vibra at a glance: Brazil's largest fuel distributor with Fuel, Lubricants and Energy Solutions segments",
+  "visual": [
+   "tabela",
+   "colunas+linha",
+   "pilares"
+  ],
+  "layout_trick": "Dense one-pager: text profile + shareholder boxes + key stats table on the left, three segment arcs in the lower left, revenue and margin charts on the right; each section has gray subtitle explaining the chart",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 5,
+  "purpose": "posicionamento-competitivo",
+  "message": "Vibra's logistics scale (Petrobras supply, 2x the distribution centers) is an advantage, but ROIC has declined vs Ipiranga",
+  "visual": [
+   "outro:scatter-logos",
+   "colunas+linha"
+  ],
+  "layout_trick": "Scatter with regression line and R2 plus brand logos as bubbles, paired with ROIC line chart having shaded gap area between competitors",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 6,
+  "purpose": "historico-empresa",
+  "message": "Frequent CEO changes produced inconsistent strategy and non-core deals, culminating in the overpaid Comerc acquisition",
+  "visual": [
+   "timeline",
+   "tabela"
+  ],
+  "layout_trick": "CEO timeline strip on top with transaction call-out cards, price chart with event annotations, M&A comps table on the right",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 7,
+  "purpose": "tese-pilares-divisor",
+  "message": "Investment thesis in three pillars: divest Comerc, acquire Moove for a lubricants champion, unlock credit to capture share",
+  "visual": [
+   "pilares",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Dark divider with three circled roman numerals in a staggered diagonal; active pillar glows green and the other two are dimmed, repeated as a section tracker across the deck",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 9,
+  "purpose": "business-overview",
+  "message": "Comerc at a glance: diversified energy platform (trading, centralized and distributed generation) with weak EBITDA",
+  "visual": [
+   "tabela",
+   "colunas+linha",
+   "pilares"
+  ],
+  "layout_trick": "Left profile card with transaction details and valuation table, quarterly stacked EBITDA bars by segment, segment arcs with margin lines",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 10,
+  "purpose": "kpis-operacionais",
+  "message": "Comerc underperforms: curtailment drives solar and wind capacity-factor losses, leverage rises as EBITDA stalls",
+  "visual": [
+   "colunas+linha",
+   "tabela"
+  ],
+  "layout_trick": "Capacity-factor lines with curved annotation on curtailment stress, debt vs EBITDA bars comparing 6.2x consolidated vs ex-Comerc, small table with green highlighted margin loss",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 11,
+  "purpose": "valuation-multiplos",
+  "message": "Vibra's EV/EBITDA premium to Ultrapar turned into a discount after the Comerc acquisition; de-rating is idiosyncratic",
+  "visual": [
+   "colunas+linha",
+   "outro:area-spread"
+  ],
+  "layout_trick": "Spread line chart (VBBS vs UGPA3) with area fill below zero, three green header boxes explaining the phases and dated callouts on the line",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 13,
+  "purpose": "mercado-tam-demanda",
+  "message": "Distributed generation is shielded from curtailment and trades at a premium multiple vs centralized",
+  "visual": [
+   "colunas+linha",
+   "comps-barras"
+  ],
+  "layout_trick": "Solar capacity factor lines CG vs DG with shaded gap, tariff divergence chart with end labels, premium multiple bars below",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 14,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Fund-structured DG (FII) gives Comerc higher margins and a 0% tax pass-through, worth an 18.1% premium",
+  "visual": [
+   "tabela",
+   "comps-barras",
+   "outro:fluxo-antes-depois"
+  ],
+  "layout_trick": "Two-column comparison table of Remote Self-Consumption vs Shared Generation, horizontal margin bars vs peers, before/after structure flow with a circled premium stat",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 16,
+  "purpose": "business-overview",
+  "message": "EDF Renewables at a glance: global renewables leader and merger partner for Comerc's centralized generation",
+  "visual": [
+   "tabela",
+   "pilares",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Reusable company-profile layout: text card with ownership and valuation table, revenue bars, segment arcs and numbered 'Why X as partner' ovals",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 17,
+  "purpose": "mercado-tam-demanda",
+  "message": "Curtailment compresses renewable valuations to ~5x EBITDA, creating a consolidation opportunity",
+  "visual": [
+   "colunas+linha",
+   "mapa",
+   "tabela"
+  ],
+  "layout_trick": "Declining EV/EBITDA line with std-dev band, map with plants as dots, proforma portfolio mix table and three-box value levers",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 18,
+  "purpose": "premissas-projecoes",
+  "message": "PMSO reductions drive synergies worth ~R$2.9bn EBITDA and BRL 725mn NPV, with sensitivity to reduction levels",
+  "visual": [
+   "bridge-cascata",
+   "heatmap-sensibilidade",
+   "tabela"
+  ],
+  "layout_trick": "Area chart with-vs-without synergy lines and a circled EBITDA gain bubble, comps table of past M&A, green NPV equation block and sensitivity grid with highlighted base cell",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 20,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Lubricants is a higher-margin segment within Vibra, supported by a specialized supply chain and low price sensitivity for trucks",
+  "visual": [
+   "funil-piramide",
+   "tabela",
+   "comps-barras"
+  ],
+  "layout_trick": "Numbered 4-step supply chain with logos, truck monthly cost table with highlighted lubricant row (2% of cost), margin bars vs average dashed line",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 21,
+  "purpose": "mercado-tam-demanda",
+  "message": "Premium lubricants drive growth but Lubrax is mispositioned against Moove",
+  "visual": [
+   "colunas+linha",
+   "outro:matriz-2x2-logos"
+  ],
+  "layout_trick": "Stacked bars of premium share growth with rate callouts plus 2x2 bubble map of brands by premium vs conventional share with dashed quadrants",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 23,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Vibra's 7,400 stations plus Moove's platform create channel synergies and a premium pricing uplift",
+  "visual": [
+   "mapa",
+   "tabela"
+  ],
+  "layout_trick": "Two header-bar columns (top-line vs cost) over a Brazil dot map, assumption tables and a bold incremental revenue row",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 25,
+  "purpose": "valuation-multiplos",
+  "message": "Comerc deconsolidation reopens a window to buy Moove without breaching leverage limits",
+  "visual": [
+   "outro:scatter-faixa-alvo"
+  ],
+  "layout_trick": "Leverage vs acquisition multiple scatter with dashed ellipses for each offer and shaded target-range band, news clipping and synergy stats header",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 26,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "PE partnership with bridge debt funds Moove at 3.7x leverage, within the limit",
+  "visual": [
+   "bridge-cascata",
+   "organograma"
+  ],
+  "layout_trick": "Funding stacked bar (debt vs cash vs equity), structure flow diagram, formula boxes with circled result",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 27,
+  "purpose": "posicionamento-competitivo",
+  "message": "Lubrax plus Moove equals a national lubricants leader (NewCo), covering segments each lacks",
+  "visual": [
+   "tabela",
+   "mapa",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "A + B = C layout with checklist dot matrix per segment and bubble stats over Brazil map for each entity",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 29,
+  "purpose": "riscos",
+  "message": "'Carbono Oculto' operation tightens credit to gas stations, which carry 2.5x structural leverage",
+  "visual": [
+   "tabela",
+   "outro:foto-recorte-imprensa"
+  ],
+  "layout_trick": "Two-panel: flagged vs white-flag comparison table with illustration and press photo, bars of working-capital days",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 30,
+  "purpose": "catalisadores",
+  "message": "Vibra as a credit enabler for branded stations unlocks incremental station openings above consensus",
+  "visual": [
+   "outro:fluxo-antes-depois",
+   "heatmap-sensibilidade"
+  ],
+  "layout_trick": "Before/after flow diagram with numbered steps, consensus vs incremental bars and a share-of-capture sensitivity grid with highlighted base cell",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 31,
+  "purpose": "apendice",
+  "message": "Structure step 1: PE fund entry via block trade and cash at a premium, with pre/post cap tables",
+  "visual": [
+   "organograma",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Dark slide with left step tracker rail, glowing numbered header, pre vs post org charts and a KPI strip of big green numbers",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 32,
+  "purpose": "management-governanca-estrutura",
+  "message": "New shareholder block governance: board seats, pre vs post agreement and key articles",
+  "visual": [
+   "organograma",
+   "outro:mesa-conselho"
+  ],
+  "layout_trick": "Boardroom oval table drawing showing seat allocation by shareholder, with article highlights panel",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 33,
+  "purpose": "apendice",
+  "message": "Comerc spin-off of DG to a FII as first step, with transaction structure diagram",
+  "visual": [
+   "organograma"
+  ],
+  "layout_trick": "Org chart with highlighted target boxes on dark background, KPI numbers strip on left",
+  "quality": 1
+ },
+ {
+  "deck": "Vibra",
+  "page": 37,
+  "purpose": "recomendacao-exec-summary",
+  "message": "Transaction structure summary: a staged deal funds Vibra's transformation, six steps ending in the final structure",
+  "visual": [
+   "pilares",
+   "organograma",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Six numbered green-bordered columns with big stat per step, chevrons between them and final org chart, key assumptions checklist below",
+  "quality": 3
+ },
+ {
+  "deck": "Vibra",
+  "page": 38,
+  "purpose": "valuation-multiplos",
+  "message": "Comerc deconsolidation lifts ROIC and re-rates multiples; the Moove deal is accretive to EPS",
+  "visual": [
+   "outro:scatter-logos",
+   "colunas+linha"
+  ],
+  "layout_trick": "Left scatter of EV/EBITDA vs ROIC with logo markers and arrow to future position, right EPS bars with accretion row below",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 39,
+  "purpose": "valuation-dcf",
+  "message": "Exit in 2031 to a global player yields 28.5% IRR and 2.8x MOIC",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Exit-year matrix table with highlighted 2031 row and IRR/MOIC columns, side panel with exit routes, news snippets and precedent deal comps",
+  "quality": 2
+ },
+ {
+  "deck": "Vibra",
+  "page": 40,
+  "purpose": "cenarios",
+  "message": "Bear/base/bull deal returns: 22.9%/28.5%/33.2% IRR, 2.3x/2.8x/3.2x MOIC with value-creation bridge",
+  "visual": [
+   "bridge-cascata",
+   "tabela"
+  ],
+  "layout_trick": "Waterfall of IRR contributions on the left and three scenario columns with headline IRR/MOIC and range bars for exit assumptions",
+  "quality": 3
+ }
+]

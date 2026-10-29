@@ -1,0 +1,5 @@
+# Padrão visual: outro:foto-analista-citacao (3 slides)
+
+- `../prints/RedeDOr_p015.jpg` (★★) "High bargain power with suppliers: materials/medicine share of COGS falls with scale." · visual: colunas+linha, outro:foto-analista-citacao · propósito: posicionamento-competitivo · truque: Photo of sell-side analyst with direct quote in a grey card used as qualitative proof beside the margin line chart.
+- `../prints/RedeDOr_p051.jpg` (★★) "SulAmerica acquisition (R$13bn): synergies partly explored, ROIC of both companies converge after the deal." · visual: outro:screenshot-noticia, outro:foto-analista-citacao, colunas+linha · propósito: apendice · truque: Headline screenshot + dashed 'R$13 Billion / 63% of SULA 2021 revenue' stat boxes + analyst quote card, followed by a ROIC before/after line.
+- `../prints/RedeDOr_p058.jpg` (★★) "EBITDA margin is flat despite supplier bargain power because expansion costs weigh." · visual: colunas+linha, outro:foto-analista-citacao · propósito: riscos · truque: Tall bars with a dashed box on 2023 and a grey wedge expanding into an analyst quote card with video-call photo.

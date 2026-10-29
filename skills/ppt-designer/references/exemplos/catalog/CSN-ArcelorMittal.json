@@ -1,0 +1,343 @@
+[
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 1,
+  "purpose": "capa",
+  "message": "Project Talos cover: ArcelorMittal x CSN co-branded, credit/M&A pitch on divestment of CSN assets",
+  "visual": [
+   "capa"
+  ],
+  "layout_trick": "Black cover with blue-to-red light-streak art and dual logos centered; team names bottom-left in tiny type",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 2,
+  "purpose": "novo:agenda",
+  "message": "Four-section agenda: industry, CSN, AM and transaction rationale, debt",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Roman-numeral circled rows separated by thin rules on dark navy; same numerals reused in footer breadcrumb",
+  "quality": 1
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 3,
+  "purpose": "industry-overview",
+  "message": "Steel value chain runs from iron ore to end-use, with construction and autos as largest demand sectors",
+  "visual": [
+   "3d-isometrico"
+  ],
+  "layout_trick": "Isometric 3D illustration of the value chain with numbered nodes (1-4) paired with a 100% stacked column of consumption by sector",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 4,
+  "purpose": "industry-overview",
+  "message": "Brazilian steel is flat-heavy and Chinese import penetration is rising, hitting CSN's flats market",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Four-panel slide: stacked horizontal bars, import-penetration line, and a peer table with the CSN row boxed in a dashed highlight",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 5,
+  "purpose": "business-overview",
+  "message": "CSN is a diversified group (steel 46%, mining 32%, cement 10%) whose EBITDA concentrates in mining",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Left bordered at-a-glance card (description, shareholder mini-chart, key financials table) beside a network graphic and a revenue treemap",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 6,
+  "purpose": "business-overview",
+  "message": "CSN's physical footprint: mining anchors profitability while steel and cement dilute margins",
+  "visual": [
+   "mapa"
+  ],
+  "layout_trick": "Brazil map with plant pins and capacity callouts, three business cards underneath, and a 100% stacked EBITDA mix chart on the right",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 7,
+  "purpose": "kpis-operacionais",
+  "message": "Mining generates the EBITDA and FCF that fund CSN while the ex-mining leverage deteriorates",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "EBITDA by segment columns with a margin line, plus FCF stacked bars and a leverage area chart; a callout box annotates the 2025 anomaly",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 8,
+  "purpose": "industry-overview",
+  "message": "Iron ore price normalization and Chinese exports compressed CSN steel margins below the cycle average",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Iron ore area, margin line and dashed average, with three grey shaded vertical bands labeled with macro-cause callouts",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 9,
+  "purpose": "tese-pilares-divisor",
+  "message": "Deal rationale pillar I: CSN's deleveraging imperative opens a window for asset divestment",
+  "visual": [
+   "pilares"
+  ],
+  "layout_trick": "Section-divider that repeats the same pillar list on each divider and dims inactive items to show progress",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 11,
+  "purpose": "financials-historicos",
+  "message": "Aggressive M&A and dividends lifted CSN's leverage; adjustments push adjusted net debt well above reported",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Capex/acquisitions/dividends stacked bars with a bridge from gross debt to adjusted debt (74.7bn) and a reported vs adjusted leverage area",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 12,
+  "purpose": "financials-historicos",
+  "message": "Iron-ore prepayments form a vicious financing cycle, absorbing growing operating cash flow",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Prepayment columns with a %-of-gross-debt line, highlighted band over 2023-25 and a contract table of foregone revenue",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 13,
+  "purpose": "kpis-operacionais",
+  "message": "After the 2021 boom, FCF and DSCR deteriorated, signaling constrained debt service capacity",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Large volatile FCF bars + conversion line next to two smaller stacked panels, with a blue shaded band on the stress years",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 14,
+  "purpose": "catalisadores",
+  "message": "Debt amortization forces divestment: CSN plans to sell up to R$18bn of assets",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Window-style press headline clipping (Valor) embedded as evidence next to an amortization stack with a shaded 2026-28 band",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 15,
+  "purpose": "football-field",
+  "message": "Standalone CSN Cimentos valuation yields limited unlock, so leverage stays high",
+  "visual": [
+   "football-field"
+  ],
+  "layout_trick": "Floating-bar football field with methodologies, EV range labels and an implied-multiple dashed callout, paired with a leverage area chart",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 16,
+  "purpose": "sensibilidade",
+  "message": "A partial fix: even post-cement sale, near-term amortization and DSCR below 1x persist",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Stacked amortization columns by lender type beside DSCR with and without cement (range as filled area)",
+  "quality": 1
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 17,
+  "purpose": "tese-pilares-divisor",
+  "message": "InFinance's three-step divestment plan: Europe, downstream Brazil steel, MRS logistics stake with USD values",
+  "visual": [
+   "funil-piramide"
+  ],
+  "layout_trick": "Three glass-like vertical cards joined by chevrons from a large CSN logo, each with a hero number (EV or stake value)",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 19,
+  "purpose": "business-overview",
+  "message": "ArcelorMittal at a glance: global steel leader with revenue spread across regions",
+  "visual": [
+   "mapa"
+  ],
+  "layout_trick": "Same at-a-glance card template as the target (CSN) page recolored red, with world map and revenue treemap",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 20,
+  "purpose": "catalisadores",
+  "message": "Perfect timing: CSN stock is depressed and press reports it may sell up to 100% of its steel business",
+  "visual": [
+   "timeline"
+  ],
+  "layout_trick": "Long stock price line annotated with event labels (COVID, supercycle peak, import pressure) and a Valor news clip as a catalyst box",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 22,
+  "purpose": "posicionamento-competitivo",
+  "message": "AM Brazil outperforms peers on EBITDA/t, driven by scale and cost structure",
+  "visual": [
+   "comps-barras"
+  ],
+  "layout_trick": "Market share treemap plus EBITDA margin and EBITDA/t lines for CSN, AM and Usiminas with the gap shaded",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 23,
+  "purpose": "historico-empresa",
+  "message": "AM built its Brazilian footprint through serial M&A (Votorantim, CSP, Tuper, Tekno) and plans R$10bn more",
+  "visual": [
+   "mapa"
+  ],
+  "layout_trick": "Left vertical timeline of acquisitions with logos and arrows, Brazil map with plant dots, rationale text on the right",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 24,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "The Pecem acquisition is a playbook: EBITDA grew 29% post-deal from utilization ramp to 100%",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Ownership box (Vale/DX/POSCO) top-left, pre/post EBITDA bridge with a dashed synergy block, and a utilization line with the post-deal window shaded",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 25,
+  "purpose": "tese-pilares-divisor",
+  "message": "Deal rationale pillar II: AM is uniquely positioned and synergies justify the premium",
+  "visual": [
+   "pilares"
+  ],
+  "layout_trick": "Red-themed divider showing three numbered thesis items with progressive dimming",
+  "quality": 1
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 26,
+  "purpose": "posicionamento-competitivo",
+  "message": "Europe entry thesis: Lusosider's underutilization (64% to 85%) is fixed by AM's flat steel network",
+  "visual": [
+   "mapa"
+  ],
+  "layout_trick": "Three-asset tab bar highlighted by dashed outline for the active asset, Europe map with plants, and an arrow-based before/after utilization bar",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 27,
+  "purpose": "valuation-dcf",
+  "message": "European assets generate USD 205mn synergies NPV and 12.6% IRR across a sensitivity grid",
+  "visual": [
+   "heatmap-sensibilidade"
+  ],
+  "layout_trick": "Hexagonal KPI badges (NPV, IRRs) next to dense DCF tables and utilization x COGS sensitivity grids with base-case cell outlined",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 28,
+  "purpose": "valuation-dcf",
+  "message": "Araucaria adds finishing capacity for AM's slab surplus; synergy NPV is sensitive to SG&A and COGS reductions",
+  "visual": [
+   "heatmap-sensibilidade"
+  ],
+  "layout_trick": "Process flow diagram, plant capacity table with excess highlighted in red, and a red-shaded NPV sensitivity grid",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 29,
+  "purpose": "football-field",
+  "message": "Acquisition premium for Araucaria is supported by synergy capture versus standalone intrinsic value",
+  "visual": [
+   "football-field"
+  ],
+  "layout_trick": "Football field with offer line, plus pre-deal vs post-deal cash flow tables ending in a dark NPV/IRR banner",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 30,
+  "purpose": "valuation-dcf",
+  "message": "MRS stake secures logistics control; DCF and logistics savings sensitivity support the price",
+  "visual": [
+   "heatmap-sensibilidade"
+  ],
+  "layout_trick": "Map of MRS rail network, DCF table with PV FCFF row boxed, and savings sensitivity grid highlighted at the base case",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 31,
+  "purpose": "management-governanca-estrutura",
+  "message": "The MRS stake (7.6% to 13.7%) gives AM board influence without control",
+  "visual": [
+   "organograma"
+  ],
+  "layout_trick": "Ownership flow chart with logos and percentage arrows, pre-deal versus pro forma cap table, and a quote strip at the bottom",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 32,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Debt financing: EUR 1.5bn three-tranche EMTN at 3.4% blended cost funds the acquisition without cash",
+  "visual": [
+   "funil-piramide"
+  ],
+  "layout_trick": "Flow diagram of tranches with signature stamps at bottom, hero KPIs (rate, size, cost) and an amortization Gantt bar",
+  "quality": 2
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 36,
+  "purpose": "valuation-dcf",
+  "message": "Debt is the whole point: the EUR 1.5bn issuance adds USD 445mn incremental FCFE NPV",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "FCFE table with NPV rows boxed on the left and an EV-to-equity bridge on the right, ending in two big-number boxes",
+  "quality": 3
+ },
+ {
+  "deck": "CSN-ArcelorMittal",
+  "page": 37,
+  "purpose": "recomendacao-exec-summary",
+  "message": "Debt value creation: low-cost financing plus accretive acquisitions produce measurable value (USD 445mn with debt)",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Share price line chart with 52-week high callout, transaction step summary and a key stats box on a red gradient background",
+  "quality": 2
+ }
+]

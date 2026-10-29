@@ -1,0 +1,486 @@
+[
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 1,
+  "purpose": "capa",
+  "message": "ARC Partners pitch RBI for Constellation Challenge 2026",
+  "visual": [
+   "outro:foto-fundo-vermelha",
+   "lineup-imagens"
+  ],
+  "layout_trick": "Full-bleed photo of the brand signage under a diagonal red wedge carrying the team name, so the cover is branded without any logo wall.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 3,
+  "purpose": "recomendacao-exec-summary",
+  "message": "BUY: target USD 99.48 vs 73.75 current, 34.9% upside, 14.1% 5Y IRR",
+  "visual": [
+   "outro:big-number-banner",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Giant BUY! word on a translucent dark-red band over a darkened photo, with price / upside / target on one horizontal line connected by thin rules.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 4,
+  "purpose": "tese-pilares-divisor",
+  "message": "Three thesis pillars: house of brands, management, growth avenues",
+  "visual": [
+   "pilares"
+  ],
+  "layout_trick": "Each pillar is an outlined rounded bar with an icon on a vertical spine line, staggered in x; the divider is reused later with only the active pillar visible.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 6,
+  "purpose": "industry-overview",
+  "message": "Food service is non-discretionary: FAFH grows 5.8% CAGR and QSP is more resilient in crises",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Two charts under red sub-headline plus grey italic chart-title caption; red/orange CAGR chips as boxed callouts on the chart.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 2,
+  "purpose": "business-overview",
+  "message": "RBI is a four-brand QSR platform in 100+ countries with royalty-heavy revenue",
+  "visual": [
+   "icones+dado-curto",
+   "colunas+linha",
+   "outro:area-empilhada"
+  ],
+  "layout_trick": "Three side-by-side shaded panels each with a claim headline, a grey italic chart title and brand logos as chart axis labels.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 7,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Franchising overcomes restaurant-industry adversity: most operators fail but franchisor keeps recurring income",
+  "visual": [
+   "icones+dado-curto",
+   "colunas+linha"
+  ],
+  "layout_trick": "Two-column template: red bold claim, italic grey chart title, then a primary-research photo-quote card with name/title strip.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 8,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Refranchising BK to ~99% cut capital intensity 40x while cutting unit-failure risk",
+  "visual": [
+   "colunas+linha",
+   "bridge-cascata",
+   "outro:regressao-scatter"
+  ],
+  "layout_trick": "Founder photo with dark name bar next to a regression scatter; code/stats snippet pasted as small evidence badge.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 9,
+  "purpose": "historico-empresa",
+  "message": "RBI built a house of brands via 3G-led acquisitions (BK, Tims, Popeyes, Firehouse)",
+  "visual": [
+   "timeline",
+   "lineup-imagens"
+  ],
+  "layout_trick": "Line chart of system sales with annotated acquisition dates as callout labels; right column lists each brand logo + one-line fact + market share.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 10,
+  "purpose": "posicionamento-competitivo",
+  "message": "Burger King brand power is built on massive scale, flame grilling and customization versus Wendy's and McDonald's",
+  "visual": [
+   "pilares",
+   "colunas+linha",
+   "outro:scatter-engajamento"
+  ],
+  "layout_trick": "Red header bar with three-term equation (scale + flame + customization = awareness) feeding a brand-index line chart.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 11,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Tims vertical integration needs 15 years to match the structure cost",
+  "visual": [
+   "pilares",
+   "bridge-cascata",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Value-chain diagram (royalties, supply chain) with icon trio under a red title bar; cost waterfall quantifies moat as years-to-match.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 12,
+  "purpose": "posicionamento-competitivo",
+  "message": "Tims verticalization converts into a moat: higher margin and faster payback than Starbucks franchisees",
+  "visual": [
+   "tabela",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Tims vs Sbux head-to-head table with colored column headers (green vs red) next to a pull-quote from an interview.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 13,
+  "purpose": "posicionamento-competitivo",
+  "message": "Greenwald EPV vs asset value shows RBI's moat (EPV 27.8bn vs AV 7.8bn)",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Waterfall of asset value build-up with grey bars for components, orange for franchise gap, red for EPV; academic expert photo with title bar.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 16,
+  "purpose": "riscos",
+  "message": "Franchising downsides: misaligned incentives and operating leverage hit quality control",
+  "visual": [
+   "bridge-cascata",
+   "colunas+linha"
+  ],
+  "layout_trick": "Expert quote on left card with three photos; operating-leverage waterfall; bottom two-box 'X' graphic showing trade-off.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 18,
+  "purpose": "pesquisa-primaria",
+  "message": "Field research with 4 franchisees and 10 kitchens shows RBI's support starts before the store opens",
+  "visual": [
+   "timeline",
+   "lineup-imagens"
+  ],
+  "layout_trick": "Real field photos plus a three-step chevron process (pre-opening, training, ongoing) with numbered red icon bullets.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 19,
+  "purpose": "management-governanca-estrutura",
+  "message": "Management alignment (Doyle, Kobza) delivers franchisee profitability upside",
+  "visual": [
+   "lineup-imagens",
+   "colunas+linha"
+  ],
+  "layout_trick": "Executive portraits with black name strip and quotation, followed by a stock-price-under-CEO line with tenure shading.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 20,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "BK franchisee unit economics: 2.45mn investment, 16.8% IRR, 1.9x MOIC",
+  "visual": [
+   "icones+dado-curto",
+   "colunas+linha"
+  ],
+  "layout_trick": "Left icon list of unit assumptions in a rounded grey panel; right cash-flow columns with IRR/MOIC chip and ROE vs cost-of-equity line.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 21,
+  "purpose": "mercado-tam-demanda",
+  "message": "BK US footprint expanded from 5,677 to 7,086 units, driven by aligned franchisee interests",
+  "visual": [
+   "mapa",
+   "timeline"
+  ],
+  "layout_trick": "Two dot-maps of US store locations (2013 vs 2017) stacked with chevron between, with unit counts in rounded cards.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 22,
+  "purpose": "riscos",
+  "message": "Prior BK growth faded amid inflation, pandemic and lack of modernization",
+  "visual": [
+   "mapa",
+   "colunas+linha"
+  ],
+  "layout_trick": "2017 vs 2023 US store maps before/after plus equation boxes (Menu inflation + Pandemic + Modernization = Lower traffic).",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 23,
+  "purpose": "catalisadores",
+  "message": "Reclaim the Flame: 150mn advertising, 1,120 remodels, 600 Carrols remodels reignite traffic",
+  "visual": [
+   "pilares",
+   "colunas+linha"
+  ],
+  "layout_trick": "Three-card scheme header (Fuel / Royal Reset / Carrols) reused across slides, with the active card highlighted and others faded.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 24,
+  "purpose": "catalisadores",
+  "message": "Royal Reset modernization: 1,120 remodels with 14.7-26.5% sales uplift and rapid franchisee payback",
+  "visual": [
+   "heatmap-sensibilidade",
+   "pilares"
+  ],
+  "layout_trick": "Three grey boxed steps (Agreement, Remodel, Expansion) under a faded scheme header, payback heatmap by grade vs royalty rate.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 25,
+  "purpose": "catalisadores",
+  "message": "Reclaim the Flame is win-win: ROIC reaches 9.4-12.5% in bear/base/bull",
+  "visual": [
+   "pilares",
+   "colunas+linha"
+  ],
+  "layout_trick": "Bear/base/bull red chips with ROIC and uplift above a fan line chart that diverges toward 2030.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 26,
+  "purpose": "catalisadores",
+  "message": "Carrols acquisition at 6.6x EV/EBITDA yields USD 394mn NPV after refranchising",
+  "visual": [
+   "heatmap-sensibilidade",
+   "tabela",
+   "colunas+linha"
+  ],
+  "layout_trick": "Red-labelled step rows (Acquisition, Remodel, Refranchising) beside NOPAT chart and IRR sensitivity grid with base case boxed.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 28,
+  "purpose": "mercado-tam-demanda",
+  "message": "Large underpenetrated TAM: Canada 23.6bn, US&Canada 418bn, worldwide 996bn",
+  "visual": [
+   "outro:bolhas-escala",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Three numbered circles scaled by TAM with RBI share chip below each; subsequent slides fade two and spotlight one (Canada, US, Worldwide).",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 29,
+  "purpose": "mercado-tam-demanda",
+  "message": "Tims Canada trajectory: AUV maturation over unit growth despite population growth",
+  "visual": [
+   "outro:bolhas-escala",
+   "colunas+linha"
+  ],
+  "layout_trick": "Reuse of the TAM circles with Canada highlighted, others faded at low opacity, followed by units/AUV combo chart.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 30,
+  "purpose": "premissas-projecoes",
+  "message": "Pricing is not a sustainable SSS lever for Tims: elasticity 1.29 implies traffic loss",
+  "visual": [
+   "outro:arvore-de-drivers",
+   "colunas+linha"
+  ],
+  "layout_trick": "Revenue = AUV x Units driver tree with the lever under discussion in red and the rest in grey; elasticity bars and 1% price vs 1.29% traffic equation.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 32,
+  "purpose": "mercado-tam-demanda",
+  "message": "Canada offers unit growth: Tims 9.4 units per 100k vs 10.5 in 2014 while Starbucks lags",
+  "visual": [
+   "mapa",
+   "tabela",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Canadian dot map beneath a Python-code badge question; Tims vs Sbux white-space comparison with X between boxes.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 34,
+  "purpose": "posicionamento-competitivo",
+  "message": "Popeyes needs rebranding and new leadership to restore traffic and loyalty",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Leadership card: portrait, 12-years-RBI chip and arrow to turnaround expertise chip; interview quote with photo.",
+  "quality": 1
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 35,
+  "purpose": "mercado-tam-demanda",
+  "message": "Firehouse Subs consolidation: 1,407 US franchised units, CAGR 9.5% expected",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Two CAGR chips before/after with arrow, units-per-franchisee funnel chip (2.44 vs 577) and expert quote from the brand's marketing lead.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 38,
+  "purpose": "mercado-tam-demanda",
+  "message": "Proprietary scoring shows China as most attractive international destination",
+  "visual": [
+   "mapa",
+   "pilares"
+  ],
+  "layout_trick": "World choropleth heat map in red scale with numbered criteria list at left and code badge showing methodology.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 39,
+  "purpose": "catalisadores",
+  "message": "China JV with CPE: 350mn CAPEX, 223mn NPV vs 158mn price, 41.1% upside",
+  "visual": [
+   "bridge-cascata",
+   "timeline",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Why-it-failed red banner with three red words, then buy price to NPV chip pair with arrow and result.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 40,
+  "purpose": "catalisadores",
+  "message": "Big dream: internationalize all four brands, with BK at 125 units versus rivals",
+  "visual": [
+   "icones+dado-curto",
+   "colunas+linha"
+  ],
+  "layout_trick": "Founder portrait with quote, brand logo list with horizontal bars of today vs pre-RBI international presence.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 41,
+  "purpose": "tese-pilares-divisor",
+  "message": "Section divider: Valuation & Financials",
+  "visual": [
+   "outro:divider-foto"
+  ],
+  "layout_trick": "Photo band with the cover imagery tinted dark red and centered white title plus italic question as subtitle.",
+  "quality": 1
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 42,
+  "purpose": "premissas-projecoes",
+  "message": "Net restaurant growth assumptions per brand and region: 4.3% system CAGR",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Left assumptions card with brand logo + one-line growth driver per brand, right stacked column by operation with CAGR chip.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 43,
+  "purpose": "premissas-projecoes",
+  "message": "System-wide sales projections: 3.6% CAGR driven by SSS, NRG and store maturation",
+  "visual": [
+   "colunas+linha",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Same assumptions-card + stacked chart template as the prior slide, keeping the model walk consistent.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 44,
+  "purpose": "premissas-projecoes",
+  "message": "Margins: BK and Popeyes return to pre-acquisition levels; EBIT grows 6.5% CAGR",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Operating margin line chart for all brands next to EBIT columns with a CAGR chip; dashed labelled callout 'margin improvement from refranchising'.",
+  "quality": 2
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 45,
+  "purpose": "valuation-dcf",
+  "message": "DCF equity value 31.0bn gives 34.9% upside; target USD 99.5 at 6.5% WACC and 2.3% LTG",
+  "visual": [
+   "bridge-cascata",
+   "colunas+linha",
+   "tabela"
+  ],
+  "layout_trick": "FCFF columns with WACC line above an EV-to-equity waterfall; build-up table with target vs current price in a rounded card.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 46,
+  "purpose": "cenarios",
+  "message": "Bear/base/bull deliver IRR from -8.0% to 67.7%; base 34.9% upside with robust cushion over Ke",
+  "visual": [
+   "cenarios",
+   "heatmap-sensibilidade",
+   "tabela"
+  ],
+  "layout_trick": "Three scenario columns with assumption rows and icon (bear/target/bull) over upside bars; exit multiple vs EBITDA CAGR IRR heatmap with base boxed.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 47,
+  "purpose": "valuation-multiplos",
+  "message": "Relative valuation: RBI trades at a discount to peers (EV/EBITDA fwd) and below 1.12 std dev of its average",
+  "visual": [
+   "comps-barras",
+   "colunas+linha",
+   "outro:scatter-regressao"
+  ],
+  "layout_trick": "Historical multiple line vs 10Y Treasury plus peer scatter of EV/EBITDA vs franchised share with logos as points and RBI logo highlighted.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 48,
+  "purpose": "riscos",
+  "message": "Risk matrix: Reclaim the Flame and international growth drive largest target-price impact",
+  "visual": [
+   "matriz-riscos",
+   "tabela"
+  ],
+  "layout_trick": "Probability x impact matrix with B/MK/M coded boxes aligned to a risk table where each row shows description, meaning and Δ target price % in red.",
+  "quality": 3
+ },
+ {
+  "deck": "RestaurantBrandsInternational",
+  "page": 49,
+  "purpose": "recap",
+  "message": "BUY recap: three thesis pillars plus Risks to Consider on one closing slide",
+  "visual": [
+   "pilares"
+  ],
+  "layout_trick": "Four white rounded cards over a dark-red band across the cover photo with Roman-numeral red badges; fourth card for risks in italic title.",
+  "quality": 3
+ }
+]

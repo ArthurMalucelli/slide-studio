@@ -1,0 +1,828 @@
+[
+ {
+  "deck": "ABInBev",
+  "page": 1,
+  "purpose": "capa",
+  "message": "Polaris / Constellation Challenge 2022 cover for ABInBev with team names",
+  "visual": [
+   "outro:capa-diagonal-amarelo-cinza"
+  ],
+  "layout_trick": "Big diagonal yellow/charcoal wedge over a desaturated company-HQ photo with the logo in the yellow zone and team names bottom-left; the same wedge motif reused on every divider.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 2,
+  "purpose": "recomendacao-exec-summary",
+  "message": "BUY: current USD 60.10 vs target USD 83.12, IRR 16.8%, FCFE 36.8%, on three thesis pillars (People, Portfolio, Digitalization)",
+  "visual": [
+   "outro:rating-hero+pilares"
+  ],
+  "layout_trick": "Dark slide with a giant yellow BUY centred, price/target and IRR/FCFE as thin bracket-lines on the right, three pillar labels with connector dots on the left.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 3,
+  "purpose": "tese-pilares-divisor",
+  "message": "Three pillars: culture change, stronger portfolio, new channels/platform",
+  "visual": [
+   "pilares"
+  ],
+  "layout_trick": "Numbered I/II/III yellow dots with a thin leader line and a left bar bolding the claim; the same slide returns as a divider with the active pillar lit yellow and the others greyed.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 4,
+  "purpose": "business-overview",
+  "message": "AB InBev in a nutshell: revenue streams, competitive landscape, geographic footprint",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Three framed panels side by side (revenue bars, share donut, world map with volume area) with a yellow vertical side tab carrying the section title.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 5,
+  "purpose": "posicionamento-competitivo",
+  "message": "Largest brewer by share, with global share line and country concentration (China 27%, US 13%, Brazil 7%)",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Stacked area of market share by brewer left, dark bars by country right with ABI's slot highlighted by a yellow box.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 6,
+  "purpose": "posicionamento-competitivo",
+  "message": "Moat measured with Greenwald MVMS: 8.3% / 0.5% = 16.6 years of moat",
+  "visual": [
+   "outro:formula-hero+scatter"
+  ],
+  "layout_trick": "Expert photo with pull-quote, then a big yellow equation 8.3% ÷ 0.5% = 16.6 in a dashed box, scatter with a fitted curve alongside.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 7,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "ABI funds itself through negative working capital: 34 + 85 - 387 = (267)",
+  "visual": [
+   "outro:formula-wc+margem"
+  ],
+  "layout_trick": "A bargaining-power diagram flows into a yellow working-capital equation (receivables + inventory - payables) in a dashed box; EBIT margin and ROIC line charts beside.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 9,
+  "purpose": "management-governanca-estrutura",
+  "message": "Succession Brito to Doukeris: two CEO careers and the executive committee",
+  "visual": [
+   "timeline"
+  ],
+  "layout_trick": "Cut-out portraits on grey with two parallel career timelines per CEO and a dashed-box committee row.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 10,
+  "purpose": "historico-empresa",
+  "message": "M&A value creation: ABI added value in AB and Modelo but destroyed it in SABMiller",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Paired bars (premium paid vs cost-saving synergies) per deal with a green 'Value Added' zone and a red-tinted 'Value Destroyed' zone behind the bars.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 11,
+  "purpose": "historico-empresa",
+  "message": "SABMiller deal: USD 28.6bn paid against 23.5bn of synergies, with 17.3x to 13.7x EV/EBITDA on assets sold",
+  "visual": [
+   "bridge-cascata"
+  ],
+  "layout_trick": "Same deal chart reused with the SABMiller column tinted red, next to a descending waterfall of asset-sale multiples.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 13,
+  "purpose": "pesquisa-primaria",
+  "message": "Word-frequency analysis of CEO speeches shows a culture shift from brands to consumers/platform",
+  "visual": [
+   "outro:wordcloud+tabela"
+  ],
+  "layout_trick": "Python word cloud with the code screenshot underneath as proof, and a small table of word counts per CEO with the active CEO's row boxed.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 15,
+  "purpose": "pesquisa-primaria",
+  "message": "47 employees in 4 countries interviewed show culture is changing",
+  "visual": [
+   "outro:mosaico-videocalls+kpi-faixa"
+  ],
+  "layout_trick": "Grid of video-call screenshots with captions, closed by a full-width yellow strip with two huge numbers (47 employees, 04 countries).",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 16,
+  "purpose": "esg",
+  "message": "ABI leads peers on environmental ESG score (9.8 vs 7.5-9.8) using Harvard's ESG index",
+  "visual": [
+   "comps-barras"
+  ],
+  "layout_trick": "Peer bars with logos as x-axis and ABI in yellow, others charcoal; a three-position slider on top (E/S/G) shows which pillar is active, repeated across 3 slides.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 17,
+  "purpose": "esg",
+  "message": "Social ESG: ABI scores 10 and nationalities in HQ rise 48 to 64",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Same peer-bar left half plus right dark panel with a small bar series and a women-in-leadership line; slider moved to 'Social'.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 19,
+  "purpose": "esg",
+  "message": "Governance: executive pay is mostly variable and tied to results",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Peer bars left, then three tinted columns (ABI, Heineken, Carlsberg) comparing CEO/CFO fixed vs variable pay.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 20,
+  "purpose": "pesquisa-primaria",
+  "message": "Interview with 3G co-founder Lemman: vote of confidence in the new CEO",
+  "visual": [
+   "outro:entrevista-foto-quote"
+  ],
+  "layout_trick": "Large cut-out photo with caption, then three grey cards under a tree connector (New CEO / Ownership / Future) with yellow headers.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 22,
+  "purpose": "posicionamento-competitivo",
+  "message": "Portfolio of many brands diversifies revenue: ABI dependence on top 3 brands lower than peers",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Stacked 100% bars per company at left and a wall of brand logos on the right plus a table of Ambev vs Heineken volume.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 23,
+  "purpose": "mercado-tam-demanda",
+  "message": "Premium and super-premium categories have been gaining share, an affordable indulgence",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Yellow/black area chart of beer segment share over 50 years beside premium share bars by region with average line in a dashed panel.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 24,
+  "purpose": "posicionamento-competitivo",
+  "message": "Corona and Colorado brand equity: hero images with brand sentiment on Twitter",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Bottle photos in yellow-framed cards with arrow-banner header and a word cloud of tweets on the right.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 26,
+  "purpose": "mercado-tam-demanda",
+  "message": "Beyond Beer (RTD, seltzers, ciders) gained 2011 to 2021 in the US alcohol mix",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Two donuts 2011 vs 2021 linked by a yellow CAGR bracket, product images left, full-width yellow quote strip bottom.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 28,
+  "purpose": "posicionamento-competitivo",
+  "message": "Incrementality: brand archetypes (Explorer, Rebel, Lover) minimise cannibalisation",
+  "visual": [
+   "outro:mapa-percepcao"
+  ],
+  "layout_trick": "Dark text box with archetype to brand mapping at left and a perception map (budget/premium x refreshing/bodied) with beer names scattered at the right.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 30,
+  "purpose": "mercado-tam-demanda",
+  "message": "2008 Framework: price/mix beat inflation in past downturns, supporting margin expansion",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Paired bars of price/mix vs CPI by year, and a margin line chart with the 2008 trough annotated.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 32,
+  "purpose": "business-overview",
+  "message": "Zé Delivery at a glance: 44 mn orders, 80+ NPS, own tech, cold beer anywhere",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Hub-and-spoke circle with logo at centre and four yellow nodes carrying one short stat each, large thin ring at left.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 33,
+  "purpose": "pesquisa-primaria",
+  "message": "Field visits (27 supermarkets, 10+ neighbourhoods) show ABI physical channels are over-penetrated",
+  "visual": [
+   "mapa"
+  ],
+  "layout_trick": "Greyed São Paulo map with yellow heat blobs, two huge yellow numbers (27 / 10+), store photo on right.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 34,
+  "purpose": "kpis-operacionais",
+  "message": "Zé Delivery orders grew 1.5 mn to 20 mn per quarter (38% CQGR)",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Dark columns with a CQGR arrow tag and callout (44 mn orders), combined with a yellow DAU line on the right.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 37,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Zé Delivery partners get a 20% fixed mark-up and 4.7 mn active users as value proposition",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Grey ring '20% fixed mark-up' plus a yellow funnel arrow '+ 4.7 Mn active users' on the right.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 38,
+  "purpose": "pesquisa-primaria",
+  "message": "Mystery-shopping 50 orders on 3 platforms: Zé is faster and delivers colder beer",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Delivery-person photos grid, quote, and a small table (time, temperature, st. dev) with Zé row in dashed yellow-outlined frame.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 39,
+  "purpose": "posicionamento-competitivo",
+  "message": "Route-to-market barrier: peers need 48 months to build what Ambev already has; Zé fee 15.9% vs 28.3% Doordash",
+  "visual": [
+   "funil-piramide"
+  ],
+  "layout_trick": "Yellow funnel shape narrowing between 'Distribution' and 'Barrier for peers', turning into a comparison table on the right.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 40,
+  "purpose": "kpis-operacionais",
+  "message": "Zé MAU exploded to 4.62 mn (CAGR 438%) versus Rappi and iFood",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Series of three slides where the same line chart highlights one player at a time (others faded), with the criteria strip (scalability / captivity / service) on top.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 43,
+  "purpose": "posicionamento-competitivo",
+  "message": "Zé Delivery has the best app rating (5.0 vs 4.8 and 4.5)",
+  "visual": [
+   "outro:sliders-rating"
+  ],
+  "layout_trick": "Vertical slider-style bars per app in tinted cards (yellow for Zé, pink for competitors) paired with a market-share line.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 45,
+  "purpose": "business-overview",
+  "message": "BEES B2B platform: 20 bn GMV, 16 countries, 2.5 mn MAU, 78 mn orders",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Hub-and-spoke with a bee mascot in the centre and four KPIs around it; big arc at left.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 46,
+  "purpose": "mercado-tam-demanda",
+  "message": "Brazil B2B market of USD 475 bn with only 4.74 bn online: large headroom",
+  "visual": [
+   "outro:bolha+barras"
+  ],
+  "layout_trick": "Nested circles (total vs online B2B) next to e-commerce penetration bars by country with a dashed 'market consolidation' call-out.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 47,
+  "purpose": "posicionamento-competitivo",
+  "message": "BEES MAU is far ahead of Heineken's Heishop (2.5 mn vs 0.3 mn)",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Two matching column charts side by side with a CQGR arrow tag on each and a call-out box.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 48,
+  "purpose": "kpis-operacionais",
+  "message": "BEES GMV went from 3 bn to 20 bn in a year (orders 15 to 78 mn, ticket 200 to 256)",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Quarterly columns left and a mini FY20 vs FY21 table in yellow with multiplier tags (6.7x, 5.2x) between values.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 50,
+  "purpose": "pesquisa-primaria",
+  "message": "23 pub owners surveyed rate BEES 5.0 ease of use, 4.8 response, 4.1 service",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Photos of pub visits, horizontal 5-block rating bars per question, and a giant '23 Interviewed' strip.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 51,
+  "purpose": "pesquisa-primaria",
+  "message": "Chief BEES Officer interview: four areas to improve (D+1, route, time, sales)",
+  "visual": [
+   "funil-piramide"
+  ],
+  "layout_trick": "Concentric half-ring with 01 to 04 numbered items on the left, call photo and map on the right.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 53,
+  "purpose": "premissas-projecoes",
+  "message": "Volume projection by region 2018 to 2026E and revenue per hectolitre",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Stacked bar of volume by region with yellow for North America, total labels on top, line chart of revenue/hl alongside in a grey panel.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 54,
+  "purpose": "premissas-projecoes",
+  "message": "Revenue projection by region and EBITDA margin trajectory post-pandemic",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Stacked regional revenue columns and margin lines with end-point labels in black chips.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 55,
+  "purpose": "valuation-dcf",
+  "message": "Yes, we would be a partner: DCF to equity gives fair value 82.2 vs 60.1, 36.8% upside, 16.8% IRR",
+  "visual": [
+   "tabela",
+   "outro:anel-IRR"
+  ],
+  "layout_trick": "Left clean DCFE table with Ke/g/price/upside rows, Ke vs g sensitivity grid in yellow headers, a circular yellow ring for the IRR 16.8% and an exit P/E table; investor quote with photo bottom-right.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 56,
+  "purpose": "riscos",
+  "message": "Four thesis risks mapped by likelihood vs impact, with R1-R4 numbered and described on the right",
+  "visual": [
+   "matriz-riscos"
+  ],
+  "layout_trick": "3x3 grid with yellow squares labelled R1-R4 (intensity of yellow equals severity), and a legend list of numbered yellow dots with one-line descriptions.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 57,
+  "purpose": "catalisadores",
+  "message": "Keeping tabs: same risk matrix used to track three follow-up questions (culture, premium share, new geographies)",
+  "visual": [
+   "matriz-riscos"
+  ],
+  "layout_trick": "Re-uses the risk grid for continuity, but the right side becomes a dashed 'Following-up the investment' question list.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 59,
+  "purpose": "recap",
+  "message": "Presentation index grouped by the three theses and valuation",
+  "visual": [
+   "outro:indice-4-colunas"
+  ],
+  "layout_trick": "Dark slide with four columns of underlined links, thesis headers in yellow.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 63,
+  "purpose": "pesquisa-primaria",
+  "message": "Expert call with Aswath Damodaran (NYU) as primary research",
+  "visual": [
+   "outro:cartao-entrevista"
+  ],
+  "layout_trick": "Large cut-out portrait on grey band with video-call screenshot top-right, dark side tab; repeated for each interviewee.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 67,
+  "purpose": "pesquisa-primaria",
+  "message": "Collage of calls with employees and ex-employees",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Four tall screenshot walls placed as a staggered row over a grey strip.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 68,
+  "purpose": "pesquisa-primaria",
+  "message": "Supermarket field research photos",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Polaroid-style staggered photo collage over a grey strip with a big yellow caption block underneath (left blank).",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 73,
+  "purpose": "management-governanca-estrutura",
+  "message": "C-level leaders and their schools (Wharton, USP, LSE)",
+  "visual": [
+   "outro:losangulos-fotos"
+  ],
+  "layout_trick": "Four diamond-cropped portraits forming a diamond cluster with school logos on top and one-line bios on the right.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 79,
+  "purpose": "historico-empresa",
+  "message": "From 1240 Den Hoorn to ABInBev today: M&A timeline of the brewer",
+  "visual": [
+   "timeline"
+  ],
+  "layout_trick": "Horizontal yellow timeline with vertical ticks and brand logos above and below (pre/post merger), logos as the milestone markers.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 80,
+  "purpose": "business-overview",
+  "message": "Brands per region: North America, South America, EMEA, Middle America, APAC",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Six cells of bottle/can product shots under yellow-bar region labels.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 81,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "RMT transformation in four phases (design, pilot, rollout, sustain) over 48 months",
+  "visual": [
+   "timeline"
+  ],
+  "layout_trick": "Four dark phase headers over a yellow area-curve showing benefits vs effort rising, with action bullet lists below.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 82,
+  "purpose": "posicionamento-competitivo",
+  "message": "Ambev reaches far more points of sale at every distance than Kirin/KOF",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Clustered columns (Ambev yellow, others charcoal/grey) over distance bands from 10 to 300 km.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 83,
+  "purpose": "posicionamento-competitivo",
+  "message": "ABI holds 26.5% global share and leads LATAM with 63%",
+  "visual": [
+   "comps-barras"
+  ],
+  "layout_trick": "Regional share columns, share-over-time line with end label chip, and horizontal bars for top-4 peers with logos.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 86,
+  "purpose": "posicionamento-competitivo",
+  "message": "Zé Delivery vs iFood vs Rappi app interfaces side by side",
+  "visual": [
+   "lineup-imagens"
+  ],
+  "layout_trick": "Three phone mockups centred under a thin brace-line for the peer set.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 87,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Zé Delivery prices are lower than Rappi and iFood across beer SKUs",
+  "visual": [
+   "comps-barras"
+  ],
+  "layout_trick": "Grouped bars per SKU (yellow=Zé, grey=Rappi, black=iFood) with a dashed benefits list on the right.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 88,
+  "purpose": "mercado-tam-demanda",
+  "message": "Zé Delivery TAM: 100 mn orders, USD 819 bn revenue by FY25",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Embedded model table image on the left in a dashed frame, large numbered methodology steps and headline numbers on the right grey panel.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 92,
+  "purpose": "industry-overview",
+  "message": "Global food delivery is concentrated: top 3 hold 50-90% in US, China, Europe, S. America",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Four donuts in a 2x2 grid with the leader in dark and the second in yellow.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 94,
+  "purpose": "mercado-tam-demanda",
+  "message": "Food delivery projected to hit USD 225 bn by 2026E",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Columns plus a falling-line chart of stock performance with a yellow callout box.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 96,
+  "purpose": "industry-overview",
+  "message": "Food delivery players still burn cash: GMV vs net loss, orders per player",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Two vertically stacked ranked bar charts sharing a common x-axis of players, losses in yellow below the axis.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 98,
+  "purpose": "kpis-operacionais",
+  "message": "Cold beer is sold on-demand: Zé, Rappi, iFood orders and install-base",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Stacked 100% daily bars with a yellow base for Zé and date-slanted axis.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 101,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Direct-to-consumer in the US skips distributors and retailers",
+  "visual": [
+   "funil-piramide"
+  ],
+  "layout_trick": "Two value-chain icon flows (traditional vs DTC) with arrows beside a growth bar chart with CAGR bracket.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 104,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "BEES as the end-to-end B2B experience: digital comms, logistics, algorithmic selling",
+  "visual": [
+   "funil-piramide"
+  ],
+  "layout_trick": "A yellow funnel pyramid goes from phone/call/visit channels into the bee logo, with three function boxes below.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 105,
+  "purpose": "kpis-operacionais",
+  "message": "BEES adoption by country with downloads and revenue share",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Mock-up of web+phone interfaces at left, table with yellow header at right, bullet features below.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 107,
+  "purpose": "mercado-tam-demanda",
+  "message": "BEES is 2x ahead of Heineken 2025 target and GMV expected to hit 27 bn",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Three columns (Heineken 2021, target, ABI) with ABI in yellow plus an S-curve of GMV projection.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 109,
+  "purpose": "mercado-tam-demanda",
+  "message": "Beer market share by region 2011-2020: ABI gains in all six regions",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Six small multiples of stacked 100% bars with ABI at the bottom in yellow and share labelled at the ends.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 113,
+  "purpose": "mercado-tam-demanda",
+  "message": "Brazil beer market volume with Ambev holding 59% share",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Column chart left and a stacked 100% share bar right with logo labels directly in segments.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 120,
+  "purpose": "esg",
+  "message": "Countries where ABI uses renewable electricity",
+  "visual": [
+   "mapa"
+  ],
+  "layout_trick": "Full-width world map in yellow with countries filled, minimal text.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 121,
+  "purpose": "esg",
+  "message": "ESG strategy pillars: Environment, Social, Governance",
+  "visual": [
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Three tall yellow cards with line icons and bullet lists, wind turbine illustration crossing the slide.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 129,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "BEES can replicate Henry Schein's network effect for fragmented bar and restaurant suppliers",
+  "visual": [
+   "outro:analogia-diagrama"
+  ],
+  "layout_trick": "Yellow arrow from the bee mascot into a Henry Schein boxed diagram with supplier and demand icons.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 128,
+  "purpose": "industry-overview",
+  "message": "Kodak case: not seizing the opportunity led to decline; ABI should not repeat",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Demand-decline area with 'RAPID DECLINE' tag, two donuts compared (Kodak vs Fuji), conclusion in a framed yellow-bold box.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 130,
+  "purpose": "industry-overview",
+  "message": "Tobacco parallel: share shift from regular to better-for-you with margin expansion",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Two dual-axis charts with bars (EBIT per hl) and yellow line (% mix).",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 146,
+  "purpose": "financials-historicos",
+  "message": "Peer margin comparison: ABI highest margins vs Heineken, Carlsberg, Constellation",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Four small-multiple line charts (gross, EBIT, net margin) with end-point chips.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 149,
+  "purpose": "financials-historicos",
+  "message": "AB InBev revenue 1998-2020 grew from 4 to 56 bn",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Dark columns with black label chips above each bar, growth story with no axis.",
+  "quality": 2
+ },
+ {
+  "deck": "ABInBev",
+  "page": 150,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "COGS: aluminium and fixed costs 20% each, oil 14%, barley 14%",
+  "visual": [
+   "donut"
+  ],
+  "layout_trick": "Huge donut with direct labels in big type around the ring, highlighted slices in yellow.",
+  "quality": 3
+ },
+ {
+  "deck": "ABInBev",
+  "page": 151,
+  "purpose": "apendice",
+  "message": "CAP formulas: steady state value, future value creation",
+  "visual": [
+   "outro:formulas"
+  ],
+  "layout_trick": "Four equation lines centred, no decoration.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 152,
+  "purpose": "valuation-dcf",
+  "message": "Debt service and interest coverage improve through 2030",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Two column series side by side (yellow vs black) projecting the leverage path.",
+  "quality": 1
+ },
+ {
+  "deck": "ABInBev",
+  "page": 168,
+  "purpose": "premissas-projecoes",
+  "message": "Volume expectation: y-o-y volume change by region to 2026E",
+  "visual": [
+   "colunas+linha"
+  ],
+  "layout_trick": "Multi-line smooth chart by region converging to ~3% growth.",
+  "quality": 1
+ }
+]
