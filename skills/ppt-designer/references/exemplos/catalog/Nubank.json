@@ -5,7 +5,7 @@
   "purpose": "capa",
   "message": "Nubank, Challenge 2025.2 Group A: cover with purple brand overlay on a photo of the Nu building.",
   "visual": [
-   "outro:foto-full-bleed+overlay-diagonal"
+   "foto-capa"
   ],
   "layout_trick": "Brand-colour diagonal overlay over a full-bleed building photo with the giant 'nu' logo visible, centred title and underlined subtitle.",
   "quality": 2
@@ -16,10 +16,9 @@
   "purpose": "business-overview",
   "message": "Nubank at a glance: 100M+ clients, 63% customer CAGR, USD 11.5bn revenue and a five-engine ecosystem mix.",
   "visual": [
+   "colunas",
    "mapa",
-   "colunas+linha",
-   "donut",
-   "icones+dado-curto"
+   "donut"
   ],
   "layout_trick": "Three-panel 'at a glance': summary box with LatAm map, customer base bars with CAGR callout, and a donut-wheel of revenue streams with icons around a central logo.",
   "quality": 3
@@ -32,11 +31,10 @@
   "visual": [
    "colunas+linha",
    "donut",
-   "tabela",
    "icones+dado-curto"
   ],
   "layout_trick": "Dense 4-chart page with a right-hand rounded sidebar of age personas (icon + demand) and a dashed highlight box on the underserved bar.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -45,7 +43,7 @@
   "message": "BUY: low-cost model, high usage today with higher monetization tomorrow, LatAm as next compounding engine.",
   "visual": [
    "pilares",
-   "outro:foto-full-bleed+overlay-diagonal"
+   "foto-capa"
   ],
   "layout_trick": "Recommendation as a section divider: three thesis lines staggered along a dashed diagonal path with piggy-bank icons, and BUY in large type over the photo.",
   "quality": 3
@@ -57,23 +55,23 @@
   "message": "Divider reusing the thesis diagonal path, highlighting the first pillar.",
   "visual": [
    "pilares",
-   "outro:foto-full-bleed+overlay-diagonal"
+   "foto-capa"
   ],
   "layout_trick": "Same divider template re-used at each section start with the active pillar highlighted (bold) and others dimmed, acting as a progress marker.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
   "page": 6,
-  "purpose": "tese-pilares-divisor",
+  "purpose": "industry-overview",
   "message": "Nu emerges by serving customers incumbents excluded, and turns inclusion into profitability despite higher delinquency.",
   "visual": [
-   "colunas+linha",
-   "funil-piramide",
-   "icones+dado-curto"
+   "barras-horizontais",
+   "fluxo-processo",
+   "citacao-foto"
   ],
   "layout_trick": "Four-quadrant page: horizontal bars of client age mix, numbered 1-2-3 acquisition-engagement-monetization flow with icons, founder quote card with photo, NPL line vs industry.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -81,12 +79,12 @@
   "purpose": "management-governanca-estrutura",
   "message": "Vision of David Velez turned a risky model into a success via a world-class team and an asset-light model.",
   "visual": [
-   "timeline",
    "organograma",
-   "colunas+linha"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Founder photo plus career-logo chain (Morgan Stanley > Goldman > General Atlantic > Sequoia) and a pill-linked team cluster with headshots above fixed-assets and Basel charts.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -95,8 +93,8 @@
   "message": "A culture of clients, ownership and efficiency drives NPS and faster daily transactions than Bradesco.",
   "visual": [
    "pilares",
-   "colunas+linha",
-   "outro:comparacao-app-screens"
+   "screenshot-produto",
+   "linha"
   ],
   "layout_trick": "Left stack of four culture-value tags aligned to right-hand evidence; side-by-side phone UI step-flow showing PIX in 42s vs 1m17 with numbered screens.",
   "quality": 3
@@ -107,12 +105,11 @@
   "purpose": "management-governanca-estrutura",
   "message": "Equity incentive culture (SOPs, RSUs) and low turnover ensured continuity until profitability.",
   "visual": [
-   "tabela",
-   "colunas+linha",
-   "icones+dado-curto"
+   "colunas",
+   "pilares"
   ],
   "layout_trick": "Two rounded explainer cards (SOP vs RSU) with key terms, next to turnover bars and a net-income chart with a dashed annotation box.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -120,11 +117,11 @@
   "purpose": "kpis-operacionais",
   "message": "Efficiency starts at acquisition (CAC) and persists operationally: efficiency ratio and clients per employee vs Itau.",
   "visual": [
-   "colunas+linha",
-   "bridge-cascata"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Two stacked chart pairs with a lilac callout containing a numbered 'Itau would have to fire all employees + liquidate 44% of assets' equivalence.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -133,10 +130,10 @@
   "message": "Efficiency delivers industry-leading ROAE (28%) and a DuPont breakdown shows returns come from margin, not leverage.",
   "visual": [
    "comps-barras",
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "Horizontal ROAE ranking bar with Nubank highlighted, paired with ROAE/ROAA/leverage DuPont lines and an equation callout box.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -146,10 +143,10 @@
   "visual": [
    "mapa",
    "funil-piramide",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Brazil regional map with a funnel panel (173M > banked > no internet > no phone > TAM 18M) stepped in decreasing lilac shades, plus founder quote strip.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -157,11 +154,12 @@
   "purpose": "kpis-operacionais",
   "message": "Brand investment reduces opex ratio and makes Nu the most searched fintech with higher retention.",
   "visual": [
-   "colunas+linha",
-   "outro:google-trends-line"
+   "colunas",
+   "area",
+   "linha"
   ],
   "layout_trick": "Four evidence charts under one claim: marketing/revenue bars, Google Trends line, and churning bars/area comparing Nubank vs Inter vs PagBank.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -169,8 +167,8 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Brand drives early adoption and retention lifts ARPAC and LTV (463 USD, 57% CAGR).",
   "visual": [
-   "outro:cohort-curves",
-   "colunas+linha"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Cohort adoption fan of lines (products per client by tenure) shaded by vintage with a gradient legend, next to ARPAC-by-tenure bars with LTV callout.",
   "quality": 3
@@ -181,9 +179,8 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Lending is the central monetization engine, diversified across payroll, FGTS, private payroll and unsecured loans.",
   "visual": [
-   "colunas+linha",
-   "icones+dado-curto",
-   "tabela"
+   "barra-100",
+   "icones+dado-curto"
   ],
   "layout_trick": "100% stacked credit-mix bars with dashed highlight on the growing loan layers, beside a grey card list with icons per product (secured vs unsecured).",
   "quality": 2
@@ -194,11 +191,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "Banco Inter leads recent private payroll growth but with higher delinquency; Nu stays selective.",
   "visual": [
-   "colunas+linha",
-   "outro:cor-do-concorrente"
+   "colunas",
+   "area",
+   "linha"
   ],
   "layout_trick": "Competitor page recoloured in the rival's orange palette with its logo replacing the Nu logo, signalling a competitor-focused slide.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -206,8 +204,9 @@
   "purpose": "posicionamento-competitivo",
   "message": "Nu leads low-risk public payroll thanks to lower structural risk and cheaper rates.",
   "visual": [
-   "colunas+linha",
-   "comps-barras"
+   "linha",
+   "comps-barras",
+   "citacao-foto"
   ],
   "layout_trick": "Rate-ranking bar of public payroll across banks with Nubank first (highlighted) and CFO quote card with photo.",
   "quality": 2
@@ -219,11 +218,11 @@
   "message": "Nubank dominates unsecured credit via a proprietary AI engine, scaling safely with rising AUC.",
   "visual": [
    "colunas+linha",
-   "funil-piramide",
-   "outro:fluxo-processo"
+   "fluxo-processo",
+   "area"
   ],
   "layout_trick": "Vertical process flow (customer data > ML model > custom offer > feedback) with news-clipping evidence, and an AUC improvement area chart as proof.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -231,11 +230,12 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "In SME lending, NuPay creates a data-reinforcing flywheel that improves underwriting.",
   "visual": [
-   "outro:flywheel",
-   "colunas+linha"
+   "flywheel-ciclo",
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Circular flywheel diagram (more merchants > more data > better underwriting > more credit) with a TAM bubble (11 Bn USD) and dashed definition box.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -243,10 +243,10 @@
   "purpose": "recap",
   "message": "Next growth era is quality over quantity: public payroll, unsecured, SME credit lift ARPAC.",
   "visual": [
-   "outro:modal-overlay-sobre-slide-esmaecido"
+   "texto-bullets"
   ],
   "layout_trick": "Synthesis rendered as a white rounded modal over the dimmed previous slide with three numbered takeaways and an arrow to the conclusion.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -254,7 +254,8 @@
   "purpose": "tese-pilares-divisor",
   "message": "Section divider: LatAm becomes Nubank's next compounding engine.",
   "visual": [
-   "outro:foto-full-bleed+overlay-diagonal"
+   "foto-capa",
+   "pilares"
   ],
   "layout_trick": "Divider with the third thesis pillar active on the diagonal dashed path and icon coins.",
   "quality": 1
@@ -266,10 +267,11 @@
   "message": "Mexico is a complex market with low banking penetration and high cash usage that unlocks the next growth cycle.",
   "visual": [
    "mapa",
-   "colunas+linha"
+   "barra-100",
+   "colunas"
   ],
   "layout_trick": "LatAm map with callout tags per country (clients 23 vs 25) next to a deposit share ranking with country flags and a cash-usage bar.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -277,12 +279,12 @@
   "purpose": "mercado-tam-demanda",
   "message": "In Mexico a universal simple product adapted to a cash economy (OXXO cash-in) and customers trusted Nu with deposits.",
   "visual": [
-   "icones+dado-curto",
+   "screenshot-produto",
    "colunas+linha",
-   "outro:phone-mockup"
+   "icones+dado-curto"
   ],
   "layout_trick": "Phone mockup with numbered features, three logo/icon tiles for cash-in/digitalization/bill pay, and deposits curve with CAGR 74% callout.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -291,11 +293,11 @@
   "message": "Mexico's excluded middle class, sub-banked due to US-linked compliance dependency, is what Nu captured.",
   "visual": [
    "mapa",
-   "outro:heatmap-geografico",
+   "screenshot-produto",
    "icones+dado-curto"
   ],
   "layout_trick": "Income-level choropleth of Mexico with pins for branch concentration, plus code screenshot and 3x faster ramp-up stat.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -303,11 +305,11 @@
   "purpose": "cenarios",
   "message": "Mexican ARPAC upside under bear, base and bull assumptions, from Brazil-reference with a 24.8% haircut.",
   "visual": [
-   "colunas+linha",
+   "colunas",
    "icones+dado-curto"
   ],
   "layout_trick": "Three bars labelled with bear/base/bull icons beside four assumption rows each with an icon in a lilac pill.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -316,11 +318,11 @@
   "message": "Colombia is the next wave: concentrated legacy incumbents, batch credit decisions, and high operating cost cores.",
   "visual": [
    "donut",
-   "colunas+linha",
-   "icones+dado-curto"
+   "linha",
+   "citacao-foto"
   ],
   "layout_trick": "Incumbent logos row with bullet findings and a highlighted banner 'What we found across all incumbents', plus donut of market concentration.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -328,12 +330,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "Usury law caps rates in Colombia but Nu's Brazil-sized cost engine puts it far ahead of local fintechs on cost to serve.",
   "visual": [
-   "mapa",
-   "colunas+linha",
-   "icones+dado-curto"
+   "icones+dado-curto",
+   "area",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Brazil vs Colombia regulatory comparison with scales icon, then cost-to-serve area chart falling over time and a 80% Brazil-based cost callout over a photo.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -341,8 +343,9 @@
   "purpose": "mercado-tam-demanda",
   "message": "Colombian consumer loan market grows 74% CAGR and NuControl pilot shows Nu reaches borrowers banks excluded.",
   "visual": [
-   "colunas+linha",
-   "icones+dado-curto"
+   "colunas-empilhadas",
+   "kpi-numeros-grandes",
+   "fluxo-processo"
   ],
   "layout_trick": "Wide bars with CAGR 74% annotation, pilot KPI box (23% activation, 53% approval) and two product arrows (Prestamo Ligero > Personal).",
   "quality": 2
@@ -353,8 +356,9 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Card-less Colombian borrowers open a growth path: segment captured, engagement, retention, ARPAC expansion.",
   "visual": [
-   "icones+dado-curto",
-   "funil-piramide"
+   "fluxo-processo",
+   "barra-100",
+   "icones+dado-curto"
   ],
   "layout_trick": "Four-step horizontal strip of icon tiles (lock, chart, heart, coin) with captions under each step linking acquisition to ARPAC.",
   "quality": 2
@@ -365,8 +369,9 @@
   "purpose": "posicionamento-competitivo",
   "message": "Mercado Livre powers a two-sided merchant-consumer cash-based flywheel and pays fast growth in POS terminals.",
   "visual": [
-   "outro:flywheel",
-   "colunas+linha"
+   "flywheel-ciclo",
+   "colunas+linha",
+   "citacao-foto"
   ],
   "layout_trick": "Blue-recoloured competitor slide with cycle diagram and circular arrows plus a researcher quote card.",
   "quality": 2
@@ -377,11 +382,11 @@
   "purpose": "posicionamento-competitivo",
   "message": "In consumer credit only a full-bank model (Nu: deposit insurance, lower funding) wins vs Mercado Pago's wallet model.",
   "visual": [
-   "outro:comparacao-lado-a-lado",
-   "colunas+linha"
+   "pilares",
+   "colunas"
   ],
   "layout_trick": "Left-vs-right license comparison with Nu and Meli logo bubbles feeding a central cheaper-vs-more-expensive funding column and arrows.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Nubank",
@@ -389,12 +394,12 @@
   "purpose": "valuation-multiplos",
   "message": "Despite a high multiple, Nubank deserves it: P/E x ROE and a P/E evolution show premium justified.",
   "visual": [
-   "comps-barras",
-   "colunas+linha",
+   "scatter-bolhas",
+   "area",
    "icones+dado-curto"
   ],
   "layout_trick": "P/E vs ROE scatter-style axes with peer logos as markers, P/E evolution area chart, and a 'We reinforce our thesis' banner with three icon bullets.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -402,7 +407,8 @@
   "purpose": "riscos",
   "message": "Nubank's main risks mapped on a probability x impact matrix.",
   "visual": [
-   "matriz-riscos"
+   "matriz-riscos",
+   "tabela"
   ],
   "layout_trick": "5x5 grid with each risk as a lettered purple tile (A1, B3, C2) placed by probability and impact, with a side table decoding each code into risk and one-line description.",
   "quality": 3
@@ -427,7 +433,7 @@
    "timeline"
   ],
   "layout_trick": "Horizontal axis with milestones alternating above and below (2013 > 2025) each with year, bold title and one-line description.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -439,7 +445,7 @@
    "colunas+linha"
   ],
   "layout_trick": "Dashed rounded cards per product with logo, in-app facts and growth bars below showing share of other fee income.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -447,7 +453,7 @@
   "purpose": "mercado-tam-demanda",
   "message": "Growth engine is no longer Brazil-only: ~30% of new clients come from Mexico and Colombia.",
   "visual": [
-   "colunas+linha",
+   "colunas-empilhadas",
    "mapa"
   ],
   "layout_trick": "Stacked bars by country with dashed '~30% of the new clients' call-out and a map with deposit share by country.",
@@ -459,10 +465,12 @@
   "purpose": "mercado-tam-demanda",
   "message": "Beyond Mexico and Colombia, Peru, Argentina and Paraguay are screened out on market frictions.",
   "visual": [
-   "mapa"
+   "mapa",
+   "citacao-foto",
+   "texto-bullets"
   ],
   "layout_trick": "LatAm map with greyed non-target countries, magnifier-icon callouts per country and a three-filter screening list.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -484,7 +492,7 @@
    "tabela"
   ],
   "layout_trick": "Two-column checkmark matrix comparing NuPay vs Open Finance data fields, with zebra rows.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -503,10 +511,11 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "LTV of 463 USD computed from ARPAC, gross margin and Ke, inspired by Dynamo's letter.",
   "visual": [
-   "tabela"
+   "tabela",
+   "outro:thumbnail-documento"
   ],
   "layout_trick": "Calculation table with highlighted LTV result row plus formula box and the source-letter thumbnail for credibility.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -528,7 +537,7 @@
    "tabela"
   ],
   "layout_trick": "Triangular cohort matrix (vintage x years as client) showing how base builds up.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Nubank",
@@ -547,7 +556,8 @@
   "purpose": "valuation-multiplos",
   "message": "Two-stage P/E analysis (ROE, g, N, Ke) yields P/E of 27.1.",
   "visual": [
-   "tabela"
+   "tabela",
+   "pilares"
   ],
   "layout_trick": "Two side-by-side parameter lists with purple pill labels, a dual-stage P/E formula typeset below and a final result pill.",
   "quality": 2

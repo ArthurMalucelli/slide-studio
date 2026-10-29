@@ -5,7 +5,7 @@
   "purpose": "capa",
   "message": "Cover: Template 2026.1 title on full-bleed green gradient with layered translucent triangles.",
   "visual": [
-   "outro:capa-fundo-gradiente-geometrico"
+   "foto-capa"
   ],
   "layout_trick": "Full-bleed brand-green gradient with translucent angled facets and a giant white logotype; title underlined by a thin rule, authors bottom-right.",
   "quality": 2
@@ -18,8 +18,7 @@
   "visual": [
    "colunas+linha",
    "mapa",
-   "icones+dado-curto",
-   "tabela"
+   "colunas-empilhadas"
   ],
   "layout_trick": "Three-column at-a-glance: dashed-outline callout with bold key numbers, Brazil map with TAC tiers, revenue columns with margin line and CAGR bubble, BU mix stacked bars.",
   "quality": 3
@@ -30,12 +29,12 @@
   "purpose": "industry-overview",
   "message": "Three addressable markets (ICT, Energy, Security) with distinct dynamics outgrow Brazilian GDP.",
   "visual": [
-   "comps-barras",
-   "colunas+linha",
-   "icones+dado-curto"
+   "barras-horizontais",
+   "linha",
+   "colunas"
   ],
   "layout_trick": "2x2 grid: each quadrant has a bold headline + italic grey chart descriptor; bottom row has three bordered mini-cards with a diamond bullet and one bold stat each.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -56,11 +55,11 @@
   "message": "A multi-tier channel (Supplier, Intelbras, Distributor, Reseller, Consumer) with 80k resellers is the moat.",
   "visual": [
    "donut",
-   "funil-piramide",
-   "icones+dado-curto"
+   "fluxo-processo",
+   "citacao-foto"
   ],
   "layout_trick": "Bottom row is a five-step value-chain strip with icons and dark green vertical separators; expert quote card with headshot in grey box adds primary evidence.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -68,9 +67,9 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Security clients pull ICT products: a cross-sell engine across three BUs.",
   "visual": [
-   "tabela",
    "heatmap-sensibilidade",
-   "outro:diagrama-conceitual"
+   "3d-isometrico",
+   "icones+dado-curto"
   ],
   "layout_trick": "Cross-sell matrix as a green heatmap table (product x product % of clients) next to an illustrative scene image with labelled callouts.",
   "quality": 2
@@ -81,9 +80,9 @@
   "purpose": "pesquisa-primaria",
   "message": "Reseller loyalty is sustained by incentive and training programs, proven by a reseller field survey.",
   "visual": [
-   "colunas+linha",
+   "colunas",
    "lineup-imagens",
-   "outro:citacao-com-foto"
+   "citacao-foto"
   ],
   "layout_trick": "Primary research shown inline: survey bar chart with n-callout, photo strip of resellers, and a quote box with portrait and name.",
   "quality": 3
@@ -95,7 +94,7 @@
   "message": "Dense reseller network around Sao Paulo: avg distance 1.35 km to nearest reseller.",
   "visual": [
    "mapa",
-   "outro:heatmap-geografico"
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Zoom-in map pair (region then city) with a Google heat map overlay and dashed callouts carrying the two headline KPIs.",
   "quality": 3
@@ -106,12 +105,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "Coca-Cola playbook: market dominance is built on distribution, not product, and Intelbras replicates it.",
   "visual": [
-   "outro:analogia-case-study",
-   "colunas+linha",
+   "fluxo-processo",
+   "linha",
    "icones+dado-curto"
   ],
   "layout_trick": "Analogy slide: left shows the Coca-Cola bottler flow with logos and arrows, right shows the same playbook applied to Intelbras with line charts and icon rows.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -119,9 +118,9 @@
   "purpose": "kpis-operacionais",
   "message": "Cash conversion cycle is lower than Chinese peers thanks to distributor relationships and days sales outstanding.",
   "visual": [
-   "colunas+linha",
-   "comps-barras",
-   "icones+dado-curto"
+   "linha",
+   "citacao-foto",
+   "texto-bullets"
   ],
   "layout_trick": "Peer comparison as grouped bars (Intelbras vs Dahua vs Hikvision) in three colors, repeated for CCC and DSO with a program callout and a CFO quote portrait.",
   "quality": 2
@@ -132,8 +131,9 @@
   "purpose": "kpis-operacionais",
   "message": "Capillary distribution plus trained installers and post-sale support build customer trust above sector NPS.",
   "visual": [
-   "colunas+linha",
-   "outro:scatter-posicionamento"
+   "scatter-bolhas",
+   "colunas",
+   "pilares"
   ],
   "layout_trick": "Left: formula box (capillarity + installer + support = trust); right: scatter of Reclame Aqui score vs resolution rate with logos as markers.",
   "quality": 2
@@ -144,9 +144,9 @@
   "purpose": "posicionamento-competitivo",
   "message": "Chinese import surge and two branded giants (Hikvision, Dahua) erode Intelbras market share.",
   "visual": [
-   "colunas+linha",
+   "colunas",
    "donut",
-   "outro:screenshot-evidencia"
+   "screenshot-produto"
   ],
   "layout_trick": "Marketplace screenshot as evidence next to market-share donut and a scatter of price vs post-sale level.",
   "quality": 2
@@ -157,12 +157,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "White label targets a different buyer, so substitution is structurally weak.",
   "visual": [
-   "colunas+linha",
-   "outro:curva-adocao",
-   "bridge-cascata"
+   "linha",
+   "area",
+   "colunas"
   ],
   "layout_trick": "Technology adoption bell curve with white label vs Intelbras positioned on it, plus a small cross-price elasticity bar chart.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -170,12 +170,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "Security revenue grows despite share loss; ICT loses both revenue and share in a price-only market.",
   "visual": [
-   "colunas+linha",
+   "colunas",
    "funil-piramide",
    "mapa"
   ],
   "layout_trick": "Pyramid of segment pressure (enterprise to DIY) with price-sensitivity labels, plus a Sao Paulo state map with price-dispersion sigma.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -184,6 +184,7 @@
   "message": "Portfolio pivot: Intelbras deliberately cut revenue to protect returns.",
   "visual": [
    "colunas+linha",
+   "colunas-empilhadas",
    "icones+dado-curto"
   ],
   "layout_trick": "Mix shift stacked bars with an icon strip of four pivot drivers beneath, ending in a CEO quote box.",
@@ -195,10 +196,11 @@
   "purpose": "financials-historicos",
   "message": "Margin over volume: gross profit per BRL of G&A and ticket rose while revenue was cut.",
   "visual": [
-   "colunas+linha",
-   "outro:caixa-destaque-pontilhada"
+   "linha",
+   "colunas",
+   "colunas+linha"
   ],
-  "layout_trick": "Dashed rounded highlight box on the latest year across the chart, with a pivot-year marker; two-by-two grid with captions below each chart.",
+  "layout_trick": "Dashed rounded highlight box on the latest year across the line chart, with a pivot-year marker; two-by-two grid with a one-line caption below each chart.",
   "quality": 2
  },
  {
@@ -207,8 +209,9 @@
   "purpose": "financials-historicos",
   "message": "Investment cycle is over: capex cooled and the company is entering harvest mode with free cash flow back.",
   "visual": [
-   "colunas+linha",
-   "bridge-cascata"
+   "linha",
+   "colunas-empilhadas",
+   "colunas"
   ],
   "layout_trick": "Curved green arrow connecting capex trough to FCF recovery, annotating the story across two charts.",
   "quality": 2
@@ -219,11 +222,12 @@
   "purpose": "kpis-operacionais",
   "message": "ROIC stayed above WACC even at the trough; the 2025 inflection widens the spread.",
   "visual": [
-   "colunas+linha",
-   "donut"
+   "linha",
+   "donut",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "ROIC vs WACC line with spread KPI boxes (13.8% vs 11.6%, +2.2pp) and WACC composition donut.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -232,7 +236,7 @@
   "message": "Security market is a growth flywheel: dominant 43% share, 13% annual growth, 58% perceive rising crime.",
   "visual": [
    "icones+dado-curto",
-   "colunas+linha",
+   "colunas",
    "donut"
   ],
   "layout_trick": "Key information panel with three big icons over one number each, plus numbered claims.",
@@ -244,11 +248,12 @@
   "purpose": "catalisadores",
   "message": "Khomp acquisition validates the recurring revenue model: R$455mn gross revenue growing, 40% recurring.",
   "visual": [
-   "colunas+linha",
-   "icones+dado-curto"
+   "icones+dado-curto",
+   "colunas",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Vertical icon list in dark green squares with one fact each, beside a growth chart and a dashed-box 'what if at Intelbras scale' ARR comparison (R$140mn vs R$370mn).",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -257,10 +262,11 @@
   "message": "AI turns cameras into subscription platforms: a business-model shift with data monetization.",
   "visual": [
    "heatmap-sensibilidade",
-   "icones+dado-curto"
+   "lineup-imagens",
+   "texto-bullets"
   ],
   "layout_trick": "With AI vs without AI comparison box and a color-scaled demand sensitivity table (price vs potential demand).",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Intelbras",
@@ -270,10 +276,10 @@
   "visual": [
    "donut",
    "timeline",
-   "icones+dado-curto"
+   "lineup-imagens"
   ],
   "layout_trick": "Mini timeline of regulatory events with arrows, plus a nested concentric-circle TAM visual for the market sizing.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Intelbras",
@@ -281,8 +287,9 @@
   "purpose": "mercado-tam-demanda",
   "message": "ICT market grows 8.6% CAGR to 2034 while Intelbras shifts from volume to margin.",
   "visual": [
-   "colunas+linha",
-   "icones+dado-curto"
+   "colunas",
+   "icones+dado-curto",
+   "citacao-foto"
   ],
   "layout_trick": "Market-size column chart with CAGR bubble and exec quote card; below, a three-row icon-circle list of segment shifts.",
   "quality": 2
@@ -293,9 +300,9 @@
   "purpose": "posicionamento-competitivo",
   "message": "Fragmented ISP landscape and policy (Lei das TICs, BNDES) favor local producers.",
   "visual": [
+   "barra-100",
    "donut",
-   "tabela",
-   "outro:caixa-politica"
+   "fluxo-processo"
   ],
   "layout_trick": "Horizontal stacked bars (regional vs big ISPs) and a three-input policy box with arrows to quantified financing savings.",
   "quality": 2
@@ -306,10 +313,11 @@
   "purpose": "industry-overview",
   "message": "Anti-dumping resets competitive dynamics for fiber optic: price discipline and less competition.",
   "visual": [
-   "bridge-cascata",
-   "icones+dado-curto"
+   "texto-bullets",
+   "kpi-numeros-grandes",
+   "fluxo-processo"
   ],
-  "layout_trick": "Before/after anti-dumping price comparison (US$/m) with a big green arrow and gap callouts.",
+  "layout_trick": "Before/after anti-dumping price comparison (US$/m) in two dashed boxes joined by a big green arrow, with gap callouts and a bordered 'why Brazil was a target' bullet box.",
   "quality": 2
  },
  {
@@ -319,8 +327,8 @@
   "message": "SME connectivity is a vastly uncaptured market monetized through cross-sell.",
   "visual": [
    "donut",
-   "colunas+linha",
-   "pilares"
+   "colunas",
+   "icones+dado-curto"
   ],
   "layout_trick": "Cross-sell visual: house icon to building icon, equals sign, with stacked horizontal 'multiple revenue streams' bars.",
   "quality": 2
@@ -336,7 +344,7 @@
    "icones+dado-curto"
   ],
   "layout_trick": "Diamond-cropped executive portraits with name, role and tenure, beside a treemap of shareholder structure and rating badges.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -344,7 +352,8 @@
   "purpose": "riscos",
   "message": "Risk analysis: macro, competitive and business risks plotted probability x impact.",
   "visual": [
-   "matriz-riscos"
+   "matriz-riscos",
+   "texto-bullets"
   ],
   "layout_trick": "Impact x probability scatter with coded squares (M1, C2, B3) colored by risk family, legend as three colored boxes on the right. Not quantified.",
   "quality": 2
@@ -355,10 +364,11 @@
   "purpose": "historico-empresa",
   "message": "From telecom PBX roots to a technology powerhouse: 50 years of expansion and acquisitions.",
   "visual": [
-   "timeline"
+   "timeline",
+   "texto-bullets"
   ],
   "layout_trick": "Dense horizontal timeline with circle decade markers on the axis, events alternating above and below, grouped by period.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Intelbras",
@@ -366,11 +376,12 @@
   "purpose": "industry-overview",
   "message": "All three Intelbras markets (security, ICT, energy) are expanding independently of the cycle.",
   "visual": [
-   "pilares",
-   "colunas+linha"
+   "colunas",
+   "texto-bullets",
+   "pilares"
   ],
   "layout_trick": "Three-column layout with a dark-outlined key-information box at top and a bar chart below per column, keeping identical structure.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Intelbras",
@@ -379,7 +390,7 @@
   "message": "UEL case: Intelbras delivered an integrated end-to-end platform, not a standalone product.",
   "visual": [
    "icones+dado-curto",
-   "funil-piramide"
+   "texto-bullets"
   ],
   "layout_trick": "Case study: vertical icon stack of five delivered modules with bold title and one-line spec, triangle funnel of problems at bottom.",
   "quality": 2
@@ -390,8 +401,9 @@
   "purpose": "catalisadores",
   "message": "ERP transition to SAP S/4HANA caused short-term disorder but brings structural payoff.",
   "visual": [
-   "colunas+linha",
-   "outro:fluxo-processo"
+   "fluxo-processo",
+   "linha",
+   "citacao-foto"
   ],
   "layout_trick": "Left to right causal story: problem box, chart showing the hit, upside, linked by a down-arrow; quote with executive portrait.",
   "quality": 1
@@ -402,8 +414,9 @@
   "purpose": "riscos",
   "message": "71% of Intelbras Security revenue is protected from white label; only R$791mn is exposed.",
   "visual": [
-   "bridge-cascata",
-   "colunas+linha"
+   "barra-100",
+   "colunas",
+   "citacao-foto"
   ],
   "layout_trick": "Quantified risk exposure: stacked 71%/29% bar flowing into funnel breakdown, with protected vs exposed bars across peers.",
   "quality": 3
@@ -414,8 +427,9 @@
   "purpose": "financials-historicos",
   "message": "Capital allocation: 25% minimum payout, payout rose to 62% as FCO inflects.",
   "visual": [
-   "colunas+linha",
-   "bridge-cascata"
+   "colunas",
+   "colunas-empilhadas",
+   "texto-bullets"
   ],
   "layout_trick": "Dividends bars with payout line, next to a stacked FCO allocation chart (dividends, capex, M&A, retained) with a green curved arrow marking the inflection.",
   "quality": 2
@@ -427,7 +441,8 @@
   "message": "Capital deployed post-IPO was funded conservatively with debt kept low.",
   "visual": [
    "timeline",
-   "colunas+linha"
+   "colunas+linha",
+   "texto-bullets"
   ],
   "layout_trick": "Diamond-icon capex timeline with dated bullet descriptions on the left, funding chart on the right and a boxed IPO/debenture takeaways list.",
   "quality": 2
@@ -438,11 +453,11 @@
   "purpose": "historico-empresa",
   "message": "Technology platform: acquisitions (Renovigi, Khomp, Allume, Seventh) consolidate the portfolio.",
   "visual": [
-   "lineup-imagens",
-   "colunas+linha"
+   "linha",
+   "lineup-imagens"
   ],
   "layout_trick": "Logo lineup of acquired companies with one-line stats each (ARR, revenue, acquired year), next to a revenue line annotated with acquisition markers.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -451,7 +466,7 @@
   "message": "Net cash position across cycle; consolidated leverage well below sector peers.",
   "visual": [
    "colunas+linha",
-   "comps-barras"
+   "colunas"
   ],
   "layout_trick": "Net debt vs EBITDA bars with leverage line, and a peer-comparison bar chart with a dashed reference line.",
   "quality": 2
@@ -463,11 +478,11 @@
   "message": "Four layers of tax incentives form a structural cost advantage worth R$170mn a year.",
   "visual": [
    "funil-piramide",
-   "bridge-cascata",
-   "mapa"
+   "colunas",
+   "lineup-imagens"
   ],
-  "layout_trick": "Pyramid of four tax regimes labelled with their expiry, waterfall from statutory to actual tax burden, and plant-location photos by region.",
-  "quality": 3
+  "layout_trick": "Pyramid of four tax regimes labelled with their expiry, statutory vs actual tax burden as two bars with a gap callout, plant-location photos by region.",
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -475,8 +490,9 @@
   "purpose": "kpis-operacionais",
   "message": "Margin recovery is an execution story: DIO falls and gross margin recovers vs FX.",
   "visual": [
+   "linha",
    "colunas+linha",
-   "outro:callout-inflexao"
+   "texto-bullets"
   ],
   "layout_trick": "Three-signal confirmation box ('inflection is ahead') under a quarterly DIO and gross margin chart with FX exposure lines.",
   "quality": 2
@@ -487,8 +503,9 @@
   "purpose": "riscos",
   "message": "Solar BU: fast growth then a setback, caught between rising rates and falling system prices.",
   "visual": [
-   "colunas+linha",
-   "outro:caixa-pontilhada"
+   "colunas",
+   "linha",
+   "citacao-foto"
   ],
   "layout_trick": "Dashed rectangle around the peak-to-decline revenue bars with a hand-drawn style annotation; line chart of Selic vs system price on the right.",
   "quality": 2
@@ -500,7 +517,8 @@
   "message": "Energy BU mix shifted from solar dependency to a diversified platform (UPS, EV, batteries).",
   "visual": [
    "icones+dado-curto",
-   "colunas+linha"
+   "colunas-empilhadas",
+   "linha"
   ],
   "layout_trick": "Icon row for four energy segments atop a stacked mix chart for 2022 vs 2025, and a capex-per-revenue line.",
   "quality": 2
@@ -512,11 +530,11 @@
   "message": "Chinese players lead in scale and price; Brazilian energy market is highly fragmented with 46% long tail.",
   "visual": [
    "donut",
-   "comps-barras",
+   "colunas+linha",
    "lineup-imagens"
   ],
   "layout_trick": "Donut with company logo legend listing players, three footer KPI chips with flag icons.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Intelbras",
@@ -525,10 +543,11 @@
   "message": "Intelbras is neither the cheapest nor the best product; the channel is the real barrier.",
   "visual": [
    "lineup-imagens",
-   "comps-barras"
+   "linha",
+   "texto-bullets"
   ],
   "layout_trick": "Product-by-product price comparison cards: product photo of competitor vs Intelbras with price tags, bullet list of why channel cannot be copied.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -536,12 +555,12 @@
   "purpose": "riscos",
   "message": "Macro volatility (Selic, BRL, FX) is absorbed by hedging and by distributors, resellers and end-customers as buffers.",
   "visual": [
-   "funil-piramide",
-   "outro:camadas-amortecedores",
-   "colunas+linha"
+   "fluxo-processo",
+   "linha",
+   "texto-bullets"
   ],
   "layout_trick": "Vertical chevron stack Intelbras / Distributors / Resellers / End customers, each row with a 'buffer' definition box.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -550,11 +569,11 @@
   "message": "Competitive landscape by category: global brands vs Intelbras, with Dahua as both competitor and supplier.",
   "visual": [
    "lineup-imagens",
-   "donut",
-   "outro:fluxograma-dependencia"
+   "linha",
+   "donut"
   ],
   "layout_trick": "Logo grid grouped by product category (CCTV, FDAS, Alarms, Access control) with dashed risk boxes for supplier dependence.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Intelbras",
@@ -563,7 +582,8 @@
   "message": "ICT competitive landscape: Chinese cost asymmetry and invisible white-label imports.",
   "visual": [
    "lineup-imagens",
-   "colunas+linha"
+   "linha",
+   "texto-bullets"
   ],
   "layout_trick": "Category-to-logo map (Networks, Optical, Cables, USB, Wifi, Software) with a grey Chinese-share callout bubble.",
   "quality": 2
@@ -585,7 +605,7 @@
   "purpose": "kpis-operacionais",
   "message": "ROIC decline driven by capital turnover compression, not by margin deterioration.",
   "visual": [
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "DuPont decomposition as three curved lines (ROIC, NOPAT margin, capital turnover) with data labels in colored pills.",
   "quality": 2
@@ -611,7 +631,7 @@
    "tabela"
   ],
   "layout_trick": "Red-to-green sensitivity grid (price x reseller base) beside three scenario calculation tables colored by case.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Intelbras",

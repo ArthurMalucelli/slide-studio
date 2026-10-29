@@ -31,11 +31,11 @@
   "message": "Before analysing 3R, classify O&G assets: onshore vs offshore platform types, segments, and 1P/2P/3P reserve certainty",
   "visual": [
    "outro:ilustracao-plataformas",
-   "tabela",
-   "colunas+linha"
+   "colunas",
+   "fluxo-processo"
   ],
   "layout_trick": "Cross-section illustration of seabed with platform types labelled, paired with a side card of reserve mini-bars and 1P/2P/3P definitions.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -43,12 +43,11 @@
   "purpose": "posicionamento-competitivo",
   "message": "Juniors are tiny giants: Petrobras holds ~93% market share, and 3R is #2 among juniors with 24% behind PRIO",
   "visual": [
-   "outro:treemap-zoom",
-   "funil-piramide",
-   "tabela"
+   "outro:treemap",
+   "colunas"
   ],
-  "layout_trick": "Treemap of Petrobras share with a zoom-out wedge into the junior-oil treemap using company logos as tiles, plus a well-lifecycle cash-flow curve mapping Petrobras vs junior focus.",
-  "quality": 3
+  "layout_trick": "Treemap of Petrobras share with a zoom-out wedge into the junior-oil treemap using company logos as tiles, plus a well-lifecycle cash-flow staircase mapping Petrobras vs junior focus.",
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -56,8 +55,8 @@
   "purpose": "recomendacao-exec-summary",
   "message": "RRRP3 BUY: target R$55.60 vs R$32.95, 68.7% upside, 35.6% IRR",
   "visual": [
-   "outro:price-line-bg",
-   "icones+dado-curto"
+   "linha",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Price chart as faded background with a floating white card showing BUY pill and a vertical bracket from actual to target price carrying upside and IRR.",
   "quality": 3
@@ -79,8 +78,8 @@
   "purpose": "industry-overview",
   "message": "Brent depends on uncontrollable big events and US SPR is at a 60-year low",
   "visual": [
-   "colunas+linha",
-   "outro:area-line-anotada"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Brent historic line with grey shaded bands labelling Gulf War/2008/COVID/Ukraine, stacked above a dense bar chart with a grey callout box for the lowest level in 60 years.",
   "quality": 2
@@ -91,8 +90,8 @@
   "purpose": "mercado-tam-demanda",
   "message": "World demand for oil keeps rising: China to 15.8 and India to 9.1 mbpd, global ~110 mbpd by 2045",
   "visual": [
-   "colunas+linha",
-   "bridge-cascata"
+   "colunas",
+   "colunas-empilhadas"
   ],
   "layout_trick": "Bars switch from dark (actual) to faded (forecast) shade to signal projection, with stacked per-product bars below and total label tabs on top.",
   "quality": 2
@@ -103,7 +102,7 @@
   "purpose": "mercado-tam-demanda",
   "message": "Oil stands the test of time: fossil demand holds while renewables grow through 2050",
   "visual": [
-   "outro:area-empilhada"
+   "area"
   ],
   "layout_trick": "Large stacked-area energy mix in green gradient shades with direct end-label values and no gridlines.",
   "quality": 2
@@ -114,8 +113,8 @@
   "purpose": "esg",
   "message": "Brazil is under the global average in carbon intensity of oil production, an ESG reference",
   "visual": [
-   "colunas+linha",
-   "outro:area-empilhada"
+   "colunas",
+   "area"
   ],
   "layout_trick": "Country ranking bars with Brazil highlighted in light green and a dashed Global Average line with a speech-bubble callout.",
   "quality": 2
@@ -126,12 +125,12 @@
   "purpose": "industry-overview",
   "message": "Brazil has a growing O&G sector: 9th largest producer, oil derivatives half of national energy",
   "visual": [
-   "outro:area-empilhada",
-   "colunas+linha",
+   "area",
+   "colunas",
    "donut"
   ],
   "layout_trick": "Hero stacked-area chart on the left spanning full height with two smaller stacked panels (ranked bars of top 15 producers, donut) on the right.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -139,7 +138,7 @@
   "purpose": "posicionamento-competitivo",
   "message": "On peers 3R looks unattractive: lower EBITDA margin, net margin and highest lifting cost",
   "visual": [
-   "outro:slope-lines",
+   "linha",
    "comps-barras"
   ],
   "layout_trick": "2x2 grid of slope charts for EBITDA, gross, net margin plus horizontal lifting-cost bars with company logos as bar labels.",
@@ -151,11 +150,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "3R is the most growing peer: more 2P reserves than PetroRecôncavo and fastest production growth",
   "visual": [
-   "colunas+linha",
-   "comps-barras"
+   "colunas",
+   "colunas-empilhadas",
+   "linha"
   ],
   "layout_trick": "Four peer panels with % growth annotations (+172.8%) overlaid on paired columns, and stacked 1P/2P/3P reserves per company.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -163,12 +163,11 @@
   "purpose": "management-governanca-estrutura",
   "message": "A heavyweight team: all executives replaced in 2023 and 83% of salaries based on shares; board of experienced names",
   "visual": [
-   "organograma",
    "outro:fotos-retrato",
    "outro:treemap"
   ],
   "layout_trick": "Executive roster with photo + career logos per person, next to a board-table graphic with seat photos around a table and a shareholder treemap.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -178,11 +177,10 @@
   "visual": [
    "mapa",
    "donut",
-   "timeline",
-   "funil-piramide"
+   "timeline"
   ],
   "layout_trick": "Brazil map with a funnel wedge expanding into three stacked asset-cluster bars, beside a reserves donut and the ribbon timeline.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -190,12 +188,12 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Potiguar cluster: 5 fields, production ramping toward expected capacity",
   "visual": [
-   "colunas+linha",
+   "colunas",
    "icones+dado-curto",
    "mapa"
   ],
   "layout_trick": "Mini-map header with arrow to cluster name, bar chart of actual vs expected production and a framed right panel of 4 icon+bold-phrase bullets; same template cloned per cluster (p21,p22).",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -203,8 +201,9 @@
   "purpose": "premissas-projecoes",
   "message": "Opex expected to peak in 2025 and capex to 290-440 then fall; CFO quotes guidance",
   "visual": [
-   "colunas+linha",
-   "outro:citacao-foto"
+   "colunas",
+   "area",
+   "citacao-foto"
   ],
   "layout_trick": "Two small chart panels on the left (capex bars, opex area) and a framed card with executive portrait and large quote on the right.",
   "quality": 2
@@ -217,7 +216,7 @@
   "visual": [
    "timeline",
    "donut",
-   "outro:cartao-dado"
+   "tabela"
   ],
   "layout_trick": "Vertical zig-zag timeline of financing events with date tags alternating sides, next to debt donut and dashed box listing debt cost per instrument.",
   "quality": 2
@@ -232,7 +231,7 @@
    "icones+dado-curto"
   ],
   "layout_trick": "Three equal white cards with bull/house/bear line icons in circles and three bold-keyword bullets each under a green header tab.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -241,10 +240,10 @@
   "message": "27 scenario combinations from production, Brent and Forex discounts",
   "visual": [
    "tabela",
-   "icones+dado-curto"
+   "pilares"
   ],
   "layout_trick": "Pop-over card layered over the dimmed scenario slide showing three columns of Bear/Base/Bull discount values (build animation).",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -253,10 +252,10 @@
   "message": "Production forecast built in steps: 2P extraction curve, depletion, guidance discount",
   "visual": [
    "3d-isometrico",
-   "funil-piramide"
+   "fluxo-processo"
   ],
   "layout_trick": "Isometric 3D green staircase with a rising arrow whose steps carry the methodology text boxes, with a left column explaining the order of steps.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -264,10 +263,11 @@
   "purpose": "cenarios",
   "message": "2P curve with scenario discounts of 5%, 10% and 15% on guidance",
   "visual": [
-   "outro:curvas-multiplas"
+   "linha",
+   "3d-isometrico"
   ],
   "layout_trick": "Dimmed isometric stair in background with a white chart card in front showing a production curve fan with scenario end labels.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -275,11 +275,11 @@
   "purpose": "premissas-projecoes",
   "message": "Revenue = projected production per cluster x price exercised in each field",
   "visual": [
-   "outro:curvas-multiplas",
-   "colunas+linha"
+   "linha",
+   "colunas-empilhadas"
   ],
   "layout_trick": "Two framed panels side by side: oil price curves per cluster with end labels, and stacked production per cluster bars.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -287,11 +287,11 @@
   "purpose": "cenarios",
   "message": "Macro impacts on revenue: Brent, gas price and exchange rate under base/bear/bull",
   "visual": [
-   "outro:curvas-multiplas",
-   "colunas+linha"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Three small-multiples in one slide: Brent three-scenario lines, gas price bars and FX lines, each with value chips.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -299,7 +299,7 @@
   "purpose": "financials-historicos",
   "message": "Net revenue and EBITDA show CAGR 104% with a conservative no-acquisition assumption",
   "visual": [
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Dashed CAGR bracket above the bars and grey overlay area marking the no-acquisition zero-growth zone with a callout box.",
   "quality": 2
@@ -311,11 +311,11 @@
   "message": "Costs and capex are highest at the start of operations; per-barrel unit economics R$383 revenue to R$126 net income",
   "visual": [
    "icones+dado-curto",
-   "outro:citacao-foto",
-   "colunas+linha"
+   "citacao-foto",
+   "linha"
   ],
   "layout_trick": "Barrel illustration with a stacked row of 4 green pills decomposing revenue per barrel down to net income, beside a portrait quote card and margin lines.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -323,10 +323,11 @@
   "purpose": "financials-historicos",
   "message": "Debt is high but amortization schedule settles it by 2028; cash generation grows",
   "visual": [
-   "colunas+linha"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Leverage line chart over a debt-amortization BoP/EoP bar pair on the left, and cash-flow bars with value tabs on the right.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -334,11 +335,12 @@
   "purpose": "valuation-dcf",
   "message": "FCFF projected to grow 118% between 2023 and 2026; capex/depreciation and working capital as roots",
   "visual": [
-   "colunas+linha",
-   "outro:barras-horizontais"
+   "linha",
+   "colunas",
+   "barras-horizontais"
   ],
   "layout_trick": "Three coordinated panels (capex/D&A line, working-capital bars, tall horizontal FCFF bars by year) with a boxed 118% callout.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -349,7 +351,7 @@
    "tabela"
   ],
   "layout_trick": "Pop-up zebra table with the final WACC row in bold, layered over the dimmed FCFF slide.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -357,11 +359,11 @@
   "purpose": "valuation-dcf",
   "message": "Present value of FCFF gives TEV R$13.3Bi, net debt R$251M, target price R$55.6, upside +68.7%",
   "visual": [
-   "colunas+linha",
-   "bridge-cascata"
+   "colunas",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "PV-decay bars on the left feeding a perspective-skewed dashed card that walks TEV, minus net debt, equity value and a dark target-price box.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -369,11 +371,11 @@
   "purpose": "sensibilidade",
   "message": "3R scenario distribution: all 27 combinations lead to upside ranges of price",
   "visual": [
-   "heatmap-sensibilidade",
-   "outro:line-fan"
+   "linha",
+   "heatmap-sensibilidade"
   ],
   "layout_trick": "Price history line fanning out into a red-to-green heat table of all scenarios with upside colored by value.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -381,7 +383,7 @@
   "purpose": "sensibilidade",
   "message": "Monte Carlo with Brent -10% to +10% over 2,000 runs: most frequent upside is 27-28%",
   "visual": [
-   "outro:histograma"
+   "colunas"
   ],
   "layout_trick": "Histogram with the modal bar highlighted light green, a pill showing the upside range on top and an explanatory text box inside the plot.",
   "quality": 3
@@ -393,10 +395,10 @@
   "message": "Exit multiple: peer mean EV/EBITDA 5.42x gives IRR 35.6%; 3R trades at a premium multiple with lower margin",
   "visual": [
    "tabela",
-   "outro:scatter-logos"
+   "scatter-bolhas"
   ],
   "layout_trick": "Peer table with logos and a funnel arrow into mean multiple and dashed result box, next to margin-vs-multiple scatter where logos are the data points.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -415,7 +417,8 @@
   "purpose": "apendice",
   "message": "Appendix summary of 19 linked sections over a drilling-ship photo",
   "visual": [
-   "outro:indice-hiperlinks"
+   "texto-bullets",
+   "foto-capa"
   ],
   "layout_trick": "Two-column hyperlinked index over a tinted full-bleed photo for appendix navigation.",
   "quality": 1
@@ -429,7 +432,7 @@
    "lineup-imagens"
   ],
   "layout_trick": "Mosaic of video-call screenshots, phone-call screen and platform photo with one-line captions of name and role as evidence of primary research.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -437,11 +440,12 @@
   "purpose": "industry-overview",
   "message": "X-ray of oil extraction in Brazil: production 3.2M bpd, exports, imports and 600 kbbl/d refining deficit",
   "visual": [
-   "colunas+linha",
-   "donut"
+   "linha",
+   "donut",
+   "colunas"
   ],
   "layout_trick": "Line chart of production/export/import over time paired with a donut and a stacked bar with hatched segment showing the refining deficit.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "3RPetroleum",
@@ -449,8 +453,8 @@
   "purpose": "industry-overview",
   "message": "Holy grail of juniors: Petrobras divestment plan focuses on pre-salt, freeing mature assets to juniors",
   "visual": [
-   "outro:area-empilhada",
-   "tabela"
+   "area",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Stacked area chart with Petrobras logo mark beside dashed boxes comparing initial plan US$58Bn and new plan US$20-30Bn.",
   "quality": 2
@@ -474,11 +478,11 @@
   "message": "How 3R does it: 6-step operation method across its subsidiaries, starting with reactivating abandoned wells (37%)",
   "visual": [
    "organograma",
-   "funil-piramide",
+   "fluxo-processo",
    "donut"
   ],
   "layout_trick": "Subsidiary tree on the left, a vertical stack of chevrons where the active step darkens, and a grey wedge card detailing that step; same template repeated for steps 2-6 (p61-65).",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -486,7 +490,9 @@
   "purpose": "mercado-tam-demanda",
   "message": "Oil and gas remain paramount: consumption grows to 2030 and Brent history",
   "visual": [
-   "colunas+linha"
+   "colunas",
+   "colunas-empilhadas",
+   "linha"
   ],
   "layout_trick": "Four charts with forecast bars faded to grey and trend arrow above, Brent daily series with annotated events.",
   "quality": 1
@@ -497,8 +503,7 @@
   "purpose": "posicionamento-competitivo",
   "message": "3R is far from the next OGX: OGX never found oil while 3R operates in E&P",
   "visual": [
-   "outro:recortes-noticias",
-   "lineup-imagens"
+   "outro:recortes-noticias"
   ],
   "layout_trick": "Three horizontal news strips, each with a photo, newspaper logo and quote line, to contrast OGX history against 3R.",
   "quality": 2
@@ -509,8 +514,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "3R production grew 93% since 2020 and a founder explains how it differs from OGX",
   "visual": [
-   "colunas+linha",
-   "outro:citacao-foto"
+   "colunas-empilhadas",
+   "citacao-foto"
   ],
   "layout_trick": "Stacked daily-production columns with a big rising arrow and +93% label beside a portrait quote card with phone call-log image.",
   "quality": 2
@@ -522,10 +527,10 @@
   "message": "Kd and Ke build-up feeds WACC 13.99%",
   "visual": [
    "tabela",
-   "bridge-cascata"
+   "fluxo-processo"
   ],
   "layout_trick": "Two grey equation panels (Ke US/BR, Kd) with inline formula arithmetic feeding a big arrow to a zebra WACC breakdown table.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "3RPetroleum",
@@ -533,7 +538,7 @@
   "purpose": "valuation-dcf",
   "message": "WACC calculation with beta from Ibovespa x 3R regression and last debenture",
   "visual": [
-   "outro:scatter-regressao",
+   "scatter-bolhas",
    "tabela"
   ],
   "layout_trick": "Beta scatter with dashed regression line next to pasted calculation table and debenture terms card.",
@@ -556,8 +561,8 @@
   "purpose": "riscos",
   "message": "SWOT: strengths in wells and team, weakness in execution track record, Brent threat",
   "visual": [
-   "icones+dado-curto",
-   "pilares"
+   "texto-bullets",
+   "icones+dado-curto"
   ],
   "layout_trick": "Four text rows each paired with a letter tab icon (S W O T) that is highlighted while the other rows dim; letter tabs stacked on the right with arrow notch.",
   "quality": 2
@@ -569,7 +574,7 @@
   "message": "Porter 5 forces scored 1-3: rivalry 2, new entrants 1, suppliers 1, buyers 3, substitutes 3",
   "visual": [
    "outro:radar",
-   "pilares"
+   "texto-bullets"
   ],
   "layout_trick": "Pentagon radar with numbered vertices matching numbered list entries on the right card.",
   "quality": 2
@@ -581,9 +586,9 @@
   "message": "Financing history: IPO 690M, follow-on 822M and 2.1Bn, debentures 900M, ending 8.5Bn total",
   "visual": [
    "timeline",
-   "icones+dado-curto"
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Chevron arrow timeline 4T20 to 2T23 where the active chevron lights and a speech-bubble card above shows huge amount, use of proceeds and plan; background chart dimmed (p104-107 repeat).",
-  "quality": 3
+  "quality": 2
  }
 ]

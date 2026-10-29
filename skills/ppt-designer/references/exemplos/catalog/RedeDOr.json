@@ -5,7 +5,7 @@
   "purpose": "capa",
   "message": "Rede D'Or Investment Thesis, cover with team names and head.",
   "visual": [
-   "outro:foto-full-bleed-azul"
+   "foto-capa"
   ],
   "layout_trick": "Full-bleed surgical photo with navy duotone overlay, logo bottom-left and team credits in small type; title is just the logo lockup.",
   "quality": 2
@@ -16,13 +16,12 @@
   "purpose": "industry-overview",
   "message": "Healthcare is a US$11.34tn, acyclic, inelastic sector driven by aging and rising R&D spend.",
   "visual": [
-   "tabela",
-   "colunas+linha",
-   "comps-barras",
-   "outro:big-number-diagrama"
+   "colunas",
+   "barras-horizontais",
+   "linha"
   ],
   "layout_trick": "Six-panel grid under three numbered roman-numeral headers (I/II/III), each header with a thin blue rule and a grey chart subtitle; big-number box with dashed connector tree to sector segments.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -31,8 +30,8 @@
   "message": "Brazil: low private insurance penetration (23.3%), extreme income inequality, and >60% of beds are private.",
   "visual": [
    "donut",
-   "colunas+linha",
-   "outro:zoom-callout-cinza"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Donut with a grey trapezoid 'zoom' wedge that opens into the detail bar chart (top 1% earns more than bottom 95%), a visual drill-down linking two charts.",
   "quality": 3
@@ -43,11 +42,11 @@
   "purpose": "industry-overview",
   "message": "Brazil is aging and the healthcare sector is consolidating via M&A.",
   "visual": [
-   "outro:piramide-etaria",
-   "colunas+linha"
+   "barras-horizontais",
+   "colunas"
   ],
   "layout_trick": "Population pyramid mirrored left/right in two shades of blue next to a 60+ projection bar chart, with a dashed callout box stating the key delta (6% to 20%).",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -56,7 +55,7 @@
   "message": "Payors' expenses convert into providers' revenue: P&L of the plan operator and of the hospital side by side.",
   "visual": [
    "bridge-cascata",
-   "outro:fluxo-pagador-prestador"
+   "fluxo-processo"
   ],
   "layout_trick": "Two stacked mini waterfalls (payer P&L on top, hospital P&L below) joined by a full-width teal banner 'Payor's Expenses convert into the Provider's Revenue' as the hinge.",
   "quality": 3
@@ -72,7 +71,7 @@
    "colunas+linha"
   ],
   "layout_trick": "Three columns I/II/III each with a different chart type (donut, treemap of market share, combo bars+line) under one consistent header style; COVID callout on the line.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -81,11 +80,11 @@
   "message": "Private hospital sector is highly fragmented: only 10% of market, top players hold little share.",
   "visual": [
    "outro:treemap",
-   "comps-barras",
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Treemap of listed hospital companies' market share with dashed callout 'The 3 largest players have only 10% of the market' and HHI box.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -94,13 +93,11 @@
   "message": "Rede D'Or is the largest hospital services provider in Brazil, 70+ hospitals in 13 states, 50 oncology clinics.",
   "visual": [
    "mapa",
-   "icones+dado-curto",
    "donut",
-   "timeline",
-   "colunas+linha"
+   "timeline"
   ],
   "layout_trick": "Blue 'About the company' tab with icon+short facts at top left, Brazil map with operating states highlighted, curved wave timeline across the bottom and donut/column charts in grey right panel.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -109,12 +106,11 @@
   "message": "SulAmerica is a 129-year-old insurer, most expensive and most penetrated, bought by Rede D'Or.",
   "visual": [
    "mapa",
-   "icones+dado-curto",
    "donut",
    "timeline"
   ],
   "layout_trick": "Same template as the company slide (tab + map + curved milestone ribbon timeline) reused for the acquired company, making the two profiles directly comparable.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -122,8 +118,8 @@
   "purpose": "recomendacao-exec-summary",
   "message": "RDOR3 HOLD: DCF upside 18.8%, IRR 19.4%, current price R$30.33 vs target R$36.",
   "visual": [
-   "outro:preco-historico-com-hexagonos",
-   "icones+dado-curto"
+   "linha",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Dark navy slide: price history line with dashed target-price line and three honeycomb hexagons stacking DCF/IRR/Current Price as key stats.",
   "quality": 3
@@ -134,8 +130,7 @@
   "purpose": "tese-pilares-divisor",
   "message": "Three thesis pillars: best player in sector, strong revenue growth, DCF says Hold.",
   "visual": [
-   "pilares",
-   "icones+dado-curto"
+   "pilares"
   ],
   "layout_trick": "Roman-numeral hexagons on a curved vertical thread on dark navy; the active pillar is bright and the other two fade, repeated as a divider before each thesis section.",
   "quality": 3
@@ -146,8 +141,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "Rede D'Or has best-in-sector occupancy, EBITDA margin and NPS lift after acquisitions.",
   "visual": [
-   "colunas+linha",
-   "outro:logo-callout-benchmark"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "NPS bars before/after acquisition per hospital plus grey zoom panel with competitor logos and score (Vila Nova Star 94, Albert Einstein 86) as external benchmark.",
   "quality": 2
@@ -158,11 +153,12 @@
   "purpose": "posicionamento-competitivo",
   "message": "High bargain power with insurers: readjustments above IPCA even when Amil dropped Rede D'Or.",
   "visual": [
-   "colunas+linha",
-   "outro:screenshot-noticia"
+   "linha",
+   "colunas",
+   "screenshot-produto"
   ],
   "layout_trick": "Fake browser-window screenshot of the G1 headline embedded as evidence next to the chart of beneficiaries lost, plus dashed key-stat box (readjustment 7.7% vs IPCA 4.4%).",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -170,8 +166,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "High bargain power with suppliers: materials/medicine share of COGS falls with scale.",
   "visual": [
-   "colunas+linha",
-   "outro:foto-analista-citacao"
+   "linha",
+   "citacao-foto"
   ],
   "layout_trick": "Photo of sell-side analyst with direct quote in a grey card used as qualitative proof beside the margin line chart.",
   "quality": 2
@@ -183,12 +179,11 @@
   "message": "Management is experienced and aligned: founder as chairman, pay in line with sector, Moll family holds 47%.",
   "visual": [
    "outro:fotos-executivos",
-   "colunas+linha",
-   "outro:treemap",
-   "outro:logos-experiencia"
+   "colunas",
+   "outro:treemap"
   ],
   "layout_trick": "Executive rows with photos alternating left/right on grey bars, plus dashed boxes of logos showing where the board came from (healthcare / finance).",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -197,8 +192,8 @@
   "message": "Smart expansion: buy local famous hospital brands and keep them, shortening maturation to half the sector time.",
   "visual": [
    "mapa",
-   "outro:logos-marcas",
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Brazil map in blue shades with brand logos (UDI, Esperanca, Sao Rafael) pinned by dashed leaders, next to maturation bars Rede D'Or vs ANAHP.",
   "quality": 2
@@ -209,7 +204,8 @@
   "purpose": "kpis-operacionais",
   "message": "Rede D'Or has better clinical outcomes than ANAHP peers in infections and ICU stay.",
   "visual": [
-   "colunas+linha"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "2x2 grid of four small line/bar charts, each comparing Rede D'Or (dark blue) vs ANAHP (teal) with same legend and axis style for fast reading.",
   "quality": 1
@@ -220,10 +216,10 @@
   "purpose": "kpis-operacionais",
   "message": "Rede D'Or keeps margin leadership because COGS per revenue and per bed are lower than peers.",
   "visual": [
-   "comps-barras",
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
-  "layout_trick": "Three-block layout where the roman header states the finding and the sub-line gives the unit (COGS per hospital bed).",
+  "layout_trick": "Three-block layout: roman-numeral header states the finding, grey sub-line gives the unit (e.g. COGS per hospital bed), highlighted navy bars for Rede D'Or vs teal peers.",
   "quality": 1
  },
  {
@@ -232,12 +228,11 @@
   "purpose": "management-governanca-estrutura",
   "message": "SulAmerica has long-tenured executives and an experienced, diverse board.",
   "visual": [
-   "outro:fotos-executivos",
-   "outro:mesa-redonda-ilustracao",
-   "colunas+linha"
+   "outro:mesa-redonda-logos",
+   "colunas-empilhadas"
   ],
   "layout_trick": "Board drawn as a top-down round-table image with logos of members' former employers grouped by sector in dashed boxes around it.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -245,8 +240,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "SulAmerica is less vulnerable to macro: highest average ticket, beneficiary base grows regardless of SELIC.",
   "visual": [
-   "comps-barras",
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Two dashed callouts annotate the exact insight on the chart (grew even in unemployment spikes; low correlation with rate).",
   "quality": 2
@@ -257,8 +252,7 @@
   "purpose": "premissas-projecoes",
   "message": "Rede D'Or expansion plan was postponed from 2021 to 2023; 2,588 beds slipped.",
   "visual": [
-   "colunas+linha",
-   "outro:callout-razoes"
+   "colunas"
   ],
   "layout_trick": "Two bar series (initial plan vs new plan) with dashed box around TBD bars in grey and a grey trapezoid callout listing reasons for the delay.",
   "quality": 2
@@ -269,10 +263,11 @@
   "purpose": "premissas-projecoes",
   "message": "Hospital beds premise: expansion stalls after 2026 and average ticket readjusts at IPCA + spread.",
   "visual": [
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Projected bars drawn with dashed outlines per year, each topped by a small label 'IPCA+X%', showing assumption directly on the chart.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -280,8 +275,8 @@
   "purpose": "premissas-projecoes",
   "message": "Maturation of beds: 80 beds accredited per year, modelled at ~70.",
   "visual": [
-   "colunas+linha",
-   "outro:callout-premissa"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Dashed-border premise box with the rule and the model choice, beside greenfield/brownfield stacked bars.",
   "quality": 2
@@ -292,7 +287,8 @@
   "purpose": "premissas-projecoes",
   "message": "Oncology revenue grows 9% CAGR as cancer incidence rises, representing ~9% of insurer claims.",
   "visual": [
-   "colunas+linha"
+   "colunas+linha",
+   "colunas"
   ],
   "layout_trick": "Chart pairs revenue bars with % of hospital services line, second chart on cancer cases; popup variant (p27) overlays the CAGR chart on dimmed background.",
   "quality": 2
@@ -304,11 +300,10 @@
   "message": "SulAmerica revenue premise 1: beneficiaries grow with population and constant 5.5% market share.",
   "visual": [
    "colunas+linha",
-   "donut",
-   "outro:callout-premissa"
+   "donut"
   ],
   "layout_trick": "Dark-box 'First Premise' bullets docked at the bottom right; donut zoomed into market share bars through grey wedge.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -316,11 +311,10 @@
   "purpose": "premissas-projecoes",
   "message": "SulAmerica premise 2: claims/premiums (MLR) converge to 81%, not back to pre-pandemic levels.",
   "visual": [
-   "colunas+linha",
-   "outro:callout-premissa"
+   "linha"
   ],
   "layout_trick": "Stacked three-panel: history, projection, and resulting claims/premiums, with the 'Second Premise' box on the right stating the logic.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -328,8 +322,7 @@
   "purpose": "premissas-projecoes",
   "message": "Consolidated revenue (Rede D'Or + SulAmerica) grows at 8.3% CAGR to 2033.",
   "visual": [
-   "colunas+linha",
-   "bridge-cascata"
+   "colunas"
   ],
   "layout_trick": "Left: two separated revenue bar series; right: one tall consolidated series, with dashed CAGR bracket labels on each chart.",
   "quality": 2
@@ -340,11 +333,11 @@
   "purpose": "cenarios",
   "message": "Bear / Base / Bull: target prices R$34.43 / R$36.00 / R$38.00 hinging on expansion plan ending 2025/2026/2028.",
   "visual": [
-   "tabela",
-   "pilares"
+   "pilares",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Three big cards with scenario name in red/blue/green, target price, upside and the single driver (expansion-plan end year) on the bottom.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -352,8 +345,8 @@
   "purpose": "premissas-projecoes",
   "message": "FCFF roots: CAPEX, D&A and working capital projections.",
   "visual": [
-   "colunas+linha",
-   "outro:callout-premissa"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Left: capex lines expansion vs maintenance with dashed premise box; bottom: D&A bars and goodwill amortization.",
   "quality": 1
@@ -364,11 +357,12 @@
   "purpose": "premissas-projecoes",
   "message": "FCFF grows at 51.6% CAGR to 2033 once capex fades and working capital stabilises.",
   "visual": [
-   "colunas+linha",
-   "outro:barras-horizontais"
+   "barras-horizontais",
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Horizontal bars for FCFF by year with dashed bracket and CAGR tag, next to vertical working-capital components.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -376,7 +370,8 @@
   "purpose": "kpis-operacionais",
   "message": "ROIC rises from 10.6% to 18.2% as NOPAT grows faster than invested capital.",
   "visual": [
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Three stacked bands with big blue label tabs (ROIC, NOPAT, Invested Capital) and the ROIC line at the bottom.",
   "quality": 2
@@ -388,11 +383,11 @@
   "message": "WACC 12.02% (Ke 15.65%, Kd 7.48%) and ROIC-WACC spread widens: value creation.",
   "visual": [
    "tabela",
-   "colunas+linha",
+   "linha",
    "outro:equacao-visual"
   ],
   "layout_trick": "WACC table with CAPM equation written as symbols (rf + beta x ERP = Ke) in dashed boxes; right side spread chart ROIC vs flat WACC line.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -401,7 +396,7 @@
   "message": "EV R$99bn: 37% in explicit FCFF, rest in perpetuity; equity value R$82bn after net debt.",
   "visual": [
    "donut",
-   "colunas+linha",
+   "colunas",
    "outro:equacao-visual"
   ],
   "layout_trick": "Donut of explicit vs perpetuity value beside FCFF PV bars, then a full-width EV - Debt + Cash - Provision = Equity bridge as a single sentence-equation row.",
@@ -414,11 +409,10 @@
   "message": "Target price R$36.00, upside 18.6%; sensitivity WACC x g and IRR WACC x margin still show upside.",
   "visual": [
    "heatmap-sensibilidade",
-   "tabela",
-   "outro:equacao-visual"
+   "tabela"
   ],
   "layout_trick": "Two red-yellow-green heatmap tables (price and IRR) stacked on the left, a dashed EV-to-equity box on the right ending in a teal 'Target Price / Upside' bar.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -426,7 +420,7 @@
   "purpose": "valuation-multiplos",
   "message": "IRR 19.4% exceeds Ke 15.6% using forward P/E exit multiples and dividends.",
   "visual": [
-   "colunas+linha",
+   "linha",
    "heatmap-sensibilidade"
   ],
   "layout_trick": "Price path line with callouts for buy price, dividends received and sell price, plus an IRR heatmap and 'IRR 19.4% > Ke 15.6%!' conclusion box.",
@@ -438,7 +432,8 @@
   "purpose": "riscos",
   "message": "Risk map: 5 risks plotted by probability x impact (retaliation, expansion delay, verticalization, de-accreditation, regulation, unemployment).",
   "visual": [
-   "matriz-riscos"
+   "matriz-riscos",
+   "texto-bullets"
   ],
   "layout_trick": "Probability x impact grid with colored numbered squares (O/S/MG codes) on the left and grouped risk legend (Operational, Sectorial, Macro) on the right.",
   "quality": 3
@@ -450,11 +445,10 @@
   "message": "O1: Bradesco Saude retaliation could hit Rede D'Or's concentrated revenue (25% Bradesco).",
   "visual": [
    "matriz-riscos",
-   "donut",
-   "outro:screenshot-noticia"
+   "donut"
   ],
   "layout_trick": "Same risk matrix repeated on the left while the right panel zooms into one risk with donut of revenue concentration; the highlighted risk is the one explained.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
@@ -463,7 +457,7 @@
   "message": "S1: verticalization of operators removes addressable market from the TAM of independent hospitals.",
   "visual": [
    "matriz-riscos",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Fixed matrix per slide plus per-risk quantification (TAM 189 vs 216 total) in the right panel, one risk per slide.",
   "quality": 2
@@ -475,7 +469,7 @@
   "message": "S2: de-accreditation by insurers (Unimed 37 hospitals) is a recurring risk.",
   "visual": [
    "matriz-riscos",
-   "outro:screenshot-noticia"
+   "screenshot-produto"
   ],
   "layout_trick": "Fake browser window with the InfoMoney headline inside the risk card as proof.",
   "quality": 1
@@ -487,7 +481,7 @@
   "message": "MG2: high unemployment hits corporate beneficiary base (80% of plans are corporate).",
   "visual": [
    "matriz-riscos",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Combo chart of beneficiaries vs unemployment rate at the bottom of the risk card, matrix kept at left for orientation.",
   "quality": 1
@@ -498,7 +492,7 @@
   "purpose": "recap",
   "message": "Q&A closing slide.",
   "visual": [
-   "outro:foto-full-bleed-azul"
+   "foto-capa"
   ],
   "layout_trick": "Reuses the cover photo with a huge Q&A title, bookending the deck.",
   "quality": 1
@@ -509,12 +503,12 @@
   "purpose": "apendice",
   "message": "SulAmerica acquisition (R$13bn): synergies partly explored, ROIC of both companies converge after the deal.",
   "visual": [
-   "outro:screenshot-noticia",
-   "outro:foto-analista-citacao",
-   "colunas+linha"
+   "screenshot-produto",
+   "citacao-foto",
+   "linha"
   ],
   "layout_trick": "Headline screenshot + dashed 'R$13 Billion / 63% of SULA 2021 revenue' stat boxes + analyst quote card, followed by a ROIC before/after line.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -522,7 +516,8 @@
   "purpose": "industry-overview",
   "message": "Challenging environment for operators: MLR at highs, costs outgrowing revenue, receivable days rising.",
   "visual": [
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "2x2 grid with grey-blue dashed annotation boxes on each chart carrying the takeaway ('Costs used to be 80% of revenue').",
   "quality": 2
@@ -534,7 +529,7 @@
   "message": "Aggressive expansion plan: 6.5k beds in three years, M&A decreasing, shift to organic via greenfield/brownfield.",
   "visual": [
    "donut",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Donut splits greenfield vs brownfield, with plain-language definitions printed in the bottom-left corner.",
   "quality": 2
@@ -545,11 +540,11 @@
   "purpose": "riscos",
   "message": "Important players (Bradesco, Einstein) are building their own hospitals, pressuring Rede D'Or.",
   "visual": [
-   "colunas+linha",
-   "outro:screenshot-noticia"
+   "colunas",
+   "screenshot-produto"
   ],
   "layout_trick": "Bars split planned vs delivered beds with the 'What is still remaining' label on a dashed overlay and a news screenshot closing the right-bottom corner.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -557,8 +552,8 @@
   "purpose": "valuation-multiplos",
   "message": "Market has low expectations: forward P/E and EV/EBITDA fall; RDOR3 flat vs Ibovespa.",
   "visual": [
-   "colunas+linha",
-   "outro:preco-historico-com-hexagonos"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Grey drop-shadow card for multiples and a price-vs-index line chart with a callout box on the divergence.",
   "quality": 1
@@ -569,11 +564,11 @@
   "purpose": "riscos",
   "message": "Beneficiary losses (Unimed Rio, Amil) are short/medium term only: players still need Rede D'Or.",
   "visual": [
-   "colunas+linha",
-   "outro:screenshot-noticia"
+   "colunas",
+   "screenshot-produto"
   ],
   "layout_trick": "Two G1 news screenshots stacked right with dashed blue overlay boxes on the beneficiary-loss bars to link headline to number.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -581,8 +576,8 @@
   "purpose": "riscos",
   "message": "EBITDA margin is flat despite supplier bargain power because expansion costs weigh.",
   "visual": [
-   "colunas+linha",
-   "outro:foto-analista-citacao"
+   "colunas",
+   "citacao-foto"
   ],
   "layout_trick": "Tall bars with a dashed box on 2023 and a grey wedge expanding into an analyst quote card with video-call photo.",
   "quality": 2
@@ -593,7 +588,7 @@
   "purpose": "financials-historicos",
   "message": "Good financial health: net debt/EBITDA below peers and amortization calendar paid with cash until 2028.",
   "visual": [
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Amortization calendar bars with a dashed blue overlay box on the cash block and callout 'pay their debt until 2028'.",
   "quality": 2
@@ -601,26 +596,26 @@
  {
   "deck": "RedeDOr",
   "page": 60,
-  "purpose": "cenarios",
+  "purpose": "industry-overview",
   "message": "Operator's three phases: before COVID, during, after, with revenue/cost per beneficiary and MLR.",
   "visual": [
-   "colunas+linha",
+   "linha",
    "outro:fases-sombreadas"
   ],
   "layout_trick": "Shaded dashed time-bands (Before / During / After COVID) laid over both charts as one phase timeline, next to a text card per phase.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "RedeDOr",
   "page": 63,
-  "purpose": "cenarios",
+  "purpose": "industry-overview",
   "message": "After COVID: spread returns to stabilization and MLR declines as readjustments land.",
   "visual": [
-   "colunas+linha",
+   "linha",
    "outro:fases-sombreadas"
   ],
   "layout_trick": "Build step where the phase card (with MLR = Claims/Premiums formula in italics) slides over the right half of the chart.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -628,11 +623,11 @@
   "purpose": "mercado-tam-demanda",
   "message": "The 'new normal': nurse minimum wage, autism regulation and cancer incidence structurally raise costs.",
   "visual": [
-   "colunas+linha",
-   "outro:screenshot-noticia"
+   "screenshot-produto",
+   "colunas"
   ],
   "layout_trick": "Four-panel layout with an embedded UOL news screenshot and before/after bars for salary changes with % delta tags.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "RedeDOr",
@@ -640,7 +635,7 @@
   "purpose": "premissas-projecoes",
   "message": "COGS projection: SulAmerica costs fall toward half of total COGS; consolidated mostly materials, medicines and claims.",
   "visual": [
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Two stacked bar charts, separated vs consolidated, in the same blue/teal palette.",
   "quality": 1

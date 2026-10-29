@@ -1,0 +1,5 @@
+# Padrão visual: outro:radar (3 slides)
+
+- `../prints/3RPetroleum_p101.jpg` (★★) "Porter 5 forces scored 1-3: rivalry 2, new entrants 1, suppliers 1, buyers 3, substitutes 3" · visual: outro:radar, texto-bullets · propósito: posicionamento-competitivo · truque: Pentagon radar with numbered vertices matching numbered list entries on the right card.
+- `../prints/RDSaude_p020.jpg` (★★) "Porter forces: a competitive industry with few long-term benefits; scored per force from 1 to 5 with the radar and a Michael Porter book reference." · visual: outro:radar, texto-bullets · propósito: posicionamento-competitivo · truque: Radar chart of the five forces on the left with filled concentric pentagons, and on the right a scored text list (Threat of new entrants: 3, Rivalry: 4, ...) with a book-cover thumbnail for credibility.
+- `../prints/Meliuz_p074.jpg` (★) "Cinco Forças de Porter: pentágono radar com notas ponderadas" · visual: outro:radar, texto-bullets · propósito: posicionamento-competitivo · truque: Pentágono radar de camadas rosa com cinco etiquetas e caixas tracejadas ligadas por setas curvas, seguido de slides de tabela de critérios com notas.

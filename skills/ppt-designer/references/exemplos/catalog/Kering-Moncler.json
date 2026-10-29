@@ -1,25 +1,283 @@
 [
-{"deck":"Kering-Moncler","page":1,"purpose":"capa","message":"M&A deck cover: Kering acquiring Moncler, Catolica Lisbon Investment Partners.","visual":["outro:foto-full-bleed"],"layout_trick":"Full-bleed alpine mountain photo with both brand logos floating over the sky and tiny deck-type tag bottom-right; photo metaphor ties to Moncler's outerwear origin.","quality":2},
-{"deck":"Kering-Moncler","page":3,"purpose":"recomendacao-exec-summary","message":"Kering should launch a public tender for 100% of Moncler at EUR64.63/share (20% premium, ~EUR17.5bn), 45% cash / 50% debt / 5% stock, DCF range EUR50-65.","visual":["tabela"],"layout_trick":"Exec summary as 6 label/text rows (Proposed Transaction, Price/Premium, Rationale, Synergies, Valuation, Recommendation) separated by hairlines, small-caps labels in left column, zero charts.","quality":2},
-{"deck":"Kering-Moncler","page":5,"purpose":"industry-overview","message":"Luxury market grew from 2008 to 2025 at ~4.9% CAGR but post-pandemic boom is over; growth now price-driven, volume lost ~80M consumers.","visual":["colunas+linha","timeline"],"layout_trick":"Bar series segmented by dashed vertical dividers labelled with market phases (Crisis, Chinese acceleration, Covid...) plus CAGR arrow, paired with an event timeline and 3 big-number stat strips below.","quality":3},
-{"deck":"Kering-Moncler","page":6,"purpose":"posicionamento-competitivo","message":"Kering has structurally underperformed luxury peers over 5 years, not cyclically.","visual":["outro:linhas-performance-relativa","tabela","heatmap-sensibilidade"],"layout_trick":"Indexed share-price line chart over a logo-header returns table (L1M to 5Y) with peer logos as column headers and green/red coloured numbers.","quality":2},
-{"deck":"Kering-Moncler","page":7,"purpose":"industry-overview","message":"Specialist luxury brands win the recovery while generalists (Gucci, Kering) struggle; 9 of 15 top brands changed creative director.","visual":["colunas+linha","lineup-imagens","outro:highlight-zonas"],"layout_trick":"Bar chart with green 'Specialists' and red 'Generalists' shaded zones, next to a wordmark-logo list showing outgoing to incoming creative director with dotted arrows.","quality":3},
-{"deck":"Kering-Moncler","page":8,"purpose":"mercado-tam-demanda","message":"Structural attractiveness is intact but growth is more selective: Asia and Middle East lead, and Moncler's category (apparel/footwear) outgrows Kering's leather goods.","visual":["mapa","colunas+linha","tabela"],"layout_trick":"Four-panel dashboard: two small bar charts, bubble-on-map with % growth, and category bars with Moncler core category and Kering main exposure highlighted in gold boxes.","quality":2},
-{"deck":"Kering-Moncler","page":10,"purpose":"business-overview","message":"Kering is a multi-brand luxury platform at an inflection point, with EBIT margin down from 28.5% to 11.1% since 2021.","visual":["tabela","lineup-imagens","organograma","colunas+linha"],"layout_trick":"Dense at-a-glance page: description + shareholder tree, brand logo grid, board/management table, key financials table with the EBIT margin row boxed in a coloured frame, and revenue-by-brand bars.","quality":3},
-{"deck":"Kering-Moncler","page":11,"purpose":"mercado-tam-demanda","message":"Kering has three structural vulnerabilities (Gucci concentration, China misalignment, leather goods exposure), not one cyclical problem.","visual":["mapa","outro:treemap","colunas+linha"],"layout_trick":"Regional bubble map plus a treemap of revenue by category with a gold call-out box beside it, and Gucci vs group ROI bars with overlaid line.","quality":2},
-{"deck":"Kering-Moncler","page":12,"purpose":"historico-empresa","message":"Gucci's turnaround is under way (new creative director, CEO changes) but commercial impact is not expected before 2027, and past luxury resets took 3-4 years.","visual":["timeline","colunas+linha"],"layout_trick":"Horizontal milestone timeline with labels alternating above and below the axis, over a bar comparison of prior brand turnarounds with a gold conclusion box.","quality":3},
-{"deck":"Kering-Moncler","page":14,"purpose":"business-overview","message":"Moncler is a focused two-brand luxury specialist (Moncler and Stone Island) with 29% EBIT margin and continuity of management.","visual":["tabela","organograma","lineup-imagens","colunas+linha"],"layout_trick":"Same 3-column business overview template as the Kering page, so target and acquirer read as a matched pair; key-financials EBIT margin row highlighted in green frame.","quality":2},
-{"deck":"Kering-Moncler","page":15,"purpose":"posicionamento-competitivo","message":"Moncler gained Asian share (52% of revenue) even while the regional market declined, outperforming LVMH, Gucci and YSL exposure.","visual":["mapa","colunas+linha"],"layout_trick":"Two world maps with bubble sizes per region (Moncler, Stone Island) beside paired 2024/2025 bars per peer, with the Moncler column framed in gold.","quality":2},
-{"deck":"Kering-Moncler","page":16,"purpose":"posicionamento-competitivo","message":"Moncler holds a category moat: no scaled competitor sits at the intersection of luxury and technical outerwear.","visual":["outro:mapa-posicionamento-logos","tabela"],"layout_trick":"Positioning map with brand logos placed on an accessible-to-ultra-luxury axis and fashion-to-specialist axis, Moncler/Stone Island/Canada Goose alone in the empty corner, with a bold callout and 5 benefit bullets on the right.","quality":3},
-{"deck":"Kering-Moncler","page":17,"purpose":"kpis-operacionais","message":"Moncler sustained ~29% EBIT margin while the industry fell to 15-16%, with growing net cash and stable FCF.","visual":["outro:linhas-margem-peers","colunas+linha"],"layout_trick":"Left line chart of peer EBIT margins with Moncler highlighted; right stack of cash/debt back-to-back bars and FCF bars, 3 panels with section headers and rule lines.","quality":2},
-{"deck":"Kering-Moncler","page":19,"purpose":"tese-pilares-divisor","message":"Moncler addresses each of six structural weaknesses in Kering's portfolio.","visual":["tabela","icones+dado-curto"],"layout_trick":"Weakness-to-solution table with red/amber traffic-light circle icons in the first column and a dark header row; columns Why it matters, Moncler solution, Strategic implication.","quality":3},
-{"deck":"Kering-Moncler","page":20,"purpose":"football-field","message":"Football field across seven methodologies supports a ~20% premium, with offer EUR64.63 above the analyst and DCF ranges.","visual":["football-field","tabela"],"layout_trick":"Football field integrated into a table: each row has method name, floating bar with low/high labels, implied FV low/high and a comment column, with a shaded vertical band for the offer range.","quality":3},
-{"deck":"Kering-Moncler","page":21,"purpose":"valuation-multiplos","message":"The transaction is accretive and value-creative: offer price vs standalone upside plus strategic premium, with EPS accretion growing to FY2030.","visual":["bridge-cascata","colunas+linha"],"layout_trick":"Price build-up bars (share price, standalone upside, fair price, strategic premium boxed, target price) next to paired EPS Kering vs pro forma bars with accretion line.","quality":2},
-{"deck":"Kering-Moncler","page":22,"purpose":"premissas-projecoes","message":"Revenue synergies of EUR38M and cost synergies of EUR69M by FY2030 are phased in conservatively.","visual":["colunas+linha","tabela"],"layout_trick":"Mirrored twin panels (revenue vs cost synergies), each with annual bars, accumulated line, a gold assumption box and a mini-table of standalone vs post-synergy figures underneath.","quality":2},
-{"deck":"Kering-Moncler","page":23,"purpose":"financials-historicos","message":"Combined group is more balanced and more profitable: EUR18.3bn revenue, 15.8% EBIT margin and EUR5.5bn EBITDA pro forma.","visual":["donut","colunas+linha","tabela"],"layout_trick":"Before/after donuts with arrow showing brand mix shift, small multiples bars for revenue/margins/FCF, and a pro-forma bridge table with columns Kering, Moncler, adjustments, pro forma.","quality":2},
-{"deck":"Kering-Moncler","page":25,"purpose":"management-governanca-estrutura","message":"Governance design must preserve Ruffini's alignment and Moncler's brand independence via a 10-member board and take-private ownership structure.","visual":["organograma","outro:board-table-3d","tabela"],"layout_trick":"Boardroom drawn as a round table with chair icons around it labelled per director, next to an ownership org chart (Kering to Moncler to Stone Island) and pre/post-deal shareholder table.","quality":3},
-{"deck":"Kering-Moncler","page":26,"purpose":"modelo-negocio-unit-economics","message":"Financing is structured within investment-grade limits: leverage peaks at 2.9x ND/EBITDA and delevers to 1.4x by FY2030, below the 3.0x BBB+ threshold.","visual":["tabela","outro:area-line-threshold"],"layout_trick":"Sources and Uses ledger on the left and a credit profile table plus area chart of ND/EBITDA with a gold dashed S&P threshold line on the right.","quality":2},
-{"deck":"Kering-Moncler","page":28,"purpose":"riscos","message":"All six risks are manageable, but two (Ruffini governance, LVMH minority stake) require pre-closing resolution.","visual":["matriz-riscos","tabela"],"layout_trick":"Probability x impact heat grid with numbered coloured bubbles (red, amber, green) and a shaded 'pre-closing' zone, matched by a numbered table of risk, probability, impact, mitigation and residual risk.","quality":3},
-{"deck":"Kering-Moncler","page":30,"purpose":"recomendacao-exec-summary","message":"Recommend acquiring Moncler now: right asset, executable and accretive financially, and timing will not improve; subject to four pre-announcement conditions.","visual":["pilares","tabela"],"layout_trick":"Three stacked boxes linked by a vertical connector on the left (strategic, financial, timing) plus a dark callout box, and a numbered conditions list on the right with gold titles.","quality":2},
-{"deck":"Kering-Moncler","page":2,"purpose":"apendice","message":"Table of contents with seven sections and page numbers.","visual":["tabela"],"layout_trick":"Gold left accent bar on each entry and dotted leaders to right-aligned page numbers; the same section list is repeated as a footer breadcrumb with the current section highlighted in gold on every content slide.","quality":1}
+ {
+  "deck": "Kering-Moncler",
+  "page": 1,
+  "purpose": "capa",
+  "message": "M&A deck cover: Kering acquiring Moncler, Catolica Lisbon Investment Partners.",
+  "visual": [
+   "foto-capa"
+  ],
+  "layout_trick": "Full-bleed alpine mountain photo with both brand logos floating over the sky and tiny deck-type tag bottom-right; photo metaphor ties to Moncler's outerwear origin.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 3,
+  "purpose": "recomendacao-exec-summary",
+  "message": "Kering should launch a public tender for 100% of Moncler at EUR64.63/share (20% premium, ~EUR17.5bn), 45% cash / 50% debt / 5% stock, DCF range EUR50-65.",
+  "visual": [
+   "tabela",
+   "texto-bullets"
+  ],
+  "layout_trick": "Exec summary as 6 label/text rows (Proposed Transaction, Price/Premium, Rationale, Synergies, Valuation, Recommendation) separated by hairlines, small-caps labels in left column, zero charts.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 5,
+  "purpose": "industry-overview",
+  "message": "Luxury market grew from 2008 to 2025 at ~4.9% CAGR but post-pandemic boom is over; growth now price-driven, volume lost ~80M consumers.",
+  "visual": [
+   "colunas",
+   "timeline",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Column series segmented by dashed vertical dividers labelled with market phases (Crisis, Chinese acceleration, Covid...) plus CAGR arrow, paired with an event timeline and 3 big-number stat strips below.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 6,
+  "purpose": "posicionamento-competitivo",
+  "message": "Kering has structurally underperformed luxury peers over 5 years, not cyclically.",
+  "visual": [
+   "linha",
+   "tabela"
+  ],
+  "layout_trick": "Indexed share-price line chart over a logo-header returns table (L1M to 5Y) with peer logos as column headers and green/red coloured numbers.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 7,
+  "purpose": "industry-overview",
+  "message": "Specialist luxury brands win the recovery while generalists (Gucci, Kering) struggle; 9 of 15 top brands changed creative director.",
+  "visual": [
+   "colunas",
+   "lineup-imagens",
+   "texto-bullets"
+  ],
+  "layout_trick": "Bar chart with green 'Specialists' and red 'Generalists' shaded zones, next to a wordmark-logo list showing outgoing to incoming creative director with dotted arrows.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 8,
+  "purpose": "mercado-tam-demanda",
+  "message": "Structural attractiveness is intact but growth is more selective: Asia and Middle East lead, and Moncler's category (apparel/footwear) outgrows Kering's leather goods.",
+  "visual": [
+   "colunas",
+   "mapa",
+   "colunas"
+  ],
+  "layout_trick": "Four-panel dashboard: two small bar charts, bubble-on-map with % growth, and category bars with Moncler core category and Kering main exposure highlighted in gold boxes.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 10,
+  "purpose": "business-overview",
+  "message": "Kering is a multi-brand luxury platform at an inflection point, with EBIT margin down from 28.5% to 11.1% since 2021.",
+  "visual": [
+   "tabela",
+   "lineup-imagens",
+   "colunas"
+  ],
+  "layout_trick": "Dense at-a-glance page: description + shareholder tree, brand logo grid, board/management table, key financials table with the EBIT margin row boxed in a coloured frame, and revenue-by-brand bars.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 11,
+  "purpose": "mercado-tam-demanda",
+  "message": "Kering has three structural vulnerabilities (Gucci concentration, China misalignment, leather goods exposure), not one cyclical problem.",
+  "visual": [
+   "mapa",
+   "colunas",
+   "outro:treemap"
+  ],
+  "layout_trick": "Regional bubble map plus a treemap of revenue by category with a gold call-out box beside it, and Gucci vs group ROI bars with overlaid line.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 12,
+  "purpose": "historico-empresa",
+  "message": "Gucci's turnaround is under way (new creative director, CEO changes) but commercial impact is not expected before 2027, and past luxury resets took 3-4 years.",
+  "visual": [
+   "timeline",
+   "colunas"
+  ],
+  "layout_trick": "Horizontal milestone timeline with labels alternating above and below the axis, over a bar comparison of prior brand turnarounds with a gold conclusion box.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 14,
+  "purpose": "business-overview",
+  "message": "Moncler is a focused two-brand luxury specialist (Moncler and Stone Island) with 29% EBIT margin and continuity of management.",
+  "visual": [
+   "tabela",
+   "lineup-imagens",
+   "colunas"
+  ],
+  "layout_trick": "Same 3-column business overview template as the Kering page, so target and acquirer read as a matched pair; key-financials EBIT margin row highlighted in green frame.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 15,
+  "purpose": "posicionamento-competitivo",
+  "message": "Moncler gained Asian share (52% of revenue) even while the regional market declined, outperforming LVMH, Gucci and YSL exposure.",
+  "visual": [
+   "mapa",
+   "colunas"
+  ],
+  "layout_trick": "Two world maps with bubble sizes per region (Moncler, Stone Island) beside paired 2024/2025 bars per peer, with the Moncler column framed in gold.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 16,
+  "purpose": "posicionamento-competitivo",
+  "message": "Moncler holds a category moat: no scaled competitor sits at the intersection of luxury and technical outerwear.",
+  "visual": [
+   "outro:mapa-posicionamento-logos",
+   "texto-bullets"
+  ],
+  "layout_trick": "Positioning map with brand logos placed on an accessible-to-ultra-luxury axis and fashion-to-specialist axis, Moncler/Stone Island/Canada Goose alone in the empty corner, with a bold callout and 5 benefit bullets on the right.",
+  "quality": 3
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 17,
+  "purpose": "kpis-operacionais",
+  "message": "Moncler sustained ~29% EBIT margin while the industry fell to 15-16%, with growing net cash and stable FCF.",
+  "visual": [
+   "linha",
+   "colunas"
+  ],
+  "layout_trick": "Left line chart of peer EBIT margins with Moncler highlighted; right stack of cash/debt back-to-back bars and FCF bars, 3 panels with section headers and rule lines.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 19,
+  "purpose": "tese-pilares-divisor",
+  "message": "Moncler addresses each of six structural weaknesses in Kering's portfolio.",
+  "visual": [
+   "tabela",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Weakness-to-solution table with red/amber traffic-light circle icons in the first column and a dark header row; columns Why it matters, Moncler solution, Strategic implication.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 20,
+  "purpose": "football-field",
+  "message": "Football field across seven methodologies supports a ~20% premium, with offer EUR64.63 above the analyst and DCF ranges.",
+  "visual": [
+   "football-field",
+   "tabela"
+  ],
+  "layout_trick": "Football field integrated into a table: each row has method name, floating bar with low/high labels, implied FV low/high and a comment column, with a shaded vertical band for the offer range.",
+  "quality": 3
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 21,
+  "purpose": "valuation-multiplos",
+  "message": "The transaction is accretive and value-creative: offer price vs standalone upside plus strategic premium, with EPS accretion growing to FY2030.",
+  "visual": [
+   "colunas",
+   "colunas+linha"
+  ],
+  "layout_trick": "Price build-up bars (share price, standalone upside, fair price, strategic premium boxed, target price) next to paired EPS Kering vs pro forma bars with accretion line.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 22,
+  "purpose": "premissas-projecoes",
+  "message": "Revenue synergies of EUR38M and cost synergies of EUR69M by FY2030 are phased in conservatively.",
+  "visual": [
+   "colunas+linha",
+   "tabela"
+  ],
+  "layout_trick": "Mirrored twin panels (revenue vs cost synergies), each with annual bars, accumulated line, a gold assumption box and a mini-table of standalone vs post-synergy figures underneath.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 23,
+  "purpose": "financials-historicos",
+  "message": "Combined group is more balanced and more profitable: EUR18.3bn revenue, 15.8% EBIT margin and EUR5.5bn EBITDA pro forma.",
+  "visual": [
+   "donut",
+   "colunas",
+   "tabela"
+  ],
+  "layout_trick": "Before/after donuts with arrow showing brand mix shift, small multiples bars for revenue/margins/FCF, and a pro-forma bridge table with columns Kering, Moncler, adjustments, pro forma.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 25,
+  "purpose": "management-governanca-estrutura",
+  "message": "Governance design must preserve Ruffini's alignment and Moncler's brand independence via a 10-member board and take-private ownership structure.",
+  "visual": [
+   "organograma",
+   "tabela"
+  ],
+  "layout_trick": "Boardroom drawn as a round table with chair icons around it labelled per director, next to an ownership org chart (Kering to Moncler to Stone Island) and pre/post-deal shareholder table.",
+  "quality": 2
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 26,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Financing is structured within investment-grade limits: leverage peaks at 2.9x ND/EBITDA and delevers to 1.4x by FY2030, below the 3.0x BBB+ threshold.",
+  "visual": [
+   "tabela",
+   "area"
+  ],
+  "layout_trick": "Sources and Uses ledger on the left and a credit profile table plus area chart of ND/EBITDA with a gold dashed S&P threshold line on the right.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 28,
+  "purpose": "riscos",
+  "message": "All six risks are manageable, but two (Ruffini governance, LVMH minority stake) require pre-closing resolution.",
+  "visual": [
+   "matriz-riscos",
+   "tabela"
+  ],
+  "layout_trick": "Probability x impact heat grid with numbered coloured bubbles (red, amber, green) and a shaded 'pre-closing' zone, matched by a numbered table of risk, probability, impact, mitigation and residual risk.",
+  "quality": 3
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 30,
+  "purpose": "recomendacao-exec-summary",
+  "message": "Recommend acquiring Moncler now: right asset, executable and accretive financially, and timing will not improve; subject to four pre-announcement conditions.",
+  "visual": [
+   "texto-bullets",
+   "pilares"
+  ],
+  "layout_trick": "Three stacked boxes linked by a vertical connector on the left (strategic, financial, timing) plus a dark callout box, and a numbered conditions list on the right with gold titles.",
+  "quality": 1
+ },
+ {
+  "deck": "Kering-Moncler",
+  "page": 2,
+  "purpose": "apendice",
+  "message": "Table of contents with seven sections and page numbers.",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Gold left accent bar on each entry and dotted leaders to right-aligned page numbers; the same section list is repeated as a footer breadcrumb with the current section highlighted in gold on every content slide.",
+  "quality": 1
+ }
 ]

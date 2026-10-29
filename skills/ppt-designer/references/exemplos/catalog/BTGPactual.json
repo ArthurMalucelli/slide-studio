@@ -5,7 +5,7 @@
   "purpose": "capa",
   "message": "MCA Capital cover for BTG Pactual, Constellation Challenge 2021.",
   "visual": [
-   "outro:foto-escura-overlay"
+   "foto-capa"
   ],
   "layout_trick": "Dark navy full-bleed photo with a translucent dark band behind the title block and team names letter-spaced at the bottom; co-branding logos bottom-right.",
   "quality": 2
@@ -16,7 +16,7 @@
   "purpose": "recomendacao-exec-summary",
   "message": "BUY, target BRL 154.2 vs current 101.5 = 52% upside, supported by three theses.",
   "visual": [
-   "outro:caixa-recomendacao",
+   "kpi-numeros-grandes",
    "pilares"
   ],
   "layout_trick": "Thin-bordered box with BUY highlighted in green and price-to-target connected by a line carrying the upside %, then a bottom strip with three numbered thesis tiles separated by x marks.",
@@ -28,9 +28,8 @@
   "purpose": "business-overview",
   "message": "LatAm's largest investment bank is heading into digital retail; revenue split 48% capital-intensive vs 33% client-fee, plus 19% non-core.",
   "visual": [
-   "funil-piramide",
-   "tabela",
-   "icones+dado-curto"
+   "kpi-numeros-grandes",
+   "fluxo-processo"
   ],
   "layout_trick": "Core-business box with big % next to each line, funnelling via a cyan trapezoid into a circular logo and then three launched digital units (with launch years) on the right.",
   "quality": 3
@@ -45,7 +44,7 @@
    "icones+dado-curto"
   ],
   "layout_trick": "Section divider with a vertical icon rail (one icon per thesis) where the active thesis is highlighted by a translucent box over the photo and the others are dimmed.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -53,8 +52,9 @@
   "purpose": "mercado-tam-demanda",
   "message": "Brazil's capital markets are underdeveloped (3% of GDP vs 14% US) and falling rates drive credit costs down and issuance up.",
   "visual": [
-   "outro:barras-horizontais-empilhadas",
-   "colunas+linha"
+   "barras-horizontais",
+   "colunas-empilhadas",
+   "linha"
   ],
   "layout_trick": "Two-panel slide with a blue sentence-lead above each chart, Brazil bar flagged by a callout label, paired with a stacked-column issuance chart overlaid with a cost-of-credit line.",
   "quality": 2
@@ -65,11 +65,11 @@
   "purpose": "posicionamento-competitivo",
   "message": "Wholesale is 94% of BTG's revenue vs 6-32% at retail banks, with 47% lead-coordinator, 84% seniority and 79% market share in ECM.",
   "visual": [
-   "colunas+linha",
+   "colunas",
    "icones+dado-curto"
   ],
   "layout_trick": "Single bar chart with BTG in dark navy against light-blue peers, beside three stacked teal tiles each pairing an icon, a giant % and a label; earlier build step greys out the right half.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -77,8 +77,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "BTG leads ECM mandates despite a smaller credit portfolio, and its credit book grew 280% in 2016-20 vs 35-78% for peers.",
   "visual": [
-   "outro:scatter-com-reta",
-   "outro:area-empilhada"
+   "scatter-bolhas",
+   "area"
   ],
   "layout_trick": "Scatter of mandates vs lending volume with a regression line and a BTG callout box plus peer logos as markers; paired with stacked-area chart carrying CAGR chips in brand colours.",
   "quality": 2
@@ -89,12 +89,11 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Corporate lending: cheaper funding plus lower credit risk, and the SME receivables strategy gives low provisions + high spreads = margin gains.",
   "visual": [
-   "outro:circulos-proporcionais",
-   "outro:equacao-visual",
-   "outro:fluxo-simples"
+   "kpi-numeros-grandes",
+   "fluxo-processo"
   ],
   "layout_trick": "Two proportional circles (R$53.6bn to R$107.2bn) plus a mini flow diagram and an equation strip with coloured tiles (Low Provisions + High Spreads = Margin Gains).",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -102,12 +101,11 @@
   "purpose": "mercado-tam-demanda",
   "message": "Falling Selic is driving greater volume and sophistication in Brazilian capital markets, with fund count and search interest rising.",
   "visual": [
-   "outro:linha-selic",
-   "outro:area-empilhada",
-   "outro:google-trends"
+   "linha",
+   "area"
   ],
   "layout_trick": "Three charts on one slide (Selic line, fund-count stacked area, Google Trends) tied together by a dark quote strip citing an industry executive.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "BTGPactual",
@@ -115,8 +113,7 @@
   "purpose": "mercado-tam-demanda",
   "message": "HNWIs are pushing BTG's AUM: 2020 HNWI assets grew 43% YoY.",
   "visual": [
-   "colunas+linha",
-   "outro:callout-seta-curva"
+   "colunas-empilhadas"
   ],
   "layout_trick": "Stacked AUM columns by client type with a curved light-blue arrow rising from the 2018 bar to a bold takeaway text, ending in a question box that hands off to the next slide.",
   "quality": 2
@@ -127,8 +124,7 @@
   "purpose": "posicionamento-competitivo",
   "message": "BTG Private Banking is ranked #1 in Brazil's best PB services 2020, with more than 15 wealth-management awards.",
   "visual": [
-   "outro:barras-100-empilhadas",
-   "outro:ranking-1-2-3"
+   "barra-100"
   ],
   "layout_trick": "100%-stacked horizontal bars by client segment beside a podium-style 1st/2nd/3rd logo row, with the right side faded in the earlier build.",
   "quality": 2
@@ -139,12 +135,11 @@
   "purpose": "mercado-tam-demanda",
   "message": "Wealth management is a R$3.6tn market in three segments; adding High Income Retail takes BTG's TAM from R$1.5tn to R$2.5tn, +74%.",
   "visual": [
-   "colunas+linha",
-   "outro:segmentos-com-barreiras",
-   "outro:seta-curva-TAM"
+   "colunas-empilhadas",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Stacked column on the left aligned with horizontal labelled bands (barriers to entry, who serves them), and an arc-arrow between two big TAM figures with the % increase on it.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -152,7 +147,7 @@
   "purpose": "mercado-tam-demanda",
   "message": "IFAs suit clients better than bank managers: advisors cover about 100 clients each vs 400 per bank manager, offering broad products, UX and close advice.",
   "visual": [
-   "outro:cadeia-de-valor",
+   "fluxo-processo",
    "icones+dado-curto"
   ],
   "layout_trick": "Mini value-chain on the left (brokers/banks > advisors > clients) with a numbered 1-2-3 list on the right and a boxed comparison of clients per manager.",
@@ -175,9 +170,8 @@
   "purpose": "pesquisa-primaria",
   "message": "BTG's team spoke to 39 IFA offices (22 BTG, 16 XP, 1 Safra); only 9% consider becoming a broker.",
   "visual": [
-   "outro:foto-reuniao-video",
-   "outro:barra-de-progresso",
-   "outro:contagem-escritorios"
+   "kpi-numeros-grandes",
+   "screenshot-produto"
   ],
   "layout_trick": "Real screenshot of the video call as evidence, with a large '39 IFA offices' headline and a thin progress bar showing 9% vs 91% to dramatise the finding.",
   "quality": 3
@@ -188,7 +182,7 @@
   "purpose": "posicionamento-competitivo",
   "message": "BTG's weapon: sophisticated IFAs (HNWI, cross-sell, certified professionals) bring much greater value than standard IFAs that concentrate a large share of assets.",
   "visual": [
-   "outro:grid-logos",
+   "lineup-imagens",
    "icones+dado-curto"
   ],
   "layout_trick": "Two dotted-border logo clusters (sophisticated vs standard IFAs) each connected via a diamond bullet to a row of characteristics, ending with a 2-icon conclusion.",
@@ -200,8 +194,7 @@
   "purpose": "posicionamento-competitivo",
   "message": "BTG matches XP on product (27% vs 13% standout) and trails slightly on technology (23% vs 13%), but 86% of advisors expect both to commoditise.",
   "visual": [
-   "comps-barras",
-   "outro:caixa-ressalva"
+   "barra-100"
   ],
   "layout_trick": "Side-by-side 100% stacked columns for Products and Technology (BTG > XP / equal / XP > BTG) with a dark verdict bar underneath and a bordered 'However...' box with the key stat.",
   "quality": 3
@@ -212,10 +205,10 @@
   "purpose": "pesquisa-primaria",
   "message": "Advisors describe an open channel to BTG executives (quotes from Cordier and Lifetime).",
   "visual": [
-   "outro:citacao-com-foto"
+   "citacao-foto"
   ],
   "layout_trick": "Two alternating quote bands, a round headshot on the right for the first and on the left for the second, with hex-shaped light-blue backgrounds and highlighted key phrases.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -223,8 +216,8 @@
   "purpose": "pesquisa-primaria",
   "message": "Access to the investment bank gives a distinct value proposition: a BlackBridge client case where the advisor called BTG immediately for corporate solutions.",
   "visual": [
-   "outro:foto-case",
-   "outro:citacao-destaque"
+   "citacao-foto",
+   "texto-bullets"
   ],
   "layout_trick": "Large video-call photo grid on the left, dark quote bar on the right with italic highlighted line, short case narrative with bolded facts below.",
   "quality": 2
@@ -235,11 +228,11 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Encouraging cross-sell benefits all stakeholders: BTG Digital + Robust Bank Structure + Open Channel + Right Incentives make BTG more efficient at cross-sell vs XP.",
   "visual": [
-   "outro:fluxo-vertical",
+   "fluxo-processo",
    "icones+dado-curto"
   ],
   "layout_trick": "Vertical Company-Advisor-Investment Bank chain with green checks, contrasted against XP's chain with red X boxes in the earlier build; final 'In short' 3-icon equation.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -247,7 +240,7 @@
   "purpose": "mercado-tam-demanda",
   "message": "There is a clear winner, and there are two: brokers/challengers rise to 40% of the market by 2025E and BTG and XP lead the WuC share.",
   "visual": [
-   "colunas+linha",
+   "colunas-empilhadas",
    "donut"
   ],
   "layout_trick": "Stacked columns of investment market with a % share line, linked by a thin line to a donut (R$2.3tn centre) with the BTG, XP and others WuC shares labelled.",
@@ -260,7 +253,7 @@
   "message": "Open Banking is traditional banks' nightmare: current-account concentration of the top 5 banks falls from 67.1% to 59.2%, ending the data monopoly.",
   "visual": [
    "colunas+linha",
-   "outro:fluxo-3-passos"
+   "fluxo-processo"
   ],
   "layout_trick": "Stacked columns with a concentration line, a green mini-legend box numbering the causes, and a dark callout strip plus a 3-step slanted-tile flow for the change.",
   "quality": 2
@@ -271,11 +264,11 @@
   "purpose": "posicionamento-competitivo",
   "message": "Banks (product-oriented) vs fintechs (customer-oriented): BTG combines both, with a profitable IB structure (R$3.8bn 2019 net income) and a fully digital retail entrance.",
   "visual": [
-   "outro:hexagonos-opostos",
-   "comps-barras"
+   "pilares",
+   "colunas"
   ],
   "layout_trick": "Two opposing hexagonal panels (Product-oriented vs Customer-oriented) meeting at a central circular BTG logo, with a mini net-income bar chart on the left and a pentagon on the right.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -283,8 +276,8 @@
   "purpose": "kpis-operacionais",
   "message": "Card adoption is easy (2.2x active cards per account) but recurrence of use is the tricky part; BTG+ is expected to solve it.",
   "visual": [
-   "colunas+linha",
-   "outro:callout-escuro"
+   "linha",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Two-line time series (checking accounts vs active cards) with a big '2.2x' ratio callout on the plot and a dark box delivering the conviction statement plus 'Why?' hook.",
   "quality": 2
@@ -295,11 +288,11 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Highly integrated platforms (BTG+, BTG Digital) create a feedback cycle with a two-touch redirect from current account to investments.",
   "visual": [
-   "outro:mockups-celular",
-   "timeline"
+   "screenshot-produto",
+   "fluxo-processo"
   ],
   "layout_trick": "Three phone mockups on a horizontal arrow labelled 1st touch / 2nd touch / arrived, with start and end labels at the edges of the line.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -307,8 +300,8 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Ecosystem stickiness: customers enter via low-switching-cost BTG+ and end up in a high-switching-cost layer (BTG Digital, SME Lending).",
   "visual": [
-   "outro:pilha-ecossistema",
-   "outro:chevrons-low-high"
+   "pilares",
+   "fluxo-processo"
   ],
   "layout_trick": "Vertical stack of three product tiles on the left joined by LOW and HIGH chevrons pointing to a numbered 3-step explanation panel.",
   "quality": 2
@@ -319,11 +312,10 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "An even larger feedback cycle: investment bank (core business) and digital bank (DRU) reinforce each other through origination, IB products, funding and IFA proposition.",
   "visual": [
-   "outro:ciclo-circular",
-   "icones+dado-curto"
+   "flywheel-ciclo"
   ],
   "layout_trick": "Two big circular arrows (dark and light blue) around a central logo with DRU and Core Business labels and four satellite text blocks at the diagonals.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -342,7 +334,7 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "BTG's partnership model drives business-scope expansion: never in a comfortable position, integrated units, lean structure unlock new business units.",
   "visual": [
-   "outro:chevrons-convergentes",
+   "fluxo-processo",
    "timeline"
   ],
   "layout_trick": "Three horizontal tag bars converge into a large dark-blue arrow pointing right to a 'unlocks value from new business units' statement; the timeline sits to the left.",
@@ -354,7 +346,7 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Partners enter at book value and may sell at the lowest of book or market value, keeping them sharp: ROE averaged 15% in four years and partner equity returns are higher for those who stayed.",
   "visual": [
-   "outro:linha-roe",
+   "linha",
    "colunas+linha"
   ],
   "layout_trick": "ROE line chart with a dotted average line at 15% and labelled troughs/peaks, beside a column chart of partners' equity; header strip with the three-pillar labels at the top.",
@@ -363,14 +355,14 @@
  {
   "deck": "BTGPactual",
   "page": 56,
-  "purpose": "mercado-tam-demanda",
+  "purpose": "modelo-negocio-unit-economics",
   "message": "The partnership model promotes integration: revenue by business unit grows at 32% CAGR with cross-selling lifting all areas, 'the whole cake must grow and not just the slice'.",
   "visual": [
-   "outro:metafora-bolo",
-   "outro:area-empilhada"
+   "area",
+   "outro:ilustracao-metafora"
   ],
   "layout_trick": "Cake metaphor illustration (small cake growing into big cake) on the left next to a stacked-area chart with CAGR labels per layer on the right edge.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -379,10 +371,10 @@
   "message": "G7 Holdings, André Esteves and 237 partners control the bank, with the Senior Partners holding 87% of voting power through ON shares.",
   "visual": [
    "organograma",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Compact ownership org chart (holding > BTG Holding > BPAC11 units, free float 26.1%) beside ON vs PN bar charts, with a highlighted callout for the 87% voting power.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -390,8 +382,8 @@
   "purpose": "management-governanca-estrutura",
   "message": "Senior partners choose the best successors: the 2008 and 2021 controller classes show a deep bench (Esteves, Sallouti, Arida and new partners).",
   "visual": [
-   "outro:foto-citacao",
-   "outro:retratos-circulares"
+   "citacao-foto",
+   "texto-bullets"
   ],
   "layout_trick": "Large portrait of the former founder with a quote overlay and a 'we talked to' dark caption bar; right column stacks two lists of partners beside round/diamond portraits per era.",
   "quality": 2
@@ -402,7 +394,7 @@
   "purpose": "pesquisa-primaria",
   "message": "Pérsio Arida says BTG is the only banking case in history that suffered a full-fledged run and survived without a bailout.",
   "visual": [
-   "outro:foto-citacao"
+   "citacao-foto"
   ],
   "layout_trick": "Cut-out portrait bleeding off the left edge with a speech-style quote on a grey card to the right and a 'we talked to' black bar at the bottom for provenance.",
   "quality": 2
@@ -413,10 +405,11 @@
   "purpose": "management-governanca-estrutura",
   "message": "Talent magnet: the partnership attracts great minds; Vice Chairman interview says BTG is not a rigid, bureaucratic place.",
   "visual": [
-   "outro:retratos-losango"
+   "citacao-foto",
+   "outro:mosaico-retratos"
   ],
   "layout_trick": "Five portraits cropped into a diamond-shaped mosaic with name labels, paired with a dark quote box on the right.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -424,11 +417,11 @@
   "purpose": "management-governanca-estrutura",
   "message": "Amos Genish (Head of Digital Retail) leads with a telecom background: 6th-largest retail bank, 1st for IFAs and investors, 4.5 million customers by 2023.",
   "visual": [
-   "outro:retrato-recortado",
-   "icones+dado-curto"
+   "citacao-foto",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Full-height cut-out executive photo on the left, short bio and logo clusters, with three teal stat tiles on the right, closing with a dark 'They don't have the digital DNA' statement.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -436,8 +429,8 @@
   "purpose": "esg",
   "message": "BTG's ESG alignment is scored via an original index: current efforts (E/S/G criteria) vs future commitment (graded 1-3).",
   "visual": [
-   "outro:fluxograma-metodologia",
-   "tabela"
+   "fluxo-processo",
+   "texto-bullets"
   ],
   "layout_trick": "Diamond 'Index Rationale' node in the middle linking two boxes (current efforts, future commitment) to their criteria lists, with a benchmark logo rail down the right edge.",
   "quality": 2
@@ -448,8 +441,8 @@
   "purpose": "esg",
   "message": "BTG is well positioned on ESG: current efforts vs future commitment scatter puts it above most peers, with E, S and G each backed by a highlight.",
   "visual": [
-   "outro:scatter-com-logos",
-   "tabela"
+   "scatter-bolhas",
+   "pilares"
   ],
   "layout_trick": "Scatter plot of peers (current vs future) with BPAC11 highlighted by a line to three stacked teal tiles (Environmental, Social, Governance) with one-line justifications.",
   "quality": 3
@@ -460,7 +453,8 @@
   "purpose": "premissas-projecoes",
   "message": "Cross-selling drives corporate lending (R$73.7bn to R$209.7bn, 4.1x leverage) and IB revenue growth in the core business.",
   "visual": [
-   "colunas+linha"
+   "colunas+linha",
+   "colunas"
   ],
   "layout_trick": "Two same-style column panels with tiny coloured % chips on every bar, a yield box in the corner and one assumption in the subtitle highlighted in blue.",
   "quality": 2
@@ -471,8 +465,8 @@
   "purpose": "premissas-projecoes",
   "message": "Sales and trading revenue is forecast at 10% CAGR, discounting growth by 4.5% due to the VaR reduction from the retail insertion.",
   "visual": [
-   "colunas+linha",
-   "outro:fluxo-premissa"
+   "colunas",
+   "fluxo-processo"
   ],
   "layout_trick": "Column chart with a curved arrow and 10% CAGR label, paired with a mini step-by-step panel showing guidance range 450-850 to 600 and a 4.5% discount.",
   "quality": 2
@@ -484,7 +478,7 @@
   "message": "BTG Digital will reach R$515bn AuC by 2025 with three investor portfolios and an average take-rate of 0.72%.",
   "visual": [
    "colunas+linha",
-   "tabela"
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "AuC columns with BTG's share-of-brokerage line next to three profile tiles (conservative, moderate, aggressive take-rate) and a dark bar with the average.",
   "quality": 2
@@ -495,12 +489,11 @@
   "purpose": "premissas-projecoes",
   "message": "BTG+ will reach 4.8 million customers and R$900 million annual profit via a bottom-up customer build.",
   "visual": [
-   "bolhas-de-cliente",
    "colunas+linha",
-   "icones+dado-curto"
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Row of circular bubbles (81k to 4.8m clients) above a TPV column chart, with a stack of grey tiles listing each key assumption with its big number (1.5%, 1.1%, 10%).",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -508,12 +501,11 @@
   "purpose": "premissas-projecoes",
   "message": "Revenue reaches R$26.0bn by 2025E (22.9% CAGR) with the Digital Retail Unit at 29.4% of revenue and core business falling to 58.6%.",
   "visual": [
-   "colunas+linha",
-   "tabela",
-   "outro:mix-2020-vs-2025E"
+   "colunas-empilhadas",
+   "tabela"
   ],
   "layout_trick": "Stacked revenue columns by line with a right-side mix table comparing 2020 to 2025E; each segment gets a coloured box with %s so the mix is readable without a legend.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -521,7 +513,8 @@
   "purpose": "premissas-projecoes",
   "message": "Asset-light expansion makes the bank more cost-efficient: efficiency ratio falls to 39.3% and net income grows to R$10.2bn.",
   "visual": [
-   "colunas+linha"
+   "colunas+linha",
+   "colunas"
   ],
   "layout_trick": "Bars with an efficiency-ratio line labelled in dark chips, a dark blue headline tag above, and a second panel for payout ratio held at 60% in perpetuity.",
   "quality": 2
@@ -532,7 +525,8 @@
   "purpose": "financials-historicos",
   "message": "Attractive returns combined with a healthy balance sheet: ROAE rises from 17.6% to 25.9% while Basel ratio stays above 16%.",
   "visual": [
-   "colunas+linha"
+   "linha",
+   "colunas-empilhadas"
   ],
   "layout_trick": "ROAE/ROAA line chart on the left and a Basel index stacked column (Tier I / Tier II) on the right; two linked panels each led by a blue-underlined sentence.",
   "quality": 2
@@ -543,8 +537,7 @@
   "purpose": "valuation-multiplos",
   "message": "SOTP valuation gives a R$154.2 price target with 52% upside: BPAC11 is the sum of core IB (R$101.9) + digital units.",
   "visual": [
-   "bridge-cascata",
-   "tabela"
+   "bridge-cascata"
   ],
   "layout_trick": "Cascade from Investment Bank to BTG Digital, BTG+ Business, BTG+, Pan, Too Seguros to Total Share Value R$154.2, then current R$101.5 and a curved arrow showing upside; assumptions (Ke 11.92%, g 7%) on a dark side panel.",
   "quality": 3
@@ -555,10 +548,10 @@
   "purpose": "valuation-multiplos",
   "message": "BPAC11 trades like incumbent banks despite a more attractive growth story, so we believe the stock is underpriced.",
   "visual": [
-   "outro:scatter-regressao"
+   "scatter-bolhas"
   ],
   "layout_trick": "P/BV vs ROE scatter with a shaded 'Challenger' zone and a regression line, BPAC11 highlighted, and a dark conclusion box at the bottom right.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -566,10 +559,10 @@
   "purpose": "recap",
   "message": "Would you be a BTG shareholder? Yes: diversified businesses, driven by financial deepening, with an exceptional partnership model.",
   "visual": [
-   "outro:setas-empilhadas"
+   "pilares"
   ],
   "layout_trick": "Dark closing slide with three stacked, right-pointing arrow banners in decreasing blue tones and a large italic 'Yes!' as the punchline.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -577,11 +570,11 @@
   "purpose": "pesquisa-primaria",
   "message": "IFA migration is not a nightmare: sophisticated IFAs migrate on average 82% of AuC in the first months vs 44% for common IFAs.",
   "visual": [
-   "outro:fluxo-sankey-simplificado",
-   "icones+dado-curto"
+   "kpi-numeros-grandes",
+   "fluxo-processo"
   ],
   "layout_trick": "Three curved stream bands with icons (relationship, quantity, sophistication of services) lead into two big-number tiles (82% vs 44%), then a dark takeaway bar.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -600,8 +593,8 @@
   "purpose": "pesquisa-primaria",
   "message": "Tangerine case: despite a 100% digital proposal it needed physical contact, as 41% of Brazilians trust the bank manager to invest.",
   "visual": [
-   "outro:foto-ceo-citacao",
-   "icones+dado-curto"
+   "citacao-foto",
+   "kpi-numeros-grandes"
   ],
   "layout_trick": "Building photo and CEO photo framing a large quote, with a flag + big 41% fact line in a grey bar at the bottom.",
   "quality": 2
@@ -634,8 +627,8 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "BTG & Mosaico partnership creates value: cash-back service, more client retention and purchase recurrence expand BTG+ at near-zero CAC.",
   "visual": [
-   "outro:ciclo-circular",
-   "outro:marketplace-flow"
+   "flywheel-ciclo",
+   "timeline"
   ],
   "layout_trick": "Central circular arrow with partner logos flanked by three left and three right feature labels with round connector dots, and a bottom three-step process timeline.",
   "quality": 2
@@ -646,7 +639,8 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "BoostLAB makes BTG the startups bank: each side (BTG, startup) gains customer base, cross-sell, equity opportunities and market reach.",
   "visual": [
-   "outro:dois-lados-espelhados"
+   "pilares",
+   "texto-bullets"
   ],
   "layout_trick": "Mirror layout with two dark tabs (BTG side left, Startup side right) and three symmetric labelled items per side joined by round markers.",
   "quality": 2
@@ -657,8 +651,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "Banco XP is a threat to traditional banks: total AuC R$ 205bn at BTG vs up to R$1.96tn at Bradesco, XP has a full-service licence plus Visa deal.",
   "visual": [
-   "colunas+linha",
-   "outro:timeline-chevrons"
+   "colunas",
+   "fluxo-processo"
   ],
   "layout_trick": "Chevron arrow ribbon summarising XP's evolution milestones next to a sorted peer column chart with BTG highlighted in blue and others in grey.",
   "quality": 1
@@ -680,7 +674,7 @@
   "purpose": "esg",
   "message": "ESG commitment is plotted as management vs stakeholders view; materiality focuses on data protection, ethics, and integrity.",
   "visual": [
-   "outro:matriz-materialidade"
+   "scatter-bolhas"
   ],
   "layout_trick": "Triangular materiality matrix with management-view on X and stakeholder-view on Y, coloured dots legend on the right and bolded highlights.",
   "quality": 2
@@ -692,7 +686,7 @@
   "message": "Trade-off between keeping the partnership model or going public: US banks IPO'd (Bear Stearns 1985 to Lehman 1994) and Goldman was the sole exception until 1999, then grew.",
   "visual": [
    "timeline",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Vertical step-staircase of IPO dates and logos on the left against a revenue column chart with a CAGR bar on the right.",
   "quality": 2
@@ -704,10 +698,10 @@
   "message": "Goldman's partnership grew bloated (220 to 550 partners, profit per partner from US$1.8mn to 0.9mn): is BTG destined to the same?",
   "visual": [
    "tabela",
-   "outro:comparativo-1999-vs-2020"
+   "texto-bullets"
   ],
   "layout_trick": "Compact two-row 1999 vs 2020 comparison with a dotted bracket on the partner count, a WSJ headline clip as evidence, and a quote panel on the right.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "BTGPactual",
@@ -715,7 +709,7 @@
   "purpose": "management-governanca-estrutura",
   "message": "BTG's executives are the maximum representation of its culture: Sallouti, Dias, Cardoso, Flora and Rapoport, with 20+ years at the bank.",
   "visual": [
-   "outro:perfis-executivos",
+   "citacao-foto",
    "timeline"
   ],
   "layout_trick": "Hero profile (photo, mini career timeline Intern to CEO, awards and board seats) above a row of four portrait-led executive cards.",
@@ -738,11 +732,11 @@
   "purpose": "industry-overview",
   "message": "Investment bank industry dynamics: a bank earns fees from companies and investors across ECM/DCM/M&A, lending, S&T, AM and WM.",
   "visual": [
-   "outro:diagrama-de-servicos",
+   "pilares",
    "timeline"
   ],
   "layout_trick": "Vertical stack of the business lines in blue shades on the left, flanked by icons for companies and investors and a mini timeline of banking eras on the right.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "BTGPactual",
@@ -751,7 +745,7 @@
   "message": "BTG's average incentive fee in ECM deals is the highest (0.39%) of the peer set, indicating service quality.",
   "visual": [
    "comps-barras",
-   "outro:formula-equacao"
+   "fluxo-processo"
   ],
   "layout_trick": "Formula strip (Bank's economics x deal incentive fee = bank's incentive fee) above an ascending bar chart with BTG highlighted dark navy at the end.",
   "quality": 2
@@ -774,7 +768,8 @@
   "purpose": "kpis-operacionais",
   "message": "BTG takes more risk (VaR) than peers but with higher returns; risk profile is more diversified than competitors.",
   "visual": [
-   "colunas+linha"
+   "barra-100",
+   "linha"
   ],
   "layout_trick": "100% stacked bars of RWA by risk type for five banks, beside a VaR line with industry-average shaded band behind it.",
   "quality": 2
@@ -786,10 +781,10 @@
   "message": "BTG is the highest in equity (19%) and hedge funds (32%) among banks in AM: AuM R$144bn.",
   "visual": [
    "tabela",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Peer AuM table with BTG row highlighted in a teal band and column-shaded categories, next to a bar chart of AuM by fund class.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "BTGPactual",
@@ -797,8 +792,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "SME lending: operational advantages (collateral on cash flow) allow margin gains with low provisions and high spreads.",
   "visual": [
-   "colunas+linha",
-   "outro:fluxo-simples"
+   "linha",
+   "fluxo-processo"
   ],
   "layout_trick": "Two-line chart of SME vs large corporate credit with a labelled data-gap annotation, plus a recurring flow diagram and the Low Provisions + High Spreads = Margin gains equation.",
   "quality": 2
@@ -809,8 +804,8 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "BTG's unsecured funding doubled to R$107.2bn in 2020, pushed by the DRU, reducing credit risk and funding costs.",
   "visual": [
-   "outro:barras-horizontais-empilhadas",
-   "colunas+linha",
+   "barras-horizontais",
+   "colunas",
    "icones+dado-curto"
   ],
   "layout_trick": "Horizontal funding stack by year with dotted bracketing of demand deposits and growth chips; right column shows BTG+ loan book column chart and two icon-led benefit boxes.",
@@ -823,7 +818,7 @@
   "message": "BTG's LatAm expansion: Colombia (since 2012) and Chile (since 2012) offer full investment-bank licence; ECM LatAm market and BTG share trends.",
   "visual": [
    "mapa",
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "South America map with Colombia and Chile highlighted and attached labels carrying the acquisition and licence, next to two bar panels of ECM volume and market cap.",
   "quality": 2
@@ -847,7 +842,7 @@
   "message": "Banco Pan's credit operation is growing: 80% of origination via INSS payroll loans, plus vehicles and credit cards.",
   "visual": [
    "donut",
-   "outro:piramide-demografica"
+   "barras-horizontais"
   ],
   "layout_trick": "Three donut charts with product icons feeding a bar-pyramid age distribution of the INSS niche.",
   "quality": 1
@@ -858,7 +853,8 @@
   "purpose": "posicionamento-competitivo",
   "message": "Pan's competitive edge: it does not depend on fee-based revenue streams, compared with Santander, Bradesco, BB, Banrisul and digital peers.",
   "visual": [
-   "tabela"
+   "tabela",
+   "lineup-imagens"
   ],
   "layout_trick": "Two peer tables with logos and revenue/ratio and product columns, grouping banks vs digital players, in light-grey zebra rows.",
   "quality": 1
@@ -870,7 +866,7 @@
   "message": "Too Seguros offers a good cross-sell optionality, with revenue and net profit trends since its 2018 rebranding.",
   "visual": [
    "colunas+linha",
-   "outro:diagrama-participacao"
+   "organograma"
   ],
   "layout_trick": "Stacked bars (revenue and net profit) plus ROE line on the right with a left-hand ownership/relationship diagram using the logos.",
   "quality": 1
@@ -893,7 +889,7 @@
   "message": "Corporate lending forecasts: SME yield of 6.4% vs large companies' 2.5%, with portfolio volume/book value to 4.11x by 2025E.",
   "visual": [
    "tabela",
-   "outro:anotacao-lateral"
+   "texto-bullets"
   ],
   "layout_trick": "Forecast table split into sections (total, SME, large) with a side annotation and arrow explaining the yield-spread source.",
   "quality": 1
@@ -915,8 +911,7 @@
   "purpose": "premissas-projecoes",
   "message": "AM and PB modelling rationale: AuM+AuA reach R$ 337.7bn with 19.8% CAGR, private banking volume grows at 15.2% CAGR.",
   "visual": [
-   "colunas+linha",
-   "outro:seta-CAGR"
+   "colunas+linha"
   ],
   "layout_trick": "Two stacked-column panels each with a large curved CAGR arrow over the bars and a bold ROA line at the base.",
   "quality": 2
@@ -927,7 +922,7 @@
   "purpose": "valuation-multiplos",
   "message": "Equity value per business unit: Core is worth R$92.1bn (R$101.9/share), while Digital, BTG+ Business, BTG+, Pan and Too are the remainder.",
   "visual": [
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Two bar panels (equity value vs per-share value) with the Core bar towering over the digital units so the weight of each unit reads immediately.",
   "quality": 2
@@ -938,11 +933,11 @@
   "purpose": "valuation-multiplos",
   "message": "Implied multiples on the SOTP valuation and IRR sensitivity to exit P/E (16x-20x) and year give returns of 20.5% at 18x in 2023.",
   "visual": [
-   "comps-barras",
+   "colunas",
    "heatmap-sensibilidade"
   ],
   "layout_trick": "Clustered columns of implied multiples by unit next to an IRR grid (exit year x exit P/E) with the base case highlighted in dark and gradient blue cells.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "BTGPactual",
@@ -950,8 +945,8 @@
   "purpose": "valuation-multiplos",
   "message": "Justified P/BV of 2.13x (ROE 17.5%, Ke 11.92%, g 7%) is compared with forecast P/BV falling from 3.6x to 1.8x by 2025.",
   "visual": [
-   "outro:formula-first",
-   "outro:linha-pontilhada"
+   "linha",
+   "texto-bullets"
   ],
   "layout_trick": "Formula strip (Fair P/B = (ROE-g)/(Ke-g)) in a grey panel above a dashed forecast line against a shaded justified-P/BV band.",
   "quality": 2
@@ -962,7 +957,7 @@
   "purpose": "valuation-multiplos",
   "message": "Sanity check: if BTG were on the P/BV-ROE regression line it would trade at 4.22x, nearly double the implied multiple.",
   "visual": [
-   "outro:scatter-regressao"
+   "scatter-bolhas"
   ],
   "layout_trick": "Scatter plot with shaded 'Challenger' region, regression line equation box with a callout pointing to the result and a modest disclaimer note.",
   "quality": 2

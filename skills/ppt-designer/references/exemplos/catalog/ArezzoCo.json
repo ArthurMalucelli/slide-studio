@@ -1,12 +1,130 @@
 [
-{"deck":"ArezzoCo","page":1,"purpose":"capa","message":"Constellation Challenge 2023 cover for Arezzo&Co by Argos Capital.","visual":["outro:foto-full-bleed-com-faixa-diagonal"],"layout_trick":"Left dark panel with big bold white title and a diagonal cyan swoosh over a full-bleed store photo; company logo bottom-right, team names bottom-left.","quality":2},
-{"deck":"ArezzoCo","page":2,"purpose":"industry-overview","message":"Brazil's footwear market is more mature than the world's but apparel is still recovering, and a heavily clustered A/B consumer base drives spending.","visual":["colunas+linha","comps-barras","icones+dado-curto"],"layout_trick":"Left callout box with a value-chain icon stack (design, manufacturing, distribution) beside 4 compact charts, each with a one-line bold takeaway above it.","quality":2},
-{"deck":"ArezzoCo","page":3,"purpose":"posicionamento-competitivo","message":"Brazilian apparel and footwear are fragmented but consolidating via M&A, with Arezzo&Co at 25% of women's footwear share.","visual":["donut","colunas+linha","lineup-imagens"],"layout_trick":"Logo wall of acquired brands in a shaded box next to a market-share donut and a share-evolution line chart, tying consolidation text to visuals.","quality":3},
-{"deck":"ArezzoCo","page":4,"purpose":"posicionamento-competitivo","message":"Arezzo&Co and Soma lead on pricing power and diversified channel mix, so they are more resilient in downturns.","visual":["outro:escala-posicionamento-por-classe-social","colunas+linha","tabela"],"layout_trick":"Peer logos on rows with horizontal dots on a C- to A+ customer-class scale, plus a smooth line chart of inflation vs revenue variation with an annotation callout.","quality":3},
-{"deck":"ArezzoCo","page":5,"purpose":"mercado-tam-demanda","message":"International brands struggle in Brazil due to import tariffs and taxes, and Shein is the one growing as a low-price threat.","visual":["timeline","lineup-imagens","comps-barras","donut"],"layout_trick":"Logo timeline by entry decade across the top, with Shein vs Arezzo comparison logos and price-benchmark bars below.","quality":2},
-{"deck":"ArezzoCo","page":6,"purpose":"mercado-tam-demanda","message":"E-commerce accelerated by the pandemic and is the future, but Brazil's penetration is still well below other regions.","visual":["colunas+linha","comps-barras","donut"],"layout_trick":"Three stacked chart bands (columns with CAGR badge, benchmark bars highlighting Brazil in cyan, ribbon of yearly values) all in the same dark-grey and cyan palette.","quality":2},
-{"deck":"ArezzoCo","page":7,"purpose":"mercado-tam-demanda","message":"Omnichannel and influencers are the key digital opportunity for apparel and footwear brands.","visual":["colunas+linha","comps-barras","donut","tabela"],"layout_trick":"Right-hand cyan-tinted panel isolates the influencer sub-story (histogram, donut, takeaway box) from the left channel-penetration charts.","quality":2},
-{"deck":"ArezzoCo","page":8,"purpose":"mercado-tam-demanda","message":"Men's apparel is a fragmented, higher-ticket gold mine and the best consolidation opportunity.","visual":["colunas+linha","donut","comps-barras"],"layout_trick":"Men vs women shown consistently as dark vs cyan series across line, stacked 100% bars and paired columns, so the gender contrast reads at a glance.","quality":2},
-{"deck":"ArezzoCo","page":9,"purpose":"mercado-tam-demanda","message":"Casualization and sustainability are lasting trends, but price is still the decisive factor for buyers.","visual":["colunas+linha","donut","icones+dado-curto"],"layout_trick":"Row of five small donuts with one-line labels for decisive purchase factors, beneath a Google Trends line with a dark callout stat box.","quality":2},
-{"deck":"ArezzoCo","page":10,"purpose":"riscos","message":"Four main risks (destructive competition, bad tax reform, high rates, global recession) are mapped by probability x impact, with Shein and SELIC as the biggest.","visual":["matriz-riscos","colunas+linha","comps-barras"],"layout_trick":"Risk matrix with impact vs probability grid and named cells placed in the grid, paired on the right with evidence charts for each risk (SELIC line, Shein users, ICMS bars).","quality":3}
+  {
+    "deck": "ArezzoCo",
+    "page": 1,
+    "purpose": "capa",
+    "message": "Constellation Challenge 2023 cover for Arezzo&Co by Argos Capital.",
+    "visual": [
+      "foto-capa"
+    ],
+    "layout_trick": "Left dark panel with big bold white title and a diagonal cyan swoosh over a full-bleed store photo; company logo bottom-right, team names bottom-left.",
+    "quality": 2
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 2,
+    "purpose": "industry-overview",
+    "message": "Brazil's footwear market is more mature than the world's but apparel is still recovering, and a heavily clustered A/B consumer base drives spending.",
+    "visual": [
+      "linha",
+      "colunas",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Left callout box with a value-chain icon stack (design, manufacturing, distribution) beside 4 compact charts, each with a one-line bold takeaway above it.",
+    "quality": 1
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 3,
+    "purpose": "posicionamento-competitivo",
+    "message": "Brazilian apparel and footwear are fragmented but consolidating via M&A, with Arezzo&Co at 25% of women's footwear share.",
+    "visual": [
+      "donut",
+      "linha",
+      "lineup-imagens"
+    ],
+    "layout_trick": "Logo wall of acquired brands in a shaded box next to a market-share donut and a share-evolution line chart, tying consolidation text to visuals.",
+    "quality": 2
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 4,
+    "purpose": "posicionamento-competitivo",
+    "message": "Arezzo&Co and Soma lead on pricing power and diversified channel mix, so they are more resilient in downturns.",
+    "visual": [
+      "outro:escala-posicionamento-por-classe-social",
+      "linha",
+      "colunas-empilhadas"
+    ],
+    "layout_trick": "Peer logos on rows with horizontal dots on a C- to A+ customer-class scale, plus a smooth line chart of inflation vs revenue variation with an annotation callout.",
+    "quality": 2
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 5,
+    "purpose": "mercado-tam-demanda",
+    "message": "International brands struggle in Brazil due to import tariffs and taxes, and Shein is the one growing as a low-price threat.",
+    "visual": [
+      "lineup-imagens",
+      "timeline",
+      "barras-horizontais"
+    ],
+    "layout_trick": "Logo timeline by entry decade across the top, with Shein-vs-Arezzo logo comparison and price-benchmark horizontal bars below.",
+    "quality": 1
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 6,
+    "purpose": "mercado-tam-demanda",
+    "message": "E-commerce accelerated by the pandemic and is the future, but Brazil's penetration is still well below other regions.",
+    "visual": [
+      "colunas",
+      "barras-horizontais",
+      "colunas-empilhadas"
+    ],
+    "layout_trick": "Three stacked chart bands (columns with CAGR badge, benchmark bars highlighting Brazil in cyan, ribbon of yearly values) in one dark-grey and cyan palette.",
+    "quality": 1
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 7,
+    "purpose": "mercado-tam-demanda",
+    "message": "Omnichannel and influencers are the key digital opportunity for apparel and footwear brands.",
+    "visual": [
+      "linha",
+      "barra-100",
+      "donut"
+    ],
+    "layout_trick": "Right-hand cyan-tinted panel isolates the influencer sub-story (histogram, donut, takeaway box) from the left channel-penetration charts.",
+    "quality": 1
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 8,
+    "purpose": "mercado-tam-demanda",
+    "message": "Men's apparel is a fragmented, higher-ticket gold mine and the best consolidation opportunity.",
+    "visual": [
+      "linha",
+      "barra-100",
+      "donut"
+    ],
+    "layout_trick": "Men vs women shown consistently as dark vs cyan series across line, stacked 100% bars and paired columns, so the gender contrast reads at a glance.",
+    "quality": 2
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 9,
+    "purpose": "mercado-tam-demanda",
+    "message": "Casualization and sustainability are lasting trends, but price is still the decisive factor for buyers.",
+    "visual": [
+      "linha",
+      "donut",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Row of five small donuts with one-line labels for decisive purchase factors, beneath a Google Trends line with a dark callout stat box.",
+    "quality": 2
+  },
+  {
+    "deck": "ArezzoCo",
+    "page": 10,
+    "purpose": "riscos",
+    "message": "Four main risks (destructive competition, bad tax reform, high rates, global recession) are mapped by probability x impact, with Shein and SELIC as the biggest.",
+    "visual": [
+      "matriz-riscos",
+      "linha",
+      "colunas"
+    ],
+    "layout_trick": "Risk matrix with impact vs probability grid and named cells placed in the grid, paired on the right with evidence charts for each risk (SELIC line, Shein users, ICMS bars).",
+    "quality": 3
+  }
 ]

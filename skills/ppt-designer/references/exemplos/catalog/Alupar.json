@@ -1,21 +1,241 @@
 [
-{"deck":"Alupar","page":1,"purpose":"capa","message":"Alupar GBC 2026 (TPC Capital): capa escura com torre de transmissão em linework sobre azul-marinho.","visual":["outro:foto-linework-tematica"],"layout_trick":"Fundo azul-noite com ilustração de linha da torre de transmissão (tema do setor) ocupando metade direita; título + logos empilhados à esquerda, autores no rodapé.","quality":2},
-{"deck":"Alupar","page":2,"purpose":"recomendacao-exec-summary","message":"Sumário do projeto: TIR média 13,6%, dívida 80%/equity 20%, USD 1,2 bi em emissões, via Equity Bridge Loan, Project Finance e Green Bond.","visual":["icones+dado-curto","tabela"],"layout_trick":"Faixa superior com 4 KPIs grandes em caixa de contorno fino, abaixo 3 cartões de instrumento de dívida lado a lado, cada um com termos curtos e assinaturas dos autores no pé.","quality":2},
-{"deck":"Alupar","page":3,"purpose":"business-overview","message":"Alupar at-a-glance: transmissora privada com 60 ativos e 10.095 km de linhas, com cobertura Brasil + LatAm.","visual":["colunas+linha","mapa","organograma","tabela"],"layout_trick":"Coluna esquerda com card de empresa, estrutura acionária em mini-organograma e key financials; à direita barras de km de linhas por ano e breakdown de receita por segmento ao lado do mapa da América do Sul.","quality":3},
-{"deck":"Alupar","page":4,"purpose":"tese-pilares-divisor","message":"Investment Thesis em três pilares: competitividade no Brasil, avenida LatAm, crédito como solução.","visual":["pilares"],"layout_trick":"Divisor com 3 linhas numeradas em círculos (I, II, III) sobre fundo escuro; o pilar ativo fica em azul brilhante e os outros esmaecidos, repetido nas páginas seguintes como navegador (idem p5, p8, p16).","quality":3},
-{"deck":"Alupar","page":6,"purpose":"mercado-tam-demanda","message":"Curtailment e carga de data centers criam gargalo de transmissão e atraem players estrangeiros (Engie, CYMI, Índia) ao mercado brasileiro.","visual":["colunas+linha","tabela"],"layout_trick":"Grade 2x2 de gráficos com título de pergunta em cada quadrante (área suavizada, barras em gradiente azul, tabela com logos de players estrangeiros) sob título-claim de duas linhas.","quality":2},
-{"deck":"Alupar","page":7,"purpose":"posicionamento-competitivo","message":"Demanda crescente gera competitividade acima da média no setor, mas Alupar tem know-how histórico que a diferencia em cada país.","visual":["colunas+linha","tabela","outro:callouts-know-how"],"layout_trick":"Barras de players por faixa de km (Brasil, Chile, Peru, Colômbia) com dois callouts azul-escuro apontando para Alupar, ao lado de lista numerada de 4 fatores em caixas de contorno.","quality":2},
-{"deck":"Alupar","page":9,"purpose":"industry-overview","message":"Operação internacionalizada: RAP/CapEx de Peru e Colômbia (13-15%) supera o Brasil (10%) com receita dolarizada e prazos fixos.","visual":["colunas+linha","outro:barras-quebradas-por-pais"],"layout_trick":"Barras agrupadas por país com média ponderada no cabeçalho de cada grupo e cor por país; quebra de eixo marca outliers e gráfico de receita pós-atraso mostra a diferença de contrato com linha tracejada e círculo destacando o ponto.","quality":2},
-{"deck":"Alupar","page":10,"purpose":"valuation-multiplos","message":"Projetos internacionais combinam TIR alta com custo de dívida baixo, spread maior que no Brasil, e payback mais rápido.","visual":["outro:scatter-TIR-vs-Kd","colunas+linha"],"layout_trick":"Scatter TIR x Kd com bolhas nomeadas por projeto e diagonal de breakeven (Kd=TIR), elipse agrupando os projetos brasileiros; à direita payback em barras separadas Brasil vs Internacional com divisor vertical.","quality":3},
-{"deck":"Alupar","page":11,"purpose":"pesquisa-primaria","message":"Estatal com privilégios na Colômbia inviabiliza competição, enquanto no Chile 2 players vencem 50% dos lotes; confirmado por entrevista com VP da Actis.","visual":["colunas+linha","outro:foto-entrevista+citação"],"layout_trick":"Print da videochamada com o entrevistado ao lado de citação em caixa com aspas grandes e nome/cargo, junto a barras empilhadas de lotes vencidos por período.","quality":3},
-{"deck":"Alupar","page":12,"purpose":"posicionamento-competitivo","message":"Peru é o único mercado com licitação consistente (100% adjudicado, sem incumbente dominante), tornando-o a opção mais interessante.","visual":["colunas+linha","mapa"],"layout_trick":"Barras máximo histórico vs atual por país com caixa tracejada azul circulando o Peru como destaque; à direita card de KPIs (CapEx, RAP, km) sobre mapa do Peru com linhas de transmissão.","quality":3},
-{"deck":"Alupar","page":13,"purpose":"modelo-negocio-unit-economics","message":"Peru Grupo 2: USD 444 mi de CapEx, RAP USD 75 mi/ano, 16,9% RAP/CapEx e TIR atrativa sobre custo da dívida.","visual":["mapa","icones+dado-curto","outro:scatter-TIR-vs-Kd"],"layout_trick":"Mapa do país à esquerda com rota do projeto, faixa de 3 KPIs no topo de uma ficha técnica em tabela de 2 colunas e, abaixo, mini scatter TIR vs Kd com a bolha do projeto; mesmo template reutilizado em p14, p17.","quality":3},
-{"deck":"Alupar","page":15,"purpose":"sensibilidade","message":"Peru entrega TIR 55% superior ao Brasil (13,7% vs 8,9% real) e as sensibilidades TIR x Kd x % dívida sustentam o retorno.","visual":["heatmap-sensibilidade","tabela"],"layout_trick":"Slide escuro com 3 colunas de unit project, cada uma com mini-DRE/FCFE, par de TIR real/nominal com ícone de raio entre eles e matriz TIR (Kd x % dívida) abaixo.","quality":2},
-{"deck":"Alupar","page":17,"purpose":"modelo-negocio-unit-economics","message":"Estudo de caso do financiamento colombiano TCE: dois project finances (USD 163,5 mi e 139,9 mi) com termos comparáveis aos propostos para o Peru.","visual":["mapa","tabela","icones+dado-curto"],"layout_trick":"Mapa e ficha do ativo na metade superior, dois cartões de project finance lado a lado abaixo com bullets de emissão, garantias, carência e covenant em duas colunas internas.","quality":2},
-{"deck":"Alupar","page":18,"purpose":"pesquisa-primaria","message":"Conversa com Igor Silva (Alupar) e estrutura do Projeto TPC: Equity Bridge Loan, Project Finance e Green Bond com covenants assinados.","visual":["outro:foto-entrevista+citação","tabela"],"layout_trick":"Fluxo numerado 1-2-3 com foto do entrevistado e citação à esquerda, três cartões de instrumento com termos e caixas de covenant com assinaturas à direita.","quality":2},
-{"deck":"Alupar","page":19,"purpose":"industry-overview","message":"PF bancário e green bond são instrumentos validados (precedentes em Chile e Colômbia) e green bonds atraem demanda de credores acima de títulos convencionais.","visual":["colunas+linha","tabela"],"layout_trick":"Diagrama de vantagens com logo Green Bond Principles e setas à esquerda, cards de precedentes à direita e linha comparativa overscribed green vs convencional embaixo.","quality":2},
-{"deck":"Alupar","page":20,"purpose":"valuation-multiplos","message":"Precificação do green bond a partir de comparáveis: taxa fixa de 5,0% a.a., prêmio de 0,53% abaixo do emitido de 11,8% sobre US Treasury.","visual":["tabela","bridge-cascata","comps-barras"],"layout_trick":"Linha de emissões comparáveis (OETC, Elecnor, ASI) em tabela com rating, depois 3 cards de debêntures brasileiras com prêmios grandes em azul destacando a conta até a precificação final.","quality":2},
-{"deck":"Alupar","page":21,"purpose":"valuation-multiplos","message":"Dívidas operacionais comparáveis (MUFG, BTG Chile) precificam o Project Finance a SOFR + 3,05%, com covenants ICSD e cash sweep.","visual":["tabela","icones+dado-curto"],"layout_trick":"Três fichas de comparáveis em cards à esquerda e painel azul à direita com blocos numerados I-II-III (Index+Spread, Covenant e Garantia, Amortização) apontados por setas para o logo TPC.","quality":1},
-{"deck":"Alupar","page":22,"purpose":"modelo-negocio-unit-economics","message":"Fluxo do financiamento: USD 1,2 bi de emissão total dividido em Equity Bridge Loan, Project Finance I/II e Green Bond, com custo da dívida e covenant de cada tranche.","visual":["donut","timeline","pilares"],"layout_trick":"Slide escuro com menu lateral de 4 etapas e timeline de anos no topo; rosca central do uso de recursos e árvore à direita com valor da tranche em USD grande, cada etapa destaca em azul a sua parte (animação por build, p22-p24).","quality":3},
-{"deck":"Alupar","page":25,"purpose":"valuation-dcf","message":"Fluxo de caixa do projeto e dos credores: TIR de 13,7% (Grupo 2) e 13,5% (Grupo 3) para o projeto, com retornos de 6,3%-7,6% para o credor, acima do Treasury.","visual":["tabela","donut","bridge-cascata"],"layout_trick":"Duas tabelas de fluxo por período (projeto e credor) com linha final destacada em azul e caixas de TIR conectadas por setas ao benchmark US Treasury, rosca de emissão à esquerda.","quality":2}
+ {
+  "deck": "Alupar",
+  "page": 1,
+  "purpose": "capa",
+  "message": "Alupar GBC 2026 (TPC Capital): capa escura com torre de transmissão em linework sobre azul-marinho.",
+  "visual": [
+   "foto-capa"
+  ],
+  "layout_trick": "Fundo azul-noite com ilustração de linha da torre de transmissão (tema do setor) ocupando metade direita; título + logos empilhados à esquerda, autores no rodapé.",
+  "quality": 2
+ },
+ {
+  "deck": "Alupar",
+  "page": 2,
+  "purpose": "recomendacao-exec-summary",
+  "message": "Sumário do projeto: TIR média 13,6%, dívida 80%/equity 20%, USD 1,2 bi em emissões, via Equity Bridge Loan, Project Finance e Green Bond.",
+  "visual": [
+   "kpi-numeros-grandes",
+   "fluxo-processo",
+   "tabela"
+  ],
+  "layout_trick": "Faixa superior com 4 KPIs grandes em caixa de contorno fino, abaixo 3 cartões de instrumento de dívida lado a lado, cada um com termos curtos e assinaturas dos autores no pé.",
+  "quality": 2
+ },
+ {
+  "deck": "Alupar",
+  "page": 3,
+  "purpose": "business-overview",
+  "message": "Alupar at-a-glance: transmissora privada com 60 ativos e 10.095 km de linhas, com cobertura Brasil + LatAm.",
+  "visual": [
+   "colunas",
+   "mapa",
+   "organograma",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Coluna esquerda com card de empresa, estrutura acionária em mini-organograma e key financials; à direita barras de km de linhas por ano e breakdown de receita por segmento ao lado do mapa da América do Sul.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 4,
+  "purpose": "tese-pilares-divisor",
+  "message": "Investment Thesis em três pilares: competitividade no Brasil, avenida LatAm, crédito como solução.",
+  "visual": [
+   "pilares"
+  ],
+  "layout_trick": "Divisor com 3 linhas numeradas em círculos (I, II, III) sobre fundo escuro; o pilar ativo fica em azul brilhante e os outros esmaecidos, repetido nas páginas seguintes como navegador (idem p5, p8, p16).",
+  "quality": 2
+ },
+ {
+  "deck": "Alupar",
+  "page": 6,
+  "purpose": "mercado-tam-demanda",
+  "message": "Curtailment e carga de data centers criam gargalo de transmissão e atraem players estrangeiros (Engie, CYMI, Índia) ao mercado brasileiro.",
+  "visual": [
+   "area",
+   "colunas",
+   "tabela"
+  ],
+  "layout_trick": "Grade 2x2 de gráficos com título de pergunta em cada quadrante (área suavizada, barras em gradiente azul, tabela com logos de players estrangeiros) sob título-claim de duas linhas.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 7,
+  "purpose": "posicionamento-competitivo",
+  "message": "Demanda crescente gera competitividade acima da média no setor, mas Alupar tem know-how histórico que a diferencia em cada país.",
+  "visual": [
+   "linha",
+   "colunas",
+   "texto-bullets"
+  ],
+  "layout_trick": "Barras de players por faixa de km (Brasil, Chile, Peru, Colômbia) com dois callouts azul-escuro apontando para Alupar, ao lado de lista numerada de 4 fatores em caixas de contorno.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 9,
+  "purpose": "industry-overview",
+  "message": "Operação internacionalizada: RAP/CapEx de Peru e Colômbia (13-15%) supera o Brasil (10%) com receita dolarizada e prazos fixos.",
+  "visual": [
+   "colunas",
+   "linha"
+  ],
+  "layout_trick": "Barras agrupadas por país com média ponderada no cabeçalho de cada grupo e cor por país; quebra de eixo marca outliers e gráfico de receita pós-atraso mostra a diferença de contrato com linha tracejada e círculo destacando o ponto.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 10,
+  "purpose": "valuation-multiplos",
+  "message": "Projetos internacionais combinam TIR alta com custo de dívida baixo, spread maior que no Brasil, e payback mais rápido.",
+  "visual": [
+   "scatter-bolhas",
+   "linha",
+   "colunas"
+  ],
+  "layout_trick": "Scatter TIR x Kd com bolhas nomeadas por projeto e diagonal de breakeven (Kd=TIR), elipse agrupando os projetos brasileiros; à direita payback em barras separadas Brasil vs Internacional com divisor vertical.",
+  "quality": 3
+ },
+ {
+  "deck": "Alupar",
+  "page": 11,
+  "purpose": "pesquisa-primaria",
+  "message": "Estatal com privilégios na Colômbia inviabiliza competição, enquanto no Chile 2 players vencem 50% dos lotes; confirmado por entrevista com VP da Actis.",
+  "visual": [
+   "colunas-empilhadas",
+   "citacao-foto"
+  ],
+  "layout_trick": "Print da videochamada com o entrevistado ao lado de citação em caixa com aspas grandes e nome/cargo, junto a barras empilhadas de lotes vencidos por período.",
+  "quality": 2
+ },
+ {
+  "deck": "Alupar",
+  "page": 12,
+  "purpose": "posicionamento-competitivo",
+  "message": "Peru é o único mercado com licitação consistente (100% adjudicado, sem incumbente dominante), tornando-o a opção mais interessante.",
+  "visual": [
+   "colunas"
+  ],
+  "layout_trick": "Barras máximo histórico vs atual por país com caixa tracejada azul circulando o Peru como destaque; à direita card de KPIs (CapEx, RAP, km) sobre mapa do Peru com linhas de transmissão.",
+  "quality": 2
+ },
+ {
+  "deck": "Alupar",
+  "page": 13,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Peru Grupo 2: USD 444 mi de CapEx, RAP USD 75 mi/ano, 16,9% RAP/CapEx e TIR atrativa sobre custo da dívida.",
+  "visual": [
+   "mapa",
+   "kpi-numeros-grandes",
+   "scatter-bolhas"
+  ],
+  "layout_trick": "Mapa do país à esquerda com rota do projeto, faixa de 3 KPIs no topo de uma ficha técnica em tabela de 2 colunas e, abaixo, mini scatter TIR vs Kd com a bolha do projeto; mesmo template reutilizado em p14, p17.",
+  "quality": 3
+ },
+ {
+  "deck": "Alupar",
+  "page": 15,
+  "purpose": "sensibilidade",
+  "message": "Peru entrega TIR 55% superior ao Brasil (13,7% vs 8,9% real) e as sensibilidades TIR x Kd x % dívida sustentam o retorno.",
+  "visual": [
+   "heatmap-sensibilidade",
+   "tabela",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Slide escuro com 3 colunas de unit project, cada uma com mini-DRE/FCFE, par de TIR real/nominal com ícone de raio entre eles e matriz TIR (Kd x % dívida) abaixo.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 17,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Estudo de caso do financiamento colombiano TCE: dois project finances (USD 163,5 mi e 139,9 mi) com termos comparáveis aos propostos para o Peru.",
+  "visual": [
+   "mapa",
+   "tabela",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Mapa e ficha do ativo na metade superior, dois cartões de project finance lado a lado abaixo com bullets de emissão, garantias, carência e covenant em duas colunas internas.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 18,
+  "purpose": "pesquisa-primaria",
+  "message": "Conversa com Igor Silva (Alupar) e estrutura do Projeto TPC: Equity Bridge Loan, Project Finance e Green Bond com covenants assinados.",
+  "visual": [
+   "citacao-foto",
+   "fluxo-processo",
+   "mapa"
+  ],
+  "layout_trick": "Fluxo numerado 1-2-3 no topo; abaixo, foto do entrevistado com aspas grandes à esquerda e cartões de emissão com bordas finas e logo do parceiro à direita",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 19,
+  "purpose": "industry-overview",
+  "message": "PF bancário e green bond são instrumentos validados (precedentes em Chile e Colômbia) e green bonds atraem demanda de credores acima de títulos convencionais.",
+  "visual": [
+   "linha",
+   "texto-bullets",
+   "tabela"
+  ],
+  "layout_trick": "Diagrama de vantagens com logo Green Bond Principles e setas à esquerda, cards de precedentes à direita e linha comparativa overscribed green vs convencional embaixo.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 20,
+  "purpose": "valuation-multiplos",
+  "message": "Precificação do green bond a partir de comparáveis: taxa fixa de 5,0% a.a., prêmio de 0,53% abaixo do emitido de 11,8% sobre US Treasury.",
+  "visual": [
+   "tabela",
+   "kpi-numeros-grandes",
+   "linha"
+  ],
+  "layout_trick": "Linha de emissões comparáveis (OETC, Elecnor, ASI) em tabela com rating, depois 3 cards de debêntures brasileiras com prêmios grandes em azul destacando a conta até a precificação final.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 21,
+  "purpose": "valuation-multiplos",
+  "message": "Dívidas operacionais comparáveis (MUFG, BTG Chile) precificam o Project Finance a SOFR + 3,05%, com covenants ICSD e cash sweep.",
+  "visual": [
+   "tabela",
+   "texto-bullets"
+  ],
+  "layout_trick": "Três fichas de comparáveis em cards à esquerda e painel azul à direita com blocos numerados I-II-III (Index+Spread, Covenant e Garantia, Amortização) apontados por setas para o logo TPC.",
+  "quality": 1
+ },
+ {
+  "deck": "Alupar",
+  "page": 22,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Fluxo do financiamento: USD 1,2 bi de emissão total dividido em Equity Bridge Loan, Project Finance I/II e Green Bond, com custo da dívida e covenant de cada tranche.",
+  "visual": [
+   "donut",
+   "fluxo-processo",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Slide escuro com menu lateral de 4 etapas e timeline de anos no topo; rosca central do uso de recursos e árvore à direita com valor da tranche em USD grande, cada etapa destaca em azul a sua parte (animação por build, p22-p24).",
+  "quality": 2
+ },
+ {
+  "deck": "Alupar",
+  "page": 25,
+  "purpose": "valuation-dcf",
+  "message": "Fluxo de caixa do projeto e dos credores: TIR de 13,7% (Grupo 2) e 13,5% (Grupo 3) para o projeto, com retornos de 6,3%-7,6% para o credor, acima do Treasury.",
+  "visual": [
+   "tabela",
+   "donut",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Duas tabelas de fluxo por período (projeto e credor) com linha final destacada em azul e caixas de TIR conectadas por setas ao benchmark US Treasury, rosca de emissão à esquerda.",
+  "quality": 1
+ }
 ]

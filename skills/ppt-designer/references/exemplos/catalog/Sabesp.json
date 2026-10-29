@@ -5,7 +5,7 @@
   "purpose": "capa",
   "message": "Challenge Group D cover for Sabesp: logo lockup + team names over a cyan diagonal panel with an aerial photo of the treatment plant.",
   "visual": [
-   "outro:foto-diagonal-split"
+   "foto-capa"
   ],
   "layout_trick": "Diagonal cyan wedge cuts the full-bleed industry photo, logo lockup and names sit on flat color so text never fights the image.",
   "quality": 2
@@ -16,9 +16,8 @@
   "purpose": "business-overview",
   "message": "Sabesp at a glance: SP water/sewage monopoly, 375 cities, 28mn people, margins expanding every year.",
   "visual": [
-   "tabela",
-   "mapa",
    "colunas+linha",
+   "mapa",
    "timeline"
   ],
   "layout_trick": "Three grey-shadow cards on top (ops table, SP map with 375 cities/58% coverage chips, revenue bars with margin line) and a wavy ribbon timeline 1973-2026 below with alternating above/below labels.",
@@ -31,11 +30,11 @@
   "message": "Brazil's sanitation gap is large, underfunded and legally required to close by 2033.",
   "visual": [
    "mapa",
-   "colunas+linha",
-   "icones+dado-curto"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Twin Brazil choropleths (water vs sewage by state) side by side, then a strip of 3 icon+label regulatory regimes under them, right column pairs capex-per-capita bars with a universalization line chart inside a dashed highlight.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -58,7 +57,7 @@
    "pilares"
   ],
   "layout_trick": "Reuse one master graphic as section divider and fade inactive pillars (opacity) so the reader tracks position in the thesis.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -67,7 +66,7 @@
   "message": "Brazil's sanitation was trapped in a broken system: fragmented regulation, no competition, unpredictable tariffs.",
   "visual": [
    "icones+dado-curto",
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "Left: 5 icon rows with bold lead-in + short consequence; right: two stacked charts joined by a dashed connector from the bold key phrase to the evidence ('lost decade').",
   "quality": 2
@@ -78,12 +77,12 @@
   "purpose": "industry-overview",
   "message": "The 2020 Legal Framework (regionalization, universalization targets, single regulator) makes sanitation investable and enables cross-subsidies.",
   "visual": [
-   "tabela",
    "mapa",
-   "outro:scatter-case-study"
+   "scatter-bolhas",
+   "linha"
   ],
   "layout_trick": "Three stacked bordered boxes for framework features next to a Brazil map with URAE bars; bottom-right small table decomposes cross-subsidy case study in R$/m3.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Sabesp",
@@ -91,8 +90,9 @@
   "purpose": "posicionamento-competitivo",
   "message": "Sao Paulo combines Brazil's strongest demand base with an investor-friendly regulator (ARSESP).",
   "visual": [
-   "colunas+linha",
-   "outro:foto-citacao"
+   "colunas",
+   "citacao-foto",
+   "barras-horizontais"
   ],
   "layout_trick": "Regulator quote paired with a headshot, name and title inside a pale card, next to the bullet clauses - gives expert-interview credibility.",
   "quality": 2
@@ -103,8 +103,8 @@
   "purpose": "industry-overview",
   "message": "ARSESP's low tariff volatility drives higher capital attractiveness (attractiveness gravity score) than peers.",
   "visual": [
-   "outro:linhas-volatilidade",
-   "outro:bolhas-score"
+   "linha",
+   "scatter-bolhas"
   ],
   "layout_trick": "Left: three line charts with sigma labels per regulator; right: bubble chart of states by attractiveness score with the SP bubble enlarged and labeled.",
   "quality": 2
@@ -127,11 +127,11 @@
   "message": "Binding milestones, financial guarantees and penalties keep Sabesp accountable across the 36-year concession.",
   "visual": [
    "timeline",
-   "colunas+linha",
-   "tabela"
+   "colunas",
+   "texto-bullets"
   ],
   "layout_trick": "Chevron timeline of 6 dated obligations (2024 to 2060) with headline term in white band; below, capex columns and a 3-box penalties stack.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -139,9 +139,8 @@
   "purpose": "pesquisa-primaria",
   "message": "Obligations come bundled with economic rights: revenue, State-funded easements and legal protections offset capex.",
   "visual": [
-   "colunas+linha",
-   "outro:foto-entrevista",
-   "outro:zoom-callout"
+   "colunas",
+   "citacao-foto"
   ],
   "layout_trick": "Expert-call screenshot with quote in a pale box, and a zoom-cone from a chart bar to a callout box that explains the exact bar.",
   "quality": 2
@@ -153,7 +152,7 @@
   "message": "FAUSP fund shields Sabesp's revenue from political tariff suppression: inflows/outflows, BRL 580mn/yr.",
   "visual": [
    "icones+dado-curto",
-   "bridge-cascata"
+   "colunas"
   ],
   "layout_trick": "Left: 4 icon rows telling a mini causal story (tension, intervention, damage, FAUSP); right: split grey panel 'Outflows' vs 'Inflows' with bars and a dashed connector.",
   "quality": 2
@@ -165,11 +164,11 @@
   "message": "A good framework is not enough: Thames Water had the structural advantages and execution destroyed equity.",
   "visual": [
    "funil-piramide",
-   "colunas+linha",
-   "outro:analogia-caso-estrangeiro"
+   "linha",
+   "colunas"
   ],
-  "layout_trick": "Foreign analog case with tilted pyramid-bars for advantages, then execution failure charts; Thames logo badge top-right marks the case.",
-  "quality": 3
+  "layout_trick": "Foreign analog case: tilted funnel-bars list the structural advantages, then execution-failure line and column charts; the foreign company logo badge top-right marks the case.",
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -189,10 +188,10 @@
   "message": "Privatization reset control, incentives and execution: shareholder structure shifts from 50.3% state to dispersed float with Equatorial.",
   "visual": [
    "outro:treemap",
-   "tabela"
+   "linha"
   ],
   "layout_trick": "Two treemaps (before/after ownership) show the privatization at a glance; newspaper clipping and governance bullets underneath.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -201,11 +200,11 @@
   "message": "Equatorial has 20 years acquiring and turning around distressed utilities (7 concessions since 2004), replicable at Sabesp.",
   "visual": [
    "timeline",
-   "outro:heatmap-tabela",
-   "outro:foto-citacao"
+   "citacao-foto",
+   "tabela"
   ],
   "layout_trick": "Ribbon timeline of acquisitions with CEO headshots+quotes at both ends, and a heatmap-colored loss-reduction table by concession over years.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -214,10 +213,11 @@
   "message": "The turnaround is already visible: personnel/energy costs, opex per m3 and EBITDA margin gap vs peers narrowing.",
   "visual": [
    "outro:treemap",
-   "colunas+linha"
+   "colunas+linha",
+   "linha"
   ],
   "layout_trick": "Cost composition as a tiled bar (width = share), then opex/revenue line, margin lines vs Copasa/Sanepar with dashed highlight over 2024-25.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -226,10 +226,11 @@
   "message": "The tariff formula monetizes every efficiency gain below the frozen opex ceiling.",
   "visual": [
    "outro:formula-anotada",
-   "colunas+linha"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "Tariff formula typeset big with dashed boxes under each term and a one-line explanation per term; charts below show opex vs ceiling gap.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -238,7 +239,7 @@
   "message": "Old model is a ceiling, new model a value engine: quality gains flow to shareholders and ROIC stays below WACC today.",
   "visual": [
    "outro:formula-anotada",
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "Progressive reveal series: the same slide in 3 states (old model highlighted, new model highlighted, result chart) via fading the inactive half.",
   "quality": 2
@@ -250,10 +251,11 @@
   "message": "Simulated 2027 tariff adjustment shows consistent real adjustment across 35/42 scenarios of Q-factor x U-factor.",
   "visual": [
    "heatmap-sensibilidade",
+   "linha",
    "outro:formula-anotada"
   ],
   "layout_trick": "Compact cyan-gradient heatmap of tariff adjustment vs Q and U factors beside the formula; blue number cells with darker = higher.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -265,7 +267,7 @@
    "colunas+linha"
   ],
   "layout_trick": "Revenue bridge (base 1Q25 to 1Q26 with tariff/volume/mix) plus a breakeven-by-subsidized-users bar chart annotated at 5-6% breakeven.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -274,10 +276,10 @@
   "message": "Water losses are geographically concentrated in municipalities with analog meters and obsolete infrastructure.",
   "visual": [
    "mapa",
-   "outro:scatter-regressao"
+   "scatter-bolhas"
   ],
   "layout_trick": "Two SP municipality maps (loss intensity and digital penetration) with legend boxes inset, plus regression scatter with R2/p-value callout.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -286,8 +288,8 @@
   "message": "Sabesp's BRL 3.8bn meter modernization program targets the root cause, unlocking BRL 1.4bn incremental revenue.",
   "visual": [
    "mapa",
-   "outro:foto-noticia",
-   "colunas+linha"
+   "colunas",
+   "outro:foto-noticia"
   ],
   "layout_trick": "Torn-paper newspaper clipping (InfoMoney headline + quote) as external validation sitting next to the incremental-revenue bars.",
   "quality": 2
@@ -299,11 +301,11 @@
   "message": "Disciplined capital deployment starts with a funding edge: lowest cost of debt, cheaper mix, privileged DFI funding.",
   "visual": [
    "comps-barras",
-   "donut",
-   "colunas+linha"
+   "colunas-empilhadas",
+   "barras-horizontais"
   ],
   "layout_trick": "Three-panel peer comparison (cost of debt bars, stacked debt mix by instrument, DFI exposure horizontal bars) with a dashed-border takeaway strip at the bottom.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -311,8 +313,8 @@
   "purpose": "financials-historicos",
   "message": "Record capex funded without compromising solvency: leverage vs peers, DSCR and debt headroom of BRL 13bn.",
   "visual": [
-   "colunas+linha",
-   "outro:linhas-comparativas"
+   "linha",
+   "colunas"
   ],
   "layout_trick": "2x2 mini-charts, each with a 'headline-bold-phrase...' lead-in connecting two panels into a sentence across the slide; dashed highlight box on the 2025-26 forecast.",
   "quality": 2
@@ -323,9 +325,9 @@
   "purpose": "management-governanca-estrutura",
   "message": "Proven management team with aligned incentives: CEO/CFO/board with Equatorial track record.",
   "visual": [
-   "organograma",
-   "colunas+linha",
-   "outro:fotos-pessoas"
+   "outro:fotos-equipe",
+   "colunas",
+   "colunas-empilhadas"
   ],
   "layout_trick": "Zigzag of 4 headshots with name + prior companies on underlines, next to bars of results delivered and a comp-structure column chart.",
   "quality": 2
@@ -338,7 +340,7 @@
   "visual": [
    "colunas+linha",
    "tabela",
-   "outro:foto-entrevista"
+   "citacao-foto"
   ],
   "layout_trick": "Before/after dashed boxes comparing regulatory models side by side with an expert-call photo and pull quote on the right.",
   "quality": 2
@@ -349,12 +351,12 @@
   "purpose": "valuation-multiplos",
   "message": "RAB drives capital remuneration as universalization scales; multiples (EV/RAB) tell where upside sits.",
   "visual": [
-   "colunas+linha",
-   "outro:escala-zonas",
-   "colunas+linha"
+   "linha",
+   "comps-barras",
+   "outro:escala-zonas"
   ],
   "layout_trick": "Horizontal axis of EV/RAB zones (<1.0x value trap, 1.0-1.5x sweet spot, >1.5x limited upside) read as a verdict scale across Sanepar/Sabesp/Copasa.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -363,8 +365,8 @@
   "message": "EMAE deal proves capital allocation unlocks strategic value: bought at a fraction of market price.",
   "visual": [
    "mapa",
-   "colunas+linha",
-   "outro:foto-entrevista"
+   "colunas",
+   "citacao-foto"
   ],
   "layout_trick": "Map of the reservoir complex with pins and callouts explaining the strategic logic, then EV/MW bars with Sabesp highlighted in a dashed box.",
   "quality": 2
@@ -377,10 +379,10 @@
   "visual": [
    "mapa",
    "bridge-cascata",
-   "colunas+linha"
+   "barras-horizontais"
   ],
   "layout_trick": "Left: concentric-circle graphic of program stages; right: neighboring-municipality map and a waterfall that multiplies connections x tariff x consumption into revenue.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -410,7 +412,7 @@
   "purpose": "apendice",
   "message": "Presentation index lists all slides grouped by pillar with bold pillar headers.",
   "visual": [
-   "tabela"
+   "texto-bullets"
   ],
   "layout_trick": "Two-column hyperlinked index grouped by pillar, so a 100-page deck stays navigable.",
   "quality": 1
@@ -421,12 +423,12 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Business model: eight-step water value chain from sourcing to distribution, one step collects payment, with risk beneath each.",
   "visual": [
-   "timeline",
+   "fluxo-processo",
    "icones+dado-curto",
    "colunas+linha"
   ],
   "layout_trick": "Isometric-style illustrated value chain left to right with step name, risk label in cyan underneath; two data charts hang below.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -434,8 +436,9 @@
   "purpose": "industry-overview",
   "message": "Scale turns concessions into monopolies: competition occurs only during bidding, demand never disappears.",
   "visual": [
-   "colunas+linha",
-   "outro:foto-livro"
+   "barras-horizontais",
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Book cover (Competition Demystified) as an image next to a quoted claim and churn-by-sector bars showing sanitation churn is 0%.",
   "quality": 2
@@ -446,10 +449,11 @@
   "purpose": "valuation-multiplos",
   "message": "EV/RAB multiple sweet spot: sensitivity of multiple to EBITDA/Regulatory and CAPEX/QRR.",
   "visual": [
-   "heatmap-sensibilidade"
+   "heatmap-sensibilidade",
+   "texto-bullets"
   ],
   "layout_trick": "Table heatmap with color bands (cyan sweet-spot cells, orange off-zone) beside a four-bullet reading guide in a pale box.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -457,10 +461,10 @@
   "purpose": "historico-empresa",
   "message": "EMAE: acquisition born from distress, Sabesp the only natural buyer converting a stranded control block into value.",
   "visual": [
-   "timeline",
-   "bridge-cascata"
+   "fluxo-processo",
+   "barras-horizontais"
   ],
-  "layout_trick": "Left vertical stack of 5 transaction steps as blue boxes, right bars of net cost paid vs obtained by item in a mini bridge.",
+  "layout_trick": "Left vertical stack of 5 transaction steps as blue boxes, right horizontal bars of net cost paid vs obtained by item.",
   "quality": 2
  },
  {
@@ -470,7 +474,7 @@
   "message": "Hydrology is a managed risk: reservoirs healthy today, and drought triggers an extraordinary tariff review.",
   "visual": [
    "tabela",
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "Table with traffic-light status cells (Normal/Good/Excellent) per reservoir feeding a long-run water-level line chart.",
   "quality": 2
@@ -481,8 +485,9 @@
   "purpose": "riscos",
   "message": "The 7-system network can redistribute water when one reservoir falls, plus protected forest slows decline.",
   "visual": [
-   "colunas+linha",
-   "icones+dado-curto"
+   "colunas",
+   "icones+dado-curto",
+   "tabela"
   ],
   "layout_trick": "3-column infiltration/interception/baseflow pastel icon cards under a bar showing redistribution capacity rise.",
   "quality": 2
@@ -494,11 +499,10 @@
   "message": "FMSAI turned a municipal obligation into a regulatory drag: 7.5% of São Paulo gross revenue transferred to the fund.",
   "visual": [
    "timeline",
-   "tabela",
-   "outro:brasao"
+   "tabela"
   ],
   "layout_trick": "Vertical dated timeline (2009-2024) beside a 3-period comparison table with risk row 'Prospective risk'.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Sabesp",
@@ -507,11 +511,11 @@
   "message": "FX exposure is a known risk, fully covered by cross-currency swaps.",
   "visual": [
    "donut",
-   "tabela",
-   "outro:diagrama-fluxo"
+   "fluxo-processo",
+   "tabela"
   ],
   "layout_trick": "Donut of debt currency mix next to a swap flow diagram (Sabesp ⇄ counterparty, pays/receives) and a coverage-100% table.",
-  "quality": 3
+  "quality": 2
  },
  {
   "deck": "Sabesp",
@@ -544,7 +548,7 @@
   "visual": [
    "pilares",
    "icones+dado-curto",
-   "outro:foto-citacao"
+   "citacao-foto"
   ],
   "layout_trick": "Three-column pillar headers with icons and short action lines, CEO headshot quote and newspaper clipping in column 3.",
   "quality": 2
@@ -555,7 +559,7 @@
   "purpose": "valuation-multiplos",
   "message": "Sabesp P/E NTM has pulled back to lower multiples vs history, offering an entry point.",
   "visual": [
-   "colunas+linha",
+   "linha",
    "outro:banda-desvio-padrao"
   ],
   "layout_trick": "P/E line over green/yellow/red standard deviation bands (±1σ/±2σ) with the current point circled, next to price chart annotated by events.",
@@ -567,7 +571,8 @@
   "purpose": "catalisadores",
   "message": "Path to universalization: targets for 2027-2029 per segment being achieved with remaining gap quantified.",
   "visual": [
-   "colunas+linha"
+   "barras-horizontais",
+   "colunas-empilhadas"
   ],
   "layout_trick": "Horizontal progress bars (target vs progress) per year and a vertical remaining-to-target stack with dashed highlight.",
   "quality": 2
@@ -578,7 +583,7 @@
   "purpose": "posicionamento-competitivo",
   "message": "Management prioritizes growth within São Paulo; the Copasa decision shows capital discipline.",
   "visual": [
-   "outro:foto-citacao",
+   "citacao-foto",
    "outro:foto-noticia"
   ],
   "layout_trick": "Executive headshot with quote on left and torn newspaper 'Why Sabesp stayed out of Copasa' on right - two proof points side by side.",
@@ -591,7 +596,7 @@
   "message": "Capital remuneration 2018-2025 rises as investment expands the regulated asset base.",
   "visual": [
    "tabela",
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "Yellow-highlighted input/output columns in a spreadsheet table above a labeled line chart of total capital remuneration.",
   "quality": 1
@@ -602,7 +607,7 @@
   "purpose": "kpis-operacionais",
   "message": "ROIC DuPont: ROIC, NOPAT margin and invested capital turnover over 2016-2025 with capex outpacing RAB recognition.",
   "visual": [
-   "colunas+linha"
+   "linha"
   ],
   "layout_trick": "Three overlaid lines (ROIC, margin, turnover) with a dashed callout box on 2025 explaining the compression.",
   "quality": 2
@@ -613,7 +618,8 @@
   "purpose": "financials-historicos",
   "message": "Operational improvements translate into stronger cash generation: FCFF/FCFE and net income vs OCF.",
   "visual": [
-   "colunas+linha"
+   "colunas",
+   "linha"
   ],
   "layout_trick": "Left: two-chart stack (cash generation columns with CAGR box above net income vs OCF lines); right: FCFF vs FCFE paired bars across years with highlight on 2025.",
   "quality": 2
@@ -628,7 +634,7 @@
    "icones+dado-curto"
   ],
   "layout_trick": "Three scenario columns headed with icons (bear, scale, bull) and darker blue shades from bear to bull; yellow-marked outputs.",
-  "quality": 2
+  "quality": 1
  },
  {
   "deck": "Sabesp",
@@ -636,7 +642,7 @@
   "purpose": "modelo-negocio-unit-economics",
   "message": "Universalization follows a steep last-mile curve: cost per connection from R$3.6k to R$10.5k.",
   "visual": [
-   "colunas+linha"
+   "colunas"
   ],
   "layout_trick": "Ordered columns by coverage % colored grey to cyan as they cross the milestone, with two dashed callouts for average cost per connection before vs after.",
   "quality": 3

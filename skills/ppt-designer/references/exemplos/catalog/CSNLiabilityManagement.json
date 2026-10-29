@@ -1,32 +1,378 @@
 [
-{"deck":"CSNLiabilityManagement","page":1,"purpose":"capa","message":"InFinance liability management pitch for CSN (Project Levatio), May 2026","visual":["outro:full-bleed dark abstract blue wave background"],"layout_trick":"Black field with a flowing cobalt-blue ribbon image, centered white client logo and a small team/partners credit block anchored bottom-right.","quality":2},
-{"deck":"CSNLiabilityManagement","page":3,"purpose":"business-overview","message":"CSN is a diversified Brazilian industrial conglomerate whose mining arm is the main cash engine across steel, mining, cement, logistics and energy","visual":["outro:left sidebar fact box + shareholder mini-org","colunas+linha","tabela","outro:bubble market-share"],"layout_trick":"Boxed left column holds logo, short history, shareholder mini-chart and a key-financials table, freeing the right two-thirds for three stacked segment charts (revenue stack, EBITDA 100% bars, share bubbles).","quality":3},
-{"deck":"CSNLiabilityManagement","page":4,"purpose":"historico-empresa","message":"CSN missed the 2021 iron-ore supercycle deleveraging window by pursuing acquisitions, compounding leverage and distress","visual":["colunas+linha","bridge-cascata","timeline"],"layout_trick":"Three-phase tab strip (Restructuring / Aggressive Growth / Financial Distress) at top with the current phase highlighted, repeated on p5-6 so the story reads as a chronological narrative with a navigation cue.","quality":3},
-{"deck":"CSNLiabilityManagement","page":5,"purpose":"historico-empresa","message":"CSN overpaid for acquisitions at multiples above sector ranges and funded capex plus dividends with debt","visual":["outro:scatter EV/EBITDA vs ROIC with logos","bridge-cascata","colunas+linha"],"layout_trick":"Scatter plots acquisition logos against shaded sector-range bands so the overpayment is visible at a glance, paired with a debt-funded capital allocation waterfall below.","quality":2},
-{"deck":"CSNLiabilityManagement","page":6,"purpose":"kpis-operacionais","message":"Adjusted leverage and a R$40.6bn maturity wall reveal a far more stressed position than reported net debt/EBITDA","visual":["colunas+linha","outro:stacked amortization schedule with callout"],"layout_trick":"Reported versus adjusted leverage lines on one chart, plus a stacked maturity ladder with a boxed callout naming the maturity wall total.","quality":2},
-{"deck":"CSNLiabilityManagement","page":7,"purpose":"novo:estrutura-transacao","message":"The US$1.2bn bridge loan is secured on CSN Cimentos and Lusosider guarantees through an offshore SPV","visual":["organograma","tabela","outro:debt maturity grid"],"layout_trick":"Dashed-line flow diagram (banks, SPV, holding, guarantees, proceeds allocation) on the left beside a bonds/debentures/loans maturity heat-grid on the right.","quality":2},
-{"deck":"CSNLiabilityManagement","page":8,"purpose":"valuation-multiplos","message":"Sum-of-the-parts values CSN at R$12.2bn equity versus R$8.8bn market cap, a 28% holding discount","visual":["bridge-cascata","tabela"],"layout_trick":"Segment-value waterfall (mining to equity value) annotated with each segment's percent of EV above the bar and a small input table (market cap, net debt, discount) top-left.","quality":3},
-{"deck":"CSNLiabilityManagement","page":9,"purpose":"novo:plano-desalavancagem","message":"InFinance's four-step plan (divest European steel, sell CSN Cimentos, restructure logistics, tender offer) deleverages CSN","visual":["timeline","icones+dado-curto"],"layout_trick":"Horizontal four-step rail with tick markers; each column stacks a title, three dashed-box rationale chips and three bottom KPIs (R$ amount, % of gross debt, EBITDA).","quality":3},
-{"deck":"CSNLiabilityManagement","page":15,"purpose":"novo:plano-desalavancagem","message":"Step 2 of the plan: CSN Cimentos sale to a strategic player raises R$14.9bn, 28% of gross debt","visual":["timeline","icones+dado-curto"],"layout_trick":"The same step-rail slide reused as a tracker, dimming the other three steps so only the current step is lit, working as a section divider carrying key numbers.","quality":3},
-{"deck":"CSNLiabilityManagement","page":11,"purpose":"posicionamento-competitivo","message":"CSN's European steel assets are non-core, sub-scale and structurally weaker than CSN Steel in Brazil","visual":["mapa","colunas+linha"],"layout_trick":"Regional map with highlighted plants and capacity callouts on the left, two comparative charts on the right (EBITDA/t and margin versus ArcelorMittal Europe).","quality":2},
-{"deck":"CSNLiabilityManagement","page":12,"purpose":"mercado-tam-demanda","message":"SWT's exposure to European energy volatility makes divesting it the value-maximizing path","visual":["colunas+linha","football-field","tabela"],"layout_trick":"Annotated energy-price area chart (event labels on peaks) and a gross margin versus energy scenario curve, with a transaction-benchmark table and a football field on the bottom right.","quality":2},
-{"deck":"CSNLiabilityManagement","page":13,"purpose":"sensibilidade","message":"Lusosider's divestiture unlocks a synergy-driven IRR for an integrated buyer; value holds across DCF and multiple scenarios","visual":["heatmap-sensibilidade","colunas+linha","tabela"],"layout_trick":"Sensitivity grid with the base case boxed and a thin blue banner below stating the synergy takeaway; a cash-flow table with an IRR/NPV strip sits above it.","quality":3},
-{"deck":"CSNLiabilityManagement","page":14,"purpose":"posicionamento-competitivo","message":"A broad buyer universe (Jindal, ArcelorMittal, Marcegaglia, JSW, Brookfield) creates competitive tension and divestiture lifts margins from 23% to 28%","visual":["tabela","outro:logo-led buyer table"],"layout_trick":"Buyer table keyed by logo (strategy, AuM/market cap) on the left and a pro-forma P&L bridge (CSN, EU assets, pro forma) on the right with a boxed leverage result.","quality":2},
-{"deck":"CSNLiabilityManagement","page":16,"purpose":"business-overview","message":"CSN Cimentos is a scaled, integrated national cement platform built through disciplined acquisitions","visual":["mapa","icones+dado-curto","outro:scatter share vs margin"],"layout_trick":"Brazil map with asset-type markers and a three-icon production-chain strip (raw materials, clinker, grinding) under it, plus a scatter of market share versus EBITDA margin by acquisition.","quality":3},
-{"deck":"CSNLiabilityManagement","page":17,"purpose":"modelo-negocio-unit-economics","message":"Energy self-sufficiency (~100% coverage) is a structural cost advantage and hidden value driver in CSN Cimentos","visual":["organograma","tabela","colunas+linha"],"layout_trick":"Ownership flowchart with percent stakes per energy asset on the left and horizontal bars of installed capacity next to a big-number footer (156 MWm, 187 MWm, ~100%).","quality":2},
-{"deck":"CSNLiabilityManagement","page":18,"purpose":"valuation-dcf","message":"CSN Cimentos can monetize below-market energy supply through a contract with the acquirer, adding upfront proceeds","visual":["colunas+linha","tabela"],"layout_trick":"Paired bars (contract vs market price) against a self-sufficiency percent line, with a NPV callout box and a cash capitalization chart annotated by driver.","quality":2},
-{"deck":"CSNLiabilityManagement","page":19,"purpose":"valuation-dcf","message":"Below-market slag supply from UPV adds ~300bps to the acquirer's EBITDA margin, worth R$205mn in contract value","visual":["colunas+linha","tabela"],"layout_trick":"Margin line with and without slag contract plus a boxed numbered chain of how value accrues (secures supply, sells below market, upfront capitalization) next to the bars.","quality":2},
-{"deck":"CSNLiabilityManagement","page":20,"purpose":"posicionamento-competitivo","message":"Chinese groups are the most likely acquirers of CSN Cimentos, given cheaper financing and overseas cement investment mandates","visual":["tabela","outro:scatter financing spread vs duration","colunas+linha"],"layout_trick":"Vertical 'Acquirers' label tab on a logo-headed comparison table (why, strengths, weaknesses), with a financing-spread scatter and acquisition-volume bars below.","quality":3},
-{"deck":"CSNLiabilityManagement","page":21,"purpose":"football-field","message":"Purchase price of 7.8x EV/EBITDA is supported by all methods, and a contract-acceptance tree adds up to R$800mn","visual":["football-field","outro:decision-tree"],"layout_trick":"Football field with a shaded vertical band for the purchase price on the left and a yes/no decision tree on the right where each branch ends in a quantified NPV.","quality":3},
-{"deck":"CSNLiabilityManagement","page":22,"purpose":"novo:estrutura-transacao","message":"The R$14.9bn cement sale proceeds amortize the bridge loan, saving R$623mn in interest","visual":["organograma","tabela"],"layout_trick":"Before/after ownership boxes (stakes in CEEE-G, CMIN) joined by a large arrow, with a bridge-loan repayment grid and transaction mechanism text on the dark navy background.","quality":2},
-{"deck":"CSNLiabilityManagement","page":24,"purpose":"business-overview","message":"CSN's logistics footprint (MRS, TECON, TLSA, Tora) is the operational backbone and a source of liquidity","visual":["mapa","tabela"],"layout_trick":"Brazil map at center with numbered asset pins and leader lines out to callout labels on each side, plus a two-column KPI header for MRS and TECON.","quality":3},
-{"deck":"CSNLiabilityManagement","page":25,"purpose":"tese-pilares-divisor","message":"Logistics divesting structure divider: two tracks, MRS transfer to CMIN and TECON sale","visual":["icones+dado-curto"],"layout_trick":"Numbered-circle (I / II) list on the title background, with the inactive item dimmed across repeated dividers p25/26/29 to act as a progress tracker.","quality":2},
-{"deck":"CSNLiabilityManagement","page":27,"purpose":"business-overview","message":"MRS is the strategic rail corridor linking CSN's mining, steel, cement and port flows, held 81.5% economic by CSN and Vale","visual":["mapa","tabela","outro:sidebar fact box"],"layout_trick":"Slide takes the MRS brand color in the header logo with a route map flanked by callout labels per corridor, a shareholder table and a governance highlights box.","quality":3},
-{"deck":"CSNLiabilityManagement","page":28,"purpose":"valuation-multiplos","message":"An intercompany MRS stake sale to CMIN yields more cash to HoldCo than dividends, with valuation of R$34.8bn across methods","visual":["football-field","colunas+linha","organograma"],"layout_trick":"Slide recolored to the asset's brand (yellow for MRS) so the section is instantly identifiable; football field plus a before/after leverage bar and a boxed structure sketch.","quality":3},
-{"deck":"CSNLiabilityManagement","page":30,"purpose":"business-overview","message":"TECON is increasingly integrated with CSN steel exports, but utilization is constrained by limited container capacity","visual":["colunas+linha","tabela","outro:sidebar fact box"],"layout_trick":"Red-toned brand variant of the at-a-glance template: sidebar fact box on the left, stacked revenue mix bars and a utilization line versus peers on the right.","quality":2},
-{"deck":"CSNLiabilityManagement","page":31,"purpose":"football-field","message":"A TECON sale to a shipping leader supports R$1.4bn of equity value but needs a long-term access agreement","visual":["football-field","tabela","organograma"],"layout_trick":"Acquirer logo table with vertical 'Acquirers' tab on the left, football field top right, and a transaction structure flow plus key conditions box beneath it.","quality":2},
-{"deck":"CSNLiabilityManagement","page":32,"purpose":"valuation-multiplos","message":"Post-plan, CSN's capital structure moves closer to Brazilian peers, with net debt/EBITDA falling from 2.9x to 1.4x by 2031","visual":["colunas+linha","outro:scatter leverage vs gross debt"],"layout_trick":"Stacked gross-debt reduction by asset sale (Europe, cement, logistics) over a pre/post-plan leverage line, with a peer scatter placing 'CSN Ex-InFinance' against 'CSN InFinance'.","quality":3},
-{"deck":"CSNLiabilityManagement","page":34,"purpose":"mercado-tam-demanda","message":"Debt sell-off across CSN's capital structure creates a window to repurchase securities below par","visual":["colunas+linha","outro:bubble scatter coupon vs price","tabela","football-field"],"layout_trick":"Price-history lines, a bubble scatter of each bond (coupon vs price) circled around the tender targets, and a recovery football field in one four-panel grid.","quality":2},
-{"deck":"CSNLiabilityManagement","page":35,"purpose":"sensibilidade","message":"A targeted tender offer retires debt below par, reducing net debt by about R$1.4bn and unlocking equity value","visual":["heatmap-sensibilidade","tabela","bridge-cascata"],"layout_trick":"Dark-blue heatmap of net debt reduction against early-bird participation and tender consideration, base case boxed, with before/after leverage bars beside it.","quality":3},
-{"deck":"CSNLiabilityManagement","page":36,"purpose":"recomendacao-exec-summary","message":"The plan implies 35% equity upside to R$8.87 and InFinance's advisory fee is a 1% on each executed transaction","visual":["bridge-cascata","colunas+linha","tabela"],"layout_trick":"Price-history line with a light shaded 'upside' band beside a waterfall of target-price contribution by step (European assets, cement, logistics, tender), with step-by-step text in a left sidebar.","quality":3}
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 1,
+  "purpose": "capa",
+  "message": "InFinance liability management pitch for CSN (Project Levatio), May 2026",
+  "visual": [
+   "foto-capa"
+  ],
+  "layout_trick": "Black field with a flowing cobalt-blue ribbon image, centered white client logo and a small team/partners credit block anchored bottom-right.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 3,
+  "purpose": "business-overview",
+  "message": "CSN is a diversified Brazilian industrial conglomerate whose mining arm is the main cash engine across steel, mining, cement, logistics and energy",
+  "visual": [
+   "colunas-empilhadas",
+   "barra-100",
+   "scatter-bolhas"
+  ],
+  "layout_trick": "Boxed left column holds logo, short history, shareholder mini-chart and a key-financials table, freeing the right two-thirds for three stacked segment charts (revenue stack, EBITDA 100% bars, share bubbles).",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 4,
+  "purpose": "historico-empresa",
+  "message": "CSN missed the 2021 iron-ore supercycle deleveraging window by pursuing acquisitions, compounding leverage and distress",
+  "visual": [
+   "colunas+linha",
+   "bridge-cascata",
+   "linha"
+  ],
+  "layout_trick": "Three-phase tab strip (Restructuring / Aggressive Growth / Financial Distress) at top with the current phase highlighted, repeated on p5-6 so the story reads as a chronological narrative with a navigation cue.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 5,
+  "purpose": "historico-empresa",
+  "message": "CSN overpaid for acquisitions at multiples above sector ranges and funded capex plus dividends with debt",
+  "visual": [
+   "scatter-bolhas",
+   "bridge-cascata",
+   "colunas+linha"
+  ],
+  "layout_trick": "Scatter plots acquisition logos against shaded sector-range bands so the overpayment is visible at a glance, paired with a debt-funded capital allocation waterfall below.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 6,
+  "purpose": "kpis-operacionais",
+  "message": "Adjusted leverage and a R$40.6bn maturity wall reveal a far more stressed position than reported net debt/EBITDA",
+  "visual": [
+   "linha",
+   "colunas-empilhadas",
+   "colunas+linha"
+  ],
+  "layout_trick": "Reported versus adjusted leverage lines on one chart, plus a stacked maturity ladder with a boxed callout naming the maturity wall total.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 7,
+  "purpose": "novo:estrutura-transacao",
+  "message": "The US$1.2bn bridge loan is secured on CSN Cimentos and Lusosider guarantees through an offshore SPV",
+  "visual": [
+   "organograma",
+   "tabela"
+  ],
+  "layout_trick": "Dashed-line flow diagram (banks, SPV, holding, guarantees, proceeds allocation) on the left beside a bonds/debentures/loans maturity heat-grid on the right.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 8,
+  "purpose": "valuation-multiplos",
+  "message": "Sum-of-the-parts values CSN at R$12.2bn equity versus R$8.8bn market cap, a 28% holding discount",
+  "visual": [
+   "bridge-cascata",
+   "tabela"
+  ],
+  "layout_trick": "Segment-value waterfall (mining to equity value) annotated with each segment's percent of EV above the bar and a small input table (market cap, net debt, discount) top-left.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 9,
+  "purpose": "novo:plano-desalavancagem",
+  "message": "InFinance's four-step plan (divest European steel, sell CSN Cimentos, restructure logistics, tender offer) deleverages CSN",
+  "visual": [
+   "fluxo-processo",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Horizontal four-step rail with tick markers; each column stacks a title, three dashed-box rationale chips and three bottom KPIs (R$ amount, % of gross debt, EBITDA).",
+  "quality": 3
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 15,
+  "purpose": "novo:plano-desalavancagem",
+  "message": "Step 2 of the plan: CSN Cimentos sale to a strategic player raises R$14.9bn, 28% of gross debt",
+  "visual": [
+   "fluxo-processo",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "The same step-rail slide reused as a tracker, dimming the other three steps so only the current step is lit, working as a section divider carrying key numbers.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 11,
+  "purpose": "posicionamento-competitivo",
+  "message": "CSN's European steel assets are non-core, sub-scale and structurally weaker than CSN Steel in Brazil",
+  "visual": [
+   "mapa",
+   "colunas",
+   "linha"
+  ],
+  "layout_trick": "Regional map with highlighted plants and capacity callouts on the left, two comparative charts on the right (EBITDA/t and margin versus ArcelorMittal Europe).",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 12,
+  "purpose": "mercado-tam-demanda",
+  "message": "SWT's exposure to European energy volatility makes divesting it the value-maximizing path",
+  "visual": [
+   "area",
+   "tabela",
+   "football-field"
+  ],
+  "layout_trick": "Annotated energy-price area chart (event labels on peaks) and a gross margin versus energy scenario curve, with a transaction-benchmark table and a football field on the bottom right.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 13,
+  "purpose": "sensibilidade",
+  "message": "Lusosider's divestiture unlocks a synergy-driven IRR for an integrated buyer; value holds across DCF and multiple scenarios",
+  "visual": [
+   "colunas+linha",
+   "tabela",
+   "heatmap-sensibilidade"
+  ],
+  "layout_trick": "Sensitivity grid with the base case boxed and a thin blue banner below stating the synergy takeaway; a cash-flow table with an IRR/NPV strip sits above it.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 14,
+  "purpose": "posicionamento-competitivo",
+  "message": "A broad buyer universe (Jindal, ArcelorMittal, Marcegaglia, JSW, Brookfield) creates competitive tension and divestiture lifts margins from 23% to 28%",
+  "visual": [
+   "tabela"
+  ],
+  "layout_trick": "Buyer table keyed by logo (strategy, AuM/market cap) on the left and a pro-forma P&L bridge (CSN, EU assets, pro forma) on the right with a boxed leverage result.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 16,
+  "purpose": "business-overview",
+  "message": "CSN Cimentos is a scaled, integrated national cement platform built through disciplined acquisitions",
+  "visual": [
+   "mapa",
+   "scatter-bolhas",
+   "icones+dado-curto"
+  ],
+  "layout_trick": "Brazil map with asset-type markers and a three-icon production-chain strip (raw materials, clinker, grinding) under it, plus a scatter of market share versus EBITDA margin by acquisition.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 17,
+  "purpose": "modelo-negocio-unit-economics",
+  "message": "Energy self-sufficiency (~100% coverage) is a structural cost advantage and hidden value driver in CSN Cimentos",
+  "visual": [
+   "organograma",
+   "barras-horizontais",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Ownership flowchart with percent stakes per energy asset on the left and horizontal bars of installed capacity next to a big-number footer (156 MWm, 187 MWm, ~100%).",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 18,
+  "purpose": "valuation-dcf",
+  "message": "CSN Cimentos can monetize below-market energy supply through a contract with the acquirer, adding upfront proceeds",
+  "visual": [
+   "colunas+linha",
+   "colunas",
+   "tabela"
+  ],
+  "layout_trick": "Paired bars (contract vs market price) against a self-sufficiency percent line, with a NPV callout box and a cash capitalization chart annotated by driver.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 19,
+  "purpose": "valuation-dcf",
+  "message": "Below-market slag supply from UPV adds ~300bps to the acquirer's EBITDA margin, worth R$205mn in contract value",
+  "visual": [
+   "linha",
+   "colunas",
+   "tabela"
+  ],
+  "layout_trick": "Margin line with and without slag contract plus a boxed numbered chain of how value accrues (secures supply, sells below market, upfront capitalization) next to the bars.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 20,
+  "purpose": "posicionamento-competitivo",
+  "message": "Chinese groups are the most likely acquirers of CSN Cimentos, given cheaper financing and overseas cement investment mandates",
+  "visual": [
+   "tabela",
+   "scatter-bolhas",
+   "colunas"
+  ],
+  "layout_trick": "Vertical 'Acquirers' label tab on a logo-headed comparison table (why, strengths, weaknesses), with a financing-spread scatter and acquisition-volume bars below.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 21,
+  "purpose": "football-field",
+  "message": "Purchase price of 7.8x EV/EBITDA is supported by all methods, and a contract-acceptance tree adds up to R$800mn",
+  "visual": [
+   "football-field",
+   "outro:arvore-decisao"
+  ],
+  "layout_trick": "Football field with a shaded vertical band for the purchase price on the left and a yes/no decision tree on the right where each branch ends in a quantified NPV.",
+  "quality": 3
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 22,
+  "purpose": "novo:estrutura-transacao",
+  "message": "The R$14.9bn cement sale proceeds amortize the bridge loan, saving R$623mn in interest",
+  "visual": [
+   "organograma",
+   "tabela"
+  ],
+  "layout_trick": "Before/after ownership boxes (stakes in CEEE-G, CMIN) joined by a large arrow, with a bridge-loan repayment grid and transaction mechanism text on the dark navy background.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 24,
+  "purpose": "business-overview",
+  "message": "CSN's logistics footprint (MRS, TECON, TLSA, Tora) is the operational backbone and a source of liquidity",
+  "visual": [
+   "mapa",
+   "kpi-numeros-grandes"
+  ],
+  "layout_trick": "Brazil map at center with numbered asset pins and leader lines out to callout labels on each side, plus a two-column KPI header for MRS and TECON.",
+  "quality": 3
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 25,
+  "purpose": "tese-pilares-divisor",
+  "message": "Logistics divesting structure divider: two tracks, MRS transfer to CMIN and TECON sale",
+  "visual": [
+   "texto-bullets"
+  ],
+  "layout_trick": "Numbered-circle (I / II) list on the title background, with the inactive item dimmed across repeated dividers p25/26/29 to act as a progress tracker.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 27,
+  "purpose": "business-overview",
+  "message": "MRS is the strategic rail corridor linking CSN's mining, steel, cement and port flows, held 81.5% economic by CSN and Vale",
+  "visual": [
+   "mapa",
+   "tabela"
+  ],
+  "layout_trick": "Slide takes the MRS brand color in the header logo with a route map flanked by callout labels per corridor, a shareholder table and a governance highlights box.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 28,
+  "purpose": "valuation-multiplos",
+  "message": "An intercompany MRS stake sale to CMIN yields more cash to HoldCo than dividends, with valuation of R$34.8bn across methods",
+  "visual": [
+   "colunas+linha",
+   "football-field",
+   "organograma"
+  ],
+  "layout_trick": "Slide recolored to the asset's brand (yellow for MRS) so the section is instantly identifiable; football field plus a before/after leverage bar and a boxed structure sketch.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 30,
+  "purpose": "business-overview",
+  "message": "TECON is increasingly integrated with CSN steel exports, but utilization is constrained by limited container capacity",
+  "visual": [
+   "colunas-empilhadas",
+   "colunas+linha",
+   "tabela"
+  ],
+  "layout_trick": "Red-toned brand variant of the at-a-glance template: sidebar fact box on the left, stacked revenue mix bars and a utilization line versus peers on the right.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 31,
+  "purpose": "football-field",
+  "message": "A TECON sale to a shipping leader supports R$1.4bn of equity value but needs a long-term access agreement",
+  "visual": [
+   "football-field",
+   "colunas+linha",
+   "fluxo-processo"
+  ],
+  "layout_trick": "Acquirer logo table with vertical 'Acquirers' tab on the left, football field top right, and a transaction structure flow plus key conditions box beneath it.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 32,
+  "purpose": "valuation-multiplos",
+  "message": "Post-plan, CSN's capital structure moves closer to Brazilian peers, with net debt/EBITDA falling from 2.9x to 1.4x by 2031",
+  "visual": [
+   "bridge-cascata",
+   "linha",
+   "scatter-bolhas"
+  ],
+  "layout_trick": "Stacked gross-debt reduction by asset sale (Europe, cement, logistics) over a pre/post-plan leverage line, with a peer scatter placing 'CSN Ex-InFinance' against 'CSN InFinance'.",
+  "quality": 2
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 34,
+  "purpose": "mercado-tam-demanda",
+  "message": "Debt sell-off across CSN's capital structure creates a window to repurchase securities below par",
+  "visual": [
+   "linha",
+   "scatter-bolhas",
+   "football-field"
+  ],
+  "layout_trick": "Price-history lines, a bubble scatter of each bond (coupon vs price) circled around the tender targets, and a recovery football field in one four-panel grid.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 35,
+  "purpose": "sensibilidade",
+  "message": "A targeted tender offer retires debt below par, reducing net debt by about R$1.4bn and unlocking equity value",
+  "visual": [
+   "heatmap-sensibilidade",
+   "tabela",
+   "bridge-cascata"
+  ],
+  "layout_trick": "Dark-blue heatmap of net debt reduction against early-bird participation and tender consideration, base case boxed, with before/after leverage bars beside it.",
+  "quality": 1
+ },
+ {
+  "deck": "CSNLiabilityManagement",
+  "page": 36,
+  "purpose": "recomendacao-exec-summary",
+  "message": "The plan implies 35% equity upside to R$8.87 and InFinance's advisory fee is a 1% on each executed transaction",
+  "visual": [
+   "linha",
+   "bridge-cascata",
+   "texto-bullets"
+  ],
+  "layout_trick": "Price-history line with a light shaded 'upside' band beside a waterfall of target-price contribution by step (European assets, cement, logistics, tender), with step-by-step text in a left sidebar.",
+  "quality": 1
+ }
 ]

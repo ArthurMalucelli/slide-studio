@@ -1,61 +1,719 @@
 [
-{"deck":"RDSaude","page":1,"purpose":"capa","message":"RD Saúde Final Analysis cover: green-duotone storefront photo with white title and team names.","visual":["outro:foto-duotone-verde"],"layout_trick":"Tint the company's own storefront photo in the brand green (duotone) and overlay a wavy darker-green swoosh on the left to hold the white title block, so the cover is on-brand without a logo wall.","quality":2},
-{"deck":"RDSaude","page":2,"purpose":"business-overview","message":"RD Saúde at a Glance: largest pharma retail chain in Brazil, with history timeline, revenue split by segment and store distribution map.","visual":["timeline","donut","colunas+linha","mapa"],"layout_trick":"Three boxed cards under one title (company overview + mini vertical timeline, donut of revenue mix, Brazil map with store counts) plus a bottom bar chart with dashed CAGR bracket, giving a full 'at a glance' in one page.","quality":3},
-{"deck":"RDSaude","page":3,"purpose":"modelo-negocio-unit-economics","message":"How RD makes money: owned brands (4Bio, Drogasil, Raia) and side models (Needs, RD Ads, Stix) with segment revenue mix 2022 vs 2023 stacked bars with growth deltas.","visual":["icones+dado-curto","colunas+linha","outro:stacked-2-anos-com-delta"],"layout_trick":"Two stacked columns (2022 vs 2023) with round icons on the left as legend and a +% growth arrow per segment between the columns, so mix and growth read in one glance.","quality":3},
-{"deck":"RDSaude","page":4,"purpose":"modelo-negocio-unit-economics","message":"Margins by segment: generics and services lead gross margin (50-60%) but COGS is 72.6% of the total cost structure.","visual":["comps-barras","outro:treemap-custos"],"layout_trick":"Pop-up card laid over the dimmed previous slide: horizontal bars for gross margin by segment next to a treemap of the cost stack (COGS, D&A, SG&A, financial), focusing attention on one question.","quality":2},
-{"deck":"RDSaude","page":5,"purpose":"recomendacao-exec-summary","message":"RADL3 - HOLD: target price R$23.26 vs current R$26.20, downside -11.35%.","visual":["outro:preco-historico-com-faixas","icones+dado-curto"],"layout_trick":"Dark-green slide with a price-history line chart carrying dashed horizontal bear/target/current lines (labelled with bull/bear icons) and a pale recommendation card with big HOLD, current price, downward arrow and target price.","quality":3},
-{"deck":"RDSaude","page":6,"purpose":"tese-pilares-divisor","message":"Investment thesis in three pillars: sector in growth, RD's scale, good business but well priced.","visual":["pilares","icones+dado-curto"],"layout_trick":"Full-bleed green section divider with three hexagon-icon rows staggered left-to-right (title + 2-line explanation each); the active pillar is highlighted as a lighter bar while the others stay dim, and the same slide is reused as divider before each thesis block.","quality":3},
-{"deck":"RDSaude","page":8,"purpose":"industry-overview","message":"Drugstore retail is the last link of the chain, and the pharma market grows at 10-12% CAGR with highest margins.","visual":["colunas+linha"],"layout_trick":"Split slide: a pale grey right panel and a white left panel, each with a column chart plus dashed CAGR bracket callout and a boxed 'Pharma Sector' note, using bar heights growing like a staircase.","quality":2},
-{"deck":"RDSaude","page":9,"purpose":"mercado-tam-demanda","message":"Brazil is ageing: life expectancy rising and the population pyramid inverting, so pharma spend per age group is up to 4x higher for the old.","visual":["colunas+linha","outro:piramide-etaria","outro:barras-horizontais-com-destaque"],"layout_trick":"Population pyramids 2023 vs 2050 side by side, and a horizontal bar chart of spend by age bracket with dashed boxes around 'old' vs 'young' groups and a '4x more!' callout.","quality":3},
-{"deck":"RDSaude","page":10,"purpose":"mercado-tam-demanda","message":"Pharma market development is tied to the demographic pyramid and longer life expectancy: expected CAGR vs other countries and 65+ population projection.","visual":["colunas+linha","outro:ranking-paises"],"layout_trick":"Pop-up card over faded slide: ranked bar chart of expected CAGR by country on the left, and an area/staircase chart of elderly population 2010-2050 on the right with '+10M elderly' annotations.","quality":1},
-{"deck":"RDSaude","page":11,"purpose":"posicionamento-competitivo","message":"Retail pharma is fragmented but consolidating: RD is the biggest player by far; regional map of market share per chain and HHI of 335.","visual":["mapa","donut","tabela","outro:escala-HHI"],"layout_trick":"Dashed-border side card with an HHI scale (335 on a 0-10,000 bar) over a donut of chain market share, next to three region maps with store counts per chain.","quality":3},
-{"deck":"RDSaude","page":12,"purpose":"posicionamento-competitivo","message":"Consolidation headroom is in smaller cities: independents hold 41-74% of stores by city size, while associations and franchises are growing alongside RD.","visual":["colunas+linha","donut","outro:stacked-100"],"layout_trick":"100% stacked columns by city size with funnel-like wedge background linking the series, and a second stacked bar over time showing each chain type, reusing the right-hand HHI+donut card from the previous slide as a constant anchor.","quality":2},
-{"deck":"RDSaude","page":13,"purpose":"mercado-tam-demanda","message":"RD competes cheek to cheek in A/B classes but is far from the larger C/D/E market, which is a R$134bi vs R$34bi opportunity.","visual":["colunas+linha","funil-piramide"],"layout_trick":"Social-class pyramid (A to D/E) with brackets giving R$ spend of the top vs bottom tiers and a '4x more!' dashed tag, paired with a bar chart of store presence by class.","quality":2},
-{"deck":"RDSaude","page":15,"purpose":"posicionamento-competitivo","message":"RD has a strong trait of capillarity: in noble areas it cannibalizes its own stores, but in poorer areas it is the only RD store.","visual":["mapa"],"layout_trick":"Real street-map screenshot of a neighbourhood with coloured pins per competitor and a pin legend on the left; a second frame zooms out and swaps to black pins for small drugstores with a 'Just one RD store in that poor area' callout.","quality":2},
-{"deck":"RDSaude","page":16,"purpose":"industry-overview","message":"The US 'big brother' market shows what consolidation looks like: top-5 concentration, HHI of CVS/Walgreens/Rite Aid, and high productivity at low cost.","visual":["colunas+linha","comps-barras","outro:escala-HHI"],"layout_trick":"Benchmark layout in two halves: GDP per capita vs drugstore sales columns on the left, concentration bars of top US chains with '3x' dashed link on the right, and a productivity-by-country ranking underneath with logos of the US players.","quality":2},
-{"deck":"RDSaude","page":18,"purpose":"industry-overview","message":"The government shapes the market: ANVISA allows new services, Farmácia Popular boosts generics, and CMED adjusts prices yearly by IPCA - X + Y + Z.","visual":["pilares","icones+dado-curto","outro:formula-destacada"],"layout_trick":"Regulator logo as a banner on top and three equal framed columns below (new services, Farmácia Popular, prices adjusted), with the pricing formula IPCA-X+Y+Z=PVPM in a green highlighted bar with callouts for each term.","quality":2},
-{"deck":"RDSaude","page":19,"purpose":"mercado-tam-demanda","message":"The sector is resilient: RD sales grow above inflation, are barely affected by Selic spikes, and pharma retail grew above GDP even in crises.","visual":["colunas+linha"],"layout_trick":"Three-chart page where each chart answers one sub-claim (vs inflation, vs interest rates, vs GDP) and a grey floor plate with dashed callout 'solid growth in economic crisis' marks the downturn years.","quality":2},
-{"deck":"RDSaude","page":20,"purpose":"posicionamento-competitivo","message":"Porter forces: a competitive industry with few long-term benefits; scored per force from 1 to 5 with the radar and a Michael Porter book reference.","visual":["outro:radar","tabela"],"layout_trick":"Radar chart of the five forces on the left with filled concentric pentagons, and on the right a scored text list (Threat of new entrants: 3, Rivalry: 4, ...) with a book-cover thumbnail for credibility.","quality":2},
-{"deck":"RDSaude","page":23,"purpose":"posicionamento-competitivo","message":"The power of scale: RD earns a 3.2% net margin vs 2% and negative for peers, with sales per store 70% above Panvel and Pague Menos.","visual":["comps-barras","colunas+linha"],"layout_trick":"Book-cover thumbnail of '7 Powers' linked by dashed connectors to three small benchmark charts (net margin horizontal bars, monthly sales per store columns, sales per POS indexed to RD=100), each tied to a named scale advantage.","quality":3},
-{"deck":"RDSaude","page":24,"purpose":"historico-empresa","message":"First-mover advantage: RD opened 270 stores in a year vs 57 for Panvel, and with similar capex-to-revenue as peers.","visual":["colunas+linha","lineup-imagens","comps-barras"],"layout_trick":"A row of three founding-era storefront photos with year captions (1973, 1977, 1981) on the left, paired with two head-to-head bar comparisons (openings and capex) on the right.","quality":2},
-{"deck":"RDSaude","page":25,"purpose":"posicionamento-competitivo","message":"Capillarity is RD's strongest asset: 2,953 stores, 574 cities, 26 states, 14 DCs, and a larger share of the population within 5 km and 5 minutes of a store.","visual":["mapa","icones+dado-curto","colunas+linha"],"layout_trick":"Brazil map with dashed leader lines from each region to its store count, plus a left bullet box with key stats and two before/after bar pairs (2019 vs 2023) showing population within 5 km / 5 min.","quality":3},
-{"deck":"RDSaude","page":26,"purpose":"modelo-negocio-unit-economics","message":"Stores act as distribution centres: 94% of e-commerce deliveries leave from stores, digital customers spend 3x more, and NPS grows.","visual":["colunas+linha","donut"],"layout_trick":"Donut with a funnel-shaped base leading into an NPS line chart (pharmacies vs app) in the right panel, while the left side stacks e-commerce sales columns and a 3x-more bracket for digital vs non-digital.","quality":2},
-{"deck":"RDSaude","page":27,"purpose":"posicionamento-competitivo","message":"RD wins the ROIC game: its market share is ~3x its closest rival and its ROIC spread vs WACC is higher than most peers.","visual":["outro:profit-pool-marimekko","comps-barras"],"layout_trick":"Profit-pool chart where bar width equals market share and height equals ROIC spread (RD wide and positive, others narrow or negative), alongside a ROIC ranking of global chains with CVS on top.","quality":3},
-{"deck":"RDSaude","page":29,"purpose":"management-governanca-estrutura","message":"Top tier management: families in control with international investors and a decentralised board; CEO Marcílio Pousada comes from Walmart/Sarraiva.","visual":["lineup-imagens","donut","organograma"],"layout_trick":"A literal board table image with board members' names and photos around it, plus a shareholder donut with family labels and a CEO portrait with a logo path (Walmart > BTG > Saraiva > RD) showing his career.","quality":3},
-{"deck":"RDSaude","page":30,"purpose":"management-governanca-estrutura","message":"Good team, excellent rewards: pay aligned with shareholders and cheaper than peers as a share of revenue (RD 0.12% vs Pague Menos 0.32%).","visual":["comps-barras","colunas+linha"],"layout_trick":"Pop-up card with a clustered bar chart of board remuneration by type (fixed, bonus, stocks) for each company and a single-bar summary of pay as % of revenue, using the headline as the takeaway.","quality":1},
-{"deck":"RDSaude","page":31,"purpose":"kpis-operacionais","message":"Management drives above-average returns: new stores grow faster and close less than peers; unit economics give IRR of 26% vs 18% for Pague Menos.","visual":["colunas+linha","bridge-cascata","icones+dado-curto"],"layout_trick":"Unit-economics strip at the bottom shows a cash-flow waterfall by year with pill chips for IRR, NPV and payback, one for RD and one for Pague Menos with its logo, to compare head-to-head.","quality":3},
-{"deck":"RDSaude","page":32,"purpose":"modelo-negocio-unit-economics","message":"Private labels and loyalty (Stix, Needs) boost margin: the loyalty customer spends 4x, and gross margin by private label grows faster.","visual":["colunas+linha","icones+dado-curto","lineup-imagens"],"layout_trick":"Brand logos (Stix, Needs) as headers with callout boxes explaining each program, a phone screenshot of the loyalty app, and a 4x column comparison (RD average vs Stix vs Stix in use) with team photo in the store as a field-research proof.","quality":2},
-{"deck":"RDSaude","page":35,"purpose":"cenarios","message":"Three scenarios: Bear (max 280 openings, IRR 14.2%, downside -17.5%), Base (340, IRR 15.3%, -11.4%) and Bull (380, IRR 18.7%, +11.6%).","visual":["tabela","pilares"],"layout_trick":"Three equal side-by-side cards with red, green and dark-green header ribbons for bear/base/bull, same line items in each (openings, SSS, cash cycle, macro, market share 2035) and the downside/upside and IRR in big red/green at the bottom.","quality":3},
-{"deck":"RDSaude","page":36,"purpose":"premissas-projecoes","message":"RD guides ~240-270 new stores per year and has a record of meeting its guidance; our scenarios differ from the market's view of openings.","visual":["colunas+linha"],"layout_trick":"Two charts: historical openings with guidance dots overlaid on bars (to prove reliability), and a forward-openings line chart with bull/base/bear lines vs market expectation with value labels in boxes.","quality":2},
-{"deck":"RDSaude","page":37,"purpose":"premissas-projecoes","message":"Same-store sales: inflation is not a problem for RD, and revenue per store grows at a decreasing rate in bull/base/bear.","visual":["colunas+linha","outro:linhas-multiplas"],"layout_trick":"Two raised 3D-style grey card plates, each with a multi-line chart (SSS vs CMED vs IPCA left, SSS by scenario right) with end-labels boxed in green.","quality":1},
-{"deck":"RDSaude","page":38,"purpose":"premissas-projecoes","message":"Drugstore revenue build-up: R$34bn in 2024 to R$127bn in 2034 (11.5% CAGR), driven by store maturation curve and sales per mature store.","visual":["colunas+linha","outro:zoom-em-componente"],"layout_trick":"Stacked column revenue build-up with each business line highlighted in turn (drugstores in dark green, other grey) and a diagonal 'zoom' wedge opening into the detail panel showing store age mix, sales per store and maturation curve (50% > 100%).","quality":3},
-{"deck":"RDSaude","page":39,"purpose":"premissas-projecoes","message":"E-commerce revenue build-up: 15.3% CAGR using stores as distribution centres, with e-commerce share of revenue rising to 25% by 2034.","visual":["colunas+linha","mapa","outro:zoom-em-componente"],"layout_trick":"Same revenue-stack chart as the previous page with the teal e-commerce layer highlighted and a teal wedge that zooms into a detail panel (share-of-revenue bars + store map), so each revenue line has an identical page template.","quality":3},
-{"deck":"RDSaude","page":42,"purpose":"premissas-projecoes","message":"Margin trajectory: slightly increasing gross margin (29.6% to 31%) and falling G&A, with an explanatory box per line.","visual":["colunas+linha","outro:linhas-multiplas"],"layout_trick":"Three smooth lines (gross, EBIT, net margin) with boxed label stacks at the right end, and three grey call-out cards labeled COGS/Sales/G&A each explaining the assumption in two lines.","quality":2},
-{"deck":"RDSaude","page":44,"purpose":"financials-historicos","message":"EBITDA margin elevates slightly (7% to ~10%), while D&A almost triples and IR expenses follow.","visual":["colunas+linha"],"layout_trick":"One slide with three small time-series: margin line on top, then D&A columns (dark for history, light green for projections) and IR as a teal columns+line, with the same x-axis throughout.","quality":1},
-{"deck":"RDSaude","page":45,"purpose":"premissas-projecoes","message":"Results: net profit grows from ~R$800mn to R$9bn+ by 2035 and payout rises to 70% to keep the equity structure.","visual":["colunas+linha"],"layout_trick":"Two stacked charts with matching x-axes: net profit columns with net-margin line above, dividends columns with payout line below, each with a one-line bolded heading naming the claim.","quality":2},
-{"deck":"RDSaude","page":48,"purpose":"premissas-projecoes","message":"Expansion CAPEX: opening cost per store times stores opened per year, with capex per store rising and capex as % of revenue falling (scale gains).","visual":["colunas+linha","outro:formula-visual"],"layout_trick":"A dashed-box formula card 'Opening cost of one drugstore x Quantity opened = Total Expansion CAPEX' sits next to the supporting charts, making the calculation logic literal.","quality":2},
-{"deck":"RDSaude","page":49,"purpose":"kpis-operacionais","message":"ROIC = NOPAT margin x invested capital turnover; ROIC stays above WACC (14.5%) through the projection.","visual":["colunas+linha","outro:formula-visual"],"layout_trick":"Column charts for margin and turnover joined by large X and = operators into a ROIC line, with a second line below plotting ROIC vs WACC; labelled tab headers (ROIC Calculation, Value Creation) in teal.","quality":3},
-{"deck":"RDSaude","page":51,"purpose":"valuation-dcf","message":"WACC of 14.46% is built from cost of equity 14.91% and after-tax cost of debt 8.1% with a 93.4/6.6 equity-debt mix.","visual":["bridge-cascata","tabela"],"layout_trick":"Left-hand tall green card writes the WACC formula vertically (Ke x E/D+E + Kd x D/D+E with the values), and right-hand floating-bar builds show how Kd and Ke are assembled (rf + CRP + risk premium = Ke).","quality":3},
-{"deck":"RDSaude","page":52,"purpose":"valuation-dcf","message":"Strong FCFF generation until 2030 (average FCFF yield 3.9%); 67% of the value is in perpetuity at g=4%.","visual":["colunas+linha","donut"],"layout_trick":"FCFF columns with FCFF-yield line overlaid, a donut of PV explicit vs perpetuity (33/67) with an arrow to the g=4% box, and a debt bar chart at the bottom right.","quality":2},
-{"deck":"RDSaude","page":54,"purpose":"valuation-multiplos","message":"Exit multiple of 18x P/E in 2030 gives R$54.8 and an IRR of 15.4% vs 11.8x projected; sensitivity table of IRR by exit multiple and EBITDA.","visual":["heatmap-sensibilidade","tabela","timeline"],"layout_trick":"Left card shows a bar of exit-year and P/E (projection vs chosen with 'premium' marker) ending in 'R$25.60 to R$54.8, IRR 15.39%', and at the right the dividends+exit stream and a green heat-mapped IRR table.","quality":3},
-{"deck":"RDSaude","page":55,"purpose":"sensibilidade","message":"Monte Carlo on WACC, g and gross margin: mean R$21.05 vs current price R$26.2, only 10% of cases show more than 25% upside.","visual":["outro:histograma-monte-carlo","icones+dado-curto"],"layout_trick":"Histogram with bars coloured by outcome (dark green above vs teal below current price), dashed callout flags for mean and current price, an assumptions panel for ranges, and a quote card with portrait (Damodaran) on 'uncertainty'.","quality":3},
-{"deck":"RDSaude","page":56,"purpose":"football-field","message":"Stress tests: WACC x g heatmap, peer EV/EBITDA vs margin scatter, and a football-field of exit multiple (R$22-27), FCFF (R$22-29) and Monte Carlo (R$16-28) against target and current prices.","visual":["football-field","heatmap-sensibilidade","outro:scatter-peers"],"layout_trick":"Football field with floating range bars per method and two vertical dashed lines (target R$23.26, current R$26.24), next to a WACC x g heatmap and a margin vs EV/EBITDA scatter with the peers' logos as markers.","quality":3},
-{"deck":"RDSaude","page":57,"purpose":"recomendacao-exec-summary","message":"We would be shareholders, but not at this price: HOLD justified by expensive but good company, quality governance and foreign liquidity.","visual":["outro:quote-card","pilares"],"layout_trick":"Overlay card on the dimmed valuation slide with a book cover (Howard Marks) and a green quote panel, followed by three numbered reasons connected by thin lines to explain why HOLD instead of SELL.","quality":2},
-{"deck":"RDSaude","page":58,"purpose":"riscos","message":"Risks matrix by impact and probability with 6 risks grouped into expansion, sectorial and macroeconomic.","visual":["matriz-riscos"],"layout_trick":"Grid matrix (impact y, probability x) with square coded tags (E1, E2, S1, S2, M1, M2) placed in cells, next to three stacked green panels that list the risks with the same codes; each panel is later highlighted individually so the tag cells light up.","quality":3},
-{"deck":"RDSaude","page":62,"purpose":"riscos","message":"Sectorial risk S1 (subsidy reduction) is quantified with an income-tax x gross-margin sensitivity grid: upside is very sensitive to competition, little to subsidies.","visual":["matriz-riscos","heatmap-sensibilidade"],"layout_trick":"A wedge-shaped pop-up expanding from the S1 cell of the risk matrix into a heat-mapped sensitivity table, so each risk is tied to a quantified impact on value.","quality":3},
-{"deck":"RDSaude","page":60,"purpose":"riscos","message":"Competitors can come stronger: news headlines (Pague Menos CEO change, DPSP + Pague Menos merger) as evidence for risk E2.","visual":["outro:cards-de-noticia","matriz-riscos"],"layout_trick":"Two browser-window-styled news headline cards (with source mast and date) as proof for a risk, overlaid on the dimmed risk matrix.","quality":2},
-{"deck":"RDSaude","page":65,"purpose":"apendice","message":"Appendix and Valuation section index listing all numbered backup pages.","visual":["tabela"],"layout_trick":"Two-column table of contents on a dark green full bleed with numbered section codes (1.1, 2.3...) mirrored in the page footers, to navigate a 125-page deck.","quality":1},
-{"deck":"RDSaude","page":67,"purpose":"historico-empresa","message":"The beginning: how Raia and Drogasil mergers, IPO and 4Bio / vaccines / services acquisitions created the leader.","visual":["timeline","lineup-imagens"],"layout_trick":"S-curve snake timeline from 1905 to 2023 with round photo or logo medallions at each milestone and captions below, filling the page without a boring straight line.","quality":3},
-{"deck":"RDSaude","page":69,"purpose":"modelo-negocio-unit-economics","message":"RD Ads: a new way to monetize pharma via retail media, digital and physical ad types, growth in pharmacies with screens and revenue base 100.","visual":["icones+dado-curto","colunas+linha","outro:mockup-celular"],"layout_trick":"Phone mockup showing the RD Ads message with a green wedge to a two-types-of-advertising card, plus a rounded-corner chart frame and a case box (customers 11k, investment R$70k, revenue R$841k).","quality":2},
-{"deck":"RDSaude","page":70,"purpose":"historico-empresa","message":"Rebrand from RaiaDrogasil to RD Saúde reflects a goal of becoming a healthcare hub.","visual":["lineup-imagens","outro:logo-flow"],"layout_trick":"Left grey card with a video-call photo plus quote, and right a logo-flow (Raia + Drogasil > RD > RD Saúde) above a CEO portrait with a quote banner.","quality":1},
-{"deck":"RDSaude","page":71,"purpose":"industry-overview","message":"How prices are modeled in drugstores: the government via CMED sets them, with lower inflation meaning less margin variation.","visual":["outro:formula-destacada","colunas+linha"],"layout_trick":"Formula strip with an L-shaped bracket arrows mapping each term to its explanation, next to a line chart of margin dynamics with peer logos as endpoints.","quality":1},
-{"deck":"RDSaude","page":72,"purpose":"historico-empresa","message":"More than a common pharmacy: services (vaccines, tests, hubs) grow quickly and diversify RD into healthcare.","visual":["timeline","icones+dado-curto","colunas+linha"],"layout_trick":"Zig-zag line timeline with a circular icon at each service launch (2009, 2017, 2020, 2022, 2023), a bar chart of services volume and a CEO quote photo box.","quality":2},
-{"deck":"RDSaude","page":73,"purpose":"pesquisa-primaria","message":"Analyst calls with BBI and XP: RD is a better option than Pague Menos thanks to management, scale and geographic reach.","visual":["lineup-imagens","outro:quote-card"],"layout_trick":"Two screenshots of the real video calls with a grey insights box below each carrying the analyst's name and distilled takeaways, serving as proof of work.","quality":2},
-{"deck":"RDSaude","page":74,"purpose":"pesquisa-primaria","message":"Field research with 200+ consumers: preferences of drugstore and the most important factor (price, convenience, quality).","visual":["donut"],"layout_trick":"Two side-by-side donuts with a distinct non-green palette (purple, blue, red) so survey data is visually separated from model data, with legends under each.","quality":2},
-{"deck":"RDSaude","page":76,"purpose":"pesquisa-primaria","message":"Franchise interview: RD avoids franchising to maintain store quality and brand, and because margins are low.","visual":["lineup-imagens","outro:quote-card"],"layout_trick":"Video-call screenshot sitting on a pedestal-like grey plate carrying the interview quote in large type.","quality":1},
-{"deck":"RDSaude","page":77,"purpose":"business-overview","message":"Other brands of the RD Saúde ecosystem: retail brands and health brands around a customer hub.","visual":["outro:ecossistema-logos","icones+dado-curto"],"layout_trick":"Logo ecosystem split into Retail vs Health halves with the customer icon in the center and the function (loyalty, own brands, exams) written around it, instead of a plain logo grid.","quality":2},
-{"deck":"RDSaude","page":78,"purpose":"kpis-operacionais","message":"E-commerce advantage: 94% of deliveries by RD pharmacies, 92% in 60 minutes, and higher NPS than Panvel.","visual":["donut","comps-barras"],"layout_trick":"Large donut(s) for share of deliveries and time under 60 min next to a paired-bar NPS comparison RD vs Panvel (store, app, services) in two brand colours.","quality":2},
-{"deck":"RDSaude","page":79,"purpose":"kpis-operacionais","message":"ROE breakdown (DuPont): RD's higher margins and turnover keep it always ahead of competitors.","visual":["colunas+linha","outro:formula-visual","comps-barras"],"layout_trick":"Net margin x asset turnover x leverage with large X and = operators, then a grey trapezoid funnel pointing to a players-comparison ROE line below.","quality":2},
-{"deck":"RDSaude","page":80,"purpose":"valuation-multiplos","message":"P/E: RD never traded above 34x P/E in the last 10 years, so we gave a premium multiple.","visual":["colunas+linha"],"layout_trick":"Single clean line chart of historical P/E with labelled peaks and troughs, and a subtitle that ties it directly to the exit multiple assumption.","quality":1},
-{"deck":"RDSaude","page":107,"purpose":"sensibilidade","message":"Matrix WACC x g showing upside from -28% to +57%.","visual":["heatmap-sensibilidade"],"layout_trick":"Green gradient heatmap with WACC on rows and g on columns; the darker the cell, the larger the upside, using one hue for readability.","quality":1}
+  {
+    "deck": "RDSaude",
+    "page": 1,
+    "purpose": "capa",
+    "message": "RD Saúde Final Analysis cover: green-duotone storefront photo with white title and team names.",
+    "visual": [
+      "foto-capa"
+    ],
+    "layout_trick": "Tint the company's own storefront photo in the brand green (duotone) and overlay a wavy darker-green swoosh on the left to hold the white title block, so the cover is on-brand without a logo wall.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 2,
+    "purpose": "business-overview",
+    "message": "RD Saúde at a Glance: largest pharma retail chain in Brazil, with history timeline, revenue split by segment and store distribution map.",
+    "visual": [
+      "mapa",
+      "donut",
+      "colunas"
+    ],
+    "layout_trick": "Three boxed cards under one title (company overview + mini vertical timeline, donut of revenue mix, Brazil map with store counts) plus a bottom column chart with dashed CAGR bracket, giving a full 'at a glance' in one page.",
+    "quality": 3
+  },
+  {
+    "deck": "RDSaude",
+    "page": 3,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "How RD makes money: owned brands (4Bio, Drogasil, Raia) and side models (Needs, RD Ads, Stix) with segment revenue mix 2022 vs 2023 stacked bars with growth deltas.",
+    "visual": [
+      "colunas-empilhadas",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Two stacked columns (2022 vs 2023) with round icons on the left as legend and a +% growth arrow per segment between the columns, so mix and growth read in one glance.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 4,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "Margins by segment: generics and services lead gross margin (50-60%) but COGS is 72.6% of the total cost structure.",
+    "visual": [
+      "barras-horizontais",
+      "outro:treemap-custos"
+    ],
+    "layout_trick": "Pop-up card laid over the dimmed previous slide: horizontal bars for gross margin by segment next to a treemap of the cost stack (COGS, D&A, SG&A, financial), focusing attention on one question.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 5,
+    "purpose": "recomendacao-exec-summary",
+    "message": "RADL3 - HOLD: target price R$23.26 vs current R$26.20, downside -11.35%.",
+    "visual": [
+      "linha",
+      "kpi-numeros-grandes"
+    ],
+    "layout_trick": "Dark-green slide with a price-history line chart carrying dashed horizontal bear/target/current lines (labelled with bull/bear icons) and a pale recommendation card with big HOLD, current price, downward arrow and target price.",
+    "quality": 3
+  },
+  {
+    "deck": "RDSaude",
+    "page": 6,
+    "purpose": "tese-pilares-divisor",
+    "message": "Investment thesis in three pillars: sector in growth, RD's scale, good business but well priced.",
+    "visual": [
+      "pilares",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Full-bleed green section divider with three hexagon-icon rows staggered left-to-right (title + 2-line explanation each); the active pillar is highlighted as a lighter bar while the others stay dim, and the same slide is reused as divider before each thesis block.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 8,
+    "purpose": "industry-overview",
+    "message": "Drugstore retail is the last link of the chain, and the pharma market grows at 10-12% CAGR with highest margins.",
+    "visual": [
+      "colunas",
+      "linha"
+    ],
+    "layout_trick": "Split slide: a pale grey right panel and a white left panel, each with a column chart plus dashed CAGR bracket callout and a boxed 'Pharma Sector' note, using bar heights growing like a staircase.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 9,
+    "purpose": "mercado-tam-demanda",
+    "message": "Brazil is ageing: life expectancy rising and the population pyramid inverting, so pharma spend per age group is up to 4x higher for the old.",
+    "visual": [
+      "outro:piramide-etaria",
+      "barras-horizontais",
+      "linha"
+    ],
+    "layout_trick": "Population pyramids 2023 vs 2050 side by side, and a horizontal bar chart of spend by age bracket with dashed boxes around 'old' vs 'young' groups and a '4x more!' callout.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 10,
+    "purpose": "mercado-tam-demanda",
+    "message": "Pharma market development is tied to the demographic pyramid and longer life expectancy: expected CAGR vs other countries and 65+ population projection.",
+    "visual": [
+      "colunas",
+      "area"
+    ],
+    "layout_trick": "Pop-up card over faded slide: ranked bar chart of expected CAGR by country on the left, and an area/staircase chart of elderly population 2010-2050 on the right with '+10M elderly' annotations.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 11,
+    "purpose": "posicionamento-competitivo",
+    "message": "Retail pharma is fragmented but consolidating: RD is the biggest player by far; regional map of market share per chain and HHI of 335.",
+    "visual": [
+      "donut",
+      "mapa",
+      "colunas"
+    ],
+    "layout_trick": "Dashed-border side card with an HHI scale (335 on a 0-10,000 bar) over a donut of chain market share, next to three region maps with store counts per chain.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 12,
+    "purpose": "posicionamento-competitivo",
+    "message": "Consolidation headroom is in smaller cities: independents hold 41-74% of stores by city size, while associations and franchises are growing alongside RD.",
+    "visual": [
+      "barra-100",
+      "donut"
+    ],
+    "layout_trick": "100% stacked columns by city size with funnel-like wedge background linking the series, and a second stacked bar over time showing each chain type, reusing the right-hand HHI+donut card from the previous slide as a constant anchor.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 13,
+    "purpose": "mercado-tam-demanda",
+    "message": "RD competes cheek to cheek in A/B classes but is far from the larger C/D/E market, which is a R$134bi vs R$34bi opportunity.",
+    "visual": [
+      "colunas",
+      "funil-piramide",
+      "donut"
+    ],
+    "layout_trick": "Social-class pyramid (A to D/E) with brackets giving R$ spend of the top vs bottom tiers and a '4x more!' dashed tag, paired with a bar chart of store presence by class.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 15,
+    "purpose": "posicionamento-competitivo",
+    "message": "RD has a strong trait of capillarity: in noble areas it cannibalizes its own stores, but in poorer areas it is the only RD store.",
+    "visual": [
+      "mapa"
+    ],
+    "layout_trick": "Real street-map screenshot of a neighbourhood with coloured pins per competitor and a pin legend on the left; a second frame zooms out and swaps to black pins for small drugstores with a 'Just one RD store in that poor area' callout.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 16,
+    "purpose": "industry-overview",
+    "message": "The US 'big brother' market shows what consolidation looks like: top-5 concentration, HHI of CVS/Walgreens/Rite Aid, and high productivity at low cost.",
+    "visual": [
+      "colunas+linha",
+      "barras-horizontais",
+      "colunas"
+    ],
+    "layout_trick": "Benchmark layout in two halves: GDP per capita vs drugstore sales columns on the left, concentration bars of top US chains with '3x' dashed link on the right, and a productivity-by-country ranking underneath with logos of the US players.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 18,
+    "purpose": "industry-overview",
+    "message": "The government shapes the market: ANVISA allows new services, Farmácia Popular boosts generics, and CMED adjusts prices yearly by IPCA - X + Y + Z.",
+    "visual": [
+      "pilares",
+      "colunas",
+      "outro:formula-destacada"
+    ],
+    "layout_trick": "Regulator logo as a banner on top and three equal framed columns below (new services, Farmácia Popular, prices adjusted), with the pricing formula IPCA-X+Y+Z=PVPM in a green highlighted bar with callouts for each term.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 19,
+    "purpose": "mercado-tam-demanda",
+    "message": "The sector is resilient: RD sales grow above inflation, are barely affected by Selic spikes, and pharma retail grew above GDP even in crises.",
+    "visual": [
+      "linha",
+      "colunas"
+    ],
+    "layout_trick": "Three-chart page where each chart answers one sub-claim (vs inflation, vs interest rates, vs GDP) and a grey floor plate with dashed callout 'solid growth in economic crisis' marks the downturn years.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 20,
+    "purpose": "posicionamento-competitivo",
+    "message": "Porter forces: a competitive industry with few long-term benefits; scored per force from 1 to 5 with the radar and a Michael Porter book reference.",
+    "visual": [
+      "outro:radar",
+      "texto-bullets"
+    ],
+    "layout_trick": "Radar chart of the five forces on the left with filled concentric pentagons, and on the right a scored text list (Threat of new entrants: 3, Rivalry: 4, ...) with a book-cover thumbnail for credibility.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 23,
+    "purpose": "posicionamento-competitivo",
+    "message": "The power of scale: RD earns a 3.2% net margin vs 2% and negative for peers, with sales per store 70% above Panvel and Pague Menos.",
+    "visual": [
+      "comps-barras",
+      "colunas"
+    ],
+    "layout_trick": "Book-cover thumbnail of '7 Powers' linked by dashed connectors to three small benchmark charts (net margin horizontal bars, monthly sales per store columns, sales per POS indexed to RD=100), each tied to a named scale advantage.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 24,
+    "purpose": "historico-empresa",
+    "message": "First-mover advantage: RD opened 270 stores in a year vs 57 for Panvel, and with similar capex-to-revenue as peers.",
+    "visual": [
+      "lineup-imagens",
+      "comps-barras",
+      "colunas"
+    ],
+    "layout_trick": "A row of three founding-era storefront photos with year captions (1973, 1977, 1981) on the left, paired with two head-to-head bar comparisons (openings and capex) on the right.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 25,
+    "purpose": "posicionamento-competitivo",
+    "message": "Capillarity is RD's strongest asset: 2,953 stores, 574 cities, 26 states, 14 DCs, and a larger share of the population within 5 km and 5 minutes of a store.",
+    "visual": [
+      "mapa",
+      "colunas",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Brazil map with dashed leader lines from each region to its store count, plus a left bullet box with key stats and two before/after bar pairs (2019 vs 2023) showing population within 5 km / 5 min.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 26,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "Stores act as distribution centres: 94% of e-commerce deliveries leave from stores, digital customers spend 3x more, and NPS grows.",
+    "visual": [
+      "colunas",
+      "donut",
+      "linha"
+    ],
+    "layout_trick": "Donut with a funnel-shaped base leading into an NPS line chart (pharmacies vs app) in the right panel, while the left side stacks e-commerce sales columns and a 3x-more bracket for digital vs non-digital.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 27,
+    "purpose": "posicionamento-competitivo",
+    "message": "RD wins the ROIC game: its market share is ~3x its closest rival and its ROIC spread vs WACC is higher than most peers.",
+    "visual": [
+      "outro:profit-pool-marimekko",
+      "barras-horizontais"
+    ],
+    "layout_trick": "Profit-pool chart where bar width equals market share and height equals ROIC spread (RD wide and positive, others narrow or negative), alongside a ROIC ranking of global chains with CVS on top.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 29,
+    "purpose": "management-governanca-estrutura",
+    "message": "Top tier management: families in control with international investors and a decentralised board; CEO Marcílio Pousada comes from Walmart/Sarraiva.",
+    "visual": [
+      "lineup-imagens",
+      "donut"
+    ],
+    "layout_trick": "A literal board table image with board members' names and photos around it, plus a shareholder donut with family labels and a CEO portrait with a logo path (Walmart > BTG > Saraiva > RD) showing his career.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 30,
+    "purpose": "management-governanca-estrutura",
+    "message": "Good team, excellent rewards: pay aligned with shareholders and cheaper than peers as a share of revenue (RD 0.12% vs Pague Menos 0.32%).",
+    "visual": [
+      "colunas"
+    ],
+    "layout_trick": "Pop-up card with a clustered bar chart of board remuneration by type (fixed, bonus, stocks) for each company and a single-bar summary of pay as % of revenue, using the headline as the takeaway.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 31,
+    "purpose": "kpis-operacionais",
+    "message": "Management drives above-average returns: new stores grow faster and close less than peers; unit economics give IRR of 26% vs 18% for Pague Menos.",
+    "visual": [
+      "colunas",
+      "kpi-numeros-grandes"
+    ],
+    "layout_trick": "Unit-economics strip at the bottom: yearly cash-flow columns (negative year 0, then growing) for RD vs Pague Menos side by side, each topped by pill chips for IRR, NPV and payback, with the peer's logo as marker for a head-to-head read.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 32,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "Private labels and loyalty (Stix, Needs) boost margin: the loyalty customer spends 4x, and gross margin by private label grows faster.",
+    "visual": [
+      "colunas",
+      "screenshot-produto",
+      "lineup-imagens"
+    ],
+    "layout_trick": "Brand logos (Stix, Needs) as headers with callout boxes explaining each program, a phone screenshot of the loyalty app, and a 4x column comparison (RD average vs Stix vs Stix in use) with team photo in the store as a field-research proof.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 35,
+    "purpose": "cenarios",
+    "message": "Three scenarios: Bear (max 280 openings, IRR 14.2%, downside -17.5%), Base (340, IRR 15.3%, -11.4%) and Bull (380, IRR 18.7%, +11.6%).",
+    "visual": [
+      "pilares",
+      "kpi-numeros-grandes"
+    ],
+    "layout_trick": "Three equal side-by-side cards with red, green and dark-green header ribbons for bear/base/bull, same line items in each (openings, SSS, cash cycle, macro, market share 2035) and the downside/upside and IRR in big red/green at the bottom.",
+    "quality": 3
+  },
+  {
+    "deck": "RDSaude",
+    "page": 36,
+    "purpose": "premissas-projecoes",
+    "message": "RD guides ~240-270 new stores per year and has a record of meeting its guidance; our scenarios differ from the market's view of openings.",
+    "visual": [
+      "colunas",
+      "linha"
+    ],
+    "layout_trick": "Two charts: historical openings with guidance dots overlaid on bars (to prove reliability), and a forward-openings line chart with bull/base/bear lines vs market expectation with value labels in boxes.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 37,
+    "purpose": "premissas-projecoes",
+    "message": "Same-store sales: inflation is not a problem for RD, and revenue per store grows at a decreasing rate in bull/base/bear.",
+    "visual": [
+      "linha"
+    ],
+    "layout_trick": "Two raised 3D-style grey card plates, each with a multi-line chart (SSS vs CMED vs IPCA left, SSS by scenario right) with end-labels boxed in green.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 38,
+    "purpose": "premissas-projecoes",
+    "message": "Drugstore revenue build-up: R$34bn in 2024 to R$127bn in 2034 (11.5% CAGR), driven by store maturation curve and sales per mature store.",
+    "visual": [
+      "colunas-empilhadas",
+      "colunas",
+      "linha"
+    ],
+    "layout_trick": "Stacked column revenue build-up with each business line highlighted in turn (drugstores in dark green, other grey) and a diagonal 'zoom' wedge opening into the detail panel showing store age mix, sales per store and maturation curve (50% > 100%).",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 39,
+    "purpose": "premissas-projecoes",
+    "message": "E-commerce revenue build-up: 15.3% CAGR using stores as distribution centres, with e-commerce share of revenue rising to 25% by 2034.",
+    "visual": [
+      "colunas-empilhadas",
+      "colunas",
+      "mapa"
+    ],
+    "layout_trick": "Same revenue-stack chart as the previous page with the teal e-commerce layer highlighted and a teal wedge that zooms into a detail panel (share-of-revenue bars + store map), so each revenue line has an identical page template.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 42,
+    "purpose": "premissas-projecoes",
+    "message": "Margin trajectory: slightly increasing gross margin (29.6% to 31%) and falling G&A, with an explanatory box per line.",
+    "visual": [
+      "linha",
+      "texto-bullets"
+    ],
+    "layout_trick": "Three smooth lines (gross, EBIT, net margin) with boxed label stacks at the right end, and three grey call-out cards labeled COGS/Sales/G&A each explaining the assumption in two lines.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 44,
+    "purpose": "financials-historicos",
+    "message": "EBITDA margin elevates slightly (7% to ~10%), while D&A almost triples and IR expenses follow.",
+    "visual": [
+      "linha",
+      "colunas"
+    ],
+    "layout_trick": "One slide with three small time-series: margin line on top, then D&A columns (dark for history, light green for projections) and IR as a teal columns+line, with the same x-axis throughout.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 45,
+    "purpose": "premissas-projecoes",
+    "message": "Results: net profit grows from ~R$800mn to R$9bn+ by 2035 and payout rises to 70% to keep the equity structure.",
+    "visual": [
+      "colunas+linha"
+    ],
+    "layout_trick": "Two stacked charts with matching x-axes: net profit columns with net-margin line above, dividends columns with payout line below, each with a one-line bolded heading naming the claim.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 48,
+    "purpose": "premissas-projecoes",
+    "message": "Expansion CAPEX: opening cost per store times stores opened per year, with capex per store rising and capex as % of revenue falling (scale gains).",
+    "visual": [
+      "colunas+linha",
+      "outro:formula-visual"
+    ],
+    "layout_trick": "A dashed-box formula card 'Opening cost of one drugstore x Quantity opened = Total Expansion CAPEX' sits next to the supporting charts, making the calculation logic literal.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 49,
+    "purpose": "kpis-operacionais",
+    "message": "ROIC = NOPAT margin x invested capital turnover; ROIC stays above WACC (14.5%) through the projection.",
+    "visual": [
+      "colunas",
+      "linha",
+      "outro:formula-visual"
+    ],
+    "layout_trick": "Column charts for margin and turnover joined by large X and = operators into a ROIC line, with a second line below plotting ROIC vs WACC; labelled tab headers (ROIC Calculation, Value Creation) in teal.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 51,
+    "purpose": "valuation-dcf",
+    "message": "WACC of 14.46% is built from cost of equity 14.91% and after-tax cost of debt 8.1% with a 93.4/6.6 equity-debt mix.",
+    "visual": [
+      "bridge-cascata",
+      "outro:formula-visual"
+    ],
+    "layout_trick": "Left-hand tall green card writes the WACC formula vertically (Ke x E/D+E + Kd x D/D+E with the values), and right-hand floating-bar builds show how Kd and Ke are assembled (rf + CRP + risk premium = Ke).",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 52,
+    "purpose": "valuation-dcf",
+    "message": "Strong FCFF generation until 2030 (average FCFF yield 3.9%); 67% of the value is in perpetuity at g=4%.",
+    "visual": [
+      "colunas",
+      "donut"
+    ],
+    "layout_trick": "FCFF columns with FCFF-yield line overlaid, a donut of PV explicit vs perpetuity (33/67) with an arrow to the g=4% box, and a debt bar chart at the bottom right.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 54,
+    "purpose": "valuation-multiplos",
+    "message": "Exit multiple of 18x P/E in 2030 gives R$54.8 and an IRR of 15.4% vs 11.8x projected; sensitivity table of IRR by exit multiple and EBITDA.",
+    "visual": [
+      "heatmap-sensibilidade",
+      "timeline",
+      "kpi-numeros-grandes"
+    ],
+    "layout_trick": "Left card shows a bar of exit-year and P/E (projection vs chosen with 'premium' marker) ending in 'R$25.60 to R$54.8, IRR 15.39%', and at the right the dividends+exit stream and a green heat-mapped IRR table.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 55,
+    "purpose": "sensibilidade",
+    "message": "Monte Carlo on WACC, g and gross margin: mean R$21.05 vs current price R$26.2, only 10% of cases show more than 25% upside.",
+    "visual": [
+      "colunas",
+      "citacao-foto"
+    ],
+    "layout_trick": "Histogram with bars coloured by outcome (dark green above vs teal below current price), dashed callout flags for mean and current price, an assumptions panel for ranges, and a quote card with portrait (Damodaran) on 'uncertainty'.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 56,
+    "purpose": "football-field",
+    "message": "Stress tests: WACC x g heatmap, peer EV/EBITDA vs margin scatter, and a football-field of exit multiple (R$22-27), FCFF (R$22-29) and Monte Carlo (R$16-28) against target and current prices.",
+    "visual": [
+      "football-field",
+      "heatmap-sensibilidade",
+      "scatter-bolhas"
+    ],
+    "layout_trick": "Football field with floating range bars per method and two vertical dashed lines (target R$23.26, current R$26.24), next to a WACC x g heatmap and a margin vs EV/EBITDA scatter with the peers' logos as markers.",
+    "quality": 3
+  },
+  {
+    "deck": "RDSaude",
+    "page": 57,
+    "purpose": "recomendacao-exec-summary",
+    "message": "We would be shareholders, but not at this price: HOLD justified by expensive but good company, quality governance and foreign liquidity.",
+    "visual": [
+      "citacao-foto",
+      "texto-bullets"
+    ],
+    "layout_trick": "Overlay card on the dimmed valuation slide with a book cover (Howard Marks) and a green quote panel, followed by three numbered reasons connected by thin lines to explain why HOLD instead of SELL.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 58,
+    "purpose": "riscos",
+    "message": "Risks matrix by impact and probability with 6 risks grouped into expansion, sectorial and macroeconomic.",
+    "visual": [
+      "matriz-riscos",
+      "texto-bullets"
+    ],
+    "layout_trick": "Grid matrix (impact y, probability x) with square coded tags (E1, E2, S1, S2, M1, M2) placed in cells, next to three stacked green panels that list the risks with the same codes; each panel is later highlighted individually so the tag cells light up.",
+    "quality": 3
+  },
+  {
+    "deck": "RDSaude",
+    "page": 62,
+    "purpose": "riscos",
+    "message": "Sectorial risk S1 (subsidy reduction) is quantified with an income-tax x gross-margin sensitivity grid: upside is very sensitive to competition, little to subsidies.",
+    "visual": [
+      "matriz-riscos",
+      "heatmap-sensibilidade"
+    ],
+    "layout_trick": "A wedge-shaped pop-up expanding from the S1 cell of the risk matrix into a heat-mapped sensitivity table, so each risk is tied to a quantified impact on value.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 60,
+    "purpose": "riscos",
+    "message": "Competitors can come stronger: news headlines (Pague Menos CEO change, DPSP + Pague Menos merger) as evidence for risk E2.",
+    "visual": [
+      "screenshot-produto",
+      "matriz-riscos"
+    ],
+    "layout_trick": "Two browser-window-styled news headline cards (with source mast and date) as proof for a risk, overlaid on the dimmed risk matrix.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 65,
+    "purpose": "apendice",
+    "message": "Appendix and Valuation section index listing all numbered backup pages.",
+    "visual": [
+      "texto-bullets"
+    ],
+    "layout_trick": "Two-column table of contents on a dark green full bleed with numbered section codes (1.1, 2.3...) mirrored in the page footers, to navigate a 125-page deck.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 67,
+    "purpose": "historico-empresa",
+    "message": "The beginning: how Raia and Drogasil mergers, IPO and 4Bio / vaccines / services acquisitions created the leader.",
+    "visual": [
+      "timeline",
+      "lineup-imagens"
+    ],
+    "layout_trick": "S-curve snake timeline from 1905 to 2023 with round photo or logo medallions at each milestone and captions below, filling the page without a boring straight line.",
+    "quality": 3
+  },
+  {
+    "deck": "RDSaude",
+    "page": 69,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "RD Ads: a new way to monetize pharma via retail media, digital and physical ad types, growth in pharmacies with screens and revenue base 100.",
+    "visual": [
+      "screenshot-produto",
+      "colunas",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Phone mockup showing the RD Ads message with a green wedge to a two-types-of-advertising card, plus a rounded-corner chart frame and a case box (customers 11k, investment R$70k, revenue R$841k).",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 70,
+    "purpose": "historico-empresa",
+    "message": "Rebrand from RaiaDrogasil to RD Saúde reflects a goal of becoming a healthcare hub.",
+    "visual": [
+      "citacao-foto",
+      "fluxo-processo"
+    ],
+    "layout_trick": "Left grey card with a video-call photo plus quote, and right a logo-flow (Raia + Drogasil > RD > RD Saúde) above a CEO portrait with a quote banner.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 71,
+    "purpose": "industry-overview",
+    "message": "How prices are modeled in drugstores: the government via CMED sets them, with lower inflation meaning less margin variation.",
+    "visual": [
+      "linha",
+      "colunas",
+      "outro:formula-destacada"
+    ],
+    "layout_trick": "Formula strip with an L-shaped bracket arrows mapping each term to its explanation, next to a line chart of margin dynamics with peer logos as endpoints.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 72,
+    "purpose": "historico-empresa",
+    "message": "More than a common pharmacy: services (vaccines, tests, hubs) grow quickly and diversify RD into healthcare.",
+    "visual": [
+      "timeline",
+      "colunas",
+      "citacao-foto"
+    ],
+    "layout_trick": "Zig-zag line timeline with a circular icon at each service launch (2009, 2017, 2020, 2022, 2023), a bar chart of services volume and a CEO quote photo box.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 73,
+    "purpose": "pesquisa-primaria",
+    "message": "Analyst calls with BBI and XP: RD is a better option than Pague Menos thanks to management, scale and geographic reach.",
+    "visual": [
+      "citacao-foto",
+      "texto-bullets"
+    ],
+    "layout_trick": "Two screenshots of the real video calls with a grey insights box below each carrying the analyst's name and distilled takeaways, serving as proof of work.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 74,
+    "purpose": "pesquisa-primaria",
+    "message": "Field research with 200+ consumers: preferences of drugstore and the most important factor (price, convenience, quality).",
+    "visual": [
+      "donut"
+    ],
+    "layout_trick": "Two side-by-side donuts with a distinct non-green palette (purple, blue, red) so survey data is visually separated from model data, with legends under each.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 76,
+    "purpose": "pesquisa-primaria",
+    "message": "Franchise interview: RD avoids franchising to maintain store quality and brand, and because margins are low.",
+    "visual": [
+      "citacao-foto"
+    ],
+    "layout_trick": "Video-call screenshot sitting on a pedestal-like grey plate carrying the interview quote in large type.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 77,
+    "purpose": "business-overview",
+    "message": "Other brands of the RD Saúde ecosystem: retail brands and health brands around a customer hub.",
+    "visual": [
+      "outro:ecossistema-logos",
+      "icones+dado-curto"
+    ],
+    "layout_trick": "Logo ecosystem split into Retail vs Health halves with the customer icon in the center and the function (loyalty, own brands, exams) written around it, instead of a plain logo grid.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 78,
+    "purpose": "kpis-operacionais",
+    "message": "E-commerce advantage: 94% of deliveries by RD pharmacies, 92% in 60 minutes, and higher NPS than Panvel.",
+    "visual": [
+      "donut",
+      "comps-barras"
+    ],
+    "layout_trick": "Large donut(s) for share of deliveries and time under 60 min next to a paired-bar NPS comparison RD vs Panvel (store, app, services) in two brand colours.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 79,
+    "purpose": "kpis-operacionais",
+    "message": "ROE breakdown (DuPont): RD's higher margins and turnover keep it always ahead of competitors.",
+    "visual": [
+      "colunas",
+      "linha",
+      "outro:formula-visual"
+    ],
+    "layout_trick": "Net margin x asset turnover x leverage with large X and = operators, then a grey trapezoid funnel pointing to a players-comparison ROE line below.",
+    "quality": 2
+  },
+  {
+    "deck": "RDSaude",
+    "page": 80,
+    "purpose": "valuation-multiplos",
+    "message": "P/E: RD never traded above 34x P/E in the last 10 years, so we gave a premium multiple.",
+    "visual": [
+      "linha"
+    ],
+    "layout_trick": "Single clean line chart of historical P/E with labelled peaks and troughs, and a subtitle that ties it directly to the exit multiple assumption.",
+    "quality": 1
+  },
+  {
+    "deck": "RDSaude",
+    "page": 107,
+    "purpose": "sensibilidade",
+    "message": "Matrix WACC x g showing upside from -28% to +57%.",
+    "visual": [
+      "heatmap-sensibilidade"
+    ],
+    "layout_trick": "Green gradient heatmap with WACC on rows and g on columns; the darker the cell, the larger the upside, using one hue for readability.",
+    "quality": 1
+  }
 ]

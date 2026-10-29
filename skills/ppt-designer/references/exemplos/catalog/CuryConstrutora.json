@@ -1,399 +1,390 @@
 [
- {
-  "deck": "CuryConstrutora",
-  "page": 1,
-  "purpose": "capa",
-  "message": "Capa dark com gradiente de ondas azuis, logos Insper Asset x Cury e nomes da equipe.",
-  "visual": [
-   "outro:capa-gradiente-escuro"
-  ],
-  "layout_trick": "Fundo azul-marinho com textura de ondas e bloco de texto alinhado a esquerda; logos co-branded no topo, equipe em rodape.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 2,
-  "purpose": "recomendacao-exec-summary",
-  "message": "CURY3 BUY: preco atual R$30,37 vs preco alvo R$39,78, upside DCF 31% e TIR 27% por multiplo.",
-  "visual": [
-   "outro:grafico-preco-com-seta-alvo",
-   "icones+dado-curto"
-  ],
-  "layout_trick": "Grafico de preco historico full-bleed com seta ate o preco-alvo e caixa 'Preco Atual -> Preco Alvo' ao lado do selo BUY gigante.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 3,
-  "purpose": "industry-overview",
-  "message": "Homebuilders crescem forte no Brasil: receita do setor de R$91 bi (2020) a R$264 bi (2025), CAGR 23,8%, puxada por MCMV.",
-  "visual": [
-   "colunas+linha",
-   "tabela",
-   "outro:treemap-market-share",
-   "outro:texto-overview-lateral"
-  ],
-  "layout_trick": "Painel esquerdo 'Overview' em caixa com texto + treemap de market share; direita com 3 mini-graficos (receita setor, VGV por segmento, estoque).",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 4,
-  "purpose": "business-overview",
-  "message": "Cury at a Glance: foco SP/RJ, VGV lancado de R$0,6 bi (2017) a R$7,5 bi (2025) com CAGR alto e FCO crescente.",
-  "visual": [
-   "colunas+linha",
-   "tabela",
-   "outro:rede-de-faixas-mcmv",
-   "donut"
-  ],
-  "layout_trick": "Coluna esquerda em caixa com descricao, composicao acionaria e key financials; direita com graficos de lancamentos e FCO x unidades.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 5,
-  "purpose": "tese-pilares-divisor",
-  "message": "Tres teses: MCMV como gerador de valor, execucao operacional mais agressiva da Cury e disciplina de capital.",
-  "visual": [
-   "pilares",
-   "outro:divisor-faixas-diagonais"
-  ],
-  "layout_trick": "Divisor escuro com 3 titulos de tese em faixas translucidas escalonadas; destaque de uma tese por vez ao longo do deck (tese ativa em branco, demais apagadas).",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 7,
-  "purpose": "mercado-tam-demanda",
-  "message": "Deficit habitacional e estrutural: concentrado nas faixas baixas e no Sudeste (39%), aluguel custa mais que MCMV.",
-  "visual": [
-   "mapa",
-   "colunas+linha",
-   "tabela"
-  ],
-  "layout_trick": "Barras empilhadas de deficit por segmento ao lado de mapa do Brasil + tabela aluguel x MCMV com linha-chave destacada em azul.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 8,
-  "purpose": "industry-overview",
-  "message": "Politica de incentivos cria vez apos vez o crescimento das construtoras: repasse FGTS R$136 bi em 2025 e faixas do MCMV ampliadas.",
-  "visual": [
-   "colunas+linha",
-   "tabela",
-   "outro:recorte-de-noticia"
-  ],
-  "layout_trick": "Marcos politicos como linhas tracejadas verticais sobre o grafico de barras, tabela de faixas com Faixa 4 destacada e recorte de noticia estilizado como citacao.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 9,
-  "purpose": "industry-overview",
-  "message": "Setor anticiclico: unidades vendidas MCMV seguem crescendo mesmo com Selic alta; Cury e a mais correlacionada inversamente ao juro.",
-  "visual": [
-   "comps-barras",
-   "colunas+linha",
-   "outro:linhas-taxas-juros"
-  ],
-  "layout_trick": "Tres graficos pequenos encadeados (taxas de funding, correlacao com Selic em barras horizontais por empresa, unidades x Selic).",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 10,
-  "purpose": "industry-overview",
-  "message": "Fluxo de caixa tipico de empreendimento MCMV protege do ciclo de juros vs media/alta renda.",
-  "visual": [
-   "outro:fluxo-de-caixa-tipico-ilustrativo",
-   "colunas+linha"
-  ],
-  "layout_trick": "Dois fluxos de caixa empilhados (media/alta renda vs MCMV) com mesmos eixos, para mostrar visualmente a exposicao menor a caixa negativa.",
-  "quality": 1
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 11,
-  "purpose": "industry-overview",
-  "message": "Setor em consolidacao: grandes incorporadoras ganham espaco por acesso a funding e processo de aprovacao mais rapido.",
-  "visual": [
-   "outro:fluxograma-circular-numerado",
-   "colunas+linha",
-   "tabela"
-  ],
-  "layout_trick": "Fluxograma de 6 etapas numeradas em zigzag com prazos em meses, ao lado de barras 100% empilhadas grandes vs pequenos e tabela comparativa.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 13,
-  "purpose": "modelo-negocio-unit-economics",
-  "message": "Landbank estrategico concentrado em SP (72%) e zonas incentivadas (ZEIs) eleva densidade e retorno por projeto.",
-  "visual": [
-   "mapa",
-   "tabela",
-   "outro:foto-entrevista",
-   "comps-barras"
-  ],
-  "layout_trick": "Mapa de SP com barras de proporcao por zona, caixa de citacao do CEO com foto de call de entrevista e barras de unidades por 1000 m2.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 14,
-  "purpose": "modelo-negocio-unit-economics",
-  "message": "Alvenaria estrutural em terrenos irregulares reduz custo por m2 e eleva rentabilidade do projeto.",
-  "visual": [
-   "lineup-imagens",
-   "comps-barras",
-   "tabela"
-  ],
-  "layout_trick": "Duas fotos de obra Cury vs Direcional lado a lado, tabela de trade-offs de metodo construtivo com linha de resultado destacada.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 15,
-  "purpose": "kpis-operacionais",
-  "message": "Margem e VSO: Cury lidera margem bruta do setor (39,8%) e mantem VSO acima dos pares ao longo de 2020-2025.",
-  "visual": [
-   "colunas+linha",
-   "outro:barra-destaque-empresa",
-   "outro:callout-tracejado"
-  ],
-  "layout_trick": "Barra da Cury destacada com caixa tracejada e callout explicativo sobre as demais; linhas de VSO por empresa com area sombreada para a Cury.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 16,
-  "purpose": "posicionamento-competitivo",
-  "message": "Ecossistema comercial (time de vendas proprio, absorcao, experiencia do cliente) sustenta VSO elevado vs Direcional.",
-  "visual": [
-   "lineup-imagens",
-   "comps-barras",
-   "outro:bullets-tripla-vantagem"
-  ],
-  "layout_trick": "Tres vantagens em bullets curtos com subtitulo azul, fotos reais de stand de vendas, e barras Cury vs Direcional com logos como rotulos.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 17,
-  "purpose": "modelo-negocio-unit-economics",
-  "message": "Unit economics Cury vs Direcional: TIR 28,1% vs 23,6%, VPL R$56,8 mil vs R$29,0 mil por unidade.",
-  "visual": [
-   "tabela",
-   "colunas+linha",
-   "outro:curva-fluxo-acumulado"
-  ],
-  "layout_trick": "Tabela comparativa com logos nas colunas e linhas de TIR/VPL em caixa destacada, curva de fluxo de caixa acumulado com area entre as duas empresas sombreada.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 18,
-  "purpose": "riscos",
-  "message": "Alto VSO e alavancagem operacional criam dependencia de execucao; VPL sensivel a INCC e VSO.",
-  "visual": [
-   "heatmap-sensibilidade",
-   "outro:fluxo-ciclico-numerado",
-   "comps-barras",
-   "tabela"
-  ],
-  "layout_trick": "Ciclo de 5 etapas numeradas do risco, heatmap VSO x INCC do VPL e Dupont ajustado, tudo em uma pagina com caixa conclusiva 'alta alavancagem = maior necessidade de VSO'.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 19,
-  "purpose": "riscos",
-  "message": "VSO elevado e driver de rentabilidade: Cury vs pares em ROE x VSO, com exposicao de equity no landbank.",
-  "visual": [
-   "outro:scatter-logos",
-   "comps-barras",
-   "tabela"
-  ],
-  "layout_trick": "Scatter ROE x VSO com logos das empresas como pontos (Cury em bolha tracejada) ao lado de barras de equity exposure no landbank.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 21,
-  "purpose": "management-governanca-estrutura",
-  "message": "Mudanca de CEO sem ruptura: Fabio Cury passa o bastao a Leonardo Mesquita, sucessao interna planejada.",
-  "visual": [
-   "timeline",
-   "organograma",
-   "lineup-imagens",
-   "outro:citacao-analista"
-  ],
-  "layout_trick": "Fotos dos dois executivos nas pontas de uma linha do tempo de cargos, organograma familiar e citacao de analista (BTG) em caixa recortada.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 22,
-  "purpose": "management-governanca-estrutura",
-  "message": "Governanca com alinhamento economico: insiders compram acoes e remuneracao variavel e atrelada a acoes.",
-  "visual": [
-   "outro:linha-preco-com-eventos-compra",
-   "outro:treemap-acionario",
-   "colunas+linha"
-  ],
-  "layout_trick": "Grafico de preco com marcadores de compra do CEO como balões, treemap de composicao acionaria e barras 100% empilhadas de remuneracao.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 23,
-  "purpose": "kpis-operacionais",
-  "message": "Gestao eficiente vira resultado: divida liquida/PL controlada, ROE acima do Ke e TSR superior a valorizacao do preco.",
-  "visual": [
-   "colunas+linha",
-   "outro:area-entre-curvas"
-  ],
-  "layout_trick": "Quatro graficos pequenos que contam uma historia: alavancagem sob controle, TSR vs preco com area sombreada, ROE vs Ke com linha de referencia.",
-  "quality": 1
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 24,
-  "purpose": "mercado-tam-demanda",
-  "message": "Expansao com disciplina: foco em SP/RJ e entrada seletiva em novas regioes e vetores de crescimento.",
-  "visual": [
-   "mapa",
-   "lineup-imagens",
-   "tabela",
-   "outro:citacao-especialista"
-  ],
-  "layout_trick": "Mapa do Brasil com bolhas de presenca e tabela de mercado enderecavel por regiao, foto do CEO com citacao e recorte de reportagem.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 25,
-  "purpose": "tese-pilares-divisor",
-  "message": "Como as teses se refletem em numeros: divisor que abre o bloco de valuation com as tres teses.",
-  "visual": [
-   "pilares",
-   "outro:divisor-faixas-diagonais"
-  ],
-  "layout_trick": "Repete o divisor de teses para marcar a transicao operacao -> numeros, mantendo a mesma grade visual da pagina de teses.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 26,
-  "purpose": "valuation-multiplos",
-  "message": "A oportunidade esta na desvalorizacao: Cury caiu mais que Direcional apos a guerra no Golfo sem piora de fundamentos.",
-  "visual": [
-   "outro:area-preco-comparado",
-   "heatmap-sensibilidade",
-   "outro:recorte-de-noticia"
-  ],
-  "layout_trick": "Grafico de preco de area, citacao de reportagem como contexto e heatmap compacto INCC x reajuste de preco do upside.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 27,
-  "purpose": "valuation-multiplos",
-  "message": "Qualidade operacional nao precificada: P/E forward da Cury abaixo do de pares com ROE maior.",
-  "visual": [
-   "outro:linhas-pe-historico",
-   "outro:scatter-logos"
-  ],
-  "layout_trick": "Linha P/E historico Cury vs Direcional ao lado de scatter P/E x ROE com logos como pontos.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 28,
-  "purpose": "valuation-multiplos",
-  "message": "Desconto no multiplo cria assimetria: P/E atual 6,7x vs P/E justo mais alto dado ROE superior.",
-  "visual": [
-   "outro:linha-pe-com-desvio-padrao",
-   "outro:scatter-logos"
-  ],
-  "layout_trick": "P/E historico com media e bandas de desvio padrao e linha de 'nosso P/E justo', ao lado do scatter P/E x ROE.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 29,
-  "purpose": "valuation-dcf",
-  "message": "Reverse DCF: mercado precifica CAGR de receita de 6,2%, abaixo do historico; modelo IAM vs consenso e cenarios Bear/Base/Bull.",
-  "visual": [
-   "tabela",
-   "outro:cards-cenarios"
-  ],
-  "layout_trick": "Tabela de DCF densa em cima, cards Bear/Base/Bull com CAGR implicito e tabela IAM vs Consenso embaixo.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 30,
-  "purpose": "cenarios",
-  "message": "Retorno crescente acima do custo de capital: Bear 7,7% / Base 31,0% / Bull 44,4% de upside, TIR 19,6% a 31,4%.",
-  "visual": [
-   "colunas+linha",
-   "outro:cards-cenarios",
-   "heatmap-sensibilidade"
-  ],
-  "layout_trick": "FCFF em barras com linha de FCFF Yield, cards Bear/Base/Bull com upside e TIR, e heatmap de upside por Ke x g perpetuo.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 31,
-  "purpose": "valuation-multiplos",
-  "message": "TIR base 27%: CAGR de lucros 14,9%, dividendos 17,0% e retracao de multiplo -4,9%.",
-  "visual": [
-   "bridge-cascata",
-   "heatmap-sensibilidade",
-   "outro:curva-tsr"
-  ],
-  "layout_trick": "Decomposicao da TIR em blocos azuis empilhados com valores em caixas a direita, curva de TSR base 100 e heatmap TIR por ano de saida x P/E.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 32,
-  "purpose": "football-field",
-  "message": "Tese em numeros: upside positivo em todos os cenarios; football field mostra alvo acima das faixas de mercado.",
-  "visual": [
-   "football-field",
-   "outro:grafico-preco-com-zoom-cenarios",
-   "tabela"
-  ],
-  "layout_trick": "Grafico de preco com funil de zoom saindo do ultimo ponto para os cards Bear/Base/Bull, football field com linha de preco atual embaixo, em fundo escuro.",
-  "quality": 3
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 33,
-  "purpose": "valuation-multiplos",
-  "message": "Valuation por NAV: Cury negocia a 0,86x NAV vs Direcional a 0,87x, ambos com desconto.",
-  "visual": [
-   "bridge-cascata"
-  ],
-  "layout_trick": "Dois waterfalls de NAV lado a lado (Cury e Direcional) em fundo escuro com barras vazadas e rotulos de etapas.",
-  "quality": 2
- },
- {
-  "deck": "CuryConstrutora",
-  "page": 34,
-  "purpose": "posicionamento-competitivo",
-  "message": "Nossa analise para o clube: Cury combina eficiencia e retorno, Direcional previsibilidade com landbank robusto.",
-  "visual": [
-   "icones+dado-curto",
-   "outro:bullets-dois-lados",
-   "outro:linhas-pe-historico"
-  ],
-  "layout_trick": "Dois blocos lado a lado com 4 KPIs em caixas (VSO, ROE, FCO/LL, margem) e bullets, mais P/E forward comparado abaixo.",
-  "quality": 2
- }
+  {
+    "deck": "CuryConstrutora",
+    "page": 1,
+    "purpose": "capa",
+    "message": "Capa dark com gradiente de ondas azuis, logos Insper Asset x Cury e nomes da equipe.",
+    "visual": [
+      "foto-capa"
+    ],
+    "layout_trick": "Fundo azul-marinho com textura de ondas e bloco de texto alinhado a esquerda; logos co-branded no topo, equipe em rodape.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 2,
+    "purpose": "recomendacao-exec-summary",
+    "message": "CURY3 BUY: preco atual R$30,37 vs preco alvo R$39,78, upside DCF 31% e TIR 27% por multiplo.",
+    "visual": [
+      "linha",
+      "kpi-numeros-grandes"
+    ],
+    "layout_trick": "Grafico de preco historico full-bleed com seta ate o preco-alvo e caixa 'Preco Atual -> Preco Alvo' ao lado do selo BUY gigante.",
+    "quality": 3
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 3,
+    "purpose": "industry-overview",
+    "message": "Homebuilders crescem forte no Brasil: receita do setor de R$91 bi (2020) a R$264 bi (2025), CAGR 23,8%, puxada por MCMV.",
+    "visual": [
+      "colunas",
+      "outro:treemap-market-share",
+      "linha"
+    ],
+    "layout_trick": "Painel esquerdo 'Overview' em caixa com texto + treemap de market share; direita com 3 mini-graficos (receita setor, VGV por segmento, estoque).",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 4,
+    "purpose": "business-overview",
+    "message": "Cury at a Glance: foco SP/RJ, VGV lancado de R$0,6 bi (2017) a R$7,5 bi (2025) com CAGR alto e FCO crescente.",
+    "visual": [
+      "colunas",
+      "colunas+linha",
+      "texto-bullets"
+    ],
+    "layout_trick": "Coluna esquerda em caixa com descricao, composicao acionaria e key financials; direita com graficos de lancamentos e FCO x unidades.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 5,
+    "purpose": "tese-pilares-divisor",
+    "message": "Tres teses: MCMV como gerador de valor, execucao operacional mais agressiva da Cury e disciplina de capital.",
+    "visual": [
+      "pilares"
+    ],
+    "layout_trick": "Divisor escuro com 3 titulos de tese em faixas translucidas escalonadas; destaque de uma tese por vez ao longo do deck (tese ativa em branco, demais apagadas).",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 7,
+    "purpose": "mercado-tam-demanda",
+    "message": "Deficit habitacional e estrutural: concentrado nas faixas baixas e no Sudeste (39%), aluguel custa mais que MCMV.",
+    "visual": [
+      "colunas-empilhadas",
+      "mapa",
+      "tabela"
+    ],
+    "layout_trick": "Barras empilhadas de deficit por segmento ao lado de mapa do Brasil + tabela aluguel x MCMV com linha-chave destacada em azul.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 8,
+    "purpose": "industry-overview",
+    "message": "Politica de incentivos cria vez apos vez o crescimento das construtoras: repasse FGTS R$136 bi em 2025 e faixas do MCMV ampliadas.",
+    "visual": [
+      "colunas",
+      "tabela",
+      "outro:recorte-de-noticia"
+    ],
+    "layout_trick": "Marcos politicos como linhas tracejadas verticais sobre o grafico de barras, tabela de faixas com Faixa 4 destacada e recorte de noticia estilizado como citacao.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 9,
+    "purpose": "industry-overview",
+    "message": "Setor anticiclico: unidades vendidas MCMV seguem crescendo mesmo com Selic alta; Cury e a mais correlacionada inversamente ao juro.",
+    "visual": [
+      "linha",
+      "barras-horizontais",
+      "colunas+linha"
+    ],
+    "layout_trick": "Tres graficos pequenos encadeados (taxas de funding, correlacao com Selic em barras horizontais por empresa, unidades x Selic).",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 10,
+    "purpose": "industry-overview",
+    "message": "Fluxo de caixa tipico de empreendimento MCMV protege do ciclo de juros vs media/alta renda.",
+    "visual": [
+      "colunas+linha",
+      "colunas"
+    ],
+    "layout_trick": "Dois fluxos de caixa empilhados (media/alta renda vs MCMV) com mesmos eixos, para mostrar visualmente a exposicao menor a caixa negativa.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 11,
+    "purpose": "industry-overview",
+    "message": "Setor em consolidacao: grandes incorporadoras ganham espaco por acesso a funding e processo de aprovacao mais rapido.",
+    "visual": [
+      "fluxo-processo",
+      "barra-100",
+      "tabela"
+    ],
+    "layout_trick": "Fluxograma de 6 etapas numeradas em zigzag com prazos em meses, ao lado de barras 100% empilhadas grandes vs pequenos e tabela comparativa.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 13,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "Landbank estrategico concentrado em SP (72%) e zonas incentivadas (ZEIs) eleva densidade e retorno por projeto.",
+    "visual": [
+      "mapa",
+      "colunas",
+      "citacao-foto"
+    ],
+    "layout_trick": "Mapa de SP com barras de proporcao por zona, caixa de citacao do CEO com foto de call de entrevista e barras de unidades por 1000 m2.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 14,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "Alvenaria estrutural em terrenos irregulares reduz custo por m2 e eleva rentabilidade do projeto.",
+    "visual": [
+      "lineup-imagens",
+      "colunas",
+      "tabela"
+    ],
+    "layout_trick": "Duas fotos de obra Cury vs Direcional lado a lado, tabela de trade-offs de metodo construtivo com linha de resultado destacada.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 15,
+    "purpose": "kpis-operacionais",
+    "message": "Margem e VSO: Cury lidera margem bruta do setor (39,8%) e mantem VSO acima dos pares ao longo de 2020-2025.",
+    "visual": [
+      "colunas",
+      "linha"
+    ],
+    "layout_trick": "Barra da Cury destacada com caixa tracejada e callout explicativo sobre as demais; linhas de VSO por empresa com area sombreada para a Cury.",
+    "quality": 3
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 16,
+    "purpose": "posicionamento-competitivo",
+    "message": "Ecossistema comercial (time de vendas proprio, absorcao, experiencia do cliente) sustenta VSO elevado vs Direcional.",
+    "visual": [
+      "texto-bullets",
+      "lineup-imagens",
+      "colunas"
+    ],
+    "layout_trick": "Tres vantagens em bullets curtos com subtitulo azul, fotos reais de stand de vendas, e barras Cury vs Direcional com logos como rotulos.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 17,
+    "purpose": "modelo-negocio-unit-economics",
+    "message": "Unit economics Cury vs Direcional: TIR 28,1% vs 23,6%, VPL R$56,8 mil vs R$29,0 mil por unidade.",
+    "visual": [
+      "tabela",
+      "linha",
+      "texto-bullets"
+    ],
+    "layout_trick": "Tabela comparativa com logos nas colunas e linhas de TIR/VPL em caixa destacada, curva de fluxo de caixa acumulado com area entre as duas empresas sombreada.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 18,
+    "purpose": "riscos",
+    "message": "Alto VSO e alavancagem operacional criam dependencia de execucao; VPL sensivel a INCC e VSO.",
+    "visual": [
+      "fluxo-processo",
+      "heatmap-sensibilidade",
+      "colunas"
+    ],
+    "layout_trick": "Ciclo de 5 etapas numeradas do risco, heatmap VSO x INCC do VPL e Dupont ajustado, tudo em uma pagina com caixa conclusiva 'alta alavancagem = maior necessidade de VSO'.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 19,
+    "purpose": "riscos",
+    "message": "VSO elevado e driver de rentabilidade: Cury vs pares em ROE x VSO, com exposicao de equity no landbank.",
+    "visual": [
+      "scatter-bolhas",
+      "colunas",
+      "tabela"
+    ],
+    "layout_trick": "Scatter ROE x VSO com logos das empresas como pontos (Cury em bolha tracejada) ao lado de barras de equity exposure no landbank.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 21,
+    "purpose": "management-governanca-estrutura",
+    "message": "Mudanca de CEO sem ruptura: Fabio Cury passa o bastao a Leonardo Mesquita, sucessao interna planejada.",
+    "visual": [
+      "timeline",
+      "organograma",
+      "lineup-imagens"
+    ],
+    "layout_trick": "Fotos dos dois executivos nas pontas de uma linha do tempo de cargos, organograma familiar e citacao de analista (BTG) em caixa recortada.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 22,
+    "purpose": "management-governanca-estrutura",
+    "message": "Governanca com alinhamento economico: insiders compram acoes e remuneracao variavel e atrelada a acoes.",
+    "visual": [
+      "linha",
+      "colunas-empilhadas",
+      "outro:treemap-acionario"
+    ],
+    "layout_trick": "Grafico de preco com marcadores de compra do CEO como balões, treemap de composicao acionaria e barras 100% empilhadas de remuneracao.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 23,
+    "purpose": "financials-historicos",
+    "message": "Gestao eficiente vira resultado: divida liquida/PL controlada, ROE acima do Ke e TSR superior a valorizacao do preco.",
+    "visual": [
+      "linha",
+      "area"
+    ],
+    "layout_trick": "Quatro graficos pequenos que contam uma historia: alavancagem sob controle, TSR vs preco com area sombreada, ROE vs Ke com linha de referencia.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 24,
+    "purpose": "mercado-tam-demanda",
+    "message": "Expansao com disciplina: foco em SP/RJ e entrada seletiva em novas regioes e vetores de crescimento.",
+    "visual": [
+      "mapa",
+      "citacao-foto",
+      "tabela"
+    ],
+    "layout_trick": "Mapa do Brasil com bolhas de presenca e tabela de mercado enderecavel por regiao, foto do CEO com citacao e recorte de reportagem.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 25,
+    "purpose": "tese-pilares-divisor",
+    "message": "Como as teses se refletem em numeros: divisor que abre o bloco de valuation com as tres teses.",
+    "visual": [
+      "pilares"
+    ],
+    "layout_trick": "Repete o divisor de teses para marcar a transicao operacao -> numeros, mantendo a mesma grade visual da pagina de teses.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 26,
+    "purpose": "valuation-multiplos",
+    "message": "A oportunidade esta na desvalorizacao: Cury caiu mais que Direcional apos a guerra no Golfo sem piora de fundamentos.",
+    "visual": [
+      "area",
+      "heatmap-sensibilidade",
+      "outro:recorte-de-noticia"
+    ],
+    "layout_trick": "Grafico de preco de area, citacao de reportagem como contexto e heatmap compacto INCC x reajuste de preco do upside.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 27,
+    "purpose": "valuation-multiplos",
+    "message": "Qualidade operacional nao precificada: P/E forward da Cury abaixo do de pares com ROE maior.",
+    "visual": [
+      "linha",
+      "scatter-bolhas"
+    ],
+    "layout_trick": "Linha P/E historico Cury vs Direcional ao lado de scatter P/E x ROE com logos como pontos.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 28,
+    "purpose": "valuation-multiplos",
+    "message": "Desconto no multiplo cria assimetria: P/E atual 6,7x vs P/E justo mais alto dado ROE superior.",
+    "visual": [
+      "linha",
+      "scatter-bolhas"
+    ],
+    "layout_trick": "P/E historico com media e bandas de desvio padrao e linha de 'nosso P/E justo', ao lado do scatter P/E x ROE.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 29,
+    "purpose": "valuation-dcf",
+    "message": "Reverse DCF: mercado precifica CAGR de receita de 6,2%, abaixo do historico; modelo IAM vs consenso e cenarios Bear/Base/Bull.",
+    "visual": [
+      "tabela",
+      "outro:cards-cenarios"
+    ],
+    "layout_trick": "Tabela de DCF densa em cima, cards Bear/Base/Bull com CAGR implicito e tabela IAM vs Consenso embaixo.",
+    "quality": 1
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 30,
+    "purpose": "cenarios",
+    "message": "Retorno crescente acima do custo de capital: Bear 7,7% / Base 31,0% / Bull 44,4% de upside, TIR 19,6% a 31,4%.",
+    "visual": [
+      "colunas+linha",
+      "heatmap-sensibilidade",
+      "outro:cards-cenarios"
+    ],
+    "layout_trick": "FCFF em barras com linha de FCFF Yield, cards Bear/Base/Bull com upside e TIR, e heatmap de upside por Ke x g perpetuo.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 31,
+    "purpose": "valuation-multiplos",
+    "message": "TIR base 27%: CAGR de lucros 14,9%, dividendos 17,0% e retracao de multiplo -4,9%.",
+    "visual": [
+      "bridge-cascata",
+      "heatmap-sensibilidade",
+      "area"
+    ],
+    "layout_trick": "Decomposicao da TIR em blocos azuis empilhados com valores em caixas a direita, curva de TSR base 100 e heatmap TIR por ano de saida x P/E.",
+    "quality": 3
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 32,
+    "purpose": "football-field",
+    "message": "Tese em numeros: upside positivo em todos os cenarios; football field mostra alvo acima das faixas de mercado.",
+    "visual": [
+      "football-field",
+      "linha",
+      "tabela"
+    ],
+    "layout_trick": "Grafico de preco com funil de zoom saindo do ultimo ponto para os cards Bear/Base/Bull, football field com linha de preco atual embaixo, em fundo escuro.",
+    "quality": 3
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 33,
+    "purpose": "valuation-multiplos",
+    "message": "Valuation por NAV: Cury negocia a 0,86x NAV vs Direcional a 0,87x, ambos com desconto.",
+    "visual": [
+      "bridge-cascata"
+    ],
+    "layout_trick": "Dois waterfalls de NAV lado a lado (Cury e Direcional) em fundo escuro com barras vazadas e rotulos de etapas.",
+    "quality": 2
+  },
+  {
+    "deck": "CuryConstrutora",
+    "page": 34,
+    "purpose": "recap",
+    "message": "Nossa analise para o clube: Cury combina eficiencia e retorno, Direcional previsibilidade com landbank robusto.",
+    "visual": [
+      "kpi-numeros-grandes",
+      "texto-bullets",
+      "linha"
+    ],
+    "layout_trick": "Dois blocos lado a lado com 4 KPIs em caixas (VSO, ROE, FCO/LL, margem) e bullets, mais P/E forward comparado abaixo.",
+    "quality": 2
+  }
 ]

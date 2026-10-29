@@ -1,6 +1,0 @@
-# Padrão visual: outro:callout-premissa (4 slides)
-
-- `../prints/RedeDOr_p028.jpg` (★★★) "SulAmerica revenue premise 1: beneficiaries grow with population and constant 5.5% market share." · visual: colunas+linha, donut, outro:callout-premissa · propósito: premissas-projecoes · truque: Dark-box 'First Premise' bullets docked at the bottom right; donut zoomed into market share bars through grey wedge.
-- `../prints/RedeDOr_p025.jpg` (★★) "Maturation of beds: 80 beds accredited per year, modelled at ~70." · visual: colunas+linha, outro:callout-premissa · propósito: premissas-projecoes · truque: Dashed-border premise box with the rule and the model choice, beside greenfield/brownfield stacked bars.
-- `../prints/RedeDOr_p030.jpg` (★★) "SulAmerica premise 2: claims/premiums (MLR) converge to 81%, not back to pre-pandemic levels." · visual: colunas+linha, outro:callout-premissa · propósito: premissas-projecoes · truque: Stacked three-panel: history, projection, and resulting claims/premiums, with the 'Second Premise' box on the right stating the logic.
-- `../prints/RedeDOr_p035.jpg` (★) "FCFF roots: CAPEX, D&A and working capital projections." · visual: colunas+linha, outro:callout-premissa · propósito: premissas-projecoes · truque: Left: capex lines expansion vs maintenance with dashed premise box; bottom: D&A bars and goodwill amortization.
