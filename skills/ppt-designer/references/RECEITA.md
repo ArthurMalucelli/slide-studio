@@ -67,7 +67,9 @@ Quase metade dos slides do ChallengeB tem imagem real: jato recortado, retrato c
 **A imagem é parte da prova, ou sai.** O jato aparece porque o painel compara aquele modelo. Foto de uma loja ao lado de um gráfico que não fala dela é "foto do nada", mesmo sendo real. Assunto financeiro ou de número costuma ficar sem imagem, e tudo bem.
 
 - **Nunca monte um prédio ou uma máquina com retângulos.**
-- **Busque a imagem de verdade,** de fonte pública, e registre a origem nas notas do apresentador. Se não conseguir, use ícone de um traço e avise o usuário do que faltou.
+- **Foto real** vem de fonte pública, com origem nas notas do apresentador.
+- **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Gere todas da mesma família, e só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
+- Se nada disso der, use ícone de um traço e avise o usuário do que faltou.
 - Foto de pessoa e citação só com origem real. Nunca invente.
 
 ## 6. Cor: uma família com três tons

@@ -81,6 +81,8 @@ Não copie slide nenhum. Siga `references/RECEITA.md`, passo a passo: argumento 
 
 Veja antes as imagens de `references/reprovados/` e, em `references/gabarito.md`, 3 a 5 prints de propósito parecido, para ver a técnica. `scripts/medir_slide.py <pdf> <página>` serve para entender as medidas de uma peça.
 
+**Conteúdo qualitativo:** se uma frase não tem prova numérica boa, dispare o agente de criatividade antes de desenhar (Agent tool, `subagent_type: general-purpose`, com `references/criatividade_prompt.md`). Ele devolve 3 representações. Escolha uma pelos testes da receita e registre em `plan.md` as três e o motivo. Se nenhuma passar, deixe simples e avise. Slide só de dados não precisa dele.
+
 **Falta conteúdo?** Não invente, não decore e não troque gráfico por caixa de texto. Diga ao usuário o que falta no roteiro: a pergunta do passo 1 é a que mais revela roteiro fraco.
 
 Peças prontas de `references/pecas_*.py` e `references/catalogo/INDEX.md` servem de apoio para desenhar um elemento, nunca para enfeitar.
