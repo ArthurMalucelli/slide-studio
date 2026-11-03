@@ -100,7 +100,7 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo `references/roteiro_t
 
 ### Crítico de roteiro
 
-Dispare um subagente (Agent tool, `subagent_type: general-purpose`) com `references/roteiro_critic_prompt.md`, sem passar sua justificativa. Corrija ALTA e MÉDIA; no máximo 2 rodadas. Sobrou ALTA? Diga isso na entrega.
+Dispare um subagente (Agent tool, `subagent_type: general-purpose`) com `references/roteiro_critic_prompt.md`, sem passar sua justificativa. Corrija ALTA e MÉDIA; no máximo 2 rodadas. Sobrou ALTA, ou houve correção depois da última rodada que ninguém revisou? Diga isso na entrega.
 
 ## 5. Entrega
 

@@ -168,6 +168,17 @@ def dobra(s, x, y0, w, top_h, y1, fold=0.18, inset=0.19, upper=None, lower=None,
     return (x, y0, w, top_h), (x + inset, yf + fold, w - 2 * inset, y1 - yf - fold)
 
 
+def painel_volume(s, x, y, w, h, offset=0.06):
+    """Painel cinza com volume: sombra dura deslocada, sem sombra suave. Cabeçalho, itálico e dado ficam dentro."""
+    ss.rect(s, x + offset, y + offset, w, h, ss.CARD_EDGE)
+    ss.rect(s, x, y, w, h, ss.CARD)
+
+
+def ponte_volume(s, x0, x1, y0, y1, recuo=0.42):
+    """Bloco atrás de dois painéis vizinhos, ligando os dois. Desenhe antes dos painéis. x0 e x1: bordas que se olham."""
+    ss.rect(s, x0, y0 + recuo, x1 - x0, y1 - y0 - 2 * recuo, ss.mix(ss.CARD_EDGE, ss.WHITE, .35))
+
+
 # ---------- Mapas ----------
 _GEO50, _ADM1 = None, None
 

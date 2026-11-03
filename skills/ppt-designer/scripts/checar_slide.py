@@ -191,6 +191,19 @@ def checar(pptx, pdf, profile):
         err.append(f"{len(chips)} chips com número fora de gráfico (máx. {LIMITE_CHIPS}): {', '.join(chips[:8])}… "
                    "Fora de gráfico, número é texto em negrito.")
 
+    # Linha divisória fina: "em nada, muita cara de AI". Eixo de gráfico nativo e colchete de 3 lados não caem aqui.
+    fios = 0
+    for sh in shapes:
+        larg, alt = sh.width / IN, sh.height / IN
+        if larg < 1.0 or alt > 0.03 or sh.top / IN > grid.get("content_bottom", 6.9) or sh.top / IN < 1.1:
+            continue
+        cx, cy = (sh.left + sh.width / 2) / IN, (sh.top + sh.height / 2) / IN
+        if any(g[0] <= cx <= g[2] and g[1] <= cy <= g[3] for g in caixas_g):
+            continue
+        fios += 1
+    if fios:
+        err.append(f"{fios} linhas divisórias finas: tire. Separe com espaço ou cor de fundo.")
+
     # Gráficos: duas barras, dois pontos, marcador
     for g in graficos:
         ch = g.chart

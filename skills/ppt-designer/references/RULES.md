@@ -60,6 +60,11 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Itálico com resultado:** "Per-warehouse share: 73.8% FY19–26", empurrando a unidade para a legenda | Itálico diz métrica, unidade e período. O resultado está no gráfico |
 | **Cunha solta:** vão entre a barra e a cunha, ou ponta passando do eixo | Encosta na barra, com a altura exata dela (`RECEITA.md`, passo 4) |
 | **3D só em volta do gráfico:** dobra ou painel que começa abaixo do cabeçalho, deixando título e subtítulo fora | O volume incorpora cabeçalho e itálico: eles ficam dentro do painel |
+| **Linha divisória fina:** fio cinza entre itens, em lista, tabela ou painel: "em nada, muita cara de AI" (`checar_slide.py` barra) | Separe com espaço ou cor de fundo. Eixo de gráfico e colchete continuam |
+| **Foto real de produto recortada:** embalagens de site, moles e despadronizadas | Mockup gerado sem marca, todos no mesmo padrão |
+| **Imagem gerada cortada, torta ou fora de padrão:** recorte comendo a borda, casa e galpão em escalas diferentes | Quadrada, mesmo ângulo, mesma escala; olhe ampliada |
+| **Número solto como conclusão embaixo:** "~US$90bn annual worldwide revenue" com fio em cima | O número mora no gráfico ou na anotação presa a ele |
+| **Trilhos com nós:** setas finas ligando círculos, com linhas tracejadas verticais | Sem versão aprovada de fluxo até agora. As imagens sozinhas foram aprovadas |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |
 | **Frase de conclusão solta** embaixo do slide, em faixa escura, caixa com sombra ou com marcador | A conclusão está no título e no subtítulo. Tire |
 | **Rótulos no lugar do dado:** painel com a geometria do gabarito, mas caixas de texto onde ele tinha gráfico | Sem o dado, troque de slide do gabarito (passo 5 da transposição) |
@@ -69,6 +74,8 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 ## Aprovado pelo dono do deck
 
 **Membership da rodada 9, feito só pela receita (106 palavras, 33 dados):** "tá legal", com a cunha que abre a última coluna na ponte por sócio, encostada na barra. Primeiro slide aprovado sem copiar modelo: painel largo em cima e 3 embaixo, com um gráfico de cada tipo.
+
+**Painéis com volume ligados por um bloco atrás:** "bem legal", mesmo sem dado abrindo em dado (`painel_volume`, `ponte_volume`). **Fileira de dioramas isométricos:** "imagens legais", desde que padronizadas. **Escada de degraus:** a ideia foi boa, a execução não.
 
 **Grade 2×2 regular com 4 provas (teste com dados da Sabesp p.18):** primeiro slide inteiro aprovado depois de seis rodadas ("tá legal, mas dava para ter mais coisa de profundidade"). Não é para copiar: é o resultado dos passos 2 e 3 de `RECEITA.md`.
 

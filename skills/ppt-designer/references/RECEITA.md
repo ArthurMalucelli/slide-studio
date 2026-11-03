@@ -43,7 +43,7 @@ Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grad
 Slide totalmente plano sai sem sal: tiramos a dobra de um slide bom, e ele foi reprovado por isso. No modo visual rico, todo slide de conteúdo leva **uma** peça discreta. Olhe as frases do passo 1 e escolha:
 
 1. **Um número de uma frase abre em outra?** Use a cunha. É a melhor opção: mostra o que há dentro do número.
-2. **Duas frases só se respondem, sem número em comum?** Use a dobra entre os dois painéis mais ligados, com os dois em cinza quase branco. O dono gosta dela, mesmo sem dado abrindo em dado.
+2. **Duas frases só se respondem, sem número em comum?** Use painéis com volume ligados por um bloco atrás, ou a dobra. O dono gosta deles, mesmo sem dado abrindo em dado.
 3. **Etapas ou degraus?** Use o sólido, com o conteúdo dentro.
 
 Nunca invente uma relação de número que não existe: a cunha exige número dos dois lados.
@@ -51,7 +51,8 @@ Nunca invente uma relação de número que não existe: a cunha exige número do
 | Peça | Como é feita | Exemplo |
 |---|---|---|
 | Cunha do dado para o detalhe | Sai colada na última barra, curta, e abre na composição daquele mesmo número | ChallengeB p.9: barra de 3Q26 (35.7) → pizza do backlog |
-| Dobra entre painéis | Dois painéis cinza quase brancos (`ss.CARD`) com faixa estreita de 0.37 pol em cinza claro. **Cabeçalho e itálico ficam dentro do painel:** o volume inclui título, subtítulo e gráfico | ChallengeB p.10 |
+| Painéis com volume **(preferida do dono)** | Painéis cinza (`painel_volume`) com sombra dura, ligados por um bloco atrás (`ponte_volume`). Cabeçalho, itálico e gráfico ficam dentro | ChallengeB p.10, p.14 |
+| Dobra entre planos | Painéis em planos diferentes, com trapézio entre eles (`dobra`). Também com o texto dentro | ChallengeB p.7, Sabesp p.13 |
 | Cunha da imagem para o que ela contém | Sai do objeto e abre em 3 itens | ChallengeB p.6 |
 | Fio tracejado | Liga um item a outro painel | ChallengeB p.13; Sabesp p.13 |
 | Sólidos | Só quando o sólido é o conteúdo: etapas ou degraus, com texto dentro | ChallengeB p.6 (etapas), p.8 (degraus com jato em cima) |
@@ -62,13 +63,15 @@ Nunca invente uma relação de número que não existe: a cunha exige número do
 
 ## 5. Use imagem real quando o assunto é uma coisa
 
-Quase metade dos slides do ChallengeB tem imagem real: jato recortado, retrato com citação, ilustração isométrica de boa qualidade, print de documento. Ela ocupa entre 3% e 15% do slide.
+Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovou três vezes por ficar "zoada". Ela ocupa entre 3% e 15% do slide.
 
 **A imagem é parte da prova, ou sai.** O jato aparece porque o painel compara aquele modelo. Foto de uma loja ao lado de um gráfico que não fala dela é "foto do nada", mesmo sendo real. Assunto financeiro ou de número costuma ficar sem imagem, e tudo bem.
 
 - **Nunca monte um prédio ou uma máquina com retângulos.**
-- **Foto real** vem de fonte pública, com origem nas notas do apresentador.
-- **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Gere todas da mesma família, e só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
+- **Produto:** mockup gerado, sem marca real (`gerar_imagem.py --mockup`). Foto de produto recortada não entra.
+- **Foto real** só de pessoa citada ou documento, com origem nas notas do apresentador.
+- **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
+- **Padronize:** todas quadradas, com o mesmo tamanho, o mesmo ângulo e a mesma escala de objeto no slide. Olhe cada uma ampliada: nada cortado, nada torto. Refaça a que destoar.
 - Se nada disso der, use ícone de um traço e avise o usuário do que faltou.
 - Foto de pessoa e citação só com origem real. Nunca invente.
 
