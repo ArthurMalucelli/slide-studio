@@ -45,7 +45,7 @@ Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grad
 Slide totalmente plano sai sem sal: esse erro já foi reprovado várias vezes. No modo visual rico, todo slide de conteúdo tem profundidade visível. Olhe as frases do passo 1:
 
 1. **Padrão, em todo slide:** dois painéis ou mais com volume, ligados por um bloco atrás (`painel_volume`, `ponte_volume`), ou a dobra. Cabeçalho, itálico e gráfico dentro. É a opção mais aprovada e não depende de relação entre números.
-2. **Um número abre no que há dentro dele?** Some a cunha ao padrão, ou use-a no lugar dele. Ela sai de um total ou segmento e termina na borda inteira de um painel que detalha esse número. Ligar uma linha à mesma linha de outro gráfico não é abertura, e cunha terminando em rótulo ou no ar é reprovada. Sem isso, nada de cunha.
+2. **Um número abre no que há dentro dele?** Some a cunha ao padrão: é a combinação mais aprovada (última coluna de um painel com volume abrindo em cascata no painel vizinho). Ela sai de um total ou segmento e termina na borda inteira de um painel que detalha esse número. Ligar uma linha à mesma linha de outro gráfico não é abertura, e cunha terminando em rótulo ou no ar é reprovada. Sem isso, nada de cunha.
 3. **Etapas ou degraus?** Use o sólido, com o conteúdo dentro.
 
 Em dúvida, fique no padrão. Ele nunca foi reprovado por "aparecer do nada".

@@ -70,8 +70,10 @@ def colisoes(words):
     out = []
     for i, a in enumerate(words):
         for b in words[i + 1:]:
-            if not a[4] or not b[4] or a[4] == b[4] or max(len(a[4]), len(b[4])) <= 2:
-                continue  # mesmo texto no mesmo lugar é do mestre; fragmento de letra é ruído de kerning do PDF
+            if not a[4] or not b[4] or a[4] == b[4]:
+                continue  # mesmo texto no mesmo lugar é do mestre
+            if max(len(a[4]), len(b[4])) <= 2 and not (re.search(r"\d", a[4]) or re.search(r"\d", b[4])):
+                continue  # fragmento de letra é ruído de kerning do PDF; número curto colidindo é real
             if inter(a, b) / min(area(a), area(b)) > 0.20:
                 out.append(f'"{a[4]}" × "{b[4]}" em ({a[0]:.1f}, {a[1]:.1f}) pol')
     return out
@@ -137,7 +139,7 @@ def checar(pptx, pdf, profile):
         texto = tit.text_frame.text.strip()
         if len(texto) > 55:
             err.append(f"Título com {len(texto)} caracteres (máximo ~55): encurte no roteiro, não reduza a fonte.")
-        if re.search(r"\d", texto):
+        if re.search(r"(?<![A-Za-z-])\d", texto):  # KC-390 ou F35 são nomes, não dados
             err.append(f'Número no título: "{texto}".')
         fonte, mestre = _maior_fonte(tit), grid.get("title", {}).get("font_pt")
         if fonte and mestre and fonte < mestre - 0.5:

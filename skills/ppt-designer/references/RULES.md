@@ -67,6 +67,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Número solto como conclusão embaixo:** "~US$90bn annual worldwide revenue" com fio em cima | O número mora no gráfico ou na anotação presa a ele |
 | **Trilhos com nós:** setas finas ligando círculos, com linhas tracejadas verticais | Sem versão aprovada de fluxo até agora. As imagens sozinhas foram aprovadas |
 | **Quatro gráficos em quadrantes:** "fica demais" (`checar_slide.py` barra) | No máximo 3 gráficos. O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama |
+| **Faixa colorida atrás dos rótulos do eixo:** "1Q25 2Q25..." em blocos cinza: "uma merda" | Rótulo de eixo sem fundo |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |
 | **Frase de conclusão solta** embaixo do slide, em faixa escura, caixa com sombra ou com marcador | A conclusão está no título e no subtítulo. Tire |
 | **Rótulos no lugar do dado:** painel com a geometria do gabarito, mas caixas de texto onde ele tinha gráfico | Sem o dado, troque de slide do gabarito (passo 5 da transposição) |
@@ -74,6 +75,8 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Ilustração caseira e flecha fina:** fábrica e loja desenhadas com formas, setas de 1pt | A ideia de diagrama pode ser boa. Ícones de um só traço ou peça do catálogo, e fluxo como faixa grossa com valor |
 
 ## Aprovado pelo dono do deck
+
+**A melhor peça até agora: dois painéis com volume, com a última barra abrindo por cunha numa cascata (teste de assunto novo, sem orientação):** "bem legal". O total de uma coluna abre na decomposição dele: 46 = 4 + 7 + 8 + 9 + 10 + 8. Ponta estreita colada na coluna e larga na borda inteira do outro painel. Exemplo: `references/aprovados/`.
 
 **Membership da rodada 9, feito só pela receita (106 palavras, 33 dados):** "tá legal", com a cunha que abre a última coluna na ponte por sócio, encostada na barra. Primeiro slide aprovado sem copiar modelo: painel largo em cima e 3 embaixo, com um gráfico de cada tipo.
 

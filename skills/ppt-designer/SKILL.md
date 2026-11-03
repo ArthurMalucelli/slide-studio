@@ -73,6 +73,7 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
   - `grid.content_*`: a área útil;
   - `grid.forbidden`: logos, curvas e faixas onde nada pode encostar;
   - `palette.FOCUS`: a cor da empresa-foco. Se o mestre não traz a cor da empresa, pergunte ou use a cor da marca.
+- **Tracker de seção:** se o mestre tem um layout ou master por seção (`Industry Overview`, `Business Model`...), escolha o da seção do slide. Pergunte se não souber.
 - **Escolha o layout** com título + subtítulo e a estrutura mais próxima do que vai desenhar. Os placeholders de conteúdo vazios são removidos pelo `setup()`.
 
 ## 3. Receita (antes de escrever código)

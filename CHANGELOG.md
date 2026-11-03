@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.4.2
+## 0.5.0
 
 - Nova `references/RECEITA.md`: como montar um bom slide, em 9 passos, tirada de Sabesp, Nubank e ChallengeB. O designer não copia slides.
 - O roteiro vira argumento encadeado + banco de provas. Mensagem, números e ressalvas são fixos; o designer escolhe as provas, o formato e o texto.
@@ -11,6 +11,9 @@
 - Exportação em fila entre agentes, e por cópia própria: nunca mais exporta nem fecha outro deck que esteja aberto.
 - `references/reprovados/` e `references/gabarito.md`; ChallengeB entra no catálogo (22 decks, 987 slides).
 - Nunca gráfico de barras com só duas barras; linha sem marcador nos pontos; rodapé sempre `Sources: Company Data, Group Calculations.`
+- No máximo 3 gráficos por slide. Painéis com volume são a profundidade padrão, e a cunha só entra com abertura real.
+- Agente de criatividade para conteúdo qualitativo; `gerar_imagem.py`, `buscar_paleta.py` e `validar_pptx.py`.
+- `references/aprovados/`, com peças aprovadas e dados fictícios.
 - `panel_header` aceita **palavra-chave**; novos `beam_from_mark` e `dobra`.
 
 ## 0.4.1
