@@ -1,0 +1,106 @@
+# Senior Sistemas: páginas (60)
+
+- **Capa com foto de fachada e faixa** · Senior Sistemas p.1 · `slides/SeniorSistemas_p001.jpg`
+  - Foto da sede em full-bleed com polígono verde diagonal sobreposto carregando logo e título em branco.
+- **Agenda com ornamento linear e diagonal** · Senior Sistemas p.2 · `slides/SeniorSistemas_p002.jpg`
+- **Ilustração central com categorias radiais e gráficos** · Senior Sistemas p.4 · `slides/SeniorSistemas_p004.jpg`
+  - Ilustração central de prédio com módulos em raio ligados por linhas pontilhadas, par com mini-gráficos de linha à direita.
+- **Barra única, linha suave e rosca** · Senior Sistemas p.8 · `slides/SeniorSistemas_p008.jpg`
+  - Barra 83/17 com caixa '183 empresas entrevistadas' como pesquisa primária, donut de satisfação e dois KPIs de churn emoldurados.
+- **Barras de contorno com ilustração de rede** · Senior Sistemas p.9 · `slides/SeniorSistemas_p009.jpg`
+  - Colunas de mercado de IA em ERP com ilustração de rede em vetor à direita e callouts presos por conectores pontilhados.
+- **Barras agrupadas e funil com cards** · Senior Sistemas p.10 · `slides/SeniorSistemas_p010.jpg`
+  - Colunas agrupadas por porte por ano e donut conectado por funil escuro a três blocos de explicação com ícone.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.12 · `slides/SeniorSistemas_p012.jpg`
+- **Perfil da empresa com timeline e barras** · Senior Sistemas p.13 · `slides/SeniorSistemas_p013.jpg`
+  - Painel lateral esquerdo com visão geral, timeline 1988-2024, e tabela de highlights, ao lado de coluna de receita com mix recorrente e donut de cloud.
+- **Perfil com hub central de produtos e setores** · Senior Sistemas p.14 · `slides/SeniorSistemas_p014.jpg`
+  - Cubo isométrico central de produto cercado por módulos core e near-core, com lista vertical de setores atendidos em ícones.
+- **Círculos de percentuais em faixa curva** · Senior Sistemas p.15 · `slides/SeniorSistemas_p015.jpg`
+  - Fita sinuosa de círculos verdes com percentual grande em cada um e ícone e texto curto ao lado, ligando setores a penetração.
+- **Barras empilhadas, área e logos de peers** · Senior Sistemas p.16 · `slides/SeniorSistemas_p016.jpg`
+  - Colunas empilhadas por tipo de receita com CAGR em seta, ARR em área ao lado e círculo de logos (Salesforce, SAP, Workday) mostrando precificação por resultado.
+- **Linhas com lupa e callouts laterais** · Senior Sistemas p.18 · `slides/SeniorSistemas_p018.jpg`
+  - Linhas comparativas Senior vs peers com rótulos nos extremos, e trio de cards verdes com ícone explicando os drivers da margem.
+- **Linhas com lupa e callouts laterais** · Senior Sistemas p.19 · `slides/SeniorSistemas_p019.jpg`
+- **Cascata de EBITDA com linhas e callouts** · Senior Sistemas p.20 · `slides/SeniorSistemas_p020.jpg`
+  - Cascata de reconciliação IFRS-16 para IAS-17 com colunas verdes, ao lado de linha de margens com área sombreada pontilhada entre as duas métricas.
+- **Barras empilhadas com painel de destaque** · Senior Sistemas p.21 · `slides/SeniorSistemas_p021.jpg`
+  - Colunas empilhadas crescimento + margem com linha tracejada de 40% e painel escuro à direita com três argumentos em ícone.
+- **Faixa de aquisições, retrato e pontos** · Senior Sistemas p.23 · `slides/SeniorSistemas_p023.jpg`
+  - Faixa verde de histórico de M&A com logos adquiridos por ano, foto do CEO centro e dois donuts de métrica ao rodapé.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.24 · `slides/SeniorSistemas_p024.jpg`
+- **Leque de cenários em faixa curva** · Senior Sistemas p.27 · `slides/SeniorSistemas_p027.jpg`
+  - Leque de linhas partindo do mesmo ponto (28,9%) divergindo em seis cenários, cada um com rótulo em caixa na ponta final.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.28 · `slides/SeniorSistemas_p028.jpg`
+- **Barras de múltiplos com tabela de transações** · Senior Sistemas p.29 · `slides/SeniorSistemas_p029.jpg`
+  - Barras ordenadas de múltiplo por precedente com linha tracejada de mediana e tabela lateral detalhando comprador e data, mais caixa de range aplicável.
+- **Barras de múltiplos com tabela de comparáveis** · Senior Sistemas p.30 · `slides/SeniorSistemas_p030.jpg`
+  - Duas colunas ordenadas (EV/Receita e EV/EBITDA) com mediana tracejada e tabela de empresas à direita fechando em caixa de range aplicável.
+- **Barras horizontais de múltiplos e tabela** · Senior Sistemas p.32 · `slides/SeniorSistemas_p032.jpg`
+  - Barras horizontais empilhadas por referência com faixa aplicável destacada, tabela entrada vs saída e rodapé em três colunas: juros, referência, conclusão.
+- **Estrutura societária em roscas, entrada e saída** · Senior Sistemas p.33 · `slides/SeniorSistemas_p033.jpg`
+  - Dois donuts de estrutura societária (pré e pós deal) com seta de LMF Entry no meio e caixas tracejadas Entry Check vs Exit Expectations.
+- **Fluxo de caixa, sensibilidade e cascata** · Senior Sistemas p.34 · `slides/SeniorSistemas_p034.jpg`
+  - Heatmap múltiplo de saída x EBITDA 2030 com célula do caso-base emoldurada, e cascata de MOIC embaixo com colunas vermelhas para negativos.
+- **Cascata de retorno com caixa de impacto** · Senior Sistemas p.35 · `slides/SeniorSistemas_p035.jpg`
+  - Cascata de IRR com colunas de base e final em navy, degraus em verde por alavanca e caixa de explicação do impacto na saída.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.37 · `slides/SeniorSistemas_p037.jpg`
+- **Três compradores com logo e cartão** · Senior Sistemas p.39 · `slides/SeniorSistemas_p039.jpg`
+  - Três logos grandes no topo ligados por linhas pontilhadas a cards coloridos com racional, risco e mini-tabela de receita/EBITDA.
+- **Critérios numerados e dois perfis de comprador** · Senior Sistemas p.40 · `slides/SeniorSistemas_p040.jpg`
+  - Coluna esquerda com três critérios numerados e síntese em verde-escuro, coluna direita com linhas por fundo, badges de dado (EBITDA 47%, CAGR 20%) e bandeiras.
+- **Divisor de apêndice sobre foto** · Senior Sistemas p.41 · `slides/SeniorSistemas_p041.jpg`
+- **Agenda com ornamento linear e diagonal** · Senior Sistemas p.42 · `slides/SeniorSistemas_p042.jpg`
+- **Barras empilhadas com painel de destaques** · Senior Sistemas p.43 · `slides/SeniorSistemas_p043.jpg`
+- **Rosca com bandeiras, área e barras** · Senior Sistemas p.44 · `slides/SeniorSistemas_p044.jpg`
+  - Donut de share por país com bandeiras em círculo, barra 100% empilhada de composição e colunas de mercado com linha de % do PIB.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.45 · `slides/SeniorSistemas_p045.jpg`
+- **Equação visual, barras, losangos e pizza** · Senior Sistemas p.46 · `slides/SeniorSistemas_p046.jpg`
+  - Faixa verde de ciclo (base de clientes x LTV - CAC = valor) com ícones, losangos de múltiplo (5x, 8x) sobre as colunas e donut de cross-sell.
+- **Antes e depois de aquisição com logos** · Senior Sistemas p.49 · `slides/SeniorSistemas_p049.jpg`
+- **Antes e depois de aquisição com logos** · Senior Sistemas p.50 · `slides/SeniorSistemas_p050.jpg`
+- **Faixa histórica, barra societária e retratos** · Senior Sistemas p.51 · `slides/SeniorSistemas_p051.jpg`
+  - Faixa de marcos tecnológicos 2018-2026 sobre fundo escuro, barra de composição acionária e três cards com foto dos fundadores.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.52 · `slides/SeniorSistemas_p052.jpg`
+- **Círculos de marcos, lista e citação** · Senior Sistemas p.53 · `slides/SeniorSistemas_p053.jpg`
+  - Linha do tempo em círculos conectados por trilha verde, lista de ícones à esquerda, recorte de notícia e foto do CEO com citação.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.54 · `slides/SeniorSistemas_p054.jpg`
+- **Pilares circulares, WACC, fluxo e perpetuidade** · Senior Sistemas p.55 · `slides/SeniorSistemas_p055.jpg`
+  - Quatro círculos numerados da tese de investimento entrelaçados em trilha, com cascata de WACC e coluna de FCFF ao lado.
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.56 · `slides/SeniorSistemas_p056.jpg`
+- **Football field de retorno com notas** · Senior Sistemas p.58 · `slides/SeniorSistemas_p058.jpg`
+  - Barras flutuantes de TIR por sensibilidade com linha de hurdle de 25%, caso-base de 31,9% e rodapé em três colunas (amplitude, resiliência, conclusão).
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.59 · `slides/SeniorSistemas_p059.jpg`
+- **Matriz de risco e fitas descritivas** · Senior Sistemas p.60 · `slides/SeniorSistemas_p060.jpg`
+  - Matriz probabilidade x impacto com bolhas codificadas (M1, C1, O2...) ligadas a blocos laterais agrupados por tipo com descrição curta.
+- **Gráfico de linhas com quadro antes-depois** · Senior Sistemas p.3 · `slides/SeniorSistemas_p003.jpg`
+  - Linhas indexadas base 100 com rótulos escuros nos pontos finais, ao lado de cards Antes/Hoje e dois KPIs grandes (95%, 23%) no rodapé.
+- **Barras crescentes com painel de vantagens** · Senior Sistemas p.5 · `slides/SeniorSistemas_p005.jpg`
+  - Colunas empilhadas com caixa de CAGR tracejada sobre o gráfico, caixa de conclusão com borda dupla e cards de vantagens com ícone circular.
+- **Barras horizontais com anotações e colunas** · Senior Sistemas p.6 · `slides/SeniorSistemas_p006.jpg`
+  - Barras horizontais de share por porte com logos dos concorrentes (SAP, Oracle, Totvs) ao lado das barras e anotação conectando ao texto.
+- **Quatro painéis com barras, pirâmide e tabela** · Senior Sistemas p.7 · `slides/SeniorSistemas_p007.jpg`
+  - Pirâmide 3D de segmentos por porte (grandes/PME/micro) com contagem de empresas, ao lado de tabela mercado atual vs maturidade OCDE e chamadas com ícone.
+- **Quatro gráficos de barras empilhadas e horizontais** · Senior Sistemas p.11 · `slides/SeniorSistemas_p011.jpg`
+  - Barras empilhadas por tipo de crédito com linha total e ranking horizontal de inclusão financeira com bandeiras dos países.
+- **Barras, ecossistema de logos e comparativo** · Senior Sistemas p.17 · `slides/SeniorSistemas_p017.jpg`
+  - Faixas de texto em caixas empilhadas para BTG/fintech ao lado de colunas de crédito consignado e donut de TPV, com sinal de igual ligando os blocos.
+- **Dois gráficos de linha com notas numeradas** · Senior Sistemas p.22 · `slides/SeniorSistemas_p022.jpg`
+  - Duas linhas comparativas lado a lado com numeração 1-2-3 em quadradinhos ligando cada argumento à curva.
+- **Quatro gráficos de barras e linha** · Senior Sistemas p.25 · `slides/SeniorSistemas_p025.jpg`
+  - Grade 2x2 de gráficos de colunas e linhas com títulos verdes e fonte pequena em cada quadrante, com mesma escala visual.
+- **Quatro gráficos de barras e linha** · Senior Sistemas p.26 · `slides/SeniorSistemas_p026.jpg`
+  - Linhas de conversão de caixa com rótulos em caixas escuras sobre as séries e coluna de receita recorrente vs não recorrente.
+- **Dispersões acima de série histórica de múltiplos** · Senior Sistemas p.31 · `slides/SeniorSistemas_p031.jpg`
+  - Dois scatters de crescimento vs margem em cima e série histórica de múltiplos com picos rotulados embaixo.
+- **Barras horizontais e sequência de aquisições** · Senior Sistemas p.36 · `slides/SeniorSistemas_p036.jpg`
+  - Barras horizontais de NRR benchmark vs Senior ao lado de sequência de círculos por ano de aquisição e KPIs grandes em caixas.
+- **Notícia, DCF compacto e sensibilidade** · Senior Sistemas p.38 · `slides/SeniorSistemas_p038.jpg`
+  - Recortes de notícia estilizados como cards com ícone ao lado de DCF terminal e heatmap de TIR por múltiplo e ano de saída.
+- **Quatro gráficos de linhas e barras** · Senior Sistemas p.47 · `slides/SeniorSistemas_p047.jpg`
+  - Grade 2x2 de linhas e colunas com conversão FCO/EBITDA vs Totvs, prazo de pagamento e dívida líquida/EBITDA.
+- **Barras com logos e linha suave** · Senior Sistemas p.48 · `slides/SeniorSistemas_p048.jpg`
+  - Colunas de gasto por aquisição com logos dos adquiridos embaixo de cada uma e linha de FCFF abaixo com área tracejada de gap.
+- **Tabela de alavancas com cabeçalho verde** · Senior Sistemas p.57 · `slides/SeniorSistemas_p057.jpg`
+  - Tabela de alavanca, mecanismo, atual, meta e impacto em pp de TIR, com nota de benchmark de pares e teste isolado no Excel.

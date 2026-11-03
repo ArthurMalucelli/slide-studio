@@ -1,0 +1,156 @@
+# Rede D'Or: páginas (101)
+
+- ★ **Cascatas empilhadas ligadas por faixa conceitual** · Rede D'Or p.5 · `slides/RedeDOr_p005.jpg`
+  - Two stacked mini waterfalls (payer P&L on top, hospital P&L below) joined by a full-width teal banner 'Payor's Expenses convert into the Provider's Revenue' as the hinge.
+- ★ **Linha de preço com hexágonos de retorno** · Rede D'Or p.10 · `slides/RedeDOr_p010.jpg`
+  - Dark navy slide: price history line with dashed target-price line and three honeycomb hexagons stacking DCF/IRR/Current Price as key stats.
+- ★ **Hexágonos em arco com pilares** · Rede D'Or p.11 · `slides/RedeDOr_p011.jpg`
+  - Roman-numeral hexagons on a curved vertical thread on dark navy; the active pillar is bright and the other two fade, repeated as a divider before each thesis section.
+- ★ **Barra destacada abrindo print de notícia** · Rede D'Or p.14 · `slides/RedeDOr_p014.jpg`
+  - Fake browser-window screenshot of the G1 headline embedded as evidence next to the chart of beneficiaries lost, plus dashed key-stat box (readjustment 7.7% vs IPCA 4.4%).
+- ★ **Mapa com logos ligados por conectores** · Rede D'Or p.17 · `slides/RedeDOr_p017.jpg`
+  - Brazil map in blue shades with brand logos (UDI, Esperanca, Sao Rafael) pinned by dashed leaders, next to maturation bars Rede D'Or vs ANAHP.
+- ★ **Mesa vista de cima como conselho** · Rede D'Or p.20 · `slides/RedeDOr_p020.jpg`
+  - Board drawn as a top-down round-table image with logos of members' former employers grouped by sector in dashed boxes around it.
+- ★ **Gráfico em modal sobre slide esmaecido** · Rede D'Or p.27 · `slides/RedeDOr_p027.jpg`
+- ★ **Rosca e barras sobre equação-ponte** · Rede D'Or p.39 · `slides/RedeDOr_p039.jpg`
+  - Donut of explicit vs perpetuity value beside FCFF PV bars, then a full-width EV - Debt + Cash - Provision = Equity bridge as a single sentence-equation row.
+- ★ **Matriz de risco com legenda agrupada** · Rede D'Or p.42 · `slides/RedeDOr_p042.jpg`
+  - Probability x impact grid with colored numbered squares (O/S/MG codes) on the left and grouped risk legend (Operational, Sectorial, Macro) on the right.
+- ★ **Barra destacada abrindo entrevista em vídeo** · Rede D'Or p.58 · `slides/RedeDOr_p058.jpg`
+  - Tall bars with a dashed box on 2023 and a grey wedge expanding into an analyst quote card with video-call photo.
+- ★ **Bandas de fase sobre séries temporais** · Rede D'Or p.60 · `slides/RedeDOr_p060.jpg`
+  - Shaded dashed time-bands (Before / During / After COVID) laid over both charts as one phase timeline, next to a text card per phase.
+- **Capa com foto em sangria** · Rede D'Or p.1 · `slides/RedeDOr_p001.jpg`
+  - Full-bleed surgical photo with navy duotone overlay, logo bottom-left and team credits in small type; title is just the logo lockup.
+- **Três colunas com pares de gráficos** · Rede D'Or p.2 · `slides/RedeDOr_p002.jpg`
+  - Six-panel grid under three numbered roman-numeral headers (I/II/III), each header with a thin blue rule and a grey chart subtitle; big-number box with dashed connector tree to sector segments.
+- **Pizza com cunha ampliando para barras** · Rede D'Or p.3 · `slides/RedeDOr_p003.jpg`
+  - Donut with a grey trapezoid 'zoom' wedge that opens into the detail bar chart (top 1% earns more than bottom 95%), a visual drill-down linking two charts.
+- **Pirâmide etária com barras e faixa** · Rede D'Or p.4 · `slides/RedeDOr_p004.jpg`
+  - Population pyramid mirrored left/right in two shades of blue next to a 60+ projection bar chart, with a dashed callout box stating the key delta (6% to 20%).
+- **Grade com treemap, pizza e combos** · Rede D'Or p.6 · `slides/RedeDOr_p006.jpg`
+  - Three columns I/II/III each with a different chart type (donut, treemap of market share, combo bars+line) under one consistent header style; COVID callout on the line.
+- **Treemap com zoom e grade analítica** · Rede D'Or p.7 · `slides/RedeDOr_p007.jpg`
+  - Treemap of listed hospital companies' market share with dashed callout 'The 3 largest players have only 10% of the market' and HHI box.
+- **Mosaico de perfil com fita cronológica** · Rede D'Or p.8 · `slides/RedeDOr_p008.jpg`
+  - Blue 'About the company' tab with icon+short facts at top left, Brazil map with operating states highlighted, curved wave timeline across the bottom and donut/column charts in grey right panel.
+- **Mosaico de perfil com fita cronológica** · Rede D'Or p.9 · `slides/RedeDOr_p009.jpg`
+  - Same template as the company slide (tab + map + curved milestone ribbon timeline) reused for the acquired company, making the two profiles directly comparable.
+- **Arco de hexágonos com pilar aceso** · Rede D'Or p.12 · `slides/RedeDOr_p012.jpg`
+- **Barras com cunha para cartões** · Rede D'Or p.13 · `slides/RedeDOr_p013.jpg`
+  - NPS bars before/after acquisition per hospital plus grey zoom panel with competitor logos and score (Vila Nova Star 94, Albert Einstein 86) as external benchmark.
+- **Linhas com print de entrevista citada** · Rede D'Or p.15 · `slides/RedeDOr_p015.jpg`
+  - Photo of sell-side analyst with direct quote in a grey card used as qualitative proof beside the margin line chart.
+- **Executivos com logos e treemap societário** · Rede D'Or p.16 · `slides/RedeDOr_p016.jpg`
+  - Executive rows with photos alternating left/right on grey bars, plus dashed boxes of logos showing where the board came from (healthcare / finance).
+- **Barras com caixas tracejadas de leitura** · Rede D'Or p.21 · `slides/RedeDOr_p021.jpg`
+  - Two dashed callouts annotate the exact insight on the chart (grew even in unemployment spikes; low correlation with rate).
+- **Arco de hexágonos com pilar aceso** · Rede D'Or p.22 · `slides/RedeDOr_p022.jpg`
+- **Barras comparadas com cunha explicativa** · Rede D'Or p.23 · `slides/RedeDOr_p023.jpg`
+  - Two bar series (initial plan vs new plan) with dashed box around TBD bars in grey and a grey trapezoid callout listing reasons for the delay.
+- **Barras projetadas em caixas tracejadas** · Rede D'Or p.24 · `slides/RedeDOr_p024.jpg`
+  - Projected bars drawn with dashed outlines per year, each topped by a small label 'IPCA+X%', showing assumption directly on the chart.
+- **Combo com pizza ampliada e nota** · Rede D'Or p.28 · `slides/RedeDOr_p028.jpg`
+  - Dark-box 'First Premise' bullets docked at the bottom right; donut zoomed into market share bars through grey wedge.
+- **Gráfico em modal sobre slide esmaecido** · Rede D'Or p.29 · `slides/RedeDOr_p029.jpg`
+- **Linhas rotuladas com painel em cunha** · Rede D'Or p.30 · `slides/RedeDOr_p030.jpg`
+  - Stacked three-panel: history, projection, and resulting claims/premiums, with the 'Second Premise' box on the right stating the logic.
+- **Gráfico em modal sobre slide esmaecido** · Rede D'Or p.31 · `slides/RedeDOr_p031.jpg`
+- **Duas séries somando em barra grande** · Rede D'Or p.32 · `slides/RedeDOr_p032.jpg`
+  - Left: two separated revenue bar series; right: one tall consolidated series, with dashed CAGR bracket labels on each chart.
+- **Arco de hexágonos com pilar aceso** · Rede D'Or p.33 · `slides/RedeDOr_p033.jpg`
+- **Três cartões de cenário coloridos** · Rede D'Or p.34 · `slides/RedeDOr_p034.jpg`
+  - Three big cards with scenario name in red/blue/green, target price, upside and the single driver (expansion-plan end year) on the bottom.
+- **Barras horizontais com colchete de crescimento** · Rede D'Or p.36 · `slides/RedeDOr_p036.jpg`
+  - Horizontal bars for FCFF by year with dashed bracket and CAGR tag, next to vertical working-capital components.
+- **Decomposição em faixas horizontais alinhadas** · Rede D'Or p.37 · `slides/RedeDOr_p037.jpg`
+  - Three stacked bands with big blue label tabs (ROIC, NOPAT, Invested Capital) and the ROIC line at the bottom.
+- **Árvore de custo de capital com spread** · Rede D'Or p.38 · `slides/RedeDOr_p038.jpg`
+  - WACC table with CAPM equation written as symbols (rf + beta x ERP = Ke) in dashed boxes; right side spread chart ROIC vs flat WACC line.
+- **Sensibilidades em calor com cartão-resumo** · Rede D'Or p.40 · `slides/RedeDOr_p040.jpg`
+  - Two red-yellow-green heatmap tables (price and IRR) stacked on the left, a dashed EV-to-equity box on the right ending in a teal 'Target Price / Upside' bar.
+- **Linha anotada com matriz de calor** · Rede D'Or p.41 · `slides/RedeDOr_p041.jpg`
+  - Price path line with callouts for buy price, dividends received and sell price, plus an IRR heatmap and 'IRR 19.4% > Ke 15.6%!' conclusion box.
+- **Matriz de risco com ficha detalhada** · Rede D'Or p.43 · `slides/RedeDOr_p043.jpg`
+  - Same risk matrix repeated on the left while the right panel zooms into one risk with donut of revenue concentration; the highlighted risk is the one explained.
+- **Matriz de risco com ficha detalhada** · Rede D'Or p.44 · `slides/RedeDOr_p044.jpg`
+- **Matriz de risco com ficha detalhada** · Rede D'Or p.45 · `slides/RedeDOr_p045.jpg`
+  - Fixed matrix per slide plus per-risk quantification (TAM 189 vs 216 total) in the right panel, one risk per slide.
+- **Matriz de risco com ficha detalhada** · Rede D'Or p.46 · `slides/RedeDOr_p046.jpg`
+  - Fake browser window with the InfoMoney headline inside the risk card as proof.
+- **Matriz de risco com ficha detalhada** · Rede D'Or p.47 · `slides/RedeDOr_p047.jpg`
+- **Matriz de risco com ficha detalhada** · Rede D'Or p.48 · `slides/RedeDOr_p048.jpg`
+  - Combo chart of beneficiaries vs unemployment rate at the bottom of the risk card, matrix kept at left for orientation.
+- **Divisor com foto e título grande** · Rede D'Or p.49 · `slides/RedeDOr_p049.jpg`
+  - Reuses the cover photo with a huge Q&A title, bookending the deck.
+- **Divisor com foto e título grande** · Rede D'Or p.50 · `slides/RedeDOr_p050.jpg`
+- **Print, citação e gráfico em mosaico** · Rede D'Or p.51 · `slides/RedeDOr_p051.jpg`
+  - Headline screenshot + dashed 'R$13 Billion / 63% of SULA 2021 revenue' stat boxes + analyst quote card, followed by a ROIC before/after line.
+- **Quatro painéis com etiquetas de leitura** · Rede D'Or p.52 · `slides/RedeDOr_p052.jpg`
+  - 2x2 grid with grey-blue dashed annotation boxes on each chart carrying the takeaway ('Costs used to be 80% of revenue').
+- **Cartão lateral com rosca e barras** · Rede D'Or p.53 · `slides/RedeDOr_p053.jpg`
+  - Donut splits greenfield vs brownfield, with plain-language definitions printed in the bottom-left corner.
+- **Barras com cunha para print** · Rede D'Or p.54 · `slides/RedeDOr_p054.jpg`
+  - Bars split planned vs delivered beds with the 'What is still remaining' label on a dashed overlay and a news screenshot closing the right-bottom corner.
+- **Cartão de múltiplos com linha ampla** · Rede D'Or p.55 · `slides/RedeDOr_p055.jpg`
+  - Grey drop-shadow card for multiples and a price-vs-index line chart with a callout box on the divergence.
+- **Barras com sombreado e prints laterais** · Rede D'Or p.56 · `slides/RedeDOr_p056.jpg`
+  - Two G1 news screenshots stacked right with dashed blue overlay boxes on the beneficiary-loss bars to link headline to number.
+- **Duas faixas com etiquetas de destaque** · Rede D'Or p.57 · `slides/RedeDOr_p057.jpg`
+- **Barras com banda e etiqueta** · Rede D'Or p.59 · `slides/RedeDOr_p059.jpg`
+  - Amortization calendar bars with a dashed blue overlay box on the cash block and callout 'pay their debt until 2028'.
+- **Painel lateral revelando fase do gráfico** · Rede D'Or p.61 · `slides/RedeDOr_p061.jpg`
+- **Painel lateral revelando fase do gráfico** · Rede D'Or p.62 · `slides/RedeDOr_p062.jpg`
+- **Painel lateral revelando fase do gráfico** · Rede D'Or p.63 · `slides/RedeDOr_p063.jpg`
+  - Build step where the phase card (with MLR = Claims/Premiums formula in italics) slides over the right half of the chart.
+- **Print de notícia com três gráficos** · Rede D'Or p.64 · `slides/RedeDOr_p064.jpg`
+  - Four-panel layout with an embedded UOL news screenshot and before/after bars for salary changes with % delta tags.
+- **Gráfico em modal com nota destacada** · Rede D'Or p.65 · `slides/RedeDOr_p065.jpg`
+- **Quatro painéis de linhas comparativas** · Rede D'Or p.18 · `slides/RedeDOr_p018.jpg`
+  - 2x2 grid of four small line/bar charts, each comparing Rede D'Or (dark blue) vs ANAHP (teal) with same legend and axis style for fast reading.
+- **Duas barras sobre linha larga** · Rede D'Or p.19 · `slides/RedeDOr_p019.jpg`
+  - Three-block layout: roman-numeral header states the finding, grey sub-line gives the unit (e.g. COGS per hospital bed), highlighted navy bars for Rede D'Or vs teal peers.
+- **Barras e linhas com nota tracejada** · Rede D'Or p.25 · `slides/RedeDOr_p025.jpg`
+  - Dashed-border premise box with the rule and the model choice, beside greenfield/brownfield stacked bars.
+- **Duas faixas de barras empilhadas** · Rede D'Or p.26 · `slides/RedeDOr_p026.jpg`
+  - Chart pairs revenue bars with % of hospital services line, second chart on cancer cases; popup variant (p27) overlays the CAGR chart on dimmed background.
+- **Linhas e barras com nota tracejada** · Rede D'Or p.35 · `slides/RedeDOr_p035.jpg`
+  - Left: capex lines expansion vs maintenance with dashed premise box; bottom: D&A bars and goodwill amortization.
+- **Duas séries somando em barra grande** · Rede D'Or p.66 · `slides/RedeDOr_p066.jpg`
+  - Two stacked bar charts, separated vs consolidated, in the same blue/teal palette.
+- **Tabela crua colada do modelo** · Rede D'Or p.67 · `slides/RedeDOr_p067.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.68 · `slides/RedeDOr_p068.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.69 · `slides/RedeDOr_p069.jpg`
+- **Duas tabelas cruas empilhadas** · Rede D'Or p.70 · `slides/RedeDOr_p070.jpg`
+- **Tabela de safras com área sombreada** · Rede D'Or p.71 · `slides/RedeDOr_p071.jpg`
+- **Tabela de safras com área sombreada** · Rede D'Or p.72 · `slides/RedeDOr_p072.jpg`
+- **Tabela de safras com área sombreada** · Rede D'Or p.73 · `slides/RedeDOr_p073.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.74 · `slides/RedeDOr_p074.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.75 · `slides/RedeDOr_p075.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.76 · `slides/RedeDOr_p076.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.77 · `slides/RedeDOr_p077.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.78 · `slides/RedeDOr_p078.jpg`
+- **Tabela crua com cronograma esparso** · Rede D'Or p.79 · `slides/RedeDOr_p079.jpg`
+- **Tabela crua com cronograma esparso** · Rede D'Or p.80 · `slides/RedeDOr_p080.jpg`
+- **Tabela crua com cronograma esparso** · Rede D'Or p.81 · `slides/RedeDOr_p081.jpg`
+- **Tabela crua com cronograma esparso** · Rede D'Or p.82 · `slides/RedeDOr_p082.jpg`
+- **Tabela de safras com área sombreada** · Rede D'Or p.83 · `slides/RedeDOr_p083.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.84 · `slides/RedeDOr_p084.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.85 · `slides/RedeDOr_p085.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.86 · `slides/RedeDOr_p086.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.87 · `slides/RedeDOr_p087.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.88 · `slides/RedeDOr_p088.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.89 · `slides/RedeDOr_p089.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.90 · `slides/RedeDOr_p090.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.91 · `slides/RedeDOr_p091.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.92 · `slides/RedeDOr_p092.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.93 · `slides/RedeDOr_p093.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.94 · `slides/RedeDOr_p094.jpg`
+- **Memória de cálculo crua com inputs** · Rede D'Or p.95 · `slides/RedeDOr_p095.jpg`
+- **Fluxo descontado em tabela crua** · Rede D'Or p.96 · `slides/RedeDOr_p096.jpg`
+- **Fluxo descontado em tabela crua** · Rede D'Or p.97 · `slides/RedeDOr_p097.jpg`
+- **Tabela crua com sensibilidades em calor** · Rede D'Or p.98 · `slides/RedeDOr_p098.jpg`
+- **Múltiplos em tabela crua sombreada** · Rede D'Or p.99 · `slides/RedeDOr_p099.jpg`
+- **Tabela crua com sensibilidade em calor** · Rede D'Or p.100 · `slides/RedeDOr_p100.jpg`
+- **Retorno sobre capital em tabela crua** · Rede D'Or p.101 · `slides/RedeDOr_p101.jpg`

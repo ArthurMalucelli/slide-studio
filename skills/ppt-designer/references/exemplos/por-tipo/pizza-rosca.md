@@ -1,0 +1,45 @@
+# Pizza e rosca (22)
+
+- ★ **Thick-rim icon wheel with a throat into a revenue panel** · Nubank p.2 · `tipo/pizza-rosca/nubank_p2_thick-rim-icon-wheel-with-a-throat-into-a-revenue-panel_5.jpg`
+  - Heavy brand-coloured ring, white spoke dividers, six equal tinted wedges each with a line icon and bold label, logo on a white centre disc; pale trapezoid from the wheel's lower edge widening into a rounded lavender panel that holds the revenue donut with leader-line labels.
+- ★ **Donut slice flaring into a text plate** · RD Saúde p.12 · `tipo/pizza-rosca/rd-saude_p12_donut-slice-flaring-into-a-text-plate_38.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact ring: outer centre (738,291) radius ~87; slices from top clockwise #005124,#01774C,#008E41,#00B256, the remainder #ADADAD. Inner diamond-outline ring #F2F2F2 (678,291),(738,231),(797,291),(738,350) in the source's path; render is a white gap and a small inner pie. Trapezoid in same #ADADAD descends from the ring's bottom (x~690-785, y~381) an
+- **Rosca de reservas por cluster** · 3R Petroleum p.19 · `tipo/pizza-rosca/3RPetroleum_p019_q2.jpg` · slide: `slides/3RPetroleum_p019.jpg`
+  - Consolidated Reserves
+- **Off-page progress arcs keyed to a numbered list** · AB InBev p.51 · `tipo/pizza-rosca/ab-inbev_p51_off-page-progress-arcs-keyed-to-a-numbered-list_3.jpg`
+  - Four concentric thick arcs cut by the slide's left margin, grey track with a yellow portion of different length; to the right, large thin numerals 01 to 04 with one line each.
+- **Donut slices extended into flag tabs** · AB InBev p.150 · `tipo/pizza-rosca/ab-inbev_p150_donut-slices-extended-into-flag-tabs_70.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Donut r≈145 centered (415,350), hole r≈72. Big slices merge into rects of the same color: e.g. Oil #F0D010 rect (87,231)-(370,287), Aluminium #736F6E rect (415,231)-(715,279), Fixed costs #807F7F (470,345)-(715,443), Barley #D9D9D9 (87,373)-(370,443). Tabs behind donut slices, same fill so seam disappears. Label in tab. Hole: white circle 
+- **Double-band ring with lit segment** · Alupar p.22 · `tipo/pizza-rosca/alupar_p22_double-band-ring-with-lit-segment_73.jpg`
+  - Two concentric thin bands, both grey 1pt outlines with no fill: outer radii about 75pt and 63pt; inner radii 61pt and 49pt. Radial tick dividers at slice boundaries. The active slice in both bands filled with angular gradient #0B2A8A to #1F55E0, outer slice a bit longer than the inner. Centre text gradient blue italic. Percent labels outside; active one white, others grey.
+- **Ranked donut row as a survey strip** · Arezzo&Co p.9 · `tipo/pizza-rosca/arezzo-co_p9_ranked-donut-row-as-a-survey-strip_22.jpg`
+  - Five identical small donuts in one row with dark remainder and cyan share, bold % in hole; two-line centred caption under each; tinted takeaway box with hard offset below.
+- **Rosca com total central** · ChallengeB p.2 · `tipo/pizza-rosca/ChallengeB_p002_q1.jpg` · slide: `slides/ChallengeB_p002.jpg`
+  - Revenue breakdown by segment (2025)
+- **Pizza em quadro de zoom tracejado** · ChallengeB p.9 · `tipo/pizza-rosca/ChallengeB_p009_q2.jpg` · slide: `slides/ChallengeB_p009.jpg`
+  - What the backlog is made of
+- **Rosca com legenda de participação** · ChallengeB p.14 · `tipo/pizza-rosca/ChallengeB_p014_q2.jpg` · slide: `slides/ChallengeB_p014.jpg`
+  - ...so below 150 seats only two Western makers remain...
+- **Donut seated on a chamfered plate** · Intelbras p.56 · `tipo/pizza-rosca/intelbras_p56_donut-seated-on-a-chamfered-plate_95.jpg`
+  - Grey plate #F0F0F0 polygon: bottom edge full width (about 233pt), rising verticals, top corners chamfered inward at 50 degrees up behind the donut; plate top is hidden by the donut, which overlaps about 25% of its height. Caption sits on the plate below the donut. Three grey boxes below continue the base, with dashed tether.
+- **Rosca de promotores e detratores** · Meliuz p.47 · `tipo/pizza-rosca/Meliuz_p047_q3.jpg` · slide: `slides/Meliuz_p047.jpg`
+- **Inline logic strip** · Nubank p.27 · `tipo/pizza-rosca/nubank_p27_inline-logic-strip_26.jpg`
+  - Pale rounded band behind; icon + short phrase, then accent block arrow with the verb inside (Exclusion), then outcome + icon; the left edge tucks behind the donut.
+- **Rosca de composição acionária** · RD Saúde p.29 · `tipo/pizza-rosca/RDSaude_p029_q2.jpg` · slide: `slides/RDSaude_p029.jpg`
+  - Descentralized power
+- **Rosca dupla explícito e perpetuidade** · Rede D'Or p.39 · `tipo/pizza-rosca/RedeDOr_p039_q1.jpg` · slide: `slides/RedeDOr_p039.jpg`
+  - Breakdown Enterprise Value
+- **Rosca de participação pré-deal** · Senior Sistemas p.33 · `tipo/pizza-rosca/SeniorSistemas_p033_q1.jpg` · slide: `slides/SeniorSistemas_p033.jpg`
+  - Estrutura Societária
+- **Rosca de participação pós-entrada** · Senior Sistemas p.33 · `tipo/pizza-rosca/SeniorSistemas_p033_q2.jpg` · slide: `slides/SeniorSistemas_p033.jpg`
+  - Estrutura Societária pós Entrada
+- **Recessed pie inside a donut** · Senior Sistemas p.44 · `tipo/pizza-rosca/senior-sistemas_p44_recessed-pie-inside-a-donut_135.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Outer donut about 310pt in diameter, thickness about 58pt. In the hole, the same data repeated as a pie with d≈118pt, carrying a soft grey shadow on a white hole, so it reads as a disc floating in a well. Satellites: round flags d≈35 with soft shadow at each slice's outer edge, overlapping nothing. Not verified whether vector.
+- **Extruded pie with ghost remainder** · Senior Sistemas p.46 · `tipo/pizza-rosca/senior-sistemas_p46_extruded-pie-with-ghost-remainder_133.jpg`
+  - Raster 944x416 in the source, buildable from freeforms. In px@110: top ellipse x 905-1282, y 520-700, so ry/rx about 0.47. Slices sector-shaped on the ellipse, #01826D and #05604F. Extrusion depth about 29pt: freeform following the lower ellipse arc, shifted down, horizontal gradient #01604F to #002A22. Remainder of the pie left unfilled, only a hairline dashed outline. Thin white seam between sli
+- **Diamond badge with offset under-edge** · Senior Sistemas p.46 · `tipo/pizza-rosca/senior-sistemas_p46_diamond-badge-with-offset-under-edge_134.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Rotated square about 48pt diagonal, teal fill #01826D with white text. Below it a same-size diamond in darker #05604F shifted +4pt in y, showing only a V along the lower edges. Soft shadow optional.
+- **Rosca da estrutura acionária atual** · Vasta p.34 · `tipo/pizza-rosca/Vasta_p034_q1.jpg` · slide: `slides/Vasta_p034.jpg`
+  - Current Shareholder Structure
+- **Rosca da estrutura acionária pós-aporte** · Vasta p.34 · `tipo/pizza-rosca/Vasta_p034_q3.jpg` · slide: `slides/Vasta_p034.jpg`
+  - Post-Deal Shareholder Structure

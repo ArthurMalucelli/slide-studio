@@ -1,0 +1,88 @@
+# Tabela (45)
+
+- ★ **Project fact sheet on arrow-tipped cross axes** · Alupar p.13 · `tipo/tabela/alupar_p13_project-fact-sheet-on-arrow-tipped-cross-axes_7.jpg`
+  - Light-blue fading rectangle, solid blue outline on three sides that fades off to the right; top row of bold KPI label and value pairs; horizontal blue line with small end dots beneath; vertical line with the same ends dropping to the bottom between two italic key/value columns; no row rules.
+- ★ **Table rows wired to insight headlines with diamond leaders** · Cosan p.11 · `tipo/tabela/cosan_p11_table-rows-wired-to-insight-headlines-with-diamond-leaders_10.jpg`
+  - White outlined table on dark with key rows in red bold; dotted white rules grouping Pre-Offer and Post-Offer above columns, same dotted rule above Key Insights; thick red line leaving the table edge at each key row and ending in a diamond; bold red insight head at the diamond with justified white body below.
+- ★ **Tabela de retornos com logos** · Kering - Moncler p.6 · `tipo/tabela/Kering-Moncler_p006_q2.jpg` · slide: `slides/Kering-Moncler_p006.jpg`
+- ★ **Director handover ledger** · Kering - Moncler p.7 · `tipo/tabela/kering-moncler_p7_director-handover-ledger_15.jpg`
+  - Rows split by dashed lines; brand wordmark at left as row label; outgoing name and dates, dotted arrow, incoming name and year; columns right-aligned to the arrow.
+- ★ **Severity roundel problem-solution table** · Kering - Moncler p.19 · `tipo/tabela/kering-moncler_p19_severity-roundel-problem-solution-table_16.jpg`
+  - Dark header table: first column a ring-in-disc (red or amber fill, navy outer ring, white hole), then weakness, why it matters, solution, implication; rules only, no fills.
+- ★ **Premissas por cenário e preço-alvo** · Meliuz p.59 · `tipo/tabela/Meliuz_p059_q3.jpg` · slide: `slides/Meliuz_p059.jpg`
+  - Análise de cenários
+- ★ **Code screenshot as receipt** · Mercado Libre / Intelbras p.7 · `tipo/tabela/mercado-libre-intelbras_p7_code-screenshot-as-receipt_22.jpg`
+  - Dark rounded editor screenshot beside the output. In ML p7, a five-row ranking of words from shareholder letters: rank square, pill with word and count, top pill yellow, rest navy; column headers Nº, Transcript, Q, Python script. A novel metric that needs little space.
+- ★ **Staircase cohort heatmap** · Sabesp p.17 · `tipo/tabela/sabesp_p17_staircase-cohort-heatmap_21.jpg`
+  - Grid with rows per asset and columns Year +0 to +9; cells shade by value and rows stop at their last year, forming a stair. The empty corner holds an outlined callout (Average -2.9% per year) with code thumbnail and Python logo. Colour scale at right.
+- ★ **Mapa de calor de perdas por coorte** · Sabesp p.17 · `tipo/tabela/Sabesp_p017_q3.jpg` · slide: `slides/Sabesp_p017.jpg`
+  - ...and replicating efficiency across every concession
+- ★ **Lista de riscos com impacto na TIR** · Vasta p.40 · `tipo/tabela/Vasta_p040_q2.jpg` · slide: `slides/Vasta_p040.jpg`
+- ★ **Triangular exit table with an embedded KPI row** · Vibra p.39 · `tipo/tabela/vibra_p39_triangular-exit-table-with-an-embedded-kpi-row_28.jpg`
+  - Staircase table of cash flows with a year per row and last-column MOIC and IRR behind a vertical rule; the chosen row expands to full width in glowing tint with accent values; its empty cells on the right hold inline KPIs (22.0% Final Stake, 10,315 Buyout, 9.0x EV/EBITDA) and a logo mark stamped on top.
+- ★ **Scenario glow header over bullets and range rows** · Vibra p.40 · `tipo/tabela/vibra_p40_scenario-glow-header-over-bullets-and-range-rows_14.jpg`
+  - Single dark-to-green gradient plate with three bold case names and green IRR and white MOIC pairs; aligned dash bullets in three columns; white rule; table with row labels at left, one vertical rule, a rectangle with a green gradient glowing from the centre with a small base tick, bear and bull values at each end, base value under it, range on the far right in grey.
+- **Comparison table driven by a person toggle** · AB InBev p.13 · `tipo/tabela/ab-inbev_p13_comparison-table-driven-by-a-person-toggle_17.jpg`
+  - Stacked names above the table: the active one bold on a thick accent rule, the inactive grey on a grey rule; a dashed connector with a dashed label ('Performance-driven') drops to the table; dashed box around the rows that prove it; thick accent bars cap both table sides. Next slide swaps name and box.
+- **Perfis de executivos com formação** · AB InBev p.73 · `tipo/tabela/ABInBev_p073_q2.jpg` · slide: `slides/ABInBev_p073.jpg`
+  - Schools:
+- **Perfis de executivos com formação** · AB InBev p.76 · `tipo/tabela/ABInBev_p076_q2.jpg` · slide: `slides/ABInBev_p076.jpg`
+  - Schools:
+- **Return chips on an elbow bus into a benchmark panel** · Alupar p.25 · `tipo/tabela/alupar_p25_return-chips-on-an-elbow-bus-into-a-benchmark-panel_9.jpg`
+  - Tables at left with outlined total rows; break mark (double slash) on a vertical rule next to each table; rectangular outlined chip with big value, small TIR and corner dots; thin blue elbow lines rising on two verticals into a glassy panel listing 5y, 10y, 30y yields.
+- **Double dashed selection ring** · CSN - ArcelorMittal p.32 · `tipo/tabela/csn-arcelormittal_p32_double-dashed-selection-ring_20.jpg`
+  - Rounded rectangles drawn twice with slight offset in dashed line (red on rows, white on summary boxes), containing just the figures that matter, echoing into a summary card beneath.
+- **Acquirer logo matrix** · CSN Liability p.20 · `tipo/tabela/csn-liability_p20_acquirer-logo-matrix_22.jpg`
+  - Dark vertical tab with rotated label at left; logos as column headers; short bold criteria text below each. Low-res crop.
+- **Economia de juros com amortização** · CSN Liability p.22 · `tipo/tabela/CSNLiabilityManagement_p022_q2.jpg` · slide: `slides/CSNLiabilityManagement_p022.jpg`
+  - Bridge loan repayment generates meaningful interest savings
+- **Tabela de composição acionária antes e depois** · Cosan p.11 · `tipo/tabela/Cosan_p011_q2.jpg` · slide: `slides/Cosan_p011.jpg`
+  - Pre-Offer / Post-Offer
+- **Logo-headed duel table with outlined verdict rows** · Cury p.17 · `tipo/tabela/cury_p17_logo-headed-duel-table-with-outlined-verdict-rows_11.jpg`
+  - No fills or rules in body; single vertical rule between the two value columns running up into the logo row; final two rows in a pale blue fill with a solid blue outline and bold blue text, outline crossing the vertical rule.
+- **Mapa de calor de adesão por produto** · Intelbras p.7 · `tipo/tabela/Intelbras_p007_q2.jpg` · slide: `slides/Intelbras_p007.jpg`
+  - Security naturally pulls ICT
+- **Logo-header scorecard with target column** · Kering - Moncler p.6 · `tipo/tabela/kering-moncler_p6_logo-header-scorecard-with-target-column_34.jpg`
+  - Horizon rows (1M to 5Y) by brand columns with logos as headers; gold dashed box around the target column, including its logo; last column average with green and red text.
+- **Tabela de participação antes e depois** · Kering - Moncler p.25 · `tipo/tabela/Kering-Moncler_p025_q3.jpg` · slide: `slides/Kering-Moncler_p025.jpg`
+  - PROPOSED OWNERSHIP STRUCTURE
+- **Tabela de riscos e mitigação** · Kering - Moncler p.28 · `tipo/tabela/Kering-Moncler_p028_q2.jpg` · slide: `slides/Kering-Moncler_p028.jpg`
+- **Tabelas de frequência de palavras comparadas** · Meliuz p.40 · `tipo/tabela/Meliuz_p040_q3.jpg` · slide: `slides/Meliuz_p040.jpg`
+  - 4T20 / 2T21
+- **Question-level ESG scorecard** · Mercado Libre p.78 · `tipo/tabela/mercado-libre_p78_question-level-esg-scorecard_41.jpg`
+  - Long table of questions with five peer columns and average, with subtotal rows for E, S, G and a highlighted final row. Discipline over decoration. Low-res crop.
+- **App-icon column headers with logo row heads** · Mercado Libre p.154 · `tipo/tabela/mercado-libre_p154_app-icon-column-headers-with-logo-row-heads_3.jpg`
+  - Navy header row where two cells hold only an app-store icon; first column is navy too, with white-boxed or reversed logos; body cells in light grey with bold centred values and thin black rules. Page 150 is the variant with grey banding and an empty corner cell.
+- **Icon-and-logo matrix table** · Mercado Libre p.154 · `tipo/tabela/mercado-libre_p154_icon-and-logo-matrix-table_40.jpg`
+  - Navy first column with white-backed brand marks on each row; App Store and Play Store icons as column headers; light grey body cells, large bold values.
+- **Scenario icon rows** · Mercado Libre / Sabesp p.35 · `tipo/tabela/mercado-libre-sabesp_p35_scenario-icon-rows_47.jpg`
+  - Silhouette bull, house, bear down the left (Sabesp uses line bear, scales, bull above three colour-tiered tables). Columns PRICE, ADS, GMV in navy italics; each value in a grey navy-outlined box.
+- **Tabela de riscos com descrição** · Nubank p.37 · `tipo/tabela/Nubank_p037_q2.jpg` · slide: `slides/Nubank_p037.jpg`
+  - Risks / Description
+- **Check table split into two opposed blocks** · Nubank p.55 · `tipo/tabela/nubank_p55_check-table-split-into-two-opposed-blocks_4.jpg`
+  - Two-tone purple header over zebra grey rows; rows sorted by owner of the data; heavy black checks in only one column per row, which produce a stepped diagonal; no crosses and no dashes.
+- **Tabela de operação água e esgoto** · Sabesp p.2 · `tipo/tabela/Sabesp_p002_q1.jpg` · slide: `slides/Sabesp_p002.jpg`
+  - Sanitation built on two pillars
+- **Solid zoom trapezoid between tables** · Sabesp p.46 · `tipo/tabela/sabesp_p46_solid-zoom-trapezoid-between-tables_126.jpg`
+  - Variant of the gradient beam: one solid polygon #12D0FF, no gradient. Narrow edge at x447.6 y254-365 (spans the 3 source rows), wide edge x525 y167-451 (full height of the destination table). The destination table sits on top of the wide edge, hiding nothing; source table abuts the narrow edge. The polygon has a notch: the middle of the wide side is covered by the table so only the top and bottom 
+- **Status column wired from table row into a chart** · Sabesp p.51 · `tipo/tabela/sabesp_p51_status-column-wired-from-table-row-into-a-chart_5.jpg`
+  - Light table with hairline header; last column is a continuous block in green tints with a cyan top cell for the row at issue; a cyan elbow runs from that cell across the gutter to a line chart with dashed tinted crisis windows.
+- **Black formula plate** · Sabesp / Intelbras p.92 · `tipo/tabela/sabesp-intelbras_p92_black-formula-plate_48.jpg`
+  - Near-black rectangle with white serif LaTeX-style equation placed under or over the table it governs. Low-res crop.
+- **T-cross KPI table capped with a diamond** · Senior Sistemas p.39 · `tipo/tabela/senior-sistemas_p39_t-cross-kpi-table-capped-with-a-diamond_6.jpg`
+  - Three rows only, no fill; coloured horizontal rules between rows; one vertical hairline through the centre extending above and below, topped with a small diamond; text in the rule colour.
+- **Tabela de cidades com nota** · Vasta p.23 · `tipo/tabela/Vasta_p023_q2.jpg` · slide: `slides/Vasta_p023.jpg`
+- **Tabela de transações com destaque** · Vibra p.6 · `tipo/tabela/Vibra_p006_q3.jpg` · slide: `slides/Vibra_p006.jpg`
+  - Transaction Comps [BRL bn]
+- **Tabela de EBITDA com destaque circular** · Vibra p.10 · `tipo/tabela/Vibra_p010_q3.jpg` · slide: `slides/Vibra_p010.jpg`
+  - Comerc's EBITDA and EBITDA Margin [BRL mn, %]
+- **Holder table with IRR pills** · Vibra p.31 · `tipo/tabela/vibra_p31_holder-table-with-irr-pills_39.jpg`
+  - Thin outlined one-row table of share count by quarter; a thin vertical drop at each side reaches outlined pills under the table: 'IRR (Ex-InFinance)' and 'IRR (With InFinance)' joined by a line.
+- **Dashed deal-type tags in comps table** · Vibra p.39 · `tipo/tabela/vibra_p39_dashed-deal-type-tags-in-comps-table_51.jpg`
+  - Normal comps columns, the last one being two dashed outline chips per row, one for seller type and one for buyer logic; header row in accent outline.
+- **Bond identity card** · 3R Petroleum p.74 · `tipo/tabela/3r-petroleum_p74_bond-identity-card_50.jpg`
+  - White shadow card styled like a registry: code in bold with a small pill for the law, then grey label and value rows.
+- **Tabela de premissas do valuation** · AB InBev p.55 · `tipo/tabela/ABInBev_p055_q1.jpg` · slide: `slides/ABInBev_p055.jpg`
+  - Valuation: Discounted Cash Flow to Equity
+- **Yellow audit columns** · Sabesp / Intelbras p.76 · `tipo/tabela/sabesp-intelbras_p76_yellow-audit-columns_53.jpg`
+  - Pure spreadsheet yellow on only the assumption and result columns or cells; everything else stays unfilled. Harsh, but works as a convention on appendix pages only.

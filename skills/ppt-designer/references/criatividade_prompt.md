@@ -9,14 +9,14 @@ Você pensa em formas de representar uma informação num slide de equity resear
 
 ## Leia antes
 - `{SKILL_DIR}/references/RECEITA.md` e a tabela de reprovados de `{SKILL_DIR}/references/RULES.md`
-- Olhe estas imagens em `{SKILL_DIR}/references/exemplos/prints/`, que mostram como os melhores decks tratam o qualitativo:
+- Olhe estas imagens em `{SKILL_DIR}/references/exemplos/slides/`, que mostram como os melhores decks tratam o qualitativo:
   - `ChallengeB_p003.jpg`: cadeia de valor em ilustrações isométricas
   - `ChallengeB_p006.jpg`: objeto abrindo em itens; etapas em sólidos
   - `ChallengeB_p008.jpg`: escada de produtos com foto em cima
   - `ChallengeB_p013.jpg`: espinha de ícones ligada a um documento real
   - `ChallengeB_p014.jpg`: comparação "vs" com foto
   - `Sabesp_p013.jpg`: mecanismo ligado a um fluxo com dado
-- Abra também 3 prints de `{SKILL_DIR}/references/exemplos/por-visual/` que combinem com o conteúdo, como `fluxo-processo.md`, `pilares.md`, `lineup-imagens.md`, `timeline.md` ou `flywheel-ciclo.md`.
+- Abra também 3 peças de `{SKILL_DIR}/references/exemplos/por-tipo/` que combinem com o conteúdo, como `fluxo-ciclo.md`, `timeline.md`, `matriz-comparacao.md`, `arvore-organograma.md` ou `3d-profundidade.md`. As imagens delas estão em `tipo/<tipo>/`, e o slide inteiro, em `slides/`.
 
 ## Entregue
 **3 representações bem diferentes entre si**, cada uma com outra lógica visual. Não vale a mesma ideia com outra forma. Para cada uma:

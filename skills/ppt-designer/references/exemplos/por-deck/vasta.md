@@ -1,0 +1,78 @@
+# Vasta: páginas (43)
+
+- ★ **Donut segmentado ligado a cards e gráficos** · Vasta p.6 · `slides/Vasta_p006.jpg`
+  - Left stack of staggered rounded boxes hugging a half-donut wheel as an ecosystem metaphor, paired on the right with a scatter (ticket vs schools) and a margin line chart.
+- ★ **Mapa regional com ranking e tabela** · Vasta p.23 · `slides/Vasta_p023.jpg`
+  - Northeast map with numbered phased-rollout pins beside a ranked bar+table of cities, and three satellite-map neighborhood thumbnails with R$/m2 prices along the bottom.
+- ★ **Donuts antes e depois com entrada central** · Vasta p.34 · `slides/Vasta_p034.jpg`
+  - Pre- and post-money shareholder donuts bracket a central entry box with the building image, and below a horizontal multiple scale (trading comps, tender offer, entry, transaction comps) positions the 8.1x entry.
+- ★ **Matriz probabilidade-impacto com lista de riscos** · Vasta p.40 · `slides/Vasta_p040.jpg`
+  - 5x5 likelihood x impact grid with coded risk tiles (E1, C1, M1...) placed in cells, color-coded by type, paired with a ranked list on the right whose each row shows the assumption change and its IRR delta.
+- **Capa escura com ondas de linhas** · Vasta p.1 · `slides/Vasta_p001.jpg`
+  - Dark full-bleed generative wave art with logo top-left and team credits in small bold bottom-left; the same wave motif is reused on dividers and Q&A.
+- **Resumo de investimento em painéis com cards** · Vasta p.3 · `slides/Vasta_p003.jpg`
+  - Left column is a vertical IRR/MOIC spine (6-year line with diamond markers) feeding a right-hand rationale panel split into Entry / Exit / Risks rows of small numbered cards, each with a quantified chip (e.g. -4.9% IRR).
+- **Divisor com numeral grande e ondas** · Vasta p.4 · `slides/Vasta_p004.jpg`
+  - Giant ghosted pale-pink section number behind a bold title, italic subtitle and a six-item section tracker with the current one underlined; the footer nav on content slides repeats the same sections as a progress bar.
+- **Ilustração, barras com linha e faixa de números** · Vasta p.5 · `slides/Vasta_p005.jpg`
+  - Rounded card with illustration + brand pillars on the left, brand-logo row of school counts above a stacked column+line chart, and a bottom Key Stats strip of 6 big numbers separated by hairlines.
+- **Divisor com numeral grande e ondas** · Vasta p.7 · `slides/Vasta_p007.jpg`
+- **Dois gráficos e destaque circular lateral** · Vasta p.8 · `slides/Vasta_p008.jpg`
+  - Progressive-reveal slide: top rounded panel holds stacked-percentage columns and a tuition vs IPCA line, with a pink callout card on the right; lower row is ghosted and revealed in later builds.
+- **Barras empilhadas com setas e destaque** · Vasta p.9 · `slides/Vasta_p009.jpg`
+- **Barras com callout e citação em card** · Vasta p.10 · `slides/Vasta_p010.jpg`
+  - Column chart of schools by student-count bucket with a dashed highlight box on the long tail, plus a quote card with attributed source and two icon-labelled drivers.
+- **Divisor com numeral grande e ondas** · Vasta p.11 · `slides/Vasta_p011.jpg`
+  - Same divider template repeated per thesis with the slogan as subtitle so each section announces its claim before the evidence.
+- **Cinco colunas com logos e gráfico lateral** · Vasta p.12 · `slides/Vasta_p012.jpg`
+  - Five vertical pillar cards with icon, label and stacked brand-logo lineup (the logos prove the claim) beside a clustered bar chart with colored background bands per exam, and a B2C TAM callout with Brazil map.
+- **Dois gráficos de área e citação com fotos** · Vasta p.13 · `slides/Vasta_p013.jpg`
+  - Two matching area charts (Arco x Vasta churn and NRR) side by side, with a testimonial card with face photos and magenta name bar overlapping the lower right corner.
+- **Cabeçalhos em seta sobre três gráficos** · Vasta p.14 · `slides/Vasta_p014.jpg`
+  - Three tinted header cards with chevron arrows (cause chain) each over a Vasta vs Arco chart, closed by a numbered conclusion bar with equals sign leading to 'Stronger unit economics'.
+- **Modal sobre slide esmaecido com linha** · Vasta p.15 · `slides/Vasta_p015.jpg`
+  - Slide 14 dimmed behind a modal-style rounded white popup with a boxed LTV/CAC formula and a single line chart, an overlay used to zoom into one metric.
+- **Divisor com numeral grande e ondas** · Vasta p.16 · `slides/Vasta_p016.jpg`
+- **Três cards: barras, linha e celular** · Vasta p.17 · `slides/Vasta_p017.jpg`
+  - Three column cards with distinct fills (brand ladder bars, highlighted gradient pricing-index chart, phone mockup showing app-store stats), the middle one in solid magenta for emphasis.
+- **Painéis de contribuição, prazo e profundidade** · Vasta p.18 · `slides/Vasta_p018.jpg`
+  - Single contribution bar split into colored segments (ticket/schools/density) with a 3-icon decomposition below, plus a CAC-payback range strip and four NPV-by-depth bubbles of increasing size.
+- **Barras de custo, KPIs e faixa de síntese** · Vasta p.19 · `slides/Vasta_p019.jpg`
+  - Horizontal bars stack the cost components of switching to a total row, and a donut GRR with three icon KPIs sits beside a stress-case NPV ladder, with two tinted takeaway banners at the bottom.
+- **Divisor com numeral grande e ondas** · Vasta p.20 · `slides/Vasta_p020.jpg`
+- **Três linhas numeradas com mini-barras e painel** · Vasta p.21 · `slides/Vasta_p021.jpg`
+  - Three numbered white cards (01-03) each with a mini chart, joined to a solid magenta conclusion panel listing the whitespace arguments and ending in a 'Premiumization -> Volume' pill.
+- **Ciclo de volante com cards laterais** · Vasta p.22 · `slides/Vasta_p022.jpg`
+  - Five circle icons connected by arrows with a return loop arrow beneath, next to three bordered case cards (Bernoulli, Poliedro, Anglo), and a callout bar quantifying the single-flagship payoff.
+- **Funil 3D central com matriz e painéis** · Vasta p.24 · `slides/Vasta_p024.jpg`
+  - A 3D tiered funnel (TAM to SAM to SOM to Today) sits between a 3x3 game-theory payoff grid with the Nash cell highlighted in magenta and a 'where the 100 come from' split, with a four-KPI row beneath.
+- **Curva de payback com opções e ilustração** · Vasta p.25 · `slides/Vasta_p025.jpg`
+  - Three big-number KPIs across the top, a J-curve cash line with 'max risk' and 'upside' callouts, and chained option pills (Now / if validated / separate option) with a recommendation bar at the foot.
+- **Divisor com numeral grande e ondas** · Vasta p.26 · `slides/Vasta_p026.jpg`
+- **Mapa do Brasil, donut e gráficos em painel** · Vasta p.27 · `slides/Vasta_p027.jpg`
+  - Violet palette signals a different entity (Educbank) inside a magenta deck; a header summary box with a cap-table donut sits over three tinted pillars (Demand / Performance / Potential) with a Brazil choropleth and isometric building.
+- **Citação com vídeo e barras de caso** · Vasta p.28 · `slides/Vasta_p028.jpg`
+  - Logo equation badge (arco -> isaac) at left, a video-call quote card on the right, and two columns+line charts below with a dashed box marking the inflection year.
+- **Barras empilhadas à esquerda, grande à direita** · Vasta p.29 · `slides/Vasta_p029.jpg`
+  - Stacked 100% cap-table columns by year and a capital-invested bar chart on the left, framed by a rounded outline panel for a stacked revenue breakdown by product with growth labels on the right.
+- **Divisor com numeral grande e ondas** · Vasta p.30 · `slides/Vasta_p030.jpg`
+- **Barras empilhadas com linha e premissas** · Vasta p.31 · `slides/Vasta_p031.jpg`
+  - Large stacked revenue column chart with segment legend and total/growth labels on the left, numbered assumptions list (I-V by line item) in a narrow right column.
+- **Divisor com numeral grande e ondas** · Vasta p.33 · `slides/Vasta_p033.jpg`
+- **Barra societária e ficha de termos** · Vasta p.35 · `slides/Vasta_p035.jpg`
+  - Two-panel layout with a thin ownership bar and a bylaws illustration on one side and a boxed numbered term sheet on the other; signature row adds credibility.
+- **Tabela de fluxo com duas pontes cascata** · Vasta p.36 · `slides/Vasta_p036.jpg`
+  - Two waterfalls (MOIC breakdown and EBITDA bridge from 2026 to 2031) plus a stepped IRR build bar chart, with a compact cash-flow table on top and an italic takeaway headline for each chart.
+- **Dois caminhos de saída com cascatas e retornos** · Vasta p.37 · `slides/Vasta_p037.jpg`
+  - Slide split by a vertical hairline into two exit paths, each with logo lineup or rationale, a waterfall and a closing two-KPI box (IRR and exit multiple) for direct comparison.
+- **Modal com heatmap de sensibilidade** · Vasta p.38 · `slides/Vasta_p038.jpg`
+  - Pink gradient heatmap table with the base-case cell outlined by a thick border and bold row/column cross, presented as a rounded popup over a dimmed slide.
+- **Divisor com numeral grande e ondas** · Vasta p.39 · `slides/Vasta_p039.jpg`
+- **Encerramento escuro com ondas de linhas** · Vasta p.41 · `slides/Vasta_p041.jpg`
+- **Fileira de retratos circulares da equipe** · Vasta p.2 · `slides/Vasta_p002.jpg`
+  - Five circular portrait photos with magenta ring borders in an evenly spaced row, with name bold and role/course/semester stacked under each.
+- **Quatro gráficos de margens e caixa** · Vasta p.32 · `slides/Vasta_p032.jpg`
+  - Two stacked chart pairs per side (margins lines, FCF columns with conversion line, debt stacked area with leverage line) each introduced by an italic one-line takeaway headline.
+- **Índice em colunas sobre fundo magenta** · Vasta p.42 · `slides/Vasta_p042.jpg`
+  - Full-bleed magenta index slide in three columns of underlined hyperlinks with section starts in bold, enabling navigation across a 40-slide deck.
+- **Índice em colunas sobre fundo magenta** · Vasta p.43 · `slides/Vasta_p043.jpg`

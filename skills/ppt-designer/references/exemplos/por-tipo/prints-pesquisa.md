@@ -1,0 +1,72 @@
+# Prints e pesquisa (36)
+
+- ★ **Raw field research wall** · 3R Petroleum p.51 · `tipo/prints-pesquisa/3r-petroleum_p51_raw-field-research-wall_1.jpg`
+  - White slide, unframed images with one caption each: call grids, a full iPhone call screen showing name and duration, tall photo of the team on the platform in orange gear.
+- ★ **Browser-shell news cards, retyped** · 3R Petroleum p.56 · `tipo/prints-pesquisa/3r-petroleum_p56_browser-shell-news-cards-retyped_2.jpg`
+  - Grey rounded window with red, yellow, green dots at the top left and a red close dot at top right, blank address pill; white body with outlet logo, bold headline, regular subhead. Fully drawable.
+- ★ **Code screenshot as method proof** · AB InBev p.13 · `tipo/prints-pesquisa/ab-inbev_p13_code-screenshot-as-method-proof_6.jpg`
+  - Two stacked images with italic labels 'Output' and 'Input': a black-and-white word cloud cropped hard at the edges, and a dark IDE screenshot below; each has a two-tone rule on top. Word cloud and script bleed off the right edge. Python scrape plus map on p124-125.
+- ★ **Interview wall with tally band** · AB InBev p.15 · `tipo/prints-pesquisa/ab-inbev_p15_interview-wall-with-tally-band_3.jpg`
+  - Lead interviewee card at left (Zoom grid, bold source, summary) joined by a line and thick tick to an open-right frame holding 8 Zoom screenshots with italic 'Name | Role' captions and one bold quote with accent tick; full-bleed accent band below with two huge numerals ('47 Employees Interviewed', '04 Different Countries').
+- ★ **Mystery-shop experiment panel** · AB InBev p.38 · `tipo/prints-pesquisa/ab-inbev_p38_mystery-shop-experiment-panel_5.jpg`
+  - Grey panel: 3-row results table with competitor logos as row labels and the winning row in a dashed box; a one-line finding with accent deltas; two photos of the measurement (thermometer in a bottle); a side note in small italic behind a bracket line stating the controls ('same day, same time, same place').
+- ★ **Field research scoreboard with call screenshot** · BTG Pactual p.26 · `tipo/prints-pesquisa/btg-pactual_p26_field-research-scoreboard-with-call-screenshot_8.jpg`
+  - Dark panel: We went out on field and talked to 39 IFA offices, big number in light blue; below, logo rows linked by a thin line with a small X to a count; right, full video-call screenshot with the interviewee's logo and date on a dim strip across the top; from the panel a diamond leader drops to the finding and a 9% / 91% framed bar.
+- ★ **Captura de videoconferência com escritório** · BTG Pactual p.27 · `tipo/prints-pesquisa/BTGPactual_p027_q2.jpg` · slide: `slides/BTGPactual_p027.jpg`
+- ★ **Tap-by-tap product walkthrough** · BTG Pactual p.45 · `tipo/prints-pesquisa/btg-pactual_p45_tap-by-tap-product-walkthrough_9.jpg`
+  - Three phone screenshots on a baseline arrow running from a dark Current Account label to a dark Investments label; a hand-pointer icon over the tapped item; captions 1st Touch, 2nd Touch, You are now in the platform. Logos at both ends of the title rule. Pp. 94-95 use app-logo columns with screenshots and verdict lines.
+- ★ **News window with date, tied to the chart below** · CSN - ArcelorMittal p.14 · `tipo/prints-pesquisa/csn-arcelormittal_p14_news-window-with-date-tied-to-the-chart-below_11.jpg`
+  - Thin dark-outlined card with three small traffic-light dots, outlet logo top right, bold headline, Summary with a bullet, date bottom right. A pale funnel links down into the framed chart.
+- ★ **Survey question to yes/no bar** · Meliuz p.14 · `tipo/prints-pesquisa/meliuz_p14_survey-question-to-yes-no-bar_16.jpg`
+  - Dashed box with quoted question, hand-drawn curved arrow into a two-segment bar with value and label inside each part; two large-number sentences give n below. A vertical line links the box up to the counter that sourced it.
+- ★ **Word-frequency rows from earnings calls** · Meliuz p.40 · `tipo/prints-pesquisa/meliuz_p40_word-frequency-rows-from-earnings-calls_13.jpg`
+  - Dark code pane with bold vertical-rule caption, two small word and count tables by quarter, relevant rows wrapped in dashed boxes colour-coded by theme with a matching mini legend.
+- ★ **Code to feed to verdict triptych** · Meliuz p.47 · `tipo/prints-pesquisa/meliuz_p47_code-to-feed-to-verdict-triptych_14.jpg`
+  - Dark code pane full height; phone mockup with a mock feed of posts; donut with platform logo in its hole; dashed takeaway box beneath.
+- ★ **Field test: phone with leaders into findings** · Meliuz p.116 · `tipo/prints-pesquisa/meliuz_p116_field-test-phone-with-leaders-into-findings_17.jpg`
+  - Large phone with a real screenshot; solid leader from the phone to dashed finding box; dashed cyan leader from the app's button to matching cyan frame around fee table in a rounded panel; second phone showing 15 call-log entries.
+- ★ **Chat bubbles as customer evidence** · Meliuz p.124 · `tipo/prints-pesquisa/meliuz_p124_chat-bubbles-as-customer-evidence_18.jpg`
+  - Dark pill with the question, dotted diamond leader to a key stat; cropped grey bubbles with avatar scattered on white; L-shadow card of three icon themes summarising mentions.
+- ★ **Hands-on platform test** · Mercado Libre p.28 · `tipo/prints-pesquisa/mercado-libre_p28_hands-on-platform-test_20.jpg`
+  - Screenshot of the real dashboard in a rounded frame with a navy title bar, "Mercado Libre website printscreen", bleeding right. Over the top of the screenshot, two outlined white boxes restate the key figures in large type ("41 > 6", "ACOS = 5.9%"). Left: dashed box with up arrow and 35.4%, then conclusion sentence.
+- ★ **Timed transaction race with phones** · Nubank p.8 · `tipo/prints-pesquisa/nubank_p8_timed-transaction-race-with-phones_26.jpg`
+  - Two tinted bars behind phones; numbered circles on each phone = steps; stopwatch icon plus big time at the bar's end; grey tag beneath states auth steps; floating note translates the gap into a yearly cost for the user.
+- ★ **Simulação de PIX em telas de celular** · Nubank p.8 · `tipo/prints-pesquisa/Nubank_p008_q4.jpg` · slide: `slides/Nubank_p008.jpg`
+  - Nubank's PIX simulation
+- ★ **Real paperwork as exhibit** · Nubank p.27 · `tipo/prints-pesquisa/nubank_p27_real-paperwork-as-exhibit_28.jpg`
+  - Accent pill header; form screenshot tall at left; violet vertical rule; row of logos with three bold-lead findings at right.
+- ★ **Browser-chrome news card** · Rede D'Or p.14 · `tipo/prints-pesquisa/rede-d-or_p14_browser-chrome-news-card_30.jpg`
+  - Grey rounded panel with red, yellow, green dots at top-left and a red dot at right; white pill with the URL; white card with outlet logo centered, bold headline and one-line standfirst retyped as live text. Beam into it from a chart bar is already catalogued; this entry is the card itself.
+- ★ **Stack of phone call screens** · Restaurant Brands p.18 · `tipo/prints-pesquisa/restaurant-brands_p18_stack-of-phone-call-screens_31.jpg`
+  - Four iPhone call-screen mockups in two overlapping pairs, screen text naming chain and region only, next to a large sentence with the count and a red phrase; a divider rule with a grey chevron disc leads to what was found.
+- ★ **Phone mockup holding proprietary data** · Vasta p.17 · `tipo/prints-pesquisa/vasta_p17_phone-mockup-holding-proprietary-data_32.jpg`
+  - Phone outline drawn as a shape cropped by the card base; app logo, bell icon, red headline, then a grey rounded panel with a 2x2 grid of white stat tiles with icon, number, label; a pale teal takeaway box overlaps the bottom of the phone and card; card header Field evidence, Proprietary scraping.
+- ★ **News card with overlapping source stamp** · Vibra p.14 · `tipo/prints-pesquisa/vibra_p14_news-card-with-overlapping-source-stamp_34.jpg`
+  - Accent outlined box; dark band with bold white headline; white plate with outlet wordmark overlapping the band's right end and the frame; 'Summary:' with 2 bullets; bold italic date bottom-right. On p25 a tapered connector ties it to a 'Sell Side Analysis at the Time' panel of three attributed numbers.
+- ★ **One-line headline strips** · Vibra p.39 · `tipo/prints-pesquisa/vibra_p39_one-line-headline-strips_33.jpg`
+  - Thin outlined rows, each with bold headline at left, short date and tiny outlet logo at right; 3 stacked with even gaps.
+- **Coverage circles over a municipal silhouette** · AB InBev p.33 · `tipo/prints-pesquisa/ab-inbev_p33_coverage-circles-over-a-municipal-silhouette_50.jpg`
+  - Geography: one flat grey municipal shape, no internal lines. Overlays: 8 yellow circles at about 50-60% transparency in varied sizes, which get stronger where they overlap. Paired with a dashed-rule band of huge yellow numbers (27, 10+) and a store photo collage.
+- **Rotated-axis heat table with survey answer chip** · Intelbras p.7 · `tipo/prints-pesquisa/intelbras_p7_rotated-axis-heat-table-with-survey-answer-chip_13.jpg`
+  - Row-group label rotated 90 degrees in bold at far left; plain text column and row headers without rules; cells with white gaps tinted by value in brand green; chip of a Forms icon overlapping a rounded outlined pill with bold sample count above the table.
+- **App phone on a brand disc** · Meliuz p.1 · `tipo/prints-pesquisa/meliuz_p1_app-phone-on-a-brand-disc_15.jpg`
+  - Graphite background; large solid pink circle right of centre with subtle dark shadow; phone mockup with a real app screenshot, taller than the circle so both ends break out; logos in corners.
+- **Celular com feed de tweets** · Meliuz p.47 · `tipo/prints-pesquisa/Meliuz_p047_q2.jpg` · slide: `slides/Meliuz_p047.jpg`
+- **Acquisition sheet: logo band, diamond leaders, device** · Meliuz p.84 · `tipo/prints-pesquisa/meliuz_p84_acquisition-sheet-logo-band-diamond-leaders-device_24.jpg`
+  - Grey full-width band with target logo centred; target's brand colour vertical line with horizontal branches of growing length ending in a diamond; KPI bold plus italic label; device mockup at right; dashed note below.
+- **Source letter pinned beside its formula** · Nubank p.63 · `tipo/prints-pesquisa/nubank_p63_source-letter-pinned-beside-its-formula_43.jpg`
+  - Rounded pale tile holding a shareholder letter page; black band below with a typeset formula in white; highlighted result row in the table at the left.
+- **Dashed circuit tying a source to its evidence** · RD Saúde p.23 · `tipo/prints-pesquisa/rd-saude_p23_dashed-circuit-tying-a-source-to-its-evidence_27.jpg`
+  - A book cover and summary plate; dashed green elbow connectors leave the plate and run to the accent bar of each section heading, avoiding the charts.
+- **Oversized mac-window headlines** · RD Saúde p.60 · `tipo/prints-pesquisa/rd-saude_p60_oversized-mac-window-headlines_45.jpg`
+  - Big grey rounded window, traffic-light dots drawn as shapes, outlet logo on its brand colour strip, headline in very large type on white, date under it at right; two windows side by side.
+- **Grey lens into browser window** · Rede D'Or p.14 · `tipo/prints-pesquisa/rede-d-or_p14_grey-lens-into-browser-window_119.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Grey #D9D9D9 wedge from bar to card (known zoom). Distinct part: card with shadow, then mock window: grey chrome #D9D9D9 band, three dots red, yellow and green d=10, white pill URL field, white page inset 8pt with news text.
+- **Browser-window news cards** · Restaurant Brands p.39 · `tipo/prints-pesquisa/restaurant-brands_p39_browser-window-news-cards_47.jpg`
+  - White card with soft shadow; three small red dots and a white address pill holding the outlet name; quoted headline with bold keywords; grey date bottom right; pale double chevron between cards.
+- **News app masthead on a clipping** · Senior Sistemas p.38 · `tipo/prints-pesquisa/senior-sistemas_p38_news-app-masthead-on-a-clipping_49.jpg`
+  - Dark gradient bar with spaced italic outlet name, magnifier and hamburger icons at right; beneath it, a clipping with bold quoted headline, body and date. The torn lower edge is already catalogued; this entry is the masthead.
+- **Aerial photo pair (reference, not a map)** · Cury p.14 · `tipo/prints-pesquisa/cury_p14_aerial-photo-pair-reference-not-a-map_67.jpg`
+  - Two equal images side by side with a coloured title and grey caption beneath. Needs real imagery.
+- **Torn paper news clipping** · Meliuz p.121 · `tipo/prints-pesquisa/meliuz_p121_torn-paper-news-clipping_150.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Pasted raster with jagged alpha edge, grey paper over a faded newspaper layer with bold headline on top. Editing as shapes is not worthwhile; a jagged freeform with ~80 random points plus faded text would approximate it.

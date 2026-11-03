@@ -1,0 +1,126 @@
+# Linha e área (64)
+
+- ★ **Highlight plate shaped as an L that holds the caption** · CSN - ArcelorMittal p.24 · `tipo/linha-area/csn-arcelormittal_p24_highlight-plate-shaped-as-an-l-that-holds-the-caption_3.jpg`
+  - Tinted polygon: a horizontal strip across the top holding bold text, a vertical block dropping down over only the last years through to the axis labels. Build by union of two rectangles.
+- ★ **Insider-buying flags on price history** · Cury p.22 · `tipo/linha-area/cury_p22_insider-buying-flags-on-price-history_7.jpg`
+  - Thin price line; tall blue-outlined candle-like rectangles on stems hanging from the line at purchase dates, with Compra and amount above each; end labels with total stakes bottom right.
+- ★ **Insider trades flagged on the price chart** · Meliuz p.19 · `tipo/linha-area/meliuz_p19_insider-trades-flagged-on-the-price-chart_8.jpg`
+  - Hollow red circle on the line at each event, dashed vertical leader rising to a two-weight label: bold verb, then quantity (Compra de 60k acoes).
+- ★ **Cohort lines with a vertical gradient legend** · Nubank p.15 · `tipo/linha-area/nubank_p15_cohort-lines-with-a-vertical-gradient-legend_12.jpg`
+  - About 30 lines going from pale lilac in old cohorts to saturated purple in new; a slim vertical gradient rectangle in the empty right area, with the first and last cohort names at its ends.
+- ★ **Curvas de coortes por idade do cliente** · Nubank p.15 · `tipo/linha-area/Nubank_p015_q1.jpg` · slide: `slides/Nubank_p015.jpg`
+  - New clients now join with higher primary engagement
+- ★ **Phase window aligned across stacked charts** · Rede D'Or p.60 · `tipo/linha-area/rede-d-or_p60_phase-window-aligned-across-stacked-charts_12.jpg`
+  - Translucent coloured rectangle with dashed outline and white phase title over the time span, repeated at the same x on the chart below; each phase gets its own hue; the build walks Before, During, After, each with a side panel in the same hue explaining it.
+- ★ **Slip card overlapping chart with highlighted window** · Rede D'Or p.61 · `tipo/linha-area/rede-d-or_p61_slip-card-overlapping-chart-with-highlighted-window_41.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Card (546,133)-(874,502) #F2F2F2, plate offset +6,+6 #004185, so L on right and bottom. Left: chart runs under the card. Highlight rect over the chart phase, #1F5A9A alpha 0.4 and 2pt dashed navy, overlapping the data; the chart line passes on top of or through it. Card moves across pp. 61-63 to reveal successive phases, a repeated overlay
+- ★ **Red L-wedges behind white modal (bracket variation)** · Restaurant Brands p.14 · `tipo/linha-area/restaurant-brands_p14_red-l-wedges-behind-white-modal-bracket-variation_42.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Better version of offset brackets, with mitred ends. Exact. Upper-left: (246,73),(508,73),(421,141),(315,141),(315,225),(246,279) #CC0002. Lower-right: (736,495),(551,495),(613,436),(677,436),(677,374),(736,316) #CC0002. Then white rect (253,78)-(730,491) on top. Visible offsets are only 7 top/left and 6 right/bottom beyond the card; hidden thickne
+- ★ **Modal card sandwiched between two offset plates over a scrim** · Sabesp p.10 · `tipo/linha-area/sabesp_p10_modal-card-sandwiched-between-two-offset-plates-over-a-scrim_47.jpg`
+  - p22, px at 110 dpi converted to pt. Keep the full previous slide beneath. SCRIM: full-slide black at about 28-30% alpha. CARD: #F5F5F5, about (245,96)-(691,471). PLATE A: blue #2197D4, about (268,84)-(703,358), behind card: sticks out top and right by about 12pt. PLATE B: same blue, about (234,207)-(669,482), behind card: sticks out left and bottom by about 12pt. Plates overlap in the card's middl
+- ★ **Gap wedge with curved arrows** · Sabesp p.19 · `tipo/linha-area/sabesp_p19_gap-wedge-with-curved-arrows_14.jpg`
+  - Shade the area between the series in pale cyan from the event onward. Dashed vertical marks the event, labelled Privatization. From the wedge end, two thin curved arrows leave for small tinted cards with bold values. Pill labels on both lines.
+- ★ **Duas linhas com área do ganho** · Sabesp p.19 · `tipo/linha-area/Sabesp_p019_q2.jpg` · slide: `slides/Sabesp_p019.jpg`
+  - The gap opened in 2025 and keeps widening
+- ★ **Rounded offset plates behind a modal with dark veil** · Vasta p.15 · `tipo/linha-area/vasta_p15_rounded-offset-plates-behind-a-modal-with-dark-veil_58.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Measured from render. Veil: full-slide #000 alpha ~.6. Plate 1 #E5206F roundrect x~53-400,y~60-390 r~30; plate 2 same colour x~600-912,y~200-490. White modal roundrect (67,74)-(898,475) r~30 on top. Visible as a thick rounded L top-left and bottom-right, offset ~14. Softer than the mitred RBI version.
+- ★ **Deal ledger cards above a stock line** · Vibra p.6 · `tipo/linha-area/vibra_p6_deal-ledger-cards-above-a-stock-line_18.jpg`
+  - CEO tenure strip with year scale at the top; row of outlined cards dated and aligned to that scale, each with status ('Dissolved', 'Exit') and logo; below, the price line with small callouts and dashed window for acquisitions; a comps table completes the right side.
+- ★ **Série de preço com anotações tracejadas** · Vibra p.6 · `tipo/linha-area/Vibra_p006_q2.jpg` · slide: `slides/Vibra_p006.jpg`
+- **Curvas de cenários com rótulos** · 3R Petroleum p.30 · `tipo/linha-area/3RPetroleum_p030_q1.jpg` · slide: `slides/3RPetroleum_p030.jpg`
+  - Discount on the guidance
+- **Curvas de produção com cenários** · 3R Petroleum p.31 · `tipo/linha-area/3RPetroleum_p031_q1.jpg` · slide: `slides/3RPetroleum_p031.jpg`
+  - Lastly, the Depletion
+- **Penetração de instalações ao longo do tempo** · AB InBev p.43 · `tipo/linha-area/ABInBev_p043_q2.jpg` · slide: `slides/ABInBev_p043.jpg`
+  - Food delivery´s install penetrations
+- **Área entre duas margens com spread** · Alupar p.10 · `tipo/linha-area/Alupar_p010_q2.jpg` · slide: `slides/Alupar_p010.jpg`
+  - Margens Líquida e EBIT do Consolidado de Transmissão da Alupar [%]
+- **Linhas suavizadas contra inflação com legenda** · Arezzo&Co p.4 · `tipo/linha-area/ArezzoCo_p004_q3.jpg` · slide: `slides/ArezzoCo_p004.jpg`
+  - Inflation x companies' revenue sales variation (%)
+- **Linha com área e etiquetas** · ChallengeB p.3 · `tipo/linha-area/ChallengeB_p003_q4.jpg` · slide: `slides/ChallengeB_p003.jpg`
+  - Aircraft supply still lags demand
+- **Duas linhas suaves com projeção tracejada** · ChallengeB p.7 · `tipo/linha-area/ChallengeB_p007_q2.jpg` · slide: `slides/ChallengeB_p007.jpg`
+  - ...and Embraer's cash flow can carry it
+- **Linhas suaves com projeção** · ChallengeB p.9 · `tipo/linha-area/ChallengeB_p009_q3.jpg` · slide: `slides/ChallengeB_p009.jpg`
+  - Total deliveries above 2019, led by executive jets
+- **Diamond-topped flagpoles with italic notes on a price area** · Cosan p.3 · `tipo/linha-area/cosan_p3_diamond-topped-flagpoles-with-italic-notes-on-a-price-area_18.jpg`
+  - Pale sage area under a dark green line; thin vertical stem rising from the event date to a variable height; small diamond on top; italic green two-line note beginning right of the diamond; no boxes.
+- **Área empilhada por classe consumidora** · Cosan p.8 · `tipo/linha-area/Cosan_p008_q4.jpg` · slide: `slides/Cosan_p008.jpg`
+  - Compass' Natural Gas Distribution by Consumer Class
+- **Curves with gap fill and area anchored on the hurdle line** · Cury p.17 · `tipo/linha-area/cury_p17_curves-with-gap-fill-and-area-anchored-on-the-hurdle-line_21.jpg`
+  - Smoothed lines; a pale blue tint polygon only between the two series; second chart, ROE area with a dark-to-light vertical gradient whose floor is the Ke line drawn as a blue rule, labelled at its right end, and the real x-axis sits lower; values at each point with no y-axis.
+- **One tall chart beside two stacked** · Cury p.23 · `tipo/linha-area/cury_p23_one-tall-chart-beside-two-stacked_14.jpg`
+  - Left column full body height for the many-line chart; right column split into two equal cells; each cell with bold head, grey sub; all charts same smoothing, palette and light gridless style; average band in the tall one in a pale tint with dashed upper line.
+- **Áreas de retorno total acumulado** · Cury p.31 · `tipo/linha-area/CuryConstrutora_p031_q2.jpg` · slide: `slides/CuryConstrutora_p031.jpg`
+  - Total Shareholder Return (TSR) Base 100
+- **Evolução do preço da ação** · Cury p.32 · `tipo/linha-area/CuryConstrutora_p032_q1.jpg` · slide: `slides/CuryConstrutora_p032.jpg`
+- **"Not this, but that" card** · Intelbras p.10 · `tipo/linha-area/intelbras_p10_not-this-but-that-card_25.jpg`
+  - Dashed red rounded box: small statement of what the moat is not, grey down-triangle, statement of what it is, red footer strip with a fact. Sits at the end of a chain of bordered pills linked by fading arrows.
+- **Duas linhas cruzadas câmbio e margem** · Intelbras p.59 · `tipo/linha-area/Intelbras_p059_q2.jpg` · slide: `slides/Intelbras_p059.jpg`
+- **Linhas de despesa de vendas comparadas** · Intelbras p.62 · `tipo/linha-area/Intelbras_p062_q2.jpg` · slide: `slides/Intelbras_p062.jpg`
+  - Competing on unequal terms
+- **Séries de ações indexadas com legenda** · Kering - Moncler p.6 · `tipo/linha-area/Kering-Moncler_p006_q1.jpg` · slide: `slides/Kering-Moncler_p006.jpg`
+- **Curve labels set along the slope, gap arrow** · Meliuz p.40 · `tipo/linha-area/meliuz_p40_curve-labels-set-along-the-slope-gap-arrow_29.jpg`
+  - Text rotated to the line's angle, in the line colour, with quotes around it because the series are words; double-headed dashed arrow at the last period.
+- **Linhas cruzadas de frequência com seta** · Meliuz p.40 · `tipo/linha-area/Meliuz_p040_q1.jpg` · slide: `slides/Meliuz_p040.jpg`
+  - Frequência relativa das palavras pela duração da conferência de resultados
+- **Trajetórias simuladas em gráfico de linhas** · Meliuz p.147 · `tipo/linha-area/Meliuz_p147_q1.jpg` · slide: `slides/Meliuz_p147.jpg`
+  - Monte Carlo Simulation: CASH3
+- **Three schematic g-curves over dashed stage boxes** · Meliuz p.149 · `tipo/linha-area/meliuz_p149_three-schematic-g-curves-over-dashed-stage-boxes_14.jpg`
+  - Three small arrow-headed L-axes built from lines, labelled g and t; black stepped polyline per regime; bold centred caption inside each plot; under each a dashed rectangle with stage label, large coloured % and italic note; grey field behind everything; quote strip below.
+- **Curva de crescimento constante com taxa** · Meliuz p.149 · `tipo/linha-area/Meliuz_p149_q1.jpg` · slide: `slides/Meliuz_p149.jpg`
+  - Um Estágio (crescimento estável)
+- **Curva de crescimento em degrau com taxa** · Meliuz p.149 · `tipo/linha-area/Meliuz_p149_q2.jpg` · slide: `slides/Meliuz_p149.jpg`
+  - Dois Estágios (mudança forte no g)
+- **Curva de crescimento em transição com taxa** · Meliuz p.149 · `tipo/linha-area/Meliuz_p149_q3.jpg` · slide: `slides/Meliuz_p149.jpg`
+  - Três Estágios (transição no crescimento)
+- **Wave labels inside stacked area bands** · Mercado Libre p.26 · `tipo/linha-area/mercado-libre_p26_wave-labels-inside-stacked-area-bands_11.jpg`
+  - Three stacked area layers in black, navy and yellow on a grey card with a hard right wall; '1st wave', '2nd wave', '3rd wave' placed by hand at the right end of each band, at the height where it thickens.
+- **Square-node stem list** · Mercado Libre p.34 · `tipo/linha-area/mercado-libre_p34_square-node-stem-list_25.jpg`
+  - Thin vertical navy stem with square nodes and italic labels; the last node is a yellow circle, sometimes with a highlighted row. Low-res crop.
+- **Series tags as filled pills** · Nubank p.8 · `tipo/linha-area/nubank_p8_series-tags-as-filled-pills_30.jpg`
+  - Small filled rounded rectangle at each data point in series colour with white bold number, bigger than usual. Also red square tags for ratios on Cosan p14.
+- **Linhas de NPS por banco** · Nubank p.8 · `tipo/linha-area/Nubank_p008_q2.jpg` · slide: `slides/Nubank_p008.jpg`
+  - NPS - Net Promoter Score (%)
+- **Inadimplência de PMEs versus corporativo** · Nubank p.20 · `tipo/linha-area/Nubank_p020_q1.jpg` · slide: `slides/Nubank_p020.jpg`
+  - SMEs carry higher credit risk than corporate averages
+- **Curva de maturação por ano** · RD Saúde p.38 · `tipo/linha-area/RDSaude_p038_q4.jpg` · slide: `slides/RDSaude_p038.jpg`
+  - Maturation curves
+- **Painel ampliado com linhas de margem** · RD Saúde p.40 · `tipo/linha-area/RDSaude_p040_q2.jpg` · slide: `slides/RDSaude_p040.jpg`
+  - 4bio Revenue
+- **Verdict title on full-bleed price line** · Rede D'Or p.10 · `tipo/linha-area/rede-d-or_p10_verdict-title-on-full-bleed-price-line_3.jpg`
+  - Dark gradient page; title is ticker and verdict ('RDOR3 - HOLD'); price line takes most of the page, with a dashed horizontal at the target price labelled on the line; a stat cluster at right gives DCF, IRR and current price.
+- **Rounded value pills on line points** · Rede D'Or p.14 · `tipo/linha-area/rede-d-or_p14_rounded-value-pills-on-line-points_32.jpg`
+  - Small rounded-rect label centred on every point, filled with the series colour, white text; no y-axis or gridlines, only the x baseline; smooth lines pass behind the pills. Same pill convention on bars.
+- **Linhas de reajuste contra inflação** · Rede D'Or p.14 · `tipo/linha-area/RedeDOr_p014_q2.jpg` · slide: `slides/RedeDOr_p014.jpg`
+  - II. Rede D'Or's Price Readjustment vs IPCA
+- **Curvas de ocupação por ano** · Rede D'Or p.17 · `tipo/linha-area/RedeDOr_p017_q4.jpg` · slide: `slides/RedeDOr_p017.jpg`
+  - III. Years to Achieve Maximum Occupancy Rate
+- **Linhas com faixas de fases** · Rede D'Or p.60 · `tipo/linha-area/RedeDOr_p060_q1.jpg` · slide: `slides/RedeDOr_p060.jpg`
+  - SULA's Historical Revenue and Costs per Beneficiary
+- **Linha com faixas de fases** · Rede D'Or p.60 · `tipo/linha-area/RedeDOr_p060_q2.jpg` · slide: `slides/RedeDOr_p060.jpg`
+  - SULA's Historical MLR (Medical Loss Ratio)
+- **Linhas de meta de universalização** · Sabesp p.3 · `tipo/linha-area/Sabesp_p003_q3.jpg` · slide: `slides/Sabesp_p003.jpg`
+  - Legal framework for basic sanitation: universalization road
+- **Três linhas de investimento per capita** · Sabesp p.7 · `tipo/linha-area/Sabesp_p007_q3.jpg` · slide: `slides/Sabesp_p007.jpg`
+  - Capex per capita (BRL)
+- **Despesa regulatória versus real em área** · Sabesp p.17 · `tipo/linha-area/Sabesp_p017_q2.jpg` · slide: `slides/Sabesp_p017.jpg`
+  - ...driving OPEX consistently below the regulatory ceiling...
+- **Duas linhas com ponto final destacado** · Sabesp p.41 · `tipo/linha-area/Sabesp_p041_q3.jpg` · slide: `slides/Sabesp_p041.jpg`
+  - Every water connection is an untapped sewage revenue
+- **Duas linhas suaves empilhadas** · Senior Sistemas p.4 · `tipo/linha-area/SeniorSistemas_p004_q2.jpg` · slide: `slides/SeniorSistemas_p004.jpg`
+  - ...Ecossistema em Expansão
+- **Linhas pontilhadas de pares em quadro** · Senior Sistemas p.20 · `tipo/linha-area/SeniorSistemas_p020_q1.jpg` · slide: `slides/SeniorSistemas_p020.jpg`
+  - Margem Líquida: Como a Senior Supera seus Pares
+- **Duas linhas com área pontilhada** · Senior Sistemas p.20 · `tipo/linha-area/SeniorSistemas_p020_q4.jpg` · slide: `slides/SeniorSistemas_p020.jpg`
+  - Margem ajustada mostra impacto limitado dos ajustes
+- **Três linhas de margem com rótulos** · Vasta p.6 · `tipo/linha-area/Vasta_p006_q3.jpg` · slide: `slides/Vasta_p006.jpg`
+  - Profitability achieved and expanding
+- **J-curve with asset illustration pinned at breakeven** · Vasta p.25 · `tipo/linha-area/vasta_p25_j-curve-with-asset-illustration-pinned-at-breakeven_1.jpg`
+  - Dotted line with round markers over a thin zero axis; rounded tinted callouts for Max risk and Upside on hook leaders; a vertical bar flag marks the payback year; an isometric building overlaps the curve on the right.
+- **Duas linhas com área entre séries** · Vibra p.5 · `tipo/linha-area/Vibra_p005_q3.jpg` · slide: `slides/Vibra_p005.jpg`
+  - ROIC Performance Comparison [%]
+- **Linhas de restrição com faixa limite** · Vibra p.10 · `tipo/linha-area/Vibra_p010_q1.jpg` · slide: `slides/Vibra_p010.jpg`
+  - Solar and Wind Curtailment Evolution [%]
+- **Curvas de produção por cenário rotuladas** · 3R Petroleum p.32 · `tipo/linha-area/3RPetroleum_p032_q1.jpg` · slide: `slides/3RPetroleum_p032.jpg`
+  - Finally, Production.

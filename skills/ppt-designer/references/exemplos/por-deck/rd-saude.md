@@ -1,0 +1,186 @@
+# RD Saúde: páginas (125)
+
+- ★ **Três pilares com hexágonos e faixas diagonais** · RD Saúde p.6 · `slides/RDSaude_p006.jpg`
+  - Full-bleed green section divider with three hexagon-icon rows staggered left-to-right (title + 2-line explanation each); the active pillar is highlighted as a lighter bar while the others stay dim, and the same slide is reused as divider before each thesis block.
+- ★ **Mapa ampliado com legenda em overlay** · RD Saúde p.14 · `slides/RDSaude_p014.jpg`
+- ★ **Mapa com cunha para barras** · RD Saúde p.25 · `slides/RDSaude_p025.jpg`
+  - Brazil map with dashed leader lines from each region to its store count, plus a left bullet box with key stats and two before/after bar pairs (2019 vs 2023) showing population within 5 km / 5 min.
+- ★ **Violão como organograma, donut e retrato** · RD Saúde p.29 · `slides/RDSaude_p029.jpg`
+  - A literal board table image with board members' names and photos around it, plus a shareholder donut with family labels and a CEO portrait with a logo path (Walmart > BTG > Saraiva > RD) showing his career.
+- ★ **Barras com cunha para painel de detalhe** · RD Saúde p.38 · `slides/RDSaude_p038.jpg`
+  - Stacked column revenue build-up with each business line highlighted in turn (drugstores in dark green, other grey) and a diagonal 'zoom' wedge opening into the detail panel showing store age mix, sales per store and maturation curve (50% > 100%).
+- ★ **Barras com cunha para painel e mapa** · RD Saúde p.39 · `slides/RDSaude_p039.jpg`
+  - Same revenue-stack chart as the previous page with the teal e-commerce layer highlighted and a teal wedge that zooms into a detail panel (share-of-revenue bars + store map), so each revenue line has an identical page template.
+- ★ **Barras com cunha para painel e notícia** · RD Saúde p.40 · `slides/RDSaude_p040.jpg`
+- ★ **Histograma Monte Carlo com premissas e citação** · RD Saúde p.55 · `slides/RDSaude_p055.jpg`
+  - Histogram with bars coloured by outcome (dark green above vs teal below current price), dashed callout flags for mean and current price, an assumptions panel for ranges, and a quote card with portrait (Damodaran) on 'uncertainty'.
+- ★ **Matriz de risco com lista de riscos** · RD Saúde p.58 · `slides/RDSaude_p058.jpg`
+  - Grid matrix (impact y, probability x) with square coded tags (E1, E2, S1, S2, M1, M2) placed in cells, next to three stacked green panels that list the risks with the same codes; each panel is later highlighted individually so the tag cells light up.
+- ★ **Linha do tempo sinuosa com marcos ilustrados** · RD Saúde p.67 · `slides/RDSaude_p067.jpg`
+  - S-curve snake timeline from 1905 to 2023 with round photo or logo medallions at each milestone and captions below, filling the page without a boring straight line.
+- ★ **Celular com cunha para tipos e barras** · RD Saúde p.69 · `slides/RDSaude_p069.jpg`
+  - Phone mockup showing the RD Ads message with a green wedge to a two-types-of-advertising card, plus a rounded-corner chart frame and a case box (customers 11k, investment R$70k, revenue R$841k).
+- ★ **Ecossistema de marcas em torno de hub** · RD Saúde p.77 · `slides/RDSaude_p077.jpg`
+  - Logo ecosystem split into Retail vs Health halves with the customer icon in the center and the function (loyalty, own brands, exams) written around it, instead of a plain logo grid.
+- **Capa com foto verde e ondas** · RD Saúde p.1 · `slides/RDSaude_p001.jpg`
+  - Tint the company's own storefront photo in the brand green (duotone) and overlay a wavy darker-green swoosh on the left to hold the white title block, so the cover is on-brand without a logo wall.
+- **Três painéis emoldurados com mapa e barras** · RD Saúde p.2 · `slides/RDSaude_p002.jpg`
+  - Three boxed cards under one title (company overview + mini vertical timeline, donut of revenue mix, Brazil map with store counts) plus a bottom column chart with dashed CAGR bracket, giving a full 'at a glance' in one page.
+- **Logos com barra e colunas empilhadas** · RD Saúde p.3 · `slides/RDSaude_p003.jpg`
+  - Two stacked columns (2022 vs 2023) with round icons on the left as legend and a +% growth arrow per segment between the columns, so mix and growth read in one glance.
+- **Barras horizontais ao lado de treemap** · RD Saúde p.4 · `slides/RDSaude_p004.jpg`
+  - Pop-up card laid over the dimmed previous slide: horizontal bars for gross margin by segment next to a treemap of the cost stack (COGS, D&A, SG&A, financial), focusing attention on one question.
+- **Gráfico de preço com cartão de recomendação** · RD Saúde p.5 · `slides/RDSaude_p005.jpg`
+  - Dark-green slide with a price-history line chart carrying dashed horizontal bear/target/current lines (labelled with bull/bear icons) and a pale recommendation card with big HOLD, current price, downward arrow and target price.
+- **Três pilares com hexágonos e destaque** · RD Saúde p.7 · `slides/RDSaude_p007.jpg`
+- **Painéis de barras com cunha de destaque** · RD Saúde p.8 · `slides/RDSaude_p008.jpg`
+  - Split slide: a pale grey right panel and a white left panel, each with a column chart plus dashed CAGR bracket callout and a boxed 'Pharma Sector' note, using bar heights growing like a staircase.
+- **Linha, pirâmides e barras com moldura** · RD Saúde p.9 · `slides/RDSaude_p009.jpg`
+  - Population pyramids 2023 vs 2050 side by side, and a horizontal bar chart of spend by age bracket with dashed boxes around 'old' vs 'young' groups and a '4x more!' callout.
+- **Barras de ranking e projeção em callout** · RD Saúde p.10 · `slides/RDSaude_p010.jpg`
+  - Pop-up card over faded slide: ranked bar chart of expected CAGR by country on the left, and an area/staircase chart of elderly population 2010-2050 on the right with '+10M elderly' annotations.
+- **Mapas pequenos, barras e donut tracejado** · RD Saúde p.11 · `slides/RDSaude_p011.jpg`
+  - Dashed-border side card with an HHI scale (335 on a 0-10,000 bar) over a donut of chain market share, next to three region maps with store counts per chain.
+- **Barras empilhadas com donut tracejado** · RD Saúde p.12 · `slides/RDSaude_p012.jpg`
+  - 100% stacked columns by city size with funnel-like wedge background linking the series, and a second stacked bar over time showing each chain type, reusing the right-hand HHI+donut card from the previous slide as a constant anchor.
+- **Barras, pirâmide e donut com moldura tracejada** · RD Saúde p.13 · `slides/RDSaude_p013.jpg`
+  - Social-class pyramid (A to D/E) with brackets giving R$ spend of the top vs bottom tiers and a '4x more!' dashed tag, paired with a bar chart of store presence by class.
+- **Zoom de mapa com pinos e callout** · RD Saúde p.15 · `slides/RDSaude_p015.jpg`
+  - Real street-map screenshot of a neighbourhood with coloured pins per competitor and a pin legend on the left; a second frame zooms out and swaps to black pins for small drugstores with a 'Just one RD store in that poor area' callout.
+- **Barras, ranking e HHI com logos** · RD Saúde p.16 · `slides/RDSaude_p016.jpg`
+  - Benchmark layout in two halves: GDP per capita vs drugstore sales columns on the left, concentration bars of top US chains with '3x' dashed link on the right, and a productivity-by-country ranking underneath with logos of the US players.
+- **Órgão regulador com três painéis derivados** · RD Saúde p.18 · `slides/RDSaude_p018.jpg`
+  - Regulator logo as a banner on top and three equal framed columns below (new services, Farmácia Popular, prices adjusted), with the pricing formula IPCA-X+Y+Z=PVPM in a green highlighted bar with callouts for each term.
+- **Linhas, barras e barras negativas em faixa** · RD Saúde p.19 · `slides/RDSaude_p019.jpg`
+  - Three-chart page where each chart answers one sub-claim (vs inflation, vs interest rates, vs GDP) and a grey floor plate with dashed callout 'solid growth in economic crisis' marks the downturn years.
+- **Radar de forças ao lado de texto** · RD Saúde p.20 · `slides/RDSaude_p020.jpg`
+  - Radar chart of the five forces on the left with filled concentric pentagons, and on the right a scored text list (Threat of new entrants: 3, Rivalry: 4, ...) with a book-cover thumbnail for credibility.
+- **Três pilares com hexágonos e destaque** · RD Saúde p.22 · `slides/RDSaude_p022.jpg`
+- **Capa de livro, barras e ranking** · RD Saúde p.23 · `slides/RDSaude_p023.jpg`
+  - Book-cover thumbnail of '7 Powers' linked by dashed connectors to three small benchmark charts (net margin horizontal bars, monthly sales per store columns, sales per POS indexed to RD=100), each tied to a named scale advantage.
+- **Texto com fotos e dois gráficos de barras** · RD Saúde p.24 · `slides/RDSaude_p024.jpg`
+  - A row of three founding-era storefront photos with year captions (1973, 1977, 1981) on the left, paired with two head-to-head bar comparisons (openings and capex) on the right.
+- **Quatro painéis com gráfico e nota** · RD Saúde p.26 · `slides/RDSaude_p026.jpg`
+  - Donut with a funnel-shaped base leading into an NPS line chart (pharmacies vs app) in the right panel, while the left side stacks e-commerce sales columns and a 3x-more bracket for digital vs non-digital.
+- **Cascata de profit pool e barras de ROIC** · RD Saúde p.27 · `slides/RDSaude_p027.jpg`
+  - Profit-pool chart where bar width equals market share and height equals ROIC spread (RD wide and positive, others narrow or negative), alongside a ROIC ranking of global chains with CVS on top.
+- **Dispersão com logos em overlay esmaecido** · RD Saúde p.28 · `slides/RDSaude_p028.jpg`
+- **Quatro painéis de barras e unit economics** · RD Saúde p.31 · `slides/RDSaude_p031.jpg`
+  - Unit-economics strip at the bottom: yearly cash-flow columns (negative year 0, then growing) for RD vs Pague Menos side by side, each topped by pill chips for IRR, NPV and payback, with the peer's logo as marker for a head-to-head read.
+- **Quatro painéis com foto, logos e barras** · RD Saúde p.32 · `slides/RDSaude_p032.jpg`
+  - Brand logos (Stix, Needs) as headers with callout boxes explaining each program, a phone screenshot of the loyalty app, and a 4x column comparison (RD average vs Stix vs Stix in use) with team photo in the store as a field-research proof.
+- **Três pilares com hexágonos e destaque** · RD Saúde p.34 · `slides/RDSaude_p034.jpg`
+- **Três cenários em cartões coloridos** · RD Saúde p.35 · `slides/RDSaude_p035.jpg`
+  - Three equal side-by-side cards with red, green and dark-green header ribbons for bear/base/bull, same line items in each (openings, SSS, cash cycle, macro, market share 2035) and the downside/upside and IRR in big red/green at the bottom.
+- **Barras e linhas de aberturas por cenário** · RD Saúde p.36 · `slides/RDSaude_p036.jpg`
+  - Two charts: historical openings with guidance dots overlaid on bars (to prove reliability), and a forward-openings line chart with bull/base/bear lines vs market expectation with value labels in boxes.
+- **Dois painéis com profundidade e linhas** · RD Saúde p.37 · `slides/RDSaude_p037.jpg`
+  - Two raised 3D-style grey card plates, each with a multi-line chart (SSS vs CMED vs IPCA left, SSS by scenario right) with end-labels boxed in green.
+- **Barras empilhadas com donuts em painel** · RD Saúde p.41 · `slides/RDSaude_p041.jpg`
+- **Linhas de margem com caixas de comentário** · RD Saúde p.42 · `slides/RDSaude_p042.jpg`
+  - Three smooth lines (gross, EBIT, net margin) with boxed label stacks at the right end, and three grey call-out cards labeled COGS/Sales/G&A each explaining the assumption in two lines.
+- **Linha e dois gráficos de barras** · RD Saúde p.44 · `slides/RDSaude_p044.jpg`
+  - One slide with three small time-series: margin line on top, then D&A columns (dark for history, light green for projections) and IR as a teal columns+line, with the same x-axis throughout.
+- **Dois gráficos combinados empilhados** · RD Saúde p.45 · `slides/RDSaude_p045.jpg`
+  - Two stacked charts with matching x-axes: net profit columns with net-margin line above, dividends columns with payout line below, each with a one-line bolded heading naming the claim.
+- **Barras empilhadas e painel de linhas** · RD Saúde p.46 · `slides/RDSaude_p046.jpg`
+- **Barras ao lado de premissas tracejadas** · RD Saúde p.47 · `slides/RDSaude_p047.jpg`
+- **Linha com fórmula e barras de capex** · RD Saúde p.48 · `slides/RDSaude_p048.jpg`
+  - A dashed-box formula card 'Opening cost of one drugstore x Quantity opened = Total Expansion CAPEX' sits next to the supporting charts, making the calculation logic literal.
+- **Equação de ROIC com barras e linha** · RD Saúde p.49 · `slides/RDSaude_p049.jpg`
+  - Column charts for margin and turnover joined by large X and = operators into a ROIC line, with a second line below plotting ROIC vs WACC; labelled tab headers (ROIC Calculation, Value Creation) in teal.
+- **Zoom em gráfico de linha com cunha** · RD Saúde p.50 · `slides/RDSaude_p050.jpg`
+- **Fórmula de WACC e barras de componentes** · RD Saúde p.51 · `slides/RDSaude_p051.jpg`
+  - Left-hand tall green card writes the WACC formula vertically (Ke x E/D+E + Kd x D/D+E with the values), and right-hand floating-bar builds show how Kd and Ke are assembled (rf + CRP + risk premium = Ke).
+- **Barras de FCFF com donut e dívida** · RD Saúde p.52 · `slides/RDSaude_p052.jpg`
+  - FCFF columns with FCFF-yield line overlaid, a donut of PV explicit vs perpetuity (33/67) with an arrow to the g=4% box, and a debt bar chart at the bottom right.
+- **Múltiplo de saída, timeline de IRR e sensibilidade** · RD Saúde p.54 · `slides/RDSaude_p054.jpg`
+  - Left card shows a bar of exit-year and P/E (projection vs chosen with 'premium' marker) ending in 'R$25.60 to R$54.8, IRR 15.39%', and at the right the dividends+exit stream and a green heat-mapped IRR table.
+- **Sensibilidade, dispersão e football field** · RD Saúde p.56 · `slides/RDSaude_p056.jpg`
+  - Football field with floating range bars per method and two vertical dashed lines (target R$23.26, current R$26.24), next to a WACC x g heatmap and a margin vs EV/EBITDA scatter with the peers' logos as markers.
+- **Citação com livro sobre slide esmaecido** · RD Saúde p.57 · `slides/RDSaude_p057.jpg`
+  - Overlay card on the dimmed valuation slide with a book cover (Howard Marks) and a green quote panel, followed by three numbered reasons connected by thin lines to explain why HOLD instead of SELL.
+- **Matriz de risco com lista de riscos** · RD Saúde p.59 · `slides/RDSaude_p059.jpg`
+- **Manchetes de notícia sobre slide esmaecido** · RD Saúde p.60 · `slides/RDSaude_p060.jpg`
+  - Two browser-window-styled news headline cards (with source mast and date) as proof for a risk, overlaid on the dimmed risk matrix.
+- **Matriz de risco com lista de riscos** · RD Saúde p.61 · `slides/RDSaude_p061.jpg`
+- **Tabela de sensibilidade com cunha de matriz** · RD Saúde p.62 · `slides/RDSaude_p062.jpg`
+  - A wedge-shaped pop-up expanding from the S1 cell of the risk matrix into a heat-mapped sensitivity table, so each risk is tied to a quantified impact on value.
+- **Matriz de risco com lista de riscos** · RD Saúde p.63 · `slides/RDSaude_p063.jpg`
+- **Slide final com foto verde** · RD Saúde p.64 · `slides/RDSaude_p064.jpg`
+- **Retrato com texto, donuts e barras** · RD Saúde p.68 · `slides/RDSaude_p068.jpg`
+- **Print de vídeo e fluxo de logos** · RD Saúde p.70 · `slides/RDSaude_p070.jpg`
+  - Left grey card with a video-call photo plus quote, and right a logo-flow (Raia + Drogasil > RD > RD Saúde) above a CEO portrait with a quote banner.
+- **Quatro painéis com fórmula e linhas** · RD Saúde p.71 · `slides/RDSaude_p071.jpg`
+  - Formula strip with an L-shaped bracket arrows mapping each term to its explanation, next to a line chart of margin dynamics with peer logos as endpoints.
+- **Zigue-zague de marcos e barras** · RD Saúde p.72 · `slides/RDSaude_p072.jpg`
+  - Zig-zag line timeline with a circular icon at each service launch (2009, 2017, 2020, 2022, 2023), a bar chart of services volume and a CEO quote photo box.
+- **Dois prints de chamada com insights** · RD Saúde p.73 · `slides/RDSaude_p073.jpg`
+  - Two screenshots of the real video calls with a grey insights box below each carrying the analyst's name and distilled takeaways, serving as proof of work.
+- **Dois donuts de pesquisa de campo** · RD Saúde p.74 · `slides/RDSaude_p074.jpg`
+  - Two side-by-side donuts with a distinct non-green palette (purple, blue, red) so survey data is visually separated from model data, with legends under each.
+- **Dois donuts de pesquisa de campo** · RD Saúde p.75 · `slides/RDSaude_p075.jpg`
+- **Print de chamada com citação em balão** · RD Saúde p.76 · `slides/RDSaude_p076.jpg`
+  - Video-call screenshot sitting on a pedestal-like grey plate carrying the interview quote in large type.
+- **Donuts e barras de NPS comparado** · RD Saúde p.78 · `slides/RDSaude_p078.jpg`
+  - Large donut(s) for share of deliveries and time under 60 min next to a paired-bar NPS comparison RD vs Panvel (store, app, services) in two brand colours.
+- **Equação Dupont com linhas e comparação** · RD Saúde p.79 · `slides/RDSaude_p079.jpg`
+  - Net margin x asset turnover x leverage with large X and = operators, then a grey trapezoid funnel pointing to a players-comparison ROE line below.
+- **Pergunta em caixa sobre slide esmaecido** · RD Saúde p.17 · `slides/RDSaude_p017.jpg`
+- **Pergunta em caixa sobre slide esmaecido** · RD Saúde p.21 · `slides/RDSaude_p021.jpg`
+- **Barras agrupadas sobre slide esmaecido** · RD Saúde p.30 · `slides/RDSaude_p030.jpg`
+  - Pop-up card with a clustered bar chart of board remuneration by type (fixed, bonus, stocks) for each company and a single-bar summary of pay as % of revenue, using the headline as the takeaway.
+- **Pergunta em caixa sobre slide esmaecido** · RD Saúde p.33 · `slides/RDSaude_p033.jpg`
+- **Linhas cruzadas em overlay sobre esmaecido** · RD Saúde p.43 · `slides/RDSaude_p043.jpg`
+- **Área empilhada em overlay sobre esmaecido** · RD Saúde p.53 · `slides/RDSaude_p053.jpg`
+- **Divisor de apêndice com índice** · RD Saúde p.65 · `slides/RDSaude_p065.jpg`
+  - Two-column table of contents on a dark green full bleed with numbered section codes (1.1, 2.3...) mirrored in the page footers, to navigate a 125-page deck.
+- **Divisor de valuation com índice** · RD Saúde p.66 · `slides/RDSaude_p066.jpg`
+- **Linha única de múltiplo histórico** · RD Saúde p.80 · `slides/RDSaude_p080.jpg`
+  - Single clean line chart of historical P/E with labelled peaks and troughs, and a subtitle that ties it directly to the exit multiple assumption.
+- **Tabela densa de unit economics** · RD Saúde p.81 · `slides/RDSaude_p081.jpg`
+- **Tabela densa de unit economics** · RD Saúde p.82 · `slides/RDSaude_p082.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.83 · `slides/RDSaude_p083.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.84 · `slides/RDSaude_p084.jpg`
+- **Texto corrido em duas colunas** · RD Saúde p.85 · `slides/RDSaude_p085.jpg`
+- **Texto corrido em duas colunas** · RD Saúde p.86 · `slides/RDSaude_p086.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.87 · `slides/RDSaude_p087.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.88 · `slides/RDSaude_p088.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.89 · `slides/RDSaude_p089.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.90 · `slides/RDSaude_p090.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.91 · `slides/RDSaude_p091.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.92 · `slides/RDSaude_p092.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.93 · `slides/RDSaude_p093.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.94 · `slides/RDSaude_p094.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.95 · `slides/RDSaude_p095.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.96 · `slides/RDSaude_p096.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.97 · `slides/RDSaude_p097.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.98 · `slides/RDSaude_p098.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.99 · `slides/RDSaude_p099.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.100 · `slides/RDSaude_p100.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.101 · `slides/RDSaude_p101.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.102 · `slides/RDSaude_p102.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.103 · `slides/RDSaude_p103.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.104 · `slides/RDSaude_p104.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.105 · `slides/RDSaude_p105.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.106 · `slides/RDSaude_p106.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.107 · `slides/RDSaude_p107.jpg`
+  - Green gradient heatmap with WACC on rows and g on columns; the darker the cell, the larger the upside, using one hue for readability.
+- **Apêndice de tabela crua** · RD Saúde p.108 · `slides/RDSaude_p108.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.109 · `slides/RDSaude_p109.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.110 · `slides/RDSaude_p110.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.111 · `slides/RDSaude_p111.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.112 · `slides/RDSaude_p112.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.113 · `slides/RDSaude_p113.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.114 · `slides/RDSaude_p114.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.115 · `slides/RDSaude_p115.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.116 · `slides/RDSaude_p116.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.117 · `slides/RDSaude_p117.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.118 · `slides/RDSaude_p118.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.119 · `slides/RDSaude_p119.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.120 · `slides/RDSaude_p120.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.121 · `slides/RDSaude_p121.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.122 · `slides/RDSaude_p122.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.123 · `slides/RDSaude_p123.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.124 · `slides/RDSaude_p124.jpg`
+- **Histograma único de Monte Carlo** · RD Saúde p.125 · `slides/RDSaude_p125.jpg`

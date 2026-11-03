@@ -1,0 +1,30 @@
+# ChallengeB: páginas (14)
+
+- ★ **Ilustração explodida com ícones e barras** · ChallengeB p.6 · `slides/ChallengeB_p006.jpg`
+  - Headers chained with ellipses; wedge opens from the aircraft image into three items; roadmap as isometric steps with text inside.
+- **Capa escura com trama azul** · ChallengeB p.1 · `slides/ChallengeB_p001.jpg`
+  - Dark full-bleed cover with company and group marks, team names at the bottom.
+- **Três painéis sobre fita temporal** · ChallengeB p.2 · `slides/ChallengeB_p002.jpg`
+  - Three equal grey panels (small donut, bars with margin line, choropleth) above a full-width ribbon timeline.
+- **Quatro painéis de barras e ícones** · ChallengeB p.3 · `slides/ChallengeB_p003.jpg`
+  - 2x2 with four different proofs; the value chain is a row of good isometric illustrations; delta marked at the end of the line.
+- **Quatro painéis com linha, barras e citação** · ChallengeB p.4 · `slides/ChallengeB_p004.jpg`
+  - 2x2 mixing ribbon timeline, ranked bars, lollipop chart and real portrait with sourced quote.
+- **Fita de marcos com ilustração e barras** · ChallengeB p.5 · `slides/ChallengeB_p005.jpg`
+  - Competitor gets its own colour and master; wide curve timeline with real aircraft photo on top, annotated aircraft photo and committed-vs-delivered bars below.
+- **Barras de fontes e usos com linha** · ChallengeB p.7 · `slides/ChallengeB_p007.jpg`
+  - Two wide pale panels linked by a narrow grey fold; dashed box over the uses; two anchored callouts with the ratio.
+- **Barras, escada de jatos e KPIs** · ChallengeB p.8 · `slides/ChallengeB_p008.jpg`
+  - Product ladder: rising dark steps with real jet photos on top and specs below, next to bars and a combo chart.
+- **Barras, pizza, linhas e barras horizontais** · ChallengeB p.9 · `slides/ChallengeB_p009.jpg`
+  - Clean 2x2; short wedge from the last column opens into the composition of that same number, in a dashed box.
+- **Barras horizontais, matriz, tabela e barras** · ChallengeB p.10 · `slides/ChallengeB_p010.jpg`
+  - 2x2 with pale panels and fold in the top row; bracket sums top customers with a short anchored label; annotated jet photo.
+- **Três cards de aeronave com foto** · ChallengeB p.11 · `slides/ChallengeB_p011.jpg`
+  - Three stepped product cards with real photos, spec bullets and an 'edge' strip; the focus card is dark.
+- **Passos verticais e cards com citação** · ChallengeB p.13 · `slides/ChallengeB_p013.jpg`
+  - Spine of icon rows ending in a dashed link to a compliant vs above-scope card pair and a real material-fact excerpt.
+- **Barras e rosca ao lado de cards vs** · ChallengeB p.14 · `slides/ChallengeB_p014.jpg`
+  - Chained headers; stacked bars and small donut on the left; four 'vs' cards with real photos on the right.
+- **Duas colunas de fichas de aeronaves** · ChallengeB p.12 · `slides/ChallengeB_p012.jpg`
+  - Two columns of product cards with fold between stacked planes; dark for the focus company, pale for the rival.

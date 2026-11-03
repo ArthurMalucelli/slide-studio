@@ -1,0 +1,34 @@
+# Navegação (16)
+
+- ★ **Storyline rail with rotated message** · AB InBev p.6 · `tipo/navegacao/ab-inbev_p6_storyline-rail-with-rotated-message_1.jpg`
+  - Full-height solid brand rail about 6% of width; page number at top in small white; rotated 90-degree large white phrase bottom-aligned ('Evolving Mindsets', 'Dream Big'), not the section name. Rail turns dark grey in the appendix (p79).
+- ★ **Three-level tracker: section, chapter, slide idea** · BTG Pactual p.56 · `tipo/navegacao/btg-pactual_p56_three-level-tracker-section-chapter-slide-idea_3.jpg`
+  - Bottom text rail with five thesis names and a thick bar over the active one; top right tabs for the chapter, active one dark and taller; under the title, a thin full-width rule with three small rectangle ticks and captions, active tick solid, others outlined, ended by a small X.
+- ★ **Second-level tab tracker with dashed selection frame** · CSN - ArcelorMittal p.26 · `tipo/navegacao/csn-arcelormittal_p26_second-level-tab-tracker-with-dashed-selection-frame_5.jpg`
+  - Three equal dark gradient bars across the top under the subtitle with white labels; active tab gets a red dashed double frame slightly bigger than the bar, others stay plain.
+- ★ **Agenda dressed as the company's website** · Meliuz p.64 · `tipo/navegacao/meliuz_p64_agenda-dressed-as-the-company-s-website_7.jpg`
+  - Full-width brand-colour nav bar with fake menu items, white search box with magnifier, cart icon with red count badge at right; body is 3 columns of underlined linked titles numbered 1.1, 2.1; footer rule with link columns and social icon circles.
+- ★ **Orbit arcs with tangential index rules over a diagonal plane** · Senior Sistemas p.2 · `tipo/navegacao/senior-sistemas_p2_orbit-arcs-with-tangential-index-rules-over-a-diagonal-plane_56.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Back: diagonal plane polygon #E3E3E3, in 110dpi px (1145,0),(1467,0),(1467,825),(525,825), multiply by 0.6545 for pt. Mid: four D-shaped outlines, teal #205C64 1.5pt, each offset about 6pt to the right, running from top left around to bottom. Five horizontal rules start tangent to the arcs at different x and run to the right page edge, pas
+- **Breadcrumb whose vocabulary swaps in the appendix** · 3R Petroleum p.56 · `tipo/navegacao/3r-petroleum_p56_breadcrumb-whose-vocabulary-swaps-in-the-appendix_13.jpg`
+  - Footer text line with pipe separators, current item bold and accent; main deck lists main sections, each appendix group replaces the list with its own steps (Operation | Macro | Oil Reserves...).
+- **Footer tab tracker with sliding overbar** · AB InBev p.6 · `tipo/navegacao/ab-inbev_p6_footer-tab-tracker-with-sliding-overbar_14.jpg`
+  - Hairline across the footer, five evenly spaced uppercase labels under it; a thick short accent segment sits on the hairline above the active label and moves between slides.
+- **Fading double-rule agenda** · CSN Liability p.2 · `tipo/navegacao/csn-liability_p2_fading-double-rule-agenda_16.jpg`
+  - Each item sits between two horizontal bars that run from the left edge to about 56% of the width and fade from grey to transparent. Items have regular white text and generous gaps; the abstract artwork occupies the free side.
+- **Vertical-gradient rows on a diagonal gradient field** · Cosan p.2 · `tipo/navegacao/cosan_p2_vertical-gradient-rows-on-a-diagonal-gradient-field_89.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Background diagonal linear #020000 top-left to #8E0000 bottom-right. Rows 1303x83 at pitch 125, x 46-1349. Row fill vertical gradient #670000 top, #3F0000 mid, #250000/near black bottom. 1px dotted white on left and bottom edges only (lit edge), dark on top/right. Rows look like raised
+- **Book-style table of contents** · Kering - Moncler p.2 · `tipo/navegacao/kering-moncler_p2_book-style-table-of-contents_18.jpg`
+  - Bold section names with a short gold tick at left; dotted leaders across to right-aligned page numbers; generous even row spacing on a warm off-white page. Use tab leaders: here hand-typed dots render unevenly.
+- **Spine with rotated section name, roman numerals in appendix, grey chevrons** · Meliuz p.14 · `tipo/navegacao/meliuz_p14_spine-with-rotated-section-name-roman-numerals-in-appendix-g_19.jpg`
+  - Dark left rail; page number at top; section name rotated 90 degrees; chevron stack at base (the rail shape itself is already catalogued). Appendix switches chevrons from brand colour to grey and page numbers to roman numerals.
+- **Four-pill section tabs** · Mercado Libre p.7 · `tipo/navegacao/mercado-libre_p7_four-pill-section-tabs_20.jpg`
+  - Four equal rounded rectangles in the top right of each content slide. Active one slate fill with white text; inactive ones light grey with text barely darker than the fill, so they read as disabled.
+- **Sector-object icon on every nav item** · RD Saúde p.29 · `tipo/navegacao/rd-saude_p29_sector-object-icon-on-every-nav-item_21.jpg`
+  - Footer rule; each section label preceded by a small outline icon drawn from the sector (pills for a pharmacy, a building for overview); active label bold and coloured, others regular.
+- **Breadcrumb sentence footer** · Sabesp / Intelbras / CSN Liability p.11 · `tipo/navegacao/sabesp-intelbras-csn-liability_p11_breadcrumb-sentence-footer_22.jpg`
+  - Footer line under a full-width hairline: section names separated by pipes, active name bold in accent colour, sources in italic grey on the same baseline. Appendix pages reduce to the single word Appendix.
+- **Gradient-fade agenda bars on a red field** · Cosan p.2 · `tipo/navegacao/cosan_p2_gradient-fade-agenda-bars-on-a-red-field_17.jpg`
+  - Black to red diagonal gradient background; five equal bars left aligned, stopping before the right margin, with a red to black fill, thin red outline, and bold white roman-numbered titles.
+- **Inline breadcrumb in gold** · Kering - Moncler p.5 · `tipo/navegacao/kering-moncler_p5_inline-breadcrumb-in-gold_23.jpg`
+  - Centered line of chapter names split by pipes, active one in gold; heavy rule above, firm name and page number at right. Rede D'Or uses the same with teal.

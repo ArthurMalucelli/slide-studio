@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.0
+
+- Novo catálogo em `references/exemplos/`: 1.647 slides por número de quadrantes e 980 peças por tipo, nas cores originais, com `catalogo.json` para filtrar.
+
 ## 0.5.0
 
 - Nova `references/RECEITA.md`: como montar um bom slide, em 9 passos, tirada de Sabesp, Nubank e ChallengeB. O designer não copia slides.

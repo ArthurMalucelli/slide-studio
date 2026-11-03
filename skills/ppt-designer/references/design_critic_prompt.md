@@ -45,7 +45,7 @@ Rode antes `python3 {SKILL_DIR}/scripts/checar_slide.py <pptx> --profile <profil
    - cabeçalhos desalinhados entre painéis vizinhos;
    - margens desiguais.
 5. **Preferências:** respeita `deck_prefs` (fundo, 3D, barras)?
-6. **Comparação com a referência:** o que os prints ★★★ fazem melhor que este slide, e que daria para copiar?
+6. **Comparação com a referência:** o que os slides de referência fazem melhor que este slide, e que daria para copiar?
 
 ## Responda
 Um item por linha:

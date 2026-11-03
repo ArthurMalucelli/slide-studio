@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.5.0-1249C6">
+  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.6.0-1249C6">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-plugin-0B1D4E">
   <img alt="Saída" src="https://img.shields.io/badge/sa%C3%ADda-.pptx%20edit%C3%A1vel-4FA3F5">
 </p>
@@ -30,7 +30,7 @@ Slide feito por IA costuma sair com o número certo e o visual genérico. O slid
 - **Receita, não colagem:** 9 passos tirados dos melhores decks, do argumento à conferência do peso visual. Veja [`RECEITA.md`](skills/ppt-designer/references/RECEITA.md).
 - **Pesquisa com crítico:** um subagente procura os vãos da pesquisa, e outro julga se o roteiro dá um bom slide.
 - **Verificador automático:** barra colisão de texto, excesso de palavras e dados, slide plano e gráficos que o dono já reprovou.
-- **Catálogo de 22 decks de competição:** 987 slides por propósito e por visual, e 590 técnicas garimpadas em 1.633 páginas.
+- **Catálogo de 22 decks de competição:** 1.647 slides por formato e 980 peças por tipo, nas cores originais, além de 590 técnicas documentadas.
 - **274 itens do catálogo com peça pronta:** mapas, sólidos, feixes, fitas, diagramas e elementos.
 - **Qualquer mestre:** lê grade, cores e zonas proibidas do seu .pptx. As peças assumem as cores do tema.
 - **Tudo editável:** gráficos nativos e formas do PowerPoint, sem imagem colada para simular volume.
@@ -228,7 +228,7 @@ skills/
         ├── PITFALLS.md      bugs do PowerPoint já resolvidos
         ├── catalogo/        590 técnicas: origem, recorte e receita
         ├── pecas_*.py       peças prontas para copiar
-        └── exemplos/        987 slides por propósito e por visual, com prints e PDFs
+        └── exemplos/        1.647 slides por formato e 980 peças por tipo, com PDFs
 ```
 
 Para ver as peças no seu mestre, sem o Claude:

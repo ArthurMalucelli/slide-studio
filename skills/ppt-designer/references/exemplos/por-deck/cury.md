@@ -1,0 +1,69 @@
+# Cury: páginas (36)
+
+- ★ **Preço em tela cheia com cunha** · Cury p.2 · `slides/CuryConstrutora_p002.jpg`
+  - Grafico de preco historico full-bleed com seta ate o preco-alvo e caixa 'Preco Atual -> Preco Alvo' ao lado do selo BUY gigante.
+- ★ **Linha do tempo com retratos e organograma** · Cury p.21 · `slides/CuryConstrutora_p021.jpg`
+  - Fotos dos dois executivos nas pontas de uma linha do tempo de cargos, organograma familiar e citacao de analista (BTG) em caixa recortada.
+- ★ **Decomposição de retorno em setas ligadas** · Cury p.31 · `slides/CuryConstrutora_p031.jpg`
+  - Decomposicao da TIR em blocos azuis empilhados com valores em caixas a direita, curva de TSR base 100 e heatmap TIR por ano de saida x P/E.
+- ★ **Preço com cunha para cenários** · Cury p.32 · `slides/CuryConstrutora_p032.jpg`
+  - Grafico de preco com funil de zoom saindo do ultimo ponto para os cards Bear/Base/Bull, football field com linha de preco atual embaixo, em fundo escuro.
+- **Capa dividida com ondas digitais** · Cury p.1 · `slides/CuryConstrutora_p001.jpg`
+  - Fundo azul-marinho com textura de ondas e bloco de texto alinhado a esquerda; logos co-branded no topo, equipe em rodape.
+- **Ficha lateral com treemap e gráficos** · Cury p.3 · `slides/CuryConstrutora_p003.jpg`
+  - Painel esquerdo 'Overview' em caixa com texto + treemap de market share; direita com 3 mini-graficos (receita setor, VGV por segmento, estoque).
+- **Ficha lateral com rede e barras** · Cury p.4 · `slides/CuryConstrutora_p004.jpg`
+  - Coluna esquerda em caixa com descricao, composicao acionaria e key financials; direita com graficos de lancamentos e FCO x unidades.
+- **Divisor de teses em faixas escalonadas** · Cury p.5 · `slides/CuryConstrutora_p005.jpg`
+  - Divisor escuro com 3 titulos de tese em faixas translucidas escalonadas; destaque de uma tese por vez ao longo do deck (tese ativa em branco, demais apagadas).
+- **Divisor com primeira tese acesa** · Cury p.6 · `slides/CuryConstrutora_p006.jpg`
+- **Barras empilhadas com mapa e tabela** · Cury p.7 · `slides/CuryConstrutora_p007.jpg`
+  - Barras empilhadas de deficit por segmento ao lado de mapa do Brasil + tabela aluguel x MCMV com linha-chave destacada em azul.
+- **Barras por era, tabela e citação** · Cury p.8 · `slides/CuryConstrutora_p008.jpg`
+  - Marcos politicos como linhas tracejadas verticais sobre o grafico de barras, tabela de faixas com Faixa 4 destacada e recorte de noticia estilizado como citacao.
+- **Ciclo numerado, tabela e barras** · Cury p.11 · `slides/CuryConstrutora_p011.jpg`
+  - Fluxograma de 6 etapas numeradas em zigzag com prazos em meses, ao lado de barras 100% empilhadas grandes vs pequenos e tabela comparativa.
+- **Divisor com segunda tese acesa** · Cury p.12 · `slides/CuryConstrutora_p012.jpg`
+- **Mapa, chamada de vídeo e citação** · Cury p.13 · `slides/CuryConstrutora_p013.jpg`
+  - Mapa de SP com barras de proporcao por zona, caixa de citacao do CEO com foto de call de entrevista e barras de unidades por 1000 m2.
+- **Fotos aéreas, tabela e barras** · Cury p.14 · `slides/CuryConstrutora_p014.jpg`
+  - Duas fotos de obra Cury vs Direcional lado a lado, tabela de trade-offs de metodo construtivo com linha de resultado destacada.
+- **Barra realçada com chamada e linhas** · Cury p.15 · `slides/CuryConstrutora_p015.jpg`
+  - Barra da Cury destacada com caixa tracejada e callout explicativo sobre as demais; linhas de VSO por empresa com area sombreada para a Cury.
+- **Texto com foto de visita e barras** · Cury p.16 · `slides/CuryConstrutora_p016.jpg`
+  - Tres vantagens em bullets curtos com subtitulo azul, fotos reais de stand de vendas, e barras Cury vs Direcional com logos como rotulos.
+- **Foto de visita, tabela e curva** · Cury p.17 · `slides/CuryConstrutora_p017.jpg`
+  - Tabela comparativa com logos nas colunas e linhas de TIR/VPL em caixa destacada, curva de fluxo de caixa acumulado com area entre as duas empresas sombreada.
+- **Ciclo, barras, sensibilidade e decomposição** · Cury p.18 · `slides/CuryConstrutora_p018.jpg`
+  - Ciclo de 5 etapas numeradas do risco, heatmap VSO x INCC do VPL e Dupont ajustado, tudo em uma pagina com caixa conclusiva 'alta alavancagem = maior necessidade de VSO'.
+- **Quadrante com logos, barras e decomposição** · Cury p.19 · `slides/CuryConstrutora_p019.jpg`
+  - Scatter ROE x VSO com logos das empresas como pontos (Cury em bolha tracejada) ao lado de barras de equity exposure no landbank.
+- **Divisor com terceira tese acesa** · Cury p.20 · `slides/CuryConstrutora_p020.jpg`
+- **Preço com eventos, treemap e barras** · Cury p.22 · `slides/CuryConstrutora_p022.jpg`
+  - Grafico de preco com marcadores de compra do CEO como balões, treemap de composicao acionaria e barras 100% empilhadas de remuneracao.
+- **Retrato com citação, notícia e mapa** · Cury p.24 · `slides/CuryConstrutora_p024.jpg`
+  - Mapa do Brasil com bolhas de presenca e tabela de mercado enderecavel por regiao, foto do CEO com citacao e recorte de reportagem.
+- **Divisor de teses antes dos números** · Cury p.25 · `slides/CuryConstrutora_p025.jpg`
+  - Repete o divisor de teses para marcar a transicao operacao -> numeros, mantendo a mesma grade visual da pagina de teses.
+- **Área entre linhas, notícia e sensibilidade** · Cury p.26 · `slides/CuryConstrutora_p026.jpg`
+  - Grafico de preco de area, citacao de reportagem como contexto e heatmap compacto INCC x reajuste de preco do upside.
+- **Linhas ao lado de quadrante com logos** · Cury p.27 · `slides/CuryConstrutora_p027.jpg`
+  - Linha P/E historico Cury vs Direcional ao lado de scatter P/E x ROE com logos como pontos.
+- **Linha com bandas e quadrante de logos** · Cury p.28 · `slides/CuryConstrutora_p028.jpg`
+  - P/E historico com media e bandas de desvio padrao e linha de 'nosso P/E justo', ao lado do scatter P/E x ROE.
+- **Barras, cards de cenário e sensibilidade** · Cury p.30 · `slides/CuryConstrutora_p030.jpg`
+  - FCFF em barras com linha de FCFF Yield, cards Bear/Base/Bull com upside e TIR, e heatmap de upside por Ke x g perpetuo.
+- **Duas cascatas escuras lado a lado** · Cury p.33 · `slides/CuryConstrutora_p033.jpg`
+  - Dois waterfalls de NAV lado a lado (Cury e Direcional) em fundo escuro com barras vazadas e rotulos de etapas.
+- **Colunas de KPIs sobre linha comparativa** · Cury p.34 · `slides/CuryConstrutora_p034.jpg`
+  - Dois blocos lado a lado com 4 KPIs em caixas (VSO, ROE, FCO/LL, margem) e bullets, mais P/E forward comparado abaixo.
+- **Índice de apêndice em colunas numeradas** · Cury p.36 · `slides/CuryConstrutora_p036.jpg`
+- **Linhas e barras com combo alto** · Cury p.9 · `slides/CuryConstrutora_p009.jpg`
+  - Tres graficos pequenos encadeados (taxas de funding, correlacao com Selic em barras horizontais por empresa, unidades x Selic).
+- **Fluxos de caixa empilhados com combo** · Cury p.10 · `slides/CuryConstrutora_p010.jpg`
+  - Dois fluxos de caixa empilhados (media/alta renda vs MCMV) com mesmos eixos, para mostrar visualmente a exposicao menor a caixa negativa.
+- **Linhas em destaque com áreas** · Cury p.23 · `slides/CuryConstrutora_p023.jpg`
+  - Quatro graficos pequenos que contam uma historia: alavancagem sob controle, TSR vs preco com area sombreada, ROE vs Ke com linha de referencia.
+- **Fluxo reverso sobre cenários e consenso** · Cury p.29 · `slides/CuryConstrutora_p029.jpg`
+  - Tabela de DCF densa em cima, cards Bear/Base/Bull com CAGR implicito e tabela IAM vs Consenso embaixo.
+- **Slide de perguntas quase vazio** · Cury p.35 · `slides/CuryConstrutora_p035.jpg`

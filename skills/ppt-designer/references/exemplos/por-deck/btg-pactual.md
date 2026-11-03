@@ -1,0 +1,236 @@
+# BTG Pactual: páginas (149)
+
+- ★ **Foto de pesquisa de campo com contagens** · BTG Pactual p.26 · `slides/BTGPactual_p026.jpg`
+  - Real screenshot of the video call as evidence, with a large '39 IFA offices' headline and a thin progress bar showing 9% vs 91% to dramatise the finding.
+- ★ **Foto de campo com barra de proporção** · BTG Pactual p.27 · `slides/BTGPactual_p027.jpg`
+- ★ **Dois hexágonos opostos com logos** · BTG Pactual p.41 · `slides/BTGPactual_p041.jpg`
+- ★ **Dois mundos convergindo em círculo com logos** · BTG Pactual p.43 · `slides/BTGPactual_p043.jpg`
+  - Two opposing hexagonal panels (Product-oriented vs Customer-oriented) meeting at a central circular BTG logo, with a mini net-income bar chart on the left and a pentagon on the right.
+- ★ **Escada temporal com setas convergentes** · BTG Pactual p.52 · `slides/BTGPactual_p052.jpg`
+  - Three horizontal tag bars converge into a large dark-blue arrow pointing right to a 'unlocks value from new business units' statement; the timeline sits to the left.
+- ★ **Retratos em losangos e citação** · BTG Pactual p.61 · `slides/BTGPactual_p061.jpg`
+  - Five portraits cropped into a diamond-shaped mosaic with name labels, paired with a dark quote box on the right.
+- ★ **Mapa regional com citações de entrevistados** · BTG Pactual p.62 · `slides/BTGPactual_p062.jpg`
+- ★ **Cascata de soma das partes com caixa lateral** · BTG Pactual p.78 · `slides/BTGPactual_p078.jpg`
+  - Cascade from Investment Bank to BTG Digital, BTG+ Business, BTG+, Pan, Too Seguros to Total Share Value R$154.2, then current R$101.5 and a curved arrow showing upside; assumptions (Ke 11.92%, g 7%) on a dark side panel.
+- ★ **Conclusão em faixas de seta** · BTG Pactual p.80 · `slides/BTGPactual_p080.jpg`
+  - Dark closing slide with three stacked, right-pointing arrow banners in decreasing blue tones and a large italic 'Yes!' as the punchline.
+- **Capa escura com foto e faixa** · BTG Pactual p.1 · `slides/BTGPactual_p001.jpg`
+  - Dark navy full-bleed photo with a translucent dark band behind the title block and team names letter-spaced at the bottom; co-branding logos bottom-right.
+- **Recomendação central com três teses** · BTG Pactual p.2 · `slides/BTGPactual_p002.jpg`
+  - Thin-bordered box with BUY highlighted in green and price-to-target connected by a line carrying the upside %, then a bottom strip with three numbered thesis tiles separated by x marks.
+- **Lista de receitas convergindo para unidade** · BTG Pactual p.3 · `slides/BTGPactual_p003.jpg`
+  - Core-business box with big % next to each line, funnelling via a cyan trapezoid into a circular logo and then three launched digital units (with launch years) on the right.
+- **Divisor escuro com ícones de teses** · BTG Pactual p.4 · `slides/BTGPactual_p004.jpg`
+  - Section divider with a vertical icon rail (one icon per thesis) where the active thesis is highlighted by a translucent box over the photo and the others are dimmed.
+- **Barras com destaque e cards de KPI** · BTG Pactual p.8 · `slides/BTGPactual_p008.jpg`
+  - Single bar chart with BTG in dark navy against light-blue peers, beside three stacked teal tiles each pairing an icon, a giant % and a label; earlier build step greys out the right half.
+- **Dispersão com logos e área empilhada** · BTG Pactual p.10 · `slides/BTGPactual_p010.jpg`
+  - Scatter of mandates vs lending volume with a regression line and a BTG callout box plus peer logos as markers; paired with stacked-area chart carrying CAGR chips in brand colours.
+- **Linha anotada, área empilhada e linha menor** · BTG Pactual p.13 · `slides/BTGPactual_p013.jpg`
+  - Three charts on one slide (Selic line, fund-count stacked area, Google Trends) tied together by a dark quote strip citing an industry executive.
+- **Barras empilhadas com seta de crescimento** · BTG Pactual p.14 · `slides/BTGPactual_p014.jpg`
+  - Stacked AUM columns by client type with a curved light-blue arrow rising from the 2018 bar to a bold takeaway text, ending in a question box that hands off to the next slide.
+- **Barras com legenda inline e rosca com notícia** · BTG Pactual p.17 · `slides/BTGPactual_p017.jpg`
+- **Barras segmentadas e seta de crescimento de TAM** · BTG Pactual p.18 · `slides/BTGPactual_p018.jpg`
+- **Barras segmentadas, seta de TAM e mini barras** · BTG Pactual p.19 · `slides/BTGPactual_p019.jpg`
+  - Stacked column on the left aligned with horizontal labelled bands (barriers to entry, who serves them), and an arc-arrow between two big TAM figures with the % increase on it.
+- **Divisor escuro com ícones de teses** · BTG Pactual p.20 · `slides/BTGPactual_p020.jpg`
+- **Texto de proposta e fotos de escritórios** · BTG Pactual p.25 · `slides/BTGPactual_p025.jpg`
+- **Dois grupos de logos com atributos** · BTG Pactual p.29 · `slides/BTGPactual_p029.jpg`
+- **Logos agrupados convergindo para conclusão** · BTG Pactual p.30 · `slides/BTGPactual_p030.jpg`
+  - Two dotted-border logo clusters (sophisticated vs standard IFAs) each connected via a diamond bullet to a row of characteristics, ending with a 2-icon conclusion.
+- **Dois gráficos de barras e caixa de destaque** · BTG Pactual p.32 · `slides/BTGPactual_p032.jpg`
+  - Side-by-side 100% stacked columns for Products and Technology (BTG > XP / equal / XP > BTG) with a dark verdict bar underneath and a bordered 'However...' box with the key stat.
+- **Citações de entrevistados com foto** · BTG Pactual p.33 · `slides/BTGPactual_p033.jpg`
+  - Two alternating quote bands, a round headshot on the right for the first and on the left for the second, with hex-shaped light-blue backgrounds and highlighted key phrases.
+- **Print de reunião e relato citado** · BTG Pactual p.34 · `slides/BTGPactual_p034.jpg`
+  - Large video-call photo grid on the left, dark quote bar on the right with italic highlighted line, short case narrative with bolded facts below.
+- **Duas cadeias de valor comparadas** · BTG Pactual p.35 · `slides/BTGPactual_p035.jpg`
+- **Grupos de logos com ciclo de atração** · BTG Pactual p.37 · `slides/BTGPactual_p037.jpg`
+- **Barras empilhadas com rosca em destaque** · BTG Pactual p.38 · `slides/BTGPactual_p038.jpg`
+  - Stacked columns of investment market with a % share line, linked by a thin line to a donut (R$2.3tn centre) with the BTG, XP and others WuC shares labelled.
+- **Hexágonos opostos fundindo em círculo central** · BTG Pactual p.42 · `slides/BTGPactual_p042.jpg`
+- **Três telas de celular em sequência** · BTG Pactual p.45 · `slides/BTGPactual_p045.jpg`
+  - Three phone mockups on a horizontal arrow labelled 1st touch / 2nd touch / arrived, with start and end labels at the edges of the line.
+- **Pilha de ecossistema e setas de custo** · BTG Pactual p.46 · `slides/BTGPactual_p046.jpg`
+- **Pilha de ecossistema e passos numerados** · BTG Pactual p.47 · `slides/BTGPactual_p047.jpg`
+  - Vertical stack of three product tiles on the left joined by LOW and HIGH chevrons pointing to a numbered 3-step explanation panel.
+- **Ciclo circular com setas e quatro legendas** · BTG Pactual p.48 · `slides/BTGPactual_p048.jpg`
+  - Two big circular arrows (dark and light blue) around a central logo with DRU and Core Business labels and four satellite text blocks at the diagonals.
+- **Divisor escuro com ícones de teses** · BTG Pactual p.49 · `slides/BTGPactual_p049.jpg`
+- **Linha do tempo em escada diagonal** · BTG Pactual p.50 · `slides/BTGPactual_p050.jpg`
+  - Vertical-staircase timeline with year labels and short captions branching from a top box, bridging to the three success-factor tags that appear in the next build.
+- **Linha do tempo em escada e três caixas** · BTG Pactual p.51 · `slides/BTGPactual_p051.jpg`
+- **Linha anotada com meta e caixas de regra** · BTG Pactual p.53 · `slides/BTGPactual_p053.jpg`
+- **Linha anotada e recorte de notícia** · BTG Pactual p.54 · `slides/BTGPactual_p054.jpg`
+- **Linha anotada e barras com linha** · BTG Pactual p.55 · `slides/BTGPactual_p055.jpg`
+  - ROE line chart with a dotted average line at 15% and labelled troughs/peaks, beside a column chart of partners' equity; header strip with the three-pillar labels at the top.
+- **Metáfora do bolo e área empilhada** · BTG Pactual p.56 · `slides/BTGPactual_p056.jpg`
+  - Cake metaphor illustration (small cake growing into big cake) on the left next to a stacked-area chart with CAGR labels per layer on the right edge.
+- **Organograma societário e barras de votos** · BTG Pactual p.57 · `slides/BTGPactual_p057.jpg`
+  - Compact ownership org chart (holding > BTG Holding > BPAC11 units, free float 26.1%) beside ON vs PN bar charts, with a highlighted callout for the 87% voting power.
+- **Retrato com citação e gráfico de barras** · BTG Pactual p.58 · `slides/BTGPactual_p058.jpg`
+- **Retrato com citação e listas de sócios** · BTG Pactual p.59 · `slides/BTGPactual_p059.jpg`
+  - Large portrait of the former founder with a quote overlay and a 'we talked to' dark caption bar; right column stacks two lists of partners beside round/diamond portraits per era.
+- **Retrato com duas citações em sequência** · BTG Pactual p.60 · `slides/BTGPactual_p060.jpg`
+  - Cut-out portrait bleeding off the left edge with a speech-style quote on a grey card to the right and a 'we talked to' black bar at the bottom for provenance.
+- **Retrato recortado com citação e KPIs** · BTG Pactual p.63 · `slides/BTGPactual_p063.jpg`
+  - Full-height cut-out executive photo on the left, short bio and logo clusters, with three teal stat tiles on the right, closing with a dark 'They don't have the digital DNA' statement.
+- **Retrato recortado com KPIs e conclusão** · BTG Pactual p.64 · `slides/BTGPactual_p064.jpg`
+- **Divisor escuro com ícones de teses** · BTG Pactual p.65 · `slides/BTGPactual_p065.jpg`
+- **Losango central ligando critérios e notas** · BTG Pactual p.66 · `slides/BTGPactual_p066.jpg`
+  - Diamond 'Index Rationale' node in the middle linking two boxes (current efforts, future commitment) to their criteria lists, with a benchmark logo rail down the right edge.
+- **Dispersão de pares e caixas de destaques** · BTG Pactual p.67 · `slides/BTGPactual_p067.jpg`
+  - Scatter plot of peers (current vs future) with BPAC11 highlighted by a line to three stacked teal tiles (Environmental, Social, Governance) with one-line justifications.
+- **Divisor escuro com ícones de teses** · BTG Pactual p.68 · `slides/BTGPactual_p068.jpg`
+- **Barras com linhas de rendimento e painel esmaecido** · BTG Pactual p.69 · `slides/BTGPactual_p069.jpg`
+- **Dois gráficos de barras com linhas** · BTG Pactual p.70 · `slides/BTGPactual_p070.jpg`
+  - Two same-style column panels with tiny coloured % chips on every bar, a yield box in the corner and one assumption in the subtitle highlighted in blue.
+- **Barras com CAGR e caixa de método** · BTG Pactual p.71 · `slides/BTGPactual_p071.jpg`
+  - Column chart with a curved arrow and 10% CAGR label, paired with a mini step-by-step panel showing guidance range 450-850 to 600 and a 4.5% discount.
+- **Barras crescentes e cards de carteira** · BTG Pactual p.72 · `slides/BTGPactual_p072.jpg`
+  - AuC columns with BTG's share-of-brokerage line next to three profile tiles (conservative, moderate, aggressive take-rate) and a dark bar with the average.
+- **Barras com linha e lista de premissas** · BTG Pactual p.73 · `slides/BTGPactual_p073.jpg`
+  - Row of circular bubbles (81k to 4.8m clients) above a TPV column chart, with a stack of grey tiles listing each key assumption with its big number (1.5%, 1.1%, 10%).
+- **Barras empilhadas e quebra por segmento** · BTG Pactual p.74 · `slides/BTGPactual_p074.jpg`
+  - Stacked revenue columns by line with a right-side mix table comparing 2020 to 2025E; each segment gets a coloured box with %s so the mix is readable without a legend.
+- **Dois gráficos de barras com linha** · BTG Pactual p.76 · `slides/BTGPactual_p076.jpg`
+- **Linhas de retorno e barras empilhadas** · BTG Pactual p.77 · `slides/BTGPactual_p077.jpg`
+  - ROAE/ROAA line chart on the left and a Basel index stacked column (Tier I / Tier II) on the right; two linked panels each led by a blue-underlined sentence.
+- **Dispersão de múltiplos e texto conclusivo** · BTG Pactual p.79 · `slides/BTGPactual_p079.jpg`
+  - P/BV vs ROE scatter with a shaded 'Challenger' zone and a regression line, BPAC11 highlighted, and a dark conclusion box at the bottom right.
+- **Encerramento escuro com foto** · BTG Pactual p.81 · `slides/BTGPactual_p081.jpg`
+- **Dois gráficos de barras com caixa de conclusão** · BTG Pactual p.84 · `slides/BTGPactual_p084.jpg`
+- **Fatores em fita e caixas de percentual** · BTG Pactual p.86 · `slides/BTGPactual_p086.jpg`
+  - Three curved stream bands with icons (relationship, quantity, sophistication of services) lead into two big-number tiles (82% vs 44%), then a dark takeaway bar.
+- **Dois mapas coropléticos comparados** · BTG Pactual p.87 · `slides/BTGPactual_p087.jpg`
+  - Two identical choropleth maps of Brazil side by side (BTG vs XP) with gradient legends and state counts, making the footprint contrast obvious at a glance.
+- **Foto de fachada com retrato e citação** · BTG Pactual p.88 · `slides/BTGPactual_p088.jpg`
+  - Building photo and CEO photo framing a large quote, with a flag + big 41% fact line in a grey bar at the bottom.
+- **Barras 100% por perfil e caixas de taxa** · BTG Pactual p.91 · `slides/BTGPactual_p091.jpg`
+- **Dois gráficos de barras com linha** · BTG Pactual p.92 · `slides/BTGPactual_p092.jpg`
+- **Duas tabelas de sensibilidade com mapa de calor** · BTG Pactual p.93 · `slides/BTGPactual_p093.jpg`
+  - Two red-yellow-green heatmap grids side by side (take rate x efficiency; efficiency x market share) with the base case at the top-left and a concise bullet explanation below.
+- **Telas de apps lado a lado com legendas** · BTG Pactual p.94 · `slides/BTGPactual_p094.jpg`
+- **Telas de apps com texto de conclusão** · BTG Pactual p.95 · `slides/BTGPactual_p095.jpg`
+- **Ecossistema em funil com ciclo central** · BTG Pactual p.96 · `slides/BTGPactual_p096.jpg`
+  - Central circular arrow with partner logos flanked by three left and three right feature labels with round connector dots, and a bottom three-step process timeline.
+- **Dois lados com marcadores ligados por título** · BTG Pactual p.98 · `slides/BTGPactual_p098.jpg`
+  - Mirror layout with two dark tabs (BTG side left, Startup side right) and three symmetric labelled items per side joined by round markers.
+- **Dois painéis de receita por cliente** · BTG Pactual p.100 · `slides/BTGPactual_p100.jpg`
+- **Dispersão triangular e legenda de critérios** · BTG Pactual p.106 · `slides/BTGPactual_p106.jpg`
+  - Triangular materiality matrix with management-view on X and stakeholder-view on Y, coloured dots legend on the right and bolded highlights.
+- **Lista de IPOs e barras de receita** · BTG Pactual p.108 · `slides/BTGPactual_p108.jpg`
+  - Vertical step-staircase of IPO dates and logos on the left against a revenue column chart with a CAGR bar on the right.
+- **Retrato executivo com trajetória e equipe** · BTG Pactual p.110 · `slides/BTGPactual_p110.jpg`
+  - Hero profile (photo, mini career timeline Intern to CEO, awards and board seats) above a row of four portrait-led executive cards.
+- **Organograma societário com percentuais** · BTG Pactual p.111 · `slides/BTGPactual_p111.jpg`
+  - Clean ownership organogram with boxed holding entities, ON/PN share splits inside each node and percentages on connectors.
+- **Pilha de negócios com fluxos e linha do tempo** · BTG Pactual p.112 · `slides/BTGPactual_p112.jpg`
+  - Vertical stack of the business lines in blue shades on the left, flanked by icons for companies and investors and a mini timeline of banking eras on the right.
+- **Fórmula de taxa e barras ranqueadas** · BTG Pactual p.113 · `slides/BTGPactual_p113.jpg`
+  - Formula strip (Bank's economics x deal incentive fee = bank's incentive fee) above an ascending bar chart with BTG highlighted dark navy at the end.
+- **Rosca de receita e três caixas de drivers** · BTG Pactual p.114 · `slides/BTGPactual_p114.jpg`
+  - Partial donut with the S&T slice pulled out and annotated with two numbered explanation boxes, and three dark icon tiles listing the growth drivers.
+- **Barras empilhadas e linha com faixa média** · BTG Pactual p.115 · `slides/BTGPactual_p115.jpg`
+  - 100% stacked bars of RWA by risk type for five banks, beside a VaR line with industry-average shaded band behind it.
+- **Tabela de pares com destaque e barras** · BTG Pactual p.116 · `slides/BTGPactual_p116.jpg`
+  - Peer AuM table with BTG row highlighted in a teal band and column-shaded categories, next to a bar chart of AuM by fund class.
+- **Área empilhada e barras de prazo** · BTG Pactual p.117 · `slides/BTGPactual_p117.jpg`
+- **Linhas de crédito e fluxo de recebíveis** · BTG Pactual p.118 · `slides/BTGPactual_p118.jpg`
+  - Two-line chart of SME vs large corporate credit with a labelled data-gap annotation, plus a recurring flow diagram and the Low Provisions + High Spreads = Margin gains equation.
+- **Barras horizontais e barras com caixas** · BTG Pactual p.119 · `slides/BTGPactual_p119.jpg`
+  - Horizontal funding stack by year with dotted bracketing of demand deposits and growth chips; right column shows BTG+ loan book column chart and two icon-led benefit boxes.
+- **Mapa regional com gráficos de linha e barras** · BTG Pactual p.120 · `slides/BTGPactual_p120.jpg`
+  - South America map with Colombia and Chile highlighted and attached labels carrying the acquisition and licence, next to two bar panels of ECM volume and market cap.
+- **Mapa regional com números-chave** · BTG Pactual p.121 · `slides/BTGPactual_p121.jpg`
+- **Estrutura societária e pirâmide de classes** · BTG Pactual p.122 · `slides/BTGPactual_p122.jpg`
+  - Ownership box diagram on the left and an income-class pyramid (A to E) on the right with High income focus (BTG) vs Low income focus (Pan) labels.
+- **Três ícones com pizzas e pirâmide etária** · BTG Pactual p.123 · `slides/BTGPactual_p123.jpg`
+  - Three donut charts with product icons feeding a bar-pyramid age distribution of the INSS niche.
+- **Tela de celular com lista e barras** · BTG Pactual p.124 · `slides/BTGPactual_p124.jpg`
+- **Duas tabelas de concorrentes com logos** · BTG Pactual p.125 · `slides/BTGPactual_p125.jpg`
+  - Two peer tables with logos and revenue/ratio and product columns, grouping banks vs digital players, in light-grey zebra rows.
+- **Dois gráficos de barras empilhadas com seta** · BTG Pactual p.141 · `slides/BTGPactual_p141.jpg`
+  - Two stacked-column panels each with a large curved CAGR arrow over the bars and a bold ROA line at the base.
+- **Fórmula de rendimento e barras com linha** · BTG Pactual p.142 · `slides/BTGPactual_p142.jpg`
+- **Barras de múltiplos e tabela de IRR** · BTG Pactual p.144 · `slides/BTGPactual_p144.jpg`
+  - Clustered columns of implied multiples by unit next to an IRR grid (exit year x exit P/E) with the base case highlighted in dark and gradient blue cells.
+- **Dispersão com regressão e nota** · BTG Pactual p.146 · `slides/BTGPactual_p146.jpg`
+  - Scatter plot with shaded 'Challenger' region, regression line equation box with a callout pointing to the result and a modest disclaimer note.
+- **Duas tabelas de sensibilidade com mapa de calor** · BTG Pactual p.147 · `slides/BTGPactual_p147.jpg`
+  - Two red-to-green heatmaps showing % upside (Ke x g, Ke x perpetuity payout) with a BUY recommendation tag below the grid.
+- **Tabela de sensibilidade com gradiente verde** · BTG Pactual p.148 · `slides/BTGPactual_p148.jpg`
+  - Single clean green-gradient grid with the base case in a bolder tile and large readable numbers, a good minimal sensitivity layout.
+- **Matriz de risco e lista agrupada** · BTG Pactual p.149 · `slides/BTGPactual_p149.jpg`
+  - Probability x impact grid with pill-shaped bubbles coded M1/M2 (market), C1-C3 (company), D1/D2 (competition) in three colours, with a coloured legend panel on the right explaining each code.
+- **Dois gráficos de barras com textos** · BTG Pactual p.5 · `slides/BTGPactual_p005.jpg`
+- **Barras horizontais e barras com linha** · BTG Pactual p.6 · `slides/BTGPactual_p006.jpg`
+  - Two-panel slide with a blue sentence-lead above each chart, Brazil bar flagged by a callout label, paired with a stacked-column issuance chart overlaid with a cost-of-credit line.
+- **Gráfico de barras e cards em revelação** · BTG Pactual p.7 · `slides/BTGPactual_p007.jpg`
+- **Dispersão rotulada e área empilhada em revelação** · BTG Pactual p.9 · `slides/BTGPactual_p009.jpg`
+- **Círculos proporcionais e esquema de fluxo** · BTG Pactual p.11 · `slides/BTGPactual_p011.jpg`
+- **Círculos proporcionais e fluxo de recebíveis** · BTG Pactual p.12 · `slides/BTGPactual_p012.jpg`
+  - Two proportional circles (R$53.6bn to R$107.2bn) plus a mini flow diagram and an equation strip with coloured tiles (Low Provisions + High Spreads = Margin Gains).
+- **Barras 100% horizontais e prêmios em revelação** · BTG Pactual p.15 · `slides/BTGPactual_p015.jpg`
+  - 100%-stacked horizontal bars by client segment beside a podium-style 1st/2nd/3rd logo row, with the right side faded in the earlier build.
+- **Barras 100% esmaecidas e ranking de prêmios** · BTG Pactual p.16 · `slides/BTGPactual_p016.jpg`
+- **Cadeia de valor e lista numerada** · BTG Pactual p.21 · `slides/BTGPactual_p021.jpg`
+  - Mini value-chain on the left (brokers/banks > advisors > clients) with a numbered 1-2-3 list on the right and a boxed comparison of clients per manager.
+- **Cadeia de valor e barras 100% comparativas** · BTG Pactual p.22 · `slides/BTGPactual_p022.jpg`
+- **Barras com linha e caixas de regulação** · BTG Pactual p.23 · `slides/BTGPactual_p023.jpg`
+  - Column chart of AuC with a registered-IFA line and a big XP logo plus 17% market-share callout; right panel builds into a regulation-change statement and a peer-case logo row.
+- **Barras esmaecidas e fluxo de decisão com logos** · BTG Pactual p.24 · `slides/BTGPactual_p024.jpg`
+- **Grupos de logos com caixas descritivas em revelação** · BTG Pactual p.28 · `slides/BTGPactual_p028.jpg`
+- **Logos, conclusão e lista de fatores** · BTG Pactual p.31 · `slides/BTGPactual_p031.jpg`
+- **Cadeia de valor e equação de resultado** · BTG Pactual p.36 · `slides/BTGPactual_p036.jpg`
+  - Vertical Company-Advisor-Investment Bank chain with green checks, contrasted against XP's chain with red X boxes in the earlier build; final 'In short' 3-icon equation.
+- **Barras empilhadas e cards em revelação** · BTG Pactual p.39 · `slides/BTGPactual_p039.jpg`
+- **Barras empilhadas e cards de clientes** · BTG Pactual p.40 · `slides/BTGPactual_p040.jpg`
+  - Stacked columns with a concentration line, a green mini-legend box numbering the causes, and a dark callout strip plus a 3-step slanted-tile flow for the change.
+- **Gráfico de linhas e cartões ilustrados** · BTG Pactual p.44 · `slides/BTGPactual_p044.jpg`
+  - Two-line time series (checking accounts vs active cards) with a big '2.2x' ratio callout on the plot and a dark box delivering the conviction statement plus 'Why?' hook.
+- **Barras com linha de margem e painel esmaecido** · BTG Pactual p.75 · `slides/BTGPactual_p075.jpg`
+  - Bars with an efficiency-ratio line labelled in dark chips, a dark blue headline tag above, and a second panel for payout ratio held at 60% in perpetuity.
+- **Índice em colunas sobre fundo escuro** · BTG Pactual p.82 · `slides/BTGPactual_p082.jpg`
+- **Índice de apêndice em três colunas** · BTG Pactual p.83 · `slides/BTGPactual_p083.jpg`
+- **Texto de metodologia e print de reunião** · BTG Pactual p.85 · `slides/BTGPactual_p085.jpg`
+- **Texto com ícones e lista de insights** · BTG Pactual p.89 · `slides/BTGPactual_p089.jpg`
+- **Tabela densa de comparáveis internacionais** · BTG Pactual p.90 · `slides/BTGPactual_p090.jpg`
+  - Dense dark-header comps table with BTG's row highlighted in a grey band, followed by a one-line conclusion in blue.
+- **Logos de aquisições e texto explicativo** · BTG Pactual p.97 · `slides/BTGPactual_p097.jpg`
+- **Cadeia de chevrons e barras de AuC** · BTG Pactual p.99 · `slides/BTGPactual_p099.jpg`
+  - Chevron arrow ribbon summarising XP's evolution milestones next to a sorted peer column chart with BTG highlighted in blue and others in grey.
+- **Tabela densa de critérios com notas** · BTG Pactual p.101 · `slides/BTGPactual_p101.jpg`
+  - Dense scoring matrix with per-category subtotals and an average column; useful as an evidence appendix that supports the ESG slide.
+- **Tabela densa de critérios com notas** · BTG Pactual p.102 · `slides/BTGPactual_p102.jpg`
+- **Tabela de texto com exemplos por empresa** · BTG Pactual p.103 · `slides/BTGPactual_p103.jpg`
+- **Tabela de texto com exemplos por empresa** · BTG Pactual p.104 · `slides/BTGPactual_p104.jpg`
+- **Tabela de texto com exemplos por empresa** · BTG Pactual p.105 · `slides/BTGPactual_p105.jpg`
+- **Lista de tópicos e citação em caixa** · BTG Pactual p.107 · `slides/BTGPactual_p107.jpg`
+- **Tabela comparativa, citações e recorte de jornal** · BTG Pactual p.109 · `slides/BTGPactual_p109.jpg`
+  - Compact two-row 1999 vs 2020 comparison with a dotted bracket on the partner count, a WSJ headline clip as evidence, and a quote panel on the right.
+- **Diagrama de relação e barras com linha** · BTG Pactual p.126 · `slides/BTGPactual_p126.jpg`
+  - Stacked bars (revenue and net profit) plus ROE line on the right with a left-hand ownership/relationship diagram using the logos.
+- **Lista de ativos e barras com linha** · BTG Pactual p.127 · `slides/BTGPactual_p127.jpg`
+- **Demonstração de resultado resumida** · BTG Pactual p.128 · `slides/BTGPactual_p128.jpg`
+- **Tabela de receitas por linha** · BTG Pactual p.129 · `slides/BTGPactual_p129.jpg`
+  - Hierarchical table with shaded sub-total rows (core, digital, others) and % of total beneath each line.
+- **Tabela densa de projeções por divisão** · BTG Pactual p.130 · `slides/BTGPactual_p130.jpg`
+- **Tabela de projeções com nota lateral** · BTG Pactual p.131 · `slides/BTGPactual_p131.jpg`
+  - Forecast table split into sections (total, SME, large) with a side annotation and arrow explaining the yield-spread source.
+- **Tabela de projeções com texto abaixo** · BTG Pactual p.132 · `slides/BTGPactual_p132.jpg`
+- **Tabela de projeções de gestão de ativos** · BTG Pactual p.133 · `slides/BTGPactual_p133.jpg`
+- **Tabela de projeções por classe de fundo** · BTG Pactual p.134 · `slides/BTGPactual_p134.jpg`
+- **Tabela densa de projeções de unidade** · BTG Pactual p.135 · `slides/BTGPactual_p135.jpg`
+- **Tabela de projeções com células destacadas** · BTG Pactual p.136 · `slides/BTGPactual_p136.jpg`
+- **Tabela de resultado e dividendos** · BTG Pactual p.137 · `slides/BTGPactual_p137.jpg`
+- **Tabela de demonstrativo de subsidiária** · BTG Pactual p.138 · `slides/BTGPactual_p138.jpg`
+- **Tabela de índices de balanço** · BTG Pactual p.139 · `slides/BTGPactual_p139.jpg`
+  - Cleanly bordered ratio table with dark header row and grouped line items (assets, capital, ratios).
+- **Tabela de fluxo de dividendos descontados** · BTG Pactual p.140 · `slides/BTGPactual_p140.jpg`
+- **Dois gráficos de barras de valor por unidade** · BTG Pactual p.143 · `slides/BTGPactual_p143.jpg`
+  - Two bar panels (equity value vs per-share value) with the Core bar towering over the digital units so the weight of each unit reads immediately.
+- **Fórmula de múltiplo e linha tracejada** · BTG Pactual p.145 · `slides/BTGPactual_p145.jpg`
+  - Formula strip (Fair P/B = (ROE-g)/(Ke-g)) in a grey panel above a dashed forecast line against a shaded justified-P/BV band.

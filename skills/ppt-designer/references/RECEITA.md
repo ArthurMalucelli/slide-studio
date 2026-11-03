@@ -1,6 +1,6 @@
 # Receita de um bom slide
 
-Tirada dos três decks que o dono considera os melhores: Sabesp, Nubank e ChallengeB. Não copie nenhum slide: siga os passos com o seu conteúdo. Os exemplos entre parênteses mostram a técnica (`ChallengeB p.7` = `exemplos/prints/ChallengeB_p007.jpg`).
+Tirada dos três decks que o dono considera os melhores: Sabesp, Nubank e ChallengeB. Não copie nenhum slide: siga os passos com o seu conteúdo. Os exemplos entre parênteses mostram a técnica (`ChallengeB p.7` = `exemplos/slides/ChallengeB_p007.jpg`).
 
 Cada passo deixa uma linha em `plan.md`. Faça nesta ordem e só escreva código no fim.
 
@@ -35,6 +35,8 @@ Escolha no banco de provas do roteiro. Use a tabela abaixo como ponto de partida
 | 2 | Dois painéis largos, altura inteira | ChallengeB p.7 |
 | 3 | Um grande e dois pequenos, ou três colunas com uma faixa embaixo | ChallengeB p.2, p.5 |
 | 3 + 1 diferente | 2×2 com 3 gráficos e o quarto de outra natureza | ChallengeB p.3, p.4, p.10 |
+
+**Para ver a técnica:** `exemplos/por-formato/` lista os slides por número de quadrantes (nos 1.647 do catálogo, 2 e 3 são os mais comuns, e 4 bem menos), e `exemplos/por-tipo/` lista as peças por tipo, com `★` primeiro. Quadrante recortado perde a ligação com os vizinhos: abra o slide inteiro.
 
 **No máximo 3 gráficos por slide.** Quatro gráficos em quadrantes é demais, segundo o dono. O quarto quadrante, quando existe, é outra coisa: ilustração, cadeia de valor, timeline, citação ou diagrama, ou texto curto preso a um dado. Painel só de frases soltas continua reprovado.
 

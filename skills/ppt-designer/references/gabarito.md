@@ -2,7 +2,7 @@
 
 São os melhores decks na opinião do dono: todos os slides deles são referência. Estude a técnica pela receita em `RECEITA.md`; não copie slide, conteúdo nem cores.
 
-Print: `references/exemplos/prints/<Deck>_pNNN.jpg`. Página inteira: `references/exemplos/pdf/<Deck>.pdf`. Medidas: `scripts/medir_slide.py <pdf> <página>`.
+Print: `references/exemplos/slides/<Deck>_pNNN.jpg`. Página inteira: `references/exemplos/pdf/<Deck>.pdf`. Medidas: `scripts/medir_slide.py <pdf> <página>`.
 
 | Deck | Pág. | Tipo | Visual | O que faz |
 |---|---:|---|---|---|

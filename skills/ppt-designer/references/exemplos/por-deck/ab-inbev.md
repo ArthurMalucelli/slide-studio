@@ -1,0 +1,245 @@
+# AB InBev: páginas (168)
+
+- ★ **Retrato com citação, fórmula e dispersão** · AB InBev p.6 · `slides/ABInBev_p006.jpg`
+  - Expert photo with pull-quote, then a big yellow equation 8.3% ÷ 0.5% = 16.6 in a dashed box, scatter with a fitted curve alongside.
+- ★ **Órbita radial com satélites ao redor do logo** · AB InBev p.32 · `slides/ABInBev_p032.jpg`
+  - Hub-and-spoke circle with logo at centre and four yellow nodes carrying one short stat each, large thin ring at left.
+- ★ **Funil amarelo de rota ao mercado** · AB InBev p.39 · `slides/ABInBev_p039.jpg`
+  - Yellow funnel shape narrowing between 'Distribution' and 'Barrier for peers', turning into a comparison table on the right.
+- ★ **Controles deslizantes ao lado de linhas** · AB InBev p.43 · `slides/ABInBev_p043.jpg`
+  - Vertical slider-style bars per app in tinted cards (yellow for Zé, pink for competitors) paired with a market-share line.
+- ★ **DCF, rosca de TIR, sensibilidades e citação** · AB InBev p.55 · `slides/ABInBev_p055.jpg`
+  - Left clean DCFE table with Ke/g/price/upside rows, Ke vs g sensitivity grid in yellow headers, a circular yellow ring for the IRR 16.8% and an exit P/E table; investor quote with photo bottom-right.
+- ★ **Matriz de impacto e lista de riscos** · AB InBev p.56 · `slides/ABInBev_p056.jpg`
+  - 3x3 grid with yellow squares labelled R1-R4 (intensity of yellow equals severity), and a legend list of numbered yellow dots with one-line descriptions.
+- ★ **Retratos em losango com lista de perfis** · AB InBev p.73 · `slides/ABInBev_p073.jpg`
+  - Four diamond-cropped portraits forming a diamond cluster with school logos on top and one-line bios on the right.
+- ★ **Retratos em losango com lista de perfis** · AB InBev p.74 · `slides/ABInBev_p074.jpg`
+- ★ **Retratos em losango com lista de perfis** · AB InBev p.75 · `slides/ABInBev_p075.jpg`
+- ★ **Retratos em losango com lista de perfis** · AB InBev p.76 · `slides/ABInBev_p076.jpg`
+- ★ **Fases com curva de esforço e área** · AB InBev p.81 · `slides/ABInBev_p081.jpg`
+  - Four dark phase headers over a yellow area-curve showing benefits vs effort rising, with action bullet lists below.
+- ★ **Funil em perspectiva com abelha em destaque** · AB InBev p.104 · `slides/ABInBev_p104.jpg`
+  - A yellow funnel pyramid goes from phone/call/visit channels into the bee logo, with three function boxes below.
+- ★ **Três colunas amarelas com ícones e turbina** · AB InBev p.121 · `slides/ABInBev_p121.jpg`
+  - Three tall yellow cards with line icons and bullet lists, wind turbine illustration crossing the slide.
+- ★ **Código em janela ao lado de mapa de pontos** · AB InBev p.124 · `slides/ABInBev_p124.jpg`
+- ★ **Código em janela ao lado de mapa de pontos** · AB InBev p.125 · `slides/ABInBev_p125.jpg`
+- **Capa com triângulos amarelos diagonais** · AB InBev p.1 · `slides/ABInBev_p001.jpg`
+  - Big diagonal yellow/charcoal wedge over a desaturated company-HQ photo with the logo in the yellow zone and team names bottom-left; the same wedge motif reused on every divider.
+- **Resumo de tese com linhas e recomendação** · AB InBev p.2 · `slides/ABInBev_p002.jpg`
+  - Dark slide with a giant yellow BUY centred, price/target and IRR/FCFE as thin bracket-lines on the right, three pillar labels with connector dots on the left.
+- **Três pilares numerados sobre fundo escuro** · AB InBev p.3 · `slides/ABInBev_p003.jpg`
+  - Numbered I/II/III yellow dots with a thin leader line and a left bar bolding the claim; the same slide returns as a divider with the active pillar lit yellow and the others greyed.
+- **Três painéis com gráfico, rosca e mapa** · AB InBev p.4 · `slides/ABInBev_p004.jpg`
+  - Three framed panels side by side (revenue bars, share donut, world map with volume area) with a yellow vertical side tab carrying the section title.
+- **Área empilhada ao lado de barras destacadas** · AB InBev p.5 · `slides/ABInBev_p005.jpg`
+  - Stacked area of market share by brewer left, dark bars by country right with ABI's slot highlighted by a yellow box.
+- **Diagrama de poder com linhas de margem** · AB InBev p.7 · `slides/ABInBev_p007.jpg`
+  - A bargaining-power diagram flows into a yellow working-capital equation (receivables + inventory - payables) in a dashed box; EBIT margin and ROIC line charts beside.
+- **Pilares com destaque do item ativo** · AB InBev p.8 · `slides/ABInBev_p008.jpg`
+- **Retratos de executivos com linha do tempo** · AB InBev p.9 · `slides/ABInBev_p009.jpg`
+  - Cut-out portraits on grey with two parallel career timelines per CEO and a dashed-box committee row.
+- **Barras com faixa destacada e gráficos combinados** · AB InBev p.10 · `slides/ABInBev_p010.jpg`
+  - Paired columns (premium paid vs synergies) per deal with a green "Value Added" zone and red-tinted "Value Destroyed" zone behind the bars.
+- **Barras com faixa destacada e cascata** · AB InBev p.11 · `slides/ABInBev_p011.jpg`
+  - Same deal chart reused with the SABMiller column tinted red, next to a descending waterfall of asset-sale multiples.
+- **Barras ao lado de print de entrevista** · AB InBev p.12 · `slides/ABInBev_p012.jpg`
+- **Tabela de frequência com nuvem de palavras** · AB InBev p.13 · `slides/ABInBev_p013.jpg`
+  - Python word cloud with the code screenshot underneath as proof, and a small table of word counts per CEO with the active CEO's row boxed.
+- **Tabela de frequência com nuvem de palavras** · AB InBev p.14 · `slides/ABInBev_p014.jpg`
+- **Mosaico de prints de entrevistas com faixa** · AB InBev p.15 · `slides/ABInBev_p015.jpg`
+  - Grid of video-call screenshots with captions, closed by a full-width yellow strip with two huge numbers (47 employees, 04 countries).
+- **Barras com destaque e painel escuro explicativo** · AB InBev p.16 · `slides/ABInBev_p016.jpg`
+  - Peer bars with logos as x-axis and ABI in yellow, others charcoal; a three-position slider on top (E/S/G) shows which pillar is active, repeated across 3 slides.
+- **Barras com destaque e painel de linha** · AB InBev p.17 · `slides/ABInBev_p017.jpg`
+  - Same peer-bar left half plus right dark panel with a small bar series and a women-in-leadership line; slider moved to 'Social'.
+- **Barras com destaque e roscas comparativas** · AB InBev p.18 · `slides/ABInBev_p018.jpg`
+- **Barras com destaque e barras empilhadas** · AB InBev p.19 · `slides/ABInBev_p019.jpg`
+  - Peer bars left, then three tinted columns (ABI, Heineken, Carlsberg) comparing CEO/CFO fixed vs variable pay.
+- **Retrato com citação e quadro de leitura** · AB InBev p.20 · `slides/ABInBev_p020.jpg`
+  - Large cut-out photo with caption, then three grey cards under a tree connector (New CEO / Ownership / Future) with yellow headers.
+- **Pilares com destaque do item ativo** · AB InBev p.21 · `slides/ABInBev_p021.jpg`
+- **Barras empilhadas, tabela e mosaico de logos** · AB InBev p.22 · `slides/ABInBev_p022.jpg`
+  - Stacked 100% bars per company at left and a wall of brand logos on the right plus a table of Ambev vs Heineken volume.
+- **Área empilhada ao lado de barras** · AB InBev p.23 · `slides/ABInBev_p023.jpg`
+  - Yellow/black area chart of beer segment share over 50 years beside premium share bars by region with average line in a dashed panel.
+- **Garrafas de produto com nuvem de palavras** · AB InBev p.24 · `slides/ABInBev_p024.jpg`
+  - Bottle photos in yellow-framed cards with arrow-banner header and a word cloud of tweets on the right.
+- **Garrafas de produto ao lado de linha** · AB InBev p.25 · `slides/ABInBev_p025.jpg`
+- **Produto lateral com duas roscas comparativas** · AB InBev p.26 · `slides/ABInBev_p026.jpg`
+  - Two donuts 2011 vs 2021 linked by a yellow CAGR bracket, product images left, full-width yellow quote strip bottom.
+- **Produto lateral com barras e faixa de destaque** · AB InBev p.27 · `slides/ABInBev_p027.jpg`
+- **Arquétipos, mapa perceptual e prints** · AB InBev p.28 · `slides/ABInBev_p028.jpg`
+  - Dark text box with archetype to brand mapping at left and a perception map (budget/premium x refreshing/bodied) with beer names scattered at the right.
+- **Barras pareadas ao lado de linhas** · AB InBev p.29 · `slides/ABInBev_p029.jpg`
+- **Barras pareadas e duas linhas de margem** · AB InBev p.30 · `slides/ABInBev_p030.jpg`
+  - Paired bars of price/mix vs CPI by year, and a margin line chart with the 2008 trough annotated.
+- **Pilares com destaque do item ativo** · AB InBev p.31 · `slides/ABInBev_p031.jpg`
+- **Mapa de pontos com KPIs e foto** · AB InBev p.33 · `slides/ABInBev_p033.jpg`
+  - Greyed São Paulo map with yellow heat blobs, two huge yellow numbers (27 / 10+), store photo on right.
+- **Barras crescentes ao lado de linha** · AB InBev p.34 · `slides/ABInBev_p034.jpg`
+  - Dark columns with a CQGR arrow tag and callout (44 mn orders), combined with a yellow DAU line on the right.
+- **Barras crescentes ao lado de mapa** · AB InBev p.35 · `slides/ABInBev_p035.jpg`
+- **Barras crescentes com painel escuro de texto** · AB InBev p.36 · `slides/ABInBev_p036.jpg`
+- **Barras crescentes com painel de rosca** · AB InBev p.37 · `slides/ABInBev_p037.jpg`
+  - Grey ring '20% fixed mark-up' plus a yellow funnel arrow '+ 4.7 Mn active users' on the right.
+- **Mosaico de fotos de teste com tabela** · AB InBev p.38 · `slides/ABInBev_p038.jpg`
+  - Delivery-person photos grid, quote, and a small table (time, temperature, st. dev) with Zé row in dashed yellow-outlined frame.
+- **Linha dominante com faixa de critérios** · AB InBev p.40 · `slides/ABInBev_p040.jpg`
+  - Series of three slides where the same line chart highlights one player at a time (others faded), with the criteria strip (scalability / captivity / service) on top.
+- **Linha dominante com faixa de critérios** · AB InBev p.41 · `slides/ABInBev_p041.jpg`
+- **Linha dominante com faixa de critérios** · AB InBev p.42 · `slides/ABInBev_p042.jpg`
+- **Controles deslizantes com setas de legenda** · AB InBev p.44 · `slides/ABInBev_p044.jpg`
+- **Órbita radial com indicadores ao redor** · AB InBev p.45 · `slides/ABInBev_p045.jpg`
+  - Hub-and-spoke with a bee mascot in the centre and four KPIs around it; big arc at left.
+- **Barras, barras horizontais e bolhas proporcionais** · AB InBev p.46 · `slides/ABInBev_p046.jpg`
+  - Nested circles (total vs online B2B) next to e-commerce penetration bars by country with a dashed 'market consolidation' call-out.
+- **Duas séries de barras comparativas** · AB InBev p.47 · `slides/ABInBev_p047.jpg`
+  - Two matching column charts side by side with a CQGR arrow tag on each and a call-out box.
+- **Barras com métricas anotadas e seta de CAGR** · AB InBev p.48 · `slides/ABInBev_p048.jpg`
+  - Quarterly columns left and a mini FY20 vs FY21 table in yellow with multiplier tags (6.7x, 5.2x) between values.
+- **Rosca, painel de percentuais e linha** · AB InBev p.49 · `slides/ABInBev_p049.jpg`
+- **Notas de pesquisa, fotos e linha de engajamento** · AB InBev p.50 · `slides/ABInBev_p050.jpg`
+  - Photos of pub visits, horizontal 5-block rating bars per question, and a giant '23 Interviewed' strip.
+- **Lista numerada, prints de reunião e mapa** · AB InBev p.51 · `slides/ABInBev_p051.jpg`
+  - Concentric half-ring with 01 to 04 numbered items on the left, call photo and map on the right.
+- **Divisor escuro com triângulos diagonais** · AB InBev p.52 · `slides/ABInBev_p052.jpg`
+- **Barras empilhadas ao lado de linhas** · AB InBev p.53 · `slides/ABInBev_p053.jpg`
+  - Stacked bar of volume by region with yellow for North America, total labels on top, line chart of revenue/hl alongside in a grey panel.
+- **Barras empilhadas ao lado de linhas de margem** · AB InBev p.54 · `slides/ABInBev_p054.jpg`
+  - Stacked regional revenue columns and margin lines with end-point labels in black chips.
+- **Matriz de impacto e perguntas de acompanhamento** · AB InBev p.57 · `slides/ABInBev_p057.jpg`
+  - Re-uses the risk grid for continuity, but the right side becomes a dashed 'Following-up the investment' question list.
+- **Encerramento com triângulos amarelos** · AB InBev p.58 · `slides/ABInBev_p058.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.62 · `slides/ABInBev_p062.jpg`
+- **Retrato recortado com print de videochamada** · AB InBev p.63 · `slides/ABInBev_p063.jpg`
+  - Large cut-out portrait on grey band with video-call screenshot top-right, dark side tab; repeated for each interviewee.
+- **Retrato recortado com print de videochamada** · AB InBev p.64 · `slides/ABInBev_p064.jpg`
+- **Retrato recortado com print de videochamada** · AB InBev p.65 · `slides/ABInBev_p065.jpg`
+- **Retrato recortado com print de videochamada** · AB InBev p.66 · `slides/ABInBev_p066.jpg`
+- **Fotos de teste com tabela de resultado** · AB InBev p.71 · `slides/ABInBev_p071.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.72 · `slides/ABInBev_p072.jpg`
+- **Retrato em losango com perfil único** · AB InBev p.77 · `slides/ABInBev_p077.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.78 · `slides/ABInBev_p078.jpg`
+- **Linha do tempo com logos acima e abaixo** · AB InBev p.79 · `slides/ABInBev_p079.jpg`
+  - Horizontal yellow timeline with vertical ticks and brand logos above and below (pre/post merger), logos as the milestone markers.
+- **Grade de regiões com garrafas de marcas** · AB InBev p.80 · `slides/ABInBev_p080.jpg`
+  - Six cells of bottle/can product shots under yellow-bar region labels.
+- **Barras agrupadas por distância** · AB InBev p.82 · `slides/ABInBev_p082.jpg`
+  - Clustered columns (Ambev yellow, others charcoal/grey) over distance bands from 10 to 300 km.
+- **Barras regionais ao lado de linha e ranking** · AB InBev p.83 · `slides/ABInBev_p083.jpg`
+  - Regional share columns, share-over-time line with end label chip, and horizontal bars for top-4 peers with logos.
+- **Divisor escuro com triângulos diagonais** · AB InBev p.84 · `slides/ABInBev_p084.jpg`
+- **Barras de consumo, logo e lista de atributos** · AB InBev p.85 · `slides/ABInBev_p085.jpg`
+- **Três telas de aplicativo lado a lado** · AB InBev p.86 · `slides/ABInBev_p086.jpg`
+  - Three phone mockups centred under a thin brace-line for the peer set.
+- **Barras agrupadas com lista de vantagens** · AB InBev p.87 · `slides/ABInBev_p087.jpg`
+  - Grouped bars per SKU (yellow=Zé, grey=Rappi, black=iFood) with a dashed benefits list on the right.
+- **Linha do tempo vertical com tabela de notas** · AB InBev p.90 · `slides/ABInBev_p090.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.91 · `slides/ABInBev_p091.jpg`
+- **Quatro roscas de participação por região** · AB InBev p.92 · `slides/ABInBev_p092.jpg`
+  - Four donuts in a 2x2 grid with the leader in dark and the second in yellow.
+- **Barras grandes com duas barras pequenas** · AB InBev p.93 · `slides/ABInBev_p093.jpg`
+- **Barras de projeção ao lado de linha** · AB InBev p.94 · `slides/ABInBev_p094.jpg`
+  - Columns plus a falling-line chart of stock performance with a yellow callout box.
+- **Barras por país com duas séries de receita** · AB InBev p.95 · `slides/ABInBev_p095.jpg`
+- **Barras de GMV com dois painéis de prejuízo** · AB InBev p.96 · `slides/ABInBev_p096.jpg`
+  - Two vertically stacked ranked bar charts sharing a common x-axis of players, losses in yellow below the axis.
+- **Barras de receita ao lado de ranking horizontal** · AB InBev p.97 · `slides/ABInBev_p097.jpg`
+- **Quatro painéis de barras em grade** · AB InBev p.99 · `slides/ABInBev_p099.jpg`
+- **Barras com destaque ao lado de linhas cruzadas** · AB InBev p.100 · `slides/ABInBev_p100.jpg`
+- **Barras com projeção ao lado de fluxos** · AB InBev p.101 · `slides/ABInBev_p101.jpg`
+  - Two value-chain icon flows (traditional vs DTC) with arrows beside a growth bar chart with CAGR bracket.
+- **Barras com nota ao lado de ranking horizontal** · AB InBev p.102 · `slides/ABInBev_p102.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.103 · `slides/ABInBev_p103.jpg`
+- **Tela de produto com tabela de adoção** · AB InBev p.105 · `slides/ABInBev_p105.jpg`
+  - Mock-up of web+phone interfaces at left, table with yellow header at right, bullet features below.
+- **Barras com destaque ao lado de curva projetada** · AB InBev p.107 · `slides/ABInBev_p107.jpg`
+  - Three columns (Heineken 2021, target, ABI) with ABI in yellow plus an S-curve of GMV projection.
+- **Divisor escuro com triângulos diagonais** · AB InBev p.108 · `slides/ABInBev_p108.jpg`
+- **Quatro painéis de barras empilhadas regionais** · AB InBev p.109 · `slides/ABInBev_p109.jpg`
+  - Six small multiples of stacked 100% bars with ABI at the bottom in yellow and share labelled at the ends.
+- **Seis painéis de barras empilhadas regionais** · AB InBev p.110 · `slides/ABInBev_p110.jpg`
+- **Barras de mercado com lista de bebidas** · AB InBev p.111 · `slides/ABInBev_p111.jpg`
+- **Barras de penetração com linha de queda** · AB InBev p.112 · `slides/ABInBev_p112.jpg`
+- **Barras de volume e colunas de participação** · AB InBev p.113 · `slides/ABInBev_p113.jpg`
+  - Column chart left and a stacked 100% share bar right with logo labels directly in segments.
+- **Divisor escuro com triângulos diagonais** · AB InBev p.115 · `slides/ABInBev_p115.jpg`
+- **Barras com destaque e painel escuro de notas** · AB InBev p.119 · `slides/ABInBev_p119.jpg`
+- **Mapa-múndi com países destacados em amarelo** · AB InBev p.120 · `slides/ABInBev_p120.jpg`
+  - Full-width world map in yellow with countries filled, minimal text.
+- **Divisor escuro com triângulos diagonais** · AB InBev p.123 · `slides/ABInBev_p123.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.126 · `slides/ABInBev_p126.jpg`
+- **Recortes de notícia com fotos empilhados** · AB InBev p.127 · `slides/ABInBev_p127.jpg`
+- **Linha em queda, duas roscas e conclusão** · AB InBev p.128 · `slides/ABInBev_p128.jpg`
+  - Demand-decline area with 'RAPID DECLINE' tag, two donuts compared (Kodak vs Fuji), conclusion in a framed yellow-bold box.
+- **Texto com foto e diagramas de rede** · AB InBev p.129 · `slides/ABInBev_p129.jpg`
+  - Yellow arrow from the bee mascot into a Henry Schein boxed diagram with supplier and demand icons.
+- **Dois gráficos combinados de barra e linha** · AB InBev p.130 · `slides/ABInBev_p130.jpg`
+  - Two dual-axis charts with bars (EBIT per hl) and yellow line (% mix).
+- **Linhas cruzadas e barras com curva** · AB InBev p.131 · `slides/ABInBev_p131.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.132 · `slides/ABInBev_p132.jpg`
+- **Linha, rosca de exportadores e nota escura** · AB InBev p.141 · `slides/ABInBev_p141.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.145 · `slides/ABInBev_p145.jpg`
+- **Quatro painéis de linhas de margem por empresa** · AB InBev p.146 · `slides/ABInBev_p146.jpg`
+  - Four small-multiple line charts (gross, EBIT, net margin) with end-point chips.
+- **Barras de largura variável de valor adicionado** · AB InBev p.147 · `slides/ABInBev_p147.jpg`
+- **Barras de receita com rótulos em balão** · AB InBev p.149 · `slides/ABInBev_p149.jpg`
+  - Dark columns with black label chips above each bar, growth story with no axis.
+- **Rosca de custos com destaque em amarelo** · AB InBev p.150 · `slides/ABInBev_p150.jpg`
+  - Huge donut with direct labels in big type around the ring, highlighted slices in yellow.
+- **Fórmulas de valor separadas por linha** · AB InBev p.151 · `slides/ABInBev_p151.jpg`
+  - Four equation lines centred, no decoration.
+- **Duas séries de barras de cobertura** · AB InBev p.152 · `slides/ABInBev_p152.jpg`
+  - Two column series side by side (yellow vs black) projecting the leverage path.
+- **Duas séries de barras de endividamento** · AB InBev p.153 · `slides/ABInBev_p153.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.154 · `slides/ABInBev_p154.jpg`
+- **Índice em colunas sobre fundo escuro** · AB InBev p.59 · `slides/ABInBev_p059.jpg`
+  - Dark slide with four columns of underlined links, thesis headers in yellow.
+- **Índice de apêndice em colunas** · AB InBev p.60 · `slides/ABInBev_p060.jpg`
+- **Índice de apêndice em colunas** · AB InBev p.61 · `slides/ABInBev_p061.jpg`
+- **Quatro capturas de videochamada em coluna** · AB InBev p.67 · `slides/ABInBev_p067.jpg`
+  - Four tall screenshot walls placed as a staggered row over a grey strip.
+- **Colagem de fotos de campo sobre faixa** · AB InBev p.68 · `slides/ABInBev_p068.jpg`
+  - Polaroid-style staggered photo collage over a grey strip with a big yellow caption block underneath (left blank).
+- **Colagem de fotos de campo sobre faixa** · AB InBev p.69 · `slides/ABInBev_p069.jpg`
+- **Colagem de fotos de campo sobre faixa** · AB InBev p.70 · `slides/ABInBev_p070.jpg`
+- **Tabela de modelo com premissas ao lado** · AB InBev p.88 · `slides/ABInBev_p088.jpg`
+  - Embedded model table image on the left in a dashed frame, large numbered methodology steps and headline numbers on the right grey panel.
+- **Tabela de modelo com destaques ao lado** · AB InBev p.89 · `slides/ABInBev_p089.jpg`
+- **Barras empilhadas densas em série diária** · AB InBev p.98 · `slides/ABInBev_p098.jpg`
+  - Stacked 100% daily bars with a yellow base for Zé and date-slanted axis.
+- **Tabela de funcionalidades com notas de pesquisa** · AB InBev p.106 · `slides/ABInBev_p106.jpg`
+- **Duas linhas de volume por região** · AB InBev p.114 · `slides/ABInBev_p114.jpg`
+- **Planilha de critérios em miniatura** · AB InBev p.116 · `slides/ABInBev_p116.jpg`
+- **Planilha de pesos em miniatura** · AB InBev p.117 · `slides/ABInBev_p117.jpg`
+- **Planilha de pontuação em miniatura** · AB InBev p.118 · `slides/ABInBev_p118.jpg`
+- **Duas séries de barras escuras simples** · AB InBev p.122 · `slides/ABInBev_p122.jpg`
+- **Linha única macro em área ampla** · AB InBev p.133 · `slides/ABInBev_p133.jpg`
+- **Duas linhas macro lado a lado** · AB InBev p.134 · `slides/ABInBev_p134.jpg`
+- **Duas linhas macro lado a lado** · AB InBev p.135 · `slides/ABInBev_p135.jpg`
+- **Linha longa com faixas cinza de recessão** · AB InBev p.136 · `slides/ABInBev_p136.jpg`
+- **Duas linhas macro lado a lado** · AB InBev p.137 · `slides/ABInBev_p137.jpg`
+- **Duas linhas macro lado a lado** · AB InBev p.138 · `slides/ABInBev_p138.jpg`
+- **Duas linhas macro com linha de referência** · AB InBev p.139 · `slides/ABInBev_p139.jpg`
+- **Quatro linhas de preços de commodities** · AB InBev p.140 · `slides/ABInBev_p140.jpg`
+- **Duas linhas de preço de embalagem** · AB InBev p.142 · `slides/ABInBev_p142.jpg`
+- **Duas linhas de índice de embalagem** · AB InBev p.143 · `slides/ABInBev_p143.jpg`
+- **Duas linhas de custo de frete** · AB InBev p.144 · `slides/ABInBev_p144.jpg`
+- **Dispersão em quadrantes de vantagem** · AB InBev p.148 · `slides/ABInBev_p148.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.155 · `slides/ABInBev_p155.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.156 · `slides/ABInBev_p156.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.157 · `slides/ABInBev_p157.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.158 · `slides/ABInBev_p158.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.159 · `slides/ABInBev_p159.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.160 · `slides/ABInBev_p160.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.161 · `slides/ABInBev_p161.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.162 · `slides/ABInBev_p162.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.163 · `slides/ABInBev_p163.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.164 · `slides/ABInBev_p164.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.165 · `slides/ABInBev_p165.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.166 · `slides/ABInBev_p166.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.167 · `slides/ABInBev_p167.jpg`
+- **Linhas suavizadas de volume por região** · AB InBev p.168 · `slides/ABInBev_p168.jpg`
+  - Multi-line smooth chart by region converging to ~3% growth.

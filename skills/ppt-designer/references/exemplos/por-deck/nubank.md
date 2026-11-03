@@ -1,0 +1,119 @@
+# Nubank: páginas (71)
+
+- ★ **Pilares sobre trilha diagonal com recomendação** · Nubank p.4 · `slides/Nubank_p004.jpg`
+  - Recommendation as a section divider: three thesis lines staggered along a dashed diagonal path with piggy-bank icons, and BUY in large type over the photo.
+- ★ **Teste cronometrado com telas de celular** · Nubank p.8 · `slides/Nubank_p008.jpg`
+  - Left stack of four culture-value tags aligned to right-hand evidence; side-by-side phone UI step-flow showing PIX in 42s vs 1m17 with numbered screens.
+- ★ **Mapa com cunha para funil** · Nubank p.13 · `slides/Nubank_p013.jpg`
+  - Brazil regional map with a funnel panel (173M > banked > no internet > no phone > TAM 18M) stepped in decreasing lilac shades, plus founder quote strip.
+- ★ **Curvas de coorte em gradiente e barras** · Nubank p.15 · `slides/Nubank_p015.jpg`
+  - Cohort adoption fan of lines (products per client by tenure) shaded by vintage with a gradient legend, next to ARPAC-by-tenure bars with LTV callout.
+- ★ **Gráficos com volante de efeito rede** · Nubank p.20 · `slides/Nubank_p020.jpg`
+  - Circular flywheel diagram (more merchants > more data > better underwriting > more credit) with a TAM bubble (11 Bn USD) and dashed definition box.
+- ★ **Modal de síntese sobre slide esmaecido** · Nubank p.21 · `slides/Nubank_p021.jpg`
+  - Synthesis rendered as a white rounded modal over the dimmed previous slide with three numbered takeaways and an arrow to the conclusion.
+- ★ **Mapa de calor com pinos e código** · Nubank p.25 · `slides/Nubank_p025.jpg`
+  - Income-level choropleth of Mexico with pins for branch concentration, plus code screenshot and 3x faster ramp-up stat.
+- ★ **Matriz probabilidade-impacto com legenda codificada** · Nubank p.37 · `slides/Nubank_p037.jpg`
+  - 5x5 grid with each risk as a lettered purple tile (A1, B3, C2) placed by probability and impact, with a side table decoding each code into risk and one-line description.
+- **Capa com foto e curva translúcida** · Nubank p.1 · `slides/Nubank_p001.jpg`
+  - Brand-colour diagonal overlay over a full-bleed building photo with the giant 'nu' logo visible, centred title and underlined subtitle.
+- **Três colunas com perfil, barras e rosca** · Nubank p.2 · `slides/Nubank_p002.jpg`
+  - Three-panel 'at a glance': summary box with LatAm map, customer base bars with CAGR callout, and a donut-wheel of revenue streams with icons around a central logo.
+- **Colunas de gráficos com painel de personas** · Nubank p.3 · `slides/Nubank_p003.jpg`
+  - Dense 4-chart page with a right-hand rounded sidebar of age personas (icon + demand) and a dashed highlight box on the underserved bar.
+- **Divisor diagonal com pilar ativo aceso** · Nubank p.5 · `slides/Nubank_p005.jpg`
+  - Same divider template re-used at each section start with the active pillar highlighted (bold) and others dimmed, acting as a progress marker.
+- **Quatro quadrantes com etapas e citação** · Nubank p.6 · `slides/Nubank_p006.jpg`
+  - Four-quadrant page: horizontal bars of client age mix, numbered 1-2-3 acquisition-engagement-monetization flow with icons, founder quote card with photo, NPL line vs industry.
+- **Quatro quadrantes com retrato e equipe** · Nubank p.7 · `slides/Nubank_p007.jpg`
+  - Founder photo plus career-logo chain (Morgan Stanley > Goldman > General Atlantic > Sequoia) and a pill-linked team cluster with headshots above fixed-assets and Basel charts.
+- **Dois painéis empilhados e colunas altas** · Nubank p.9 · `slides/Nubank_p009.jpg`
+  - Two rounded explainer cards (SOP vs RSU) with key terms, next to turnover bars and a net-income chart with a dashed annotation box.
+- **Quatro painéis com caixa de impacto** · Nubank p.10 · `slides/Nubank_p010.jpg`
+  - Two stacked chart pairs with a lilac callout containing a numbered 'Itau would have to fire all employees + liquidate 44% of assets' equivalence.
+- **Ranking e linha ao lado de decomposição** · Nubank p.11 · `slides/Nubank_p011.jpg`
+  - Horizontal ROAE ranking bar with Nubank highlighted, paired with ROAE/ROAA/leverage DuPont lines and an equation callout box.
+- **Divisor diagonal com pilar ativo aceso** · Nubank p.12 · `slides/Nubank_p012.jpg`
+- **Dois gráficos empilhados e área sombreada** · Nubank p.14 · `slides/Nubank_p014.jpg`
+  - Four evidence charts under one claim: marketing/revenue bars, Google Trends line, and churning bars/area comparing Nubank vs Inter vs PagBank.
+- **Barras empilhadas ao lado de cartões** · Nubank p.16 · `slides/Nubank_p016.jpg`
+  - 100% stacked credit-mix bars with dashed highlight on the growing loan layers, beside a grey card list with icons per product (secured vs unsecured).
+- **Quatro painéis com cor do concorrente** · Nubank p.17 · `slides/Nubank_p017.jpg`
+  - Competitor page recoloured in the rival's orange palette with its logo replacing the Nu logo, signalling a competitor-focused slide.
+- **Quatro painéis com citação e retrato** · Nubank p.18 · `slides/Nubank_p018.jpg`
+  - Rate-ranking bar of public payroll across banks with Nubank first (highlighted) and CFO quote card with photo.
+- **Quatro painéis com fluxo e recorte** · Nubank p.19 · `slides/Nubank_p019.jpg`
+  - Vertical process flow (customer data > ML model > custom offer > feedback) with news-clipping evidence, and an AUC improvement area chart as proof.
+- **Divisor diagonal com pilar ativo aceso** · Nubank p.22 · `slides/Nubank_p022.jpg`
+  - Divider with the third thesis pillar active on the diagonal dashed path and icon coins.
+- **Mapa com rótulos de países e barras** · Nubank p.23 · `slides/Nubank_p023.jpg`
+  - LatAm map with callout tags per country (clients 23 vs 25) next to a deposit share ranking with country flags and a cash-usage bar.
+- **Passos e cartões ao lado de curva** · Nubank p.24 · `slides/Nubank_p024.jpg`
+  - Phone mockup with numbered features, three logo/icon tiles for cash-in/digitalization/bill pay, and deposits curve with CAGR 74% callout.
+- **Premissas em lista e barras de cenário** · Nubank p.26 · `slides/Nubank_p026.jpg`
+  - Three bars labelled with bear/base/bull icons beside four assumption rows each with an icon in a lilac pill.
+- **Documento real anotado com achados** · Nubank p.27 · `slides/Nubank_p027.jpg`
+  - Incumbent logos row with bullet findings and a highlighted banner 'What we found across all incumbents', plus donut of market concentration.
+- **Comparação legal com foto e recortes** · Nubank p.28 · `slides/Nubank_p028.jpg`
+  - Brazil vs Colombia regulatory comparison with scales icon, then cost-to-serve area chart falling over time and a 80% Brazil-based cost callout over a photo.
+- **Colunas grandes com cartões de validação** · Nubank p.29 · `slides/Nubank_p029.jpg`
+  - Wide bars with CAGR 74% annotation, pilot KPI box (23% activation, 53% approval) and two product arrows (Prestamo Ligero > Personal).
+- **Faixa de etapas com ícones em seta** · Nubank p.30 · `slides/Nubank_p030.jpg`
+  - Four-step horizontal strip of icon tiles (lock, chart, heart, coin) with captions under each step linking acquisition to ARPAC.
+- **Modal de pergunta sobre slide esmaecido** · Nubank p.31 · `slides/Nubank_p031.jpg`
+- **Ciclo vicioso, volante e colunas** · Nubank p.32 · `slides/Nubank_p032.jpg`
+  - Blue-recoloured competitor slide with cycle diagram and circular arrows plus a researcher quote card.
+- **Cunhas de logotipo para modelos opostos** · Nubank p.33 · `slides/Nubank_p033.jpg`
+  - Left-vs-right license comparison with Nu and Meli logo bubbles feeding a central cheaper-vs-more-expensive funding column and arrows.
+- **Divisor diagonal com título grande** · Nubank p.34 · `slides/Nubank_p034.jpg`
+- **Dispersão de múltiplos com logotipos** · Nubank p.35 · `slides/Nubank_p035.jpg`
+  - P/E vs ROE scatter-style axes with peer logos as markers, P/E evolution area chart, and a 'We reinforce our thesis' banner with three icon bullets.
+- **Divisor diagonal com título grande** · Nubank p.36 · `slides/Nubank_p036.jpg`
+- **Encerramento diagonal de perguntas** · Nubank p.38 · `slides/Nubank_p038.jpg`
+- **Cartões de produto sobre dois gráficos** · Nubank p.42 · `slides/Nubank_p042.jpg`
+  - Dashed rounded cards per product with logo, in-app facts and growth bars below showing share of other fee income.
+- **Colunas empilhadas ao lado de mapa** · Nubank p.43 · `slides/Nubank_p043.jpg`
+  - Stacked bars by country with dashed '~30% of the new clients' call-out and a map with deposit share by country.
+- **Mapa com chamadas e filtros laterais** · Nubank p.44 · `slides/Nubank_p044.jpg`
+  - LatAm map with greyed non-target countries, magnifier-icon callouts per country and a three-filter screening list.
+- **Dois combos empilhados com nota lateral** · Nubank p.45 · `slides/Nubank_p045.jpg`
+  - Two chart pairs each with a grey speech-bubble insight card on the right explaining the macro mechanism.
+- **Tabela de atributos com marcas de checagem** · Nubank p.55 · `slides/Nubank_p055.jpg`
+  - Two-column checkmark matrix comparing NuPay vs Open Finance data fields, with zebra rows.
+- **Dois estágios em etiquetas com fórmula** · Nubank p.71 · `slides/Nubank_p071.jpg`
+  - Two side-by-side parameter lists with purple pill labels, a dual-stage P/E formula typeset below and a final result pill.
+- **Índice de links em colunas** · Nubank p.39 · `slides/Nubank_p039.jpg`
+  - Dark-purple index page with three columns of section headers and underlined slide titles.
+- **Índice de apêndice em colunas** · Nubank p.40 · `slides/Nubank_p040.jpg`
+- **Linha do tempo com marcos alternados** · Nubank p.41 · `slides/Nubank_p041.jpg`
+  - Horizontal axis with milestones alternating above and below (2013 > 2025) each with year, bold title and one-line description.
+- **Linhas únicas em largura total** · Nubank p.46 · `slides/Nubank_p046.jpg`
+- **Linhas únicas em largura total** · Nubank p.47 · `slides/Nubank_p047.jpg`
+- **Colunas agrupadas em largura total** · Nubank p.48 · `slides/Nubank_p048.jpg`
+- **Linhas únicas em largura total** · Nubank p.49 · `slides/Nubank_p049.jpg`
+- **Colunas agrupadas em largura total** · Nubank p.50 · `slides/Nubank_p050.jpg`
+- **Linhas únicas em largura total** · Nubank p.51 · `slides/Nubank_p051.jpg`
+- **Colunas agrupadas em largura total** · Nubank p.52 · `slides/Nubank_p052.jpg`
+- **Série diária densa em largura total** · Nubank p.53 · `slides/Nubank_p053.jpg`
+- **Painel tracejado ao lado de rosca** · Nubank p.54 · `slides/Nubank_p054.jpg`
+- **Tabela crua com fórmula abaixo** · Nubank p.56 · `slides/Nubank_p056.jpg`
+  - Compact table of CAPM inputs per year with highlighted Ke column and the formula typeset below.
+- **Tabela crua com linhas destacadas** · Nubank p.57 · `slides/Nubank_p057.jpg`
+- **Tabela de decomposição com faixas coloridas** · Nubank p.58 · `slides/Nubank_p058.jpg`
+- **Linhas múltiplas com fórmula no topo** · Nubank p.59 · `slides/Nubank_p059.jpg`
+- **Tabela crua com linhas destacadas** · Nubank p.60 · `slides/Nubank_p060.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.61 · `slides/Nubank_p061.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.62 · `slides/Nubank_p062.jpg`
+- **Cálculo ao lado de print e fórmula** · Nubank p.63 · `slides/Nubank_p063.jpg`
+  - Calculation table with highlighted LTV result row plus formula box and the source-letter thumbnail for credibility.
+- **Citação em balão com sombra deslocada** · Nubank p.64 · `slides/Nubank_p064.jpg`
+  - Large quote card on grey rounded background with shadow offset in purple, attribution at bottom right.
+- **Tabelas cruas com taxa destacada** · Nubank p.65 · `slides/Nubank_p065.jpg`
+- **Tabela de coorte em escada** · Nubank p.66 · `slides/Nubank_p066.jpg`
+  - Triangular cohort matrix (vintage x years as client) showing how base builds up.
+- **Duas tabelas com cabeçalho em etiqueta** · Nubank p.67 · `slides/Nubank_p067.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.68 · `slides/Nubank_p068.jpg`
+  - Assumption table with the final effective-ARPAC row highlighted in purple band; same template repeated for base and bull.
+- **Tabela crua com última linha destacada** · Nubank p.69 · `slides/Nubank_p069.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.70 · `slides/Nubank_p070.jpg`

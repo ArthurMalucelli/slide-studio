@@ -1,0 +1,104 @@
+# Matriz e comparação (52)
+
+- ★ **Twin vertical chains with check and cross verdict rows** · BTG Pactual p.35 · `tipo/matriz-comparacao/btg-pactual_p35_twin-vertical-chains-with-check-and-cross-verdict-rows_4.jpg`
+  - Each side has a logo plus a short incentive note, then three hard-shadow icon tiles stacked with arrows; to the right of each tile, a pale green row with a ringed check or a pale red row with a ringed cross; one chain uses double arrows, the other a broken elbow line.
+- ★ **Versus hourglass with logos and checks** · BTG Pactual p.41 · `tipo/matriz-comparacao/btg-pactual_p41_versus-hourglass-with-logos-and-checks_6.jpg`
+  - Two flat tinted panels with inner edges cut diagonally so they almost meet at a centre X; three logos in a row at the top of each, hairline under; large green check icons with title and grey text, mirrored alignment; side labels rotated 90 degrees. Pp. 42-43 place the company in a circle at the point of the X.
+- ★ **Bancos versus fintechs em funil oposto** · BTG Pactual p.41 · `tipo/matriz-comparacao/BTGPactual_p041_q1.jpg` · slide: `slides/BTGPactual_p041.jpg`
+  - PRODUCT-ORIENTED
+- ★ **Bancos versus fintechs em funil oposto** · BTG Pactual p.41 · `tipo/matriz-comparacao/BTGPactual_p041_q2.jpg` · slide: `slides/BTGPactual_p041.jpg`
+  - CUSTOMER-ORIENTED
+- ★ **Grade de confrontos com imagens** · ChallengeB p.14 · `tipo/matriz-comparacao/ChallengeB_p014_q3.jpg` · slide: `slides/ChallengeB_p014.jpg`
+  - ...and every Embraer niche has only a handful of rivals
+- ★ **SWOT cards with corner sashes around a quartered ring** · Meliuz p.71 · `tipo/matriz-comparacao/meliuz_p71_swot-cards-with-corner-sashes-around-a-quartered-ring_6.jpg`
+  - Four pale grey cards with centred text and a gap between them; a thick quartered ring with the logo overlaps the inner corners, with red, pink and grey segments; each card has a diagonal 45-degree ribbon on the outer corner in its quadrant's colour, grey for threats.
+- ★ **Twin logo fans into a colour-keyed mirrored logic column** · Nubank p.33 · `tipo/matriz-comparacao/nubank_p33_twin-logo-fans-into-a-colour-keyed-mirrored-logic-column_10.jpg`
+  - Logo tile on the left, gradient triangle fanning into a tinted rounded card (purple top, blue bottom); middle: one tall rounded panel with outline, upper half in purple and lower half in blue, each with bold premise, A arrow B row, consequence line and a triad split by vertical hairlines.
+- ★ **Matriz de risco em grade** · Nubank p.37 · `tipo/matriz-comparacao/Nubank_p037_q1.jpg` · slide: `slides/Nubank_p037.jpg`
+  - Matrix
+- ★ **Risk IDs with drill-down sequence** · Rede D'Or p.42 · `tipo/matriz-comparacao/rede-d-or_p42_risk-ids-with-drill-down-sequence_13.jpg`
+  - Risk tiles coded by family with letter prefix and matching colour (O, S, MG); legend panels at right repeat prefix colours; each following page keeps the map and swaps the right side for a single risk's text and a small proof chart or clipping. Hard-offset shadows already catalogued; this entry is the ID system and the drill-down.
+- ★ **Company coin to proof token rows** · Senior Sistemas p.40 · `tipo/matriz-comparacao/senior-sistemas_p40_company-coin-to-proof-token-rows_23.jpg`
+  - Investor header band with logo, AUM at right; rows are pale rounded strips with bold lead-in at left; at right, a logo coin connected by a thin dashed line to a token: flag, dotted-circle map, or KPI chip, with some rows using coin trios for portfolio companies.
+- ★ **Capsule columns with icon disc and logo stack** · Vasta p.12 · `tipo/matriz-comparacao/vasta_p12_capsule-columns-with-icon-disc-and-logo-stack_2.jpg`
+  - Five tall stadium outlines in tints of the brand colour; a filled icon disc sits at the top of each, then a bold label, a small italic descriptor, a short rule and three or four monochrome logos stacked in the lower half.
+- ★ **Nash payoff grid** · Vasta p.24 · `tipo/matriz-comparacao/vasta_p24_nash-payoff-grid_24.jpg`
+  - 3x3 grid of rounded white tiles with grey border; row and column strategies as plain labels; each cell holds bold own payoff over italic rival payoff; the equilibrium cell solid dark magenta with a pale halo plate; note with a coloured dot legend below, Nash = Cautious, Accommodate.
+- ★ **Option chain with fading pills and cards** · Vasta p.25 · `tipo/matriz-comparacao/vasta_p25_option-chain-with-fading-pills-and-cards_2.jpg`
+  - Row of four pills (Now, If X validates, Separate option) over four rounded outline cards with a filled value chip at the base; the fill goes magenta, tint, teal, grey to encode rising conditionality.
+- ★ **Risk cards priced in IRR** · Vasta p.40 · `tipo/matriz-comparacao/vasta_p40_risk-cards-priced-in-irr_26.jpg`
+  - Grid of pale squares on two axes, a few filled with colour by type and carrying codes such as E1, M1; at right, same-colour code tiles head row cards with three parts: description, stress assumption, IRR with a red down triangle and points lost. Restaurant Brands p.48 does the same in a table with an Impact column (pp. seen only as thumbnail).
+- ★ **Matriz de risco com blocos coloridos** · Vasta p.40 · `tipo/matriz-comparacao/Vasta_p040_q1.jpg` · slide: `slides/Vasta_p040.jpg`
+  - Likelihood x Impact
+- ★ **Row highlight running across twin cards** · Vibra p.14 · `tipo/matriz-comparacao/vibra_p14_row-highlight-running-across-twin-cards_16.jpg`
+  - Two shadowed cards, each with an italic title, logos and a key-value list; one dashed strip with a fading accent runs across both cards at the same row ('Operator Margin: Lower / Higher').
+- ★ **Faceted shard burst between cards (+ / = connector)** · Vibra p.27 · `tipo/matriz-comparacao/vibra_p27_faceted-shard-burst-between-cards-connector_61.jpg`
+  - In source this is a raster; polygons below measured on a 300dpi render, in pt, ready to rebuild. Gap between cards x 286-352. Main wedge: (286,163),(352,191),(352,260),(286,245), linear gradient #006A00 at upper left to #00B000 at lower right. Top rim 2pt line #22DD22 along upper edge. Darker upper facet band: (286,169),(352,198),(352,215),(286,190) #004D00 alpha 0.5. Lower facet: (286,211),(352,2
+- **Bull, house, bear ringed icons** · 3R Petroleum p.26 · `tipo/matriz-comparacao/3r-petroleum_p26_bull-house-bear-ringed-icons_29.jpg`
+  - Double-ring circle with line icon on top of each card (bull, house, bear), then scenario name in bold and light, then parallel bullets with bold first word.
+- **Risk matrix lit by group** · 3R Petroleum p.44 · `tipo/matriz-comparacao/3r-petroleum_p44_risk-matrix-lit-by-group_16.jpg`
+  - Hairline 4x4 grid; extruded tiles with codes (1A, 2B); right-hand stacked list. Active group's tiles go dark and its list card gains a border; others fade to pastel.
+- **Matriz de risco com blocos 3D** · 3R Petroleum p.46 · `tipo/matriz-comparacao/3RPetroleum_p046_q1.jpg` · slide: `slides/3RPetroleum_p046.jpg`
+  - Risk Matrix
+- **SWOT speech tags with one lit at a time** · 3R Petroleum p.99 · `tipo/matriz-comparacao/3r-petroleum_p99_swot-speech-tags-with-one-lit-at-a-time_15.jpg`
+  - Rounded tag with left-pointing pointer: line icon, thin white divider, big letter; text row on left separated by thick grey rule; inactive rows fade tag and text.
+- **Book cover as authority prop** · AB InBev p.28 · `tipo/matriz-comparacao/ab-inbev_p28_book-cover-as-authority-prop_36.jpg`
+  - Book cover in a thin-line frame, overlapping a dark text band; below, each archetype name sits on a thick accent rule that runs into a dashed box with the brand name; a dashed elbow ties the middle row back to the book.
+- **Tonal tile risk grid plus monitor list** · AB InBev p.56 · `tipo/matriz-comparacao/ab-inbev_p56_tonal-tile-risk-grid-plus-monitor-list_19.jpg`
+  - 4x3 grid of pale grey tiles between two heavy arrows; only occupied tiles filled, with shade of accent as severity and R-codes inside; right, a dashed card 'Following-up the investment' under a capped-end bracket rule, with Roman-numbered question pairs and accent keywords. On p56 the right side is a coin-numbered risk list instead.
+- **Matriz de risco impacto probabilidade** · AB InBev p.56 · `tipo/matriz-comparacao/ABInBev_p056_q1.jpg` · slide: `slides/ABInBev_p056.jpg`
+- **Acrostic drop-letter pillar cards** · AB InBev p.121 · `tipo/matriz-comparacao/ab-inbev_p121_acrostic-drop-letter-pillar-cards_3.jpg`
+  - Three full-height solid-colour cards with a line icon centred on top; heading with its first letter at 1.5 times size in dark, rest in white; chevron-bulleted list below.
+- **Open cycle frame around a stack** · BTG Pactual p.46 · `tipo/matriz-comparacao/btg-pactual_p46_open-cycle-frame-around-a-stack_21.jpg`
+  - Thin rectangle around three brand blocks, with gaps in the top and bottom border containing chevrons pointing opposite ways; next to it, trapezoid tags LOW and HIGH linked by a diamond leader to a detail box listing why.
+- **Trapezoid tabs merging into a grey plate with matching slope** · BTG Pactual p.47 · `tipo/matriz-comparacao/btg-pactual_p47_trapezoid-tabs-merging-into-a-grey-plate-with-matching-slope_77.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact plate (413,218),(903,218),(903,369),(511,369) #F2F2F2, slope dx/dy=0.649. LOW tab: flat left x256, right edge from (~405,218) to (~421+,280), #1482AC-ish; HIGH tab x256 to (478,369), top y~304, #0E5772. Their right edges use the same slope with a white gutter ~10 between them and the plate, so tabs slide under/in front of the plate. Tabs meas
+- **Mirror spines under a shared question bar** · BTG Pactual p.98 · `tipo/matriz-comparacao/btg-pactual_p98_mirror-spines-under-a-shared-question-bar_5.jpg`
+  - Grey bar across the slide with a central question and a dark tab at each end naming the side; two vertical spine lines at the far left and far right; three thick ring bullets per spine; left text ragged right of its spine, right text right-aligned to its spine.
+- **Cartão escuro com ficha técnica** · ChallengeB p.11 · `tipo/matriz-comparacao/ChallengeB_p011_q1.jpg` · slide: `slides/ChallengeB_p011.jpg`
+  - Embraer E175
+- **Cartão cinza com ficha técnica** · ChallengeB p.11 · `tipo/matriz-comparacao/ChallengeB_p011_q2.jpg` · slide: `slides/ChallengeB_p011.jpg`
+  - CRJ900
+- **Cartão cinza com ficha técnica** · ChallengeB p.11 · `tipo/matriz-comparacao/ChallengeB_p011_q3.jpg` · slide: `slides/ChallengeB_p011.jpg`
+  - COMAC C909
+- **Cartões escuros empilhados com ficha técnica** · ChallengeB p.12 · `tipo/matriz-comparacao/ChallengeB_p012_q1.jpg` · slide: `slides/ChallengeB_p012.jpg`
+  - Embraer
+- **Cartões cinzas empilhados com ficha técnica** · ChallengeB p.12 · `tipo/matriz-comparacao/ChallengeB_p012_q2.jpg` · slide: `slides/ChallengeB_p012.jpg`
+  - Airbus
+- **Cartões comparativos com comunicado oficial** · ChallengeB p.13 · `tipo/matriz-comparacao/ChallengeB_p013_q2.jpg` · slide: `slides/ChallengeB_p013.jpg`
+  - Impact on E175-E2 development
+- **Etapas da transação e impactos** · Cosan p.20 · `tipo/matriz-comparacao/Cosan_p020_q3.jpg` · slide: `slides/Cosan_p020.jpg`
+  - Transaction Overview:
+- **Cenários com upside e TIR** · Cury p.32 · `tipo/matriz-comparacao/CuryConstrutora_p032_q2.jpg` · slide: `slides/CuryConstrutora_p032.jpg`
+  - Caso Bear / Base / Bull
+- **Riscos numerados com respostas** · Intelbras p.52 · `tipo/matriz-comparacao/Intelbras_p052_q4.jpg` · slide: `slides/Intelbras_p052.jpg`
+  - The risk, and why it's manageable
+- **Mapa de concorrentes por categoria** · Intelbras p.62 · `tipo/matriz-comparacao/Intelbras_p062_q1.jpg` · slide: `slides/Intelbras_p062.jpg`
+  - A layered and fragmented competitive landscape
+- **Matriz de risco em grade colorida** · Meliuz p.61 · `tipo/matriz-comparacao/Meliuz_p061_q1.jpg` · slide: `slides/Meliuz_p061.jpg`
+  - IMPACTO x PROBABILIDADE
+- **Quadrante de forças** · Meliuz p.71 · `tipo/matriz-comparacao/Meliuz_p071_q1.jpg` · slide: `slides/Meliuz_p071.jpg`
+  - Forças
+- **Quadrante de fraquezas** · Meliuz p.71 · `tipo/matriz-comparacao/Meliuz_p071_q2.jpg` · slide: `slides/Meliuz_p071.jpg`
+  - Fraquezas
+- **Quadrante de ameaças** · Meliuz p.71 · `tipo/matriz-comparacao/Meliuz_p071_q3.jpg` · slide: `slides/Meliuz_p071.jpg`
+  - Ameaças
+- **Quadrante de oportunidades** · Meliuz p.71 · `tipo/matriz-comparacao/Meliuz_p071_q4.jpg` · slide: `slides/Meliuz_p071.jpg`
+  - Oportunidades
+- **Brand-coloured dot coverage matrix** · Meliuz p.112 · `tipo/matriz-comparacao/meliuz_p112_brand-coloured-dot-coverage-matrix_38.jpg`
+  - Logo column headers on alternating pale column bands; product rows at left; dot in each company's brand colour where offered, none where not; dark total bar at the bottom. Check variant on p112.
+- **Cenários bull base bear em grade** · Mercado Libre p.35 · `tipo/matriz-comparacao/MercadoLibre_p035_q1.jpg` · slide: `slides/MercadoLibre_p035.jpg`
+  - PRICE / ADS / GMV
+- **Risk code tiles** · Mercado Libre / Intelbras / Sabesp p.36 · `tipo/matriz-comparacao/mercado-libre-intelbras-sabesp_p36_risk-code-tiles_46.jpg`
+  - Square tiles with codes (M1, C2) placed on Probability x Impact axes. Tile colour marks risk family. Right: three stacked coloured plates with the family name and code items. Low-res crop.
+- **Matriz de risco com códigos coloridos** · RD Saúde p.58 · `tipo/matriz-comparacao/RDSaude_p058_q1.jpg` · slide: `slides/RDSaude_p058.jpg`
+  - Impact x Probability
+- **Parallel scenario cards** · Rede D'Or p.34 · `tipo/matriz-comparacao/rede-d-or_p34_parallel-scenario-cards_29.jpg`
+  - Three identical grey cards with a thick right and bottom edge in scenario colour; coloured scenario title, target price, upside, a rule, then the sentence naming the varied assumption with only the year coloured.
+- **Matriz de risco com cubos 3D** · Sabesp p.36 · `tipo/matriz-comparacao/Sabesp_p036_q1.jpg` · slide: `slides/Sabesp_p036.jpg`
+- **Before/Now gradient tiles over conversion rows** · Senior Sistemas p.3 · `tipo/matriz-comparacao/senior-sistemas_p3_before-now-gradient-tiles-over-conversion-rows_1.jpg`
+  - Two equal dark-to-teal gradient rectangles titled Antes/Hoje with diamond-bullet lists; below, two icon headers and two rows of hard-shadow outlined chips joined by short arrows (Licenciamento to SaaS, Infraestrutura to PaaS).
+- **Giant logo triptych over brand-coloured gradient card headers** · Senior Sistemas p.39 · `tipo/matriz-comparacao/senior-sistemas_p39_giant-logo-triptych-over-brand-coloured-gradient-card-header_11.jpg`
+  - Oversized logos (a logo tile in yellow for the one needing background) linked horizontally with dashed green lines; under each, a pill header in a gradient of that brand's colours with an icon disc overlapping its left end; grey body card with a thin deck-colour outline.
+- **Hard L-shadow card with gradient plate** · Vibra p.27 · `tipo/matriz-comparacao/vibra_p27_hard-l-shadow-card-with-gradient-plate_139.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Plate rect (30,80)-(286,317), gradient #006600 to #00B000 to #006600; white card (30,73)-(281,312) sits over it, leaving 5pt visible on right and bottom only. Thin frame stroke #003300 on the card. Third card (NewCo) tinted #F7FFF7 with bright green frame instead, no plate.

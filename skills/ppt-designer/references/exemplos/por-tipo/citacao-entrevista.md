@@ -1,0 +1,83 @@
+# Citação e entrevista (42)
+
+- ★ **Barrel unit economics stack** · 3R Petroleum p.36 · `tipo/citacao-entrevista/3r-petroleum_p36_barrel-unit-economics-stack_3.jpg`
+  - Drawn barrel icon with a fill level next to a stack of four rounded rows: revenue per barrel dark, costs mid, net income in light accent, keeping height equal.
+- ★ **Expert dossier stack** · AB InBev p.6 · `tipo/citacao-entrevista/ab-inbev_p6_expert-dossier-stack_1.jpg`
+  - Top down: cut-out portrait at left over a pale plate that holds a method-vs-method comparison; credential with a thick dark tick ('Professor at Columbia University' bold, name regular); dark band with white quote, key phrase in accent, italic source below. The breakout of the portrait is already catalogued as depth; this entry is the information order.
+- ★ **Pennant plate into 'we asked' cards** · AB InBev p.20 · `tipo/citacao-entrevista/ab-inbev_p20_pennant-plate-into-we-asked-cards_2.jpg`
+  - Long hairline with a small elongated-hexagon bead joins the photo side to a pale plate with three accent words split by vertical rules; the plate's base tapers to a shallow point; a line with another bead drops to a dashed frame captioned 'We asked Jorge Paulo about...' holding three equal cards with accent headings.
+- ★ **Video still wired to quote card** · Alupar p.11 · `tipo/citacao-entrevista/alupar_p11_video-still-wired-to-quote-card_3.jpg`
+  - Interview still in a thin blue frame; hairline with diamond tip runs from its right edge to an outlined quote card with bold name, grey role, bold key terms, centred text. Small diamonds at frame corners.
+- ★ **Office-visit interview block** · Alupar p.18 · `tipo/citacao-entrevista/alupar_p18_office-visit-interview-block_7.jpg`
+  - Photo at the company reception, with diamond-tipped frame, next to name and role over a hairline. Oversized black quotation marks on both sides of the body. Above, a 1-2-3 stepper of funding stages in small square tags joined by hairlines; the same tags reappear on the cards at right.
+- ★ **Alternating pentagon quote ribbons with round portraits** · BTG Pactual p.33 · `tipo/citacao-entrevista/btg-pactual_p33_alternating-pentagon-quote-ribbons-with-round-portraits_4.jpg`
+  - Two pale full-bleed bands with one pointed end, first bleeding off right and pointing left, second bleeding off left and pointing right, in different tints; round portrait overlapping the flat end; key phrases in accent blue; attribution right aligned in grey.
+- ★ **Citação de entrevista em destaque** · BTG Pactual p.61 · `tipo/citacao-entrevista/BTGPactual_p061_q2.jpg` · slide: `slides/BTGPactual_p061.jpg`
+  - We had a conversation with a major bank's Vice Chairman
+- ★ **Dated call stamp above a quote** · CSN - ArcelorMittal p.31 · `tipo/citacao-entrevista/csn-arcelormittal_p31_dated-call-stamp-above-a-quote_5.jpg`
+  - Dark full-width strip with uppercase date, time and participants; below, justified quote with bold key phrases between small double-quote marks at each side.
+- ★ **Retrato com citação do fundador** · ChallengeB p.4 · `tipo/citacao-entrevista/ChallengeB_p004_q4.jpg` · slide: `slides/ChallengeB_p004.jpg`
+  - The Foundation of Embraer's Success
+- ★ **Video-call grid and transcript card** · Cosan p.6 · `tipo/citacao-entrevista/cosan_p6_video-call-grid-and-transcript-card_6.jpg`
+  - Bordered pale card; 2x2 meeting screenshot at left; quote with bold key clauses and centred name and title at right, placed under the subhead that it supports.
+- ★ **Primary-research counter band** · Meliuz p.14 · `tipo/citacao-entrevista/meliuz_p14_primary-research-counter-band_15.jpg`
+  - Dark full-width band; big accent numbers with labels (2 directors, 6 employees, 29 ex-staff) on the left; video-call screenshots with date and interviewee name beneath.
+- ★ **Anonymized quote with blurred portrait** · Meliuz p.15 · `tipo/citacao-entrevista/meliuz_p15_anonymized-quote-with-blurred-portrait_7.jpg`
+  - Grey panel; portrait in diamond crop heavily gaussian blurred, next to quote with highlighted sentence; named speakers alternate sides; footnote says anonymity was preserved on request.
+- ★ **Tapered wall joining two panels of different height (side wall variant)** · Mercado Libre p.21 · `tipo/citacao-entrevista/mercado-libre_p21_tapered-wall-joining-two-panels-of-different-height-side-wal_29.jpg`
+  - Measured ML p26. LEFT panel (0,120.8)-(480,490.3) #F1F1F1. WALL polygon (480,120.8) (494.4,135) (494.4,476.7) (480,491.2), #BFBFBF, 45 degree taper: 14.4 wide, loses 14.2 at each end. RIGHT panel (494.2,135)-(932,476.4) #F1F1F1, so it reads as a plane receding away. Add a navy rail on the far right edge (#2D3277, about 6pt, rounded outer corners) and a 3.7pt navy bottom stripe that carries a capti
+- ★ **Book cover as authority** · Mercado Libre / Intelbras p.4 · `tipo/citacao-entrevista/mercado-libre-intelbras_p4_book-cover-as-authority_23.jpg`
+  - Cover image at quote height, sometimes poking above the plate. Grey plate with justified quote and key words in navy bold; navy strip underneath saying what the idea means for this company. ML p68 extends this to a tall panel (crop b2_ml_book_panel.png) with author tag and two quotes.
+- ★ **Stacked video-call screenshots** · Mercado Libre / Sabesp p.11 · `tipo/citacao-entrevista/mercado-libre-sabesp_p11_stacked-video-call-screenshots_24.jpg`
+  - Two or three Zoom screenshots overlapped in a cluster, with a navy flag rectangle poking out at the top-left of each. Set in a grey panel with left navy rail and notch, the quote in italics below. Sabesp p66 uses one larger centred call over a tinted quote band.
+- ★ **Dark spine wall from book cover to quote plate** · RD Saúde p.57 · `tipo/citacao-entrevista/rd-saude_p57_dark-spine-wall-from-book-cover-to-quote-plate_34.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact wall (256,137),(303,125),(303,319),(256,307) #00744B. Quote plate rect x303-869, y125-319, bright green #00B071-ish. Book cover picture x139-255, y~137-307 with hairline border. Wall width 47, height step 12 each end, slope 0.25, tone = plate darkened by ~35%. Three thin stems leave the plate's bottom-left down to three text rows, elbow conne
+- ★ **Plinth under picture (trapezoid top plus front face)** · RD Saúde p.76 · `tipo/citacao-entrevista/rd-saude_p76_plinth-under-picture-trapezoid-top-plus-front-face_35.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact. Top face trapezoid (163,378),(194,327),(697,327),(728,378) #C9C9C9. Front rect (163,376)-(728,492) #DBDBDB. Picture sits on the back edge of the top face, x198-688, ending at y~330 so that it stands on the plinth. Inset 31 per side over a depth of 51. Front is lighter than the top, an inverted lighting that reads as a lit stage front. Quote 
+- ★ **Name-tab analyst block** · Rede D'Or p.15 · `tipo/citacao-entrevista/rede-d-or_p15_name-tab-analyst-block_8.jpg`
+  - Pale grey panel; white shadowed name tab straddling its top edge ('Caio Rocha, Bradesco BBI HC Analyst'); small Zoom screenshot centered under it; centered quote with two phrases in accent.
+- ★ **Entrevista em vídeo com citação** · Rede D'Or p.58 · `tipo/citacao-entrevista/RedeDOr_p058_q2.jpg` · slide: `slides/RedeDOr_p058.jpg`
+  - Caio Rocha, Bradesco BBI HC Analyst
+- ★ **Video-grid quote card** · Vasta p.13 · `tipo/citacao-entrevista/vasta_p13_video-grid-quote-card_10.jpg`
+  - Pale rounded card bleeding off the right edge; left: one large and five small rounded video stills with accent borders; quote mark in accent and justified text with bold and pink emphasis; dark full-width name bar at the base; meeting-app logo at top right of the card.
+- ★ **Quote card with photo, firm and spine** · Vibra p.29 · `tipo/citacao-entrevista/vibra_p29_quote-card-with-photo-firm-and-spine_11.jpg`
+  - Thin frame with a dark angular spine at left; top row with team-and-source photo, name and italic role, firm logo at right; rule; large slanted black quote marks in both top corners; grey text with bold key sentence; generous line spacing.
+- **Solid offset L-bar with photo breakout and name plate** · 3R Petroleum p.36 · `tipo/citacao-entrevista/3r-petroleum_p36_solid-offset-l-bar-with-photo-breakout-and-name-plate_64.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Card (103,133)-(759,445) #F2F2F2. Bar: solid #205B4A 8px wide on right (759,142)-(767,455) and bottom (111,447)-(767,455), i.e. a same-size rect shifted +8,+10, card on top. Name plate rect (103,333)-(600,426) #BEBEBE on the card, photo cut-out PNG on top, its head overlapping the card
+- **Field selfie grid with on-photo credit** · AB InBev p.38 · `tipo/citacao-entrevista/ab-inbev_p38_field-selfie-grid-with-on-photo-credit_35.jpg`
+  - Grid of 2x3 tight portrait photos with no border; white italic 'Name | Employer' overlaid at the bottom of each; a large italic pull quote takes the last two cells so the grid and the quote read as one block.
+- **Citação com foto do autor** · AB InBev p.55 · `tipo/citacao-entrevista/ABInBev_p055_q4.jpg` · slide: `slides/ABInBev_p055.jpg`
+- **People-we-spoke-to appendix page** · AB InBev p.63 · `tipo/citacao-entrevista/ab-inbev_p63_people-we-spoke-to-appendix-page_37.jpg`
+  - Large cut-out portrait bottom-left on a pale band, name and title behind a dark tick, Zoom screenshot with soft shadow at right; repeats one person per slide in the appendix.
+- **Citações de entrevistas em caixas escuras** · BTG Pactual p.62 · `tipo/citacao-entrevista/BTGPactual_p062_q2.jpg` · slide: `slides/BTGPactual_p062.jpg`
+  - In our conversations with employees
+- **Citação de entrevista com vídeo** · Cosan p.6 · `tipo/citacao-entrevista/Cosan_p006_q2.jpg` · slide: `slides/Cosan_p006.jpg`
+  - Holdco Structure No Longer Strategically Justified
+- **Recorte de reportagem com citação** · Cury p.21 · `tipo/citacao-entrevista/CuryConstrutora_p021_q3.jpg` · slide: `slides/CuryConstrutora_p021.jpg`
+  - Otimismo do mercado com a transição
+- **Citação de revendedor com foto** · Intelbras p.44 · `tipo/citacao-entrevista/Intelbras_p044_q4.jpg` · slide: `slides/Intelbras_p044.jpg`
+  - Renan Lopes on exposed revenue
+- **Event proof card** · Meliuz p.11 · `tipo/citacao-entrevista/meliuz_p11_event-proof-card_41.jpg`
+  - Card (modal state on the previous slide): dashed-frame photo at left, right has uppercase name, role, dated italic account, two logos, asterisked thanks. Inserted on click from the executive's slide.
+- **Book cover as evidence exhibit** · Meliuz p.15 · `tipo/citacao-entrevista/meliuz_p15_book-cover-as-evidence-exhibit_40.jpg`
+  - Dashed accent box; book cover at left, accent heading, short numbered ledger with bold key words at right.
+- **Wedge from a photo into a speech bubble** · Nubank p.7 · `tipo/citacao-entrevista/nubank_p7_wedge-from-a-photo-into-a-speech-bubble_112.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Portrait cut-out at left over a very light wedge #F5E6FF: polygon about (212,335)(345,320)(345,440)(212,440), going wider toward the bubble. Bubble (345,320)-(705,440), #E4BCFF, radius ~25, drawn over the wedge's right edge. Reads like a projection beam from speaker to message.
+- **Citação de executiva com foto** · Nubank p.13 · `tipo/citacao-entrevista/Nubank_p013_q4.jpg` · slide: `slides/Nubank_p013.jpg`
+- **Thick frame portrait bonded to quote panel** · Nubank p.17 · `tipo/citacao-entrevista/nubank_p17_thick-frame-portrait-bonded-to-quote-panel_12.jpg`
+  - Pale tint rounded panel; at its right, portrait in a white rounded square with thick accent border overlapping the edge; quote with bold phrase, right-aligned italic name.
+- **Offset corner plates peeking out from a card** · Nubank p.64 · `tipo/citacao-entrevista/nubank_p64_offset-corner-plates-peeking-out-from-a-card_109.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector, very simple. Two solid rounded rects #8C0CB0 of 382x208: top-left at (109,263)-(491,471), bottom-right at (1006,531)-(1388,739). Main card on top, #F6F6F6, (123,275)-(1375,727), radius about 75px. So plates stick out only 14px left and 12px up, and 13px right and 12px 
+- **Histogram tail wall into quote plate** · RD Saúde p.55 · `tipo/citacao-entrevista/rd-saude_p55_histogram-tail-wall-into-quote-plate_116.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Measured from render, plus or minus 3. Grey band behind the histogram tail, #E8E8E8, x~530-636, y~375-510. Wall trapezoid x636-668, left height ~375-510, right ~352-522, #A6A6A6. Plate x668-960, y352-522, #F2F2F2 with portrait and quote. Histogram bars change colour from green to teal at the band start, so colour and wall both mark the same split.
+- **Citação de professor com foto** · RD Saúde p.55 · `tipo/citacao-entrevista/RDSaude_p055_q3.jpg` · slide: `slides/RDSaude_p055.jpg`
+- **Quote as root of a branching rationale** · RD Saúde p.57 · `tipo/citacao-entrevista/rd-saude_p57_quote-as-root-of-a-branching-rationale_13.jpg`
+  - Saturated panel with quote and team statement; a dark green vertical line from its lower-left corner with three horizontal branches to Roman-numbered reasons.
+- **Call screenshot with insight caption** · RD Saúde p.73 · `tipo/citacao-entrevista/rd-saude_p73_call-screenshot-with-insight-caption_44.jpg`
+  - Name and role as subhead; uncropped Teams or Zoom window including the toolbar and Leave button; grey plate directly under the image with Insights: and the quote. P.76 uses a single screen centred over a plinth and quote.
+- **Cut-out person breaking a quote panel** · Sabesp p.17 · `tipo/citacao-entrevista/sabesp_p17_cut-out-person-breaking-a-quote-panel_130.jpg`
+  - Quote rect #F2F2F2 with a right-triangle flag at the top corner (navy on the left, cyan on the right), about 40x14pt, pointing inward. Person PNG with transparent bg about 95pt tall placed at the panel's outer end, standing past the top and side, in front of the panel and flag.
+- **CEO portrait with dashed dossier** · Senior Sistemas p.23 · `tipo/citacao-entrevista/senior-sistemas_p23_ceo-portrait-with-dashed-dossier_14.jpg`
+  - Large framed portrait with a coloured outline; to its right a dashed tinted box continuing the top edge of the frame with name and italic tenure; a dashed line descends and branches with small diamonds to bold-led points; KPI rings beneath.
+- **Estratégia de compra de marcas locais** · Rede D'Or p.17 · `tipo/citacao-entrevista/RedeDOr_p017_q2.jpg` · slide: `slides/RedeDOr_p017.jpg`
+  - I. Remarkable Brands

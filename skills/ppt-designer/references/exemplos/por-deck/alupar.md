@@ -1,0 +1,48 @@
+# Alupar: páginas (27)
+
+- ★ **Dispersão com bolhas agrupadas em elipses** · Alupar p.10 · `slides/Alupar_p010.jpg`
+  - Scatter TIR x Kd com bolhas nomeadas por projeto e diagonal de breakeven (Kd=TIR), elipse agrupando os projetos brasileiros; à direita payback em barras separadas Brasil vs Internacional com divisor vertical.
+- ★ **Mapa em gradiente com ficha técnica** · Alupar p.13 · `slides/Alupar_p013.jpg`
+  - Mapa do país à esquerda com rota do projeto, faixa de 3 KPIs no topo de uma ficha técnica em tabela de 2 colunas e, abaixo, mini scatter TIR vs Kd com a bolha do projeto; mesmo template reutilizado em p14, p17.
+- ★ **Árvore de dívida com foco sequencial** · Alupar p.22 · `slides/Alupar_p022.jpg`
+  - Slide escuro com menu lateral de 4 etapas e timeline de anos no topo; rosca central do uso de recursos e árvore à direita com valor da tranche em USD grande, cada etapa destaca em azul a sua parte (animação por build, p22-p24).
+- **Capa escura com torre aramada** · Alupar p.1 · `slides/Alupar_p001.jpg`
+  - Fundo azul-noite com ilustração de linha da torre de transmissão (tema do setor) ocupando metade direita; título + logos empilhados à esquerda, autores no rodapé.
+- **Árvore de dívida em cartões assinados** · Alupar p.2 · `slides/Alupar_p002.jpg`
+  - Faixa superior com 4 KPIs grandes em caixa de contorno fino, abaixo 3 cartões de instrumento de dívida lado a lado, cada um com termos curtos e assinaturas dos autores no pé.
+- **Perfil lateral com mapa e barras** · Alupar p.3 · `slides/Alupar_p003.jpg`
+  - Coluna esquerda com card de empresa, estrutura acionária em mini-organograma e key financials; à direita barras de km de linhas por ano e breakdown de receita por segmento ao lado do mapa da América do Sul.
+- **Pilares em escada com numerais circulares** · Alupar p.4 · `slides/Alupar_p004.jpg`
+  - Divisor com 3 linhas numeradas em círculos (I, II, III) sobre fundo escuro; o pilar ativo fica em azul brilhante e os outros esmaecidos, repetido nas páginas seguintes como navegador (idem p5, p8, p16).
+- **Divisor em escada com item aceso** · Alupar p.5 · `slides/Alupar_p005.jpg`
+- **Três gráficos e tabela em grade** · Alupar p.6 · `slides/Alupar_p006.jpg`
+  - Grade 2x2 de gráficos com título de pergunta em cada quadrante (área suavizada, barras em gradiente azul, tabela com logos de players estrangeiros) sob título-claim de duas linhas.
+- **Curva e lista contra barras altas** · Alupar p.7 · `slides/Alupar_p007.jpg`
+  - Barras de players por faixa de km (Brasil, Chile, Peru, Colômbia) com dois callouts azul-escuro apontando para Alupar, ao lado de lista numerada de 4 fatores em caixas de contorno.
+- **Divisor em escada com item aceso** · Alupar p.8 · `slides/Alupar_p008.jpg`
+- **Faixa de barras por país quebradas** · Alupar p.9 · `slides/Alupar_p009.jpg`
+  - Barras agrupadas por país com média ponderada no cabeçalho de cada grupo e cor por país; quebra de eixo marca outliers e gráfico de receita pós-atraso mostra a diferença de contrato com linha tracejada e círculo destacando o ponto.
+- **Gráficos com print de entrevista citada** · Alupar p.11 · `slides/Alupar_p011.jpg`
+  - Print da videochamada com o entrevistado ao lado de citação em caixa com aspas grandes e nome/cargo, junto a barras empilhadas de lotes vencidos por período.
+- **Barras empilhadas ao lado de mapa** · Alupar p.12 · `slides/Alupar_p012.jpg`
+  - Barras máximo histórico vs atual por país com caixa tracejada azul circulando o Peru como destaque; à direita card de KPIs (CapEx, RAP, km) sobre mapa do Peru com linhas de transmissão.
+- **Mapa em gradiente com ficha técnica** · Alupar p.14 · `slides/Alupar_p014.jpg`
+- **Colunas de fluxo e sensibilidade escuras** · Alupar p.15 · `slides/Alupar_p015.jpg`
+  - Slide escuro com 3 colunas de unit project, cada uma com mini-DRE/FCFE, par de TIR real/nominal com ícone de raio entre eles e matriz TIR (Kd x % dívida) abaixo.
+- **Divisor em escada com item aceso** · Alupar p.16 · `slides/Alupar_p016.jpg`
+- **Mapa com ficha e cartões gêmeos** · Alupar p.17 · `slides/Alupar_p017.jpg`
+  - Mapa e ficha do ativo na metade superior, dois cartões de project finance lado a lado abaixo com bullets de emissão, garantias, carência e covenant em duas colunas internas.
+- **Cartões no topo, linha larga abaixo** · Alupar p.19 · `slides/Alupar_p019.jpg`
+  - Diagrama de vantagens com logo Green Bond Principles e setas à esquerda, cards de precedentes à direita e linha comparativa overscribed green vs convencional embaixo.
+- **Tabela, cartão e colunas de prêmio** · Alupar p.20 · `slides/Alupar_p020.jpg`
+  - Linha de emissões comparáveis (OETC, Elecnor, ASI) em tabela com rating, depois 3 cards de debêntures brasileiras com prêmios grandes em azul destacando a conta até a precificação final.
+- **Árvore de dívida com foco sequencial** · Alupar p.23 · `slides/Alupar_p023.jpg`
+- **Árvore de dívida com foco sequencial** · Alupar p.24 · `slides/Alupar_p024.jpg`
+- **Tabelas empilhadas conectadas a caixas** · Alupar p.25 · `slides/Alupar_p025.jpg`
+  - Duas tabelas de fluxo por período (projeto e credor) com linha final destacada em azul e caixas de TIR conectadas por setas ao benchmark US Treasury, rosca de emissão à esquerda.
+- **Tabelas empilhadas conectadas a caixas** · Alupar p.26 · `slides/Alupar_p026.jpg`
+- **Encerramento escuro com torres aramadas** · Alupar p.27 · `slides/Alupar_p027.jpg`
+- **Mosaico de cartões, mapa e entrevista** · Alupar p.18 · `slides/Alupar_p018.jpg`
+  - Fluxo numerado 1-2-3 no topo; abaixo, foto do entrevistado com aspas grandes à esquerda e cartões de emissão com bordas finas e logo do parceiro à direita
+- **Cartões de termos com painel explicativo** · Alupar p.21 · `slides/Alupar_p021.jpg`
+  - Três fichas de comparáveis em cards à esquerda e painel azul à direita com blocos numerados I-II-III (Index+Spread, Covenant e Garantia, Amortização) apontados por setas para o logo TPC.

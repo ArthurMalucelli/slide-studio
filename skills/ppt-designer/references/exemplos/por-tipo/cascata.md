@@ -1,0 +1,38 @@
+# Cascata (18)
+
+- ★ **Fade-to-floor light-pillar waterfall** · CSN Liability p.8 · `tipo/cascata/csn-liability_p8_fade-to-floor-light-pillar-waterfall_15.jpg`
+  - Native chart on dark gradient slide bg (black top-left, #00305F bottom-right). Bars are vertical linear gradients: #0177C8 at top, #0056A0 at 60%, background tone or alpha 0 at the bottom, so bars dissolve downward like light columns. Value label sits inside the bar top in white, percent above. The negative step inverts it: top nearly transparent (#1F5A91), bottom brightest (#47A4FA), with a sligh
+- ★ **Scribble ring linking the same number across exhibits** · Cosan p.14 · `tipo/cascata/cosan_p14_scribble-ring-linking-the-same-number-across-exhibits_4.jpg`
+  - Irregular dotted hand-drawn oval around the number; the same ring repeats on the same value in the table and at the top of the final bar.
+- ★ **Return ladder under a formula band** · Cury p.31 · `tipo/cascata/cury_p31_return-ladder-under-a-formula-band_13.jpg`
+  - Dark gradient band with exit year, fair P/E, arrow, and the fraction drawn as text over a rule; beneath, grey parallelograms of decreasing width on a blue vertical thread, each joined by a thin line to a framed value box on a second thread; the final parallelogram solid dark, value box in blue.
+- ★ **Ponte de valor em colunas flutuantes** · Kering - Moncler p.21 · `tipo/cascata/Kering-Moncler_p021_q1.jpg` · slide: `slides/Kering-Moncler_p021.jpg`
+  - VALUE CREATION
+- ★ **Cascata de construção do custo de capital** · Meliuz p.59 · `tipo/cascata/Meliuz_p059_q1.jpg` · slide: `slides/Meliuz_p059.jpg`
+  - Com um Ke de 12,1%
+- ★ **Profit pool Marimekko with share as width** · RD Saúde p.27 · `tipo/cascata/rd-saude_p27_profit-pool-marimekko-with-share-as-width_7.jpg`
+  - Adjacent blocks along a zero axis: width is share and height is spread; the leader is a long thin green block above zero, the others hang below in sky and navy with heavy widths; value labels sit in tinted chips on the block edge.
+- ★ **Cascata de resultado das operadoras** · Rede D'Or p.5 · `tipo/cascata/RedeDOr_p005_q1.jpg` · slide: `slides/RedeDOr_p005.jpg`
+  - 1. P&L of Private Healthcare Plan Operators (Payors)
+- ★ **Cascata de receita dos hospitais** · Rede D'Or p.5 · `tipo/cascata/RedeDOr_p005_q2.jpg` · slide: `slides/RedeDOr_p005.jpg`
+  - 2. P&L of Private Healthcare Hospitals (Providers)
+- ★ **Cascata de ajustes de EBITDA** · Senior Sistemas p.20 · `tipo/cascata/SeniorSistemas_p020_q3.jpg` · slide: `slides/SeniorSistemas_p020.jpg`
+  - EBITDA ajustado: uma visão mais comparável
+- ★ **Cascata flutuante de componentes do WACC** · Senior Sistemas p.55 · `tipo/cascata/SeniorSistemas_p055_q2.jpg` · slide: `slides/SeniorSistemas_p055.jpg`
+  - ...Breakdown do WACC
+- **Texture-coded bridge legend** · CSN - ArcelorMittal p.36 · `tipo/cascata/csn-arcelormittal_p36_texture-coded-bridge-legend_22.jpg`
+  - White outline for equity, solid red for debt, dark red for synergies, hatch for the increment; a top legend with long swatches; thin red connector rules; subscript on final labels.
+- **Folder lip between header and chart body** · Cosan p.30 · `tipo/cascata/cosan_p30_folder-lip-between-header-and-chart-body_88.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured. Header rect (47,147)-(720,266) #F2F2F2 with black 1px border, holds legend. Lip trapezoid (47,266)(720,266)(714,294)(52,294), black at 90% alpha (#191919): narrows by ~5-6px each side going down, 28px tall. Body rect (54,294)-(712,740) white with 1px black border, narrower th
+- **Decomposição da TIR em componentes** · Cury p.31 · `tipo/cascata/CuryConstrutora_p031_q1.jpg` · slide: `slides/CuryConstrutora_p031.jpg`
+  - Breakdown da TIR
+- **Glass waterfall on dark** · Cury p.33 · `tipo/cascata/cury_p33_glass-waterfall-on-dark_93.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact bars left: outlined (46,260)-(82,457), (153,281)-(189,399), (261,171)-(297,248), (368,409)-(404,457): no fill, white 1.25pt stroke. Filled bars (100,260)-(135,399),(207,248)-(243,281),(314,171)-(350,457),(422,131)-(458,457): vertical gradient #0F2F7A top to navy #071734 bottom, alpha ~.8 with thin lighter stroke. Alternating outlined positive
+- **Barras empilhadas de receita protegida** · Intelbras p.44 · `tipo/cascata/Intelbras_p044_q1.jpg` · slide: `slides/Intelbras_p044.jpg`
+  - Most of security revenue is structurally protected...
+- **Cascata de benefício fiscal** · Intelbras p.52 · `tipo/cascata/Intelbras_p052_q2.jpg` · slide: `slides/Intelbras_p052.jpg`
+  - The financial impact
+- **Formula chip pinned to a waterfall** · Senior Sistemas p.55 · `tipo/cascata/senior-sistemas_p55_formula-chip-pinned-to-a-waterfall_37.jpg`
+  - Shadowed pale chip across the top of the chart with 'WACC: 11,7% + 3,0% = 14,7%', result in bold accent, with a bold heading ('Size premium') above and a tick to the bar.
+- **Fading float waterfall, outlined totals** · Vibra p.40 · `tipo/cascata/vibra_p40_fading-float-waterfall-outlined-totals_143.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Floating step: rect with green 0.75pt edge, gradient #00C000 at its left or bottom edge fading to transparent at the other, plus a very faint rect of same x below it extending to the next subtotal to hint a column. Totals: rect with no fill, 1pt white stroke. Page black with raster wave texture.

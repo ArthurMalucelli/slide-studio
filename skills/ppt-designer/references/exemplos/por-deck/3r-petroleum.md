@@ -1,0 +1,160 @@
+# 3R Petroleum: páginas (109)
+
+- ★ **Corte ilustrado de plataformas com barras** · 3R Petroleum p.4 · `slides/3RPetroleum_p004.jpg`
+  - Cross-section illustration of seabed with platform types labelled, paired with a side card of reserve mini-bars and 1P/2P/3P definitions.
+- ★ **Cards de executivos e conselho em mesa** · 3R Petroleum p.18 · `slides/3RPetroleum_p018.jpg`
+  - Executive roster with photo + career logos per person, next to a board-table graphic with seat photos around a table and a shareholder treemap.
+- ★ **Mapa com cunha para barras e rosca** · 3R Petroleum p.19 · `slides/3RPetroleum_p019.jpg`
+  - Brazil map with a funnel wedge expanding into three stacked asset-cluster bars, beside a reserves donut and the ribbon timeline.
+- ★ **Escada 3D ascendente com texto lateral** · 3R Petroleum p.28 · `slides/3RPetroleum_p028.jpg`
+  - Isometric 3D green staircase with a rising arrow whose steps carry the methodology text boxes, with a left column explaining the order of steps.
+- ★ **Escada 3D com gráfico em painel** · 3R Petroleum p.29 · `slides/3RPetroleum_p029.jpg`
+- ★ **Escada 3D com gráfico em painel** · 3R Petroleum p.30 · `slides/3RPetroleum_p030.jpg`
+  - Dimmed isometric stair in background with a white chart card in front showing a production curve fan with scenario end labels.
+- ★ **Escada 3D com gráfico em painel** · 3R Petroleum p.31 · `slides/3RPetroleum_p031.jpg`
+- ★ **Escada 3D com gráfico em painel** · 3R Petroleum p.32 · `slides/3RPetroleum_p032.jpg`
+- ★ **Barras de FCFF e caixa de preço-alvo** · 3R Petroleum p.40 · `slides/3RPetroleum_p040.jpg`
+  - PV-decay bars on the left feeding a perspective-skewed dashed card that walks TEV, minus net debt, equity value and a dark target-price box.
+- ★ **Matriz de risco com lista destacada** · 3R Petroleum p.44 · `slides/3RPetroleum_p044.jpg`
+  - Probability x Impact grid with square chips coded 1A/2B etc. and a right legend listing the groups; each build highlights one group while the others fade (p45, p46).
+- ★ **Matriz de risco com lista destacada** · 3R Petroleum p.45 · `slides/3RPetroleum_p045.jpg`
+- ★ **Matriz de risco com lista destacada** · 3R Petroleum p.46 · `slides/3RPetroleum_p046.jpg`
+- ★ **Chevrons de marcos com cards flutuantes** · 3R Petroleum p.103 · `slides/3RPetroleum_p103.jpg`
+  - Chevron arrow timeline 4T20 to 2T23 where the active chevron lights and a speech-bubble card above shows huge amount, use of proceeds and plan; background chart dimmed (p104-107 repeat).
+- ★ **Chevrons de marcos com cards flutuantes** · 3R Petroleum p.104 · `slides/3RPetroleum_p104.jpg`
+- ★ **Chevrons de marcos com cards flutuantes** · 3R Petroleum p.105 · `slides/3RPetroleum_p105.jpg`
+- ★ **Chevrons de marcos com cards flutuantes** · 3R Petroleum p.106 · `slides/3RPetroleum_p106.jpg`
+- ★ **Chevrons de marcos com cards flutuantes** · 3R Petroleum p.107 · `slides/3RPetroleum_p107.jpg`
+- **Capa com facetas geométricas em gradiente** · 3R Petroleum p.1 · `slides/3RPetroleum_p001.jpg`
+  - Full-bleed dark-green gradient with angular translucent shards, centered title and dual logo lockup, names bottom-left.
+- **Três cards superiores sobre fita temporal** · 3R Petroleum p.2 · `slides/3RPetroleum_p002.jpg`
+  - Three framed cards (business model with icons / Brazil map with cluster chips / donut) over a chevron-ribbon timeline 2010-2023 with milestone flags alternating above and below.
+- **Divisor em faixa sobre slide esmaecido** · 3R Petroleum p.3 · `slides/3RPetroleum_p003.jpg`
+- **Treemaps de market share com degraus** · 3R Petroleum p.5 · `slides/3RPetroleum_p005.jpg`
+  - Treemap of Petrobras share with a zoom-out wedge into the junior-oil treemap using company logos as tiles, plus a well-lifecycle cash-flow staircase mapping Petrobras vs junior focus.
+- **Linha de preço e cartão de recomendação** · 3R Petroleum p.6 · `slides/3RPetroleum_p006.jpg`
+  - Price chart as faded background with a floating white card showing BUY pill and a vertical bracket from actual to target price carrying upside and IRR.
+- **Dois gráficos empilhados com destaques sombreados** · 3R Petroleum p.8 · `slides/3RPetroleum_p008.jpg`
+  - Brent historic line with grey shaded bands labelling Gulf War/2008/COVID/Ukraine, stacked above a dense bar chart with a grey callout box for the lowest level in 60 years.
+- **Divisor em faixa sobre slide esmaecido** · 3R Petroleum p.10 · `slides/3RPetroleum_p010.jpg`
+- **Área empilhada de largura total** · 3R Petroleum p.11 · `slides/3RPetroleum_p011.jpg`
+  - Large stacked-area energy mix in green gradient shades with direct end-label values and no gridlines.
+- **Divisor em faixa sobre slide esmaecido** · 3R Petroleum p.14 · `slides/3RPetroleum_p014.jpg`
+- **Quatro painéis de linhas e barras comparativas** · 3R Petroleum p.15 · `slides/3RPetroleum_p015.jpg`
+  - 2x2 grid of slope charts for EBITDA, gross, net margin plus horizontal lifting-cost bars with company logos as bar labels.
+- **Quatro painéis de barras e curva** · 3R Petroleum p.16 · `slides/3RPetroleum_p016.jpg`
+  - Four peer panels with % growth annotations (+172.8%) overlaid on paired columns, and stacked 1P/2P/3P reserves per company.
+- **Seletor de mapas com barras e lista** · 3R Petroleum p.20 · `slides/3RPetroleum_p020.jpg`
+  - Mini-map header with arrow to cluster name, bar chart of actual vs expected production and a framed right panel of 4 icon+bold-phrase bullets; same template cloned per cluster (p21,p22).
+- **Seletor de mapas com barras e lista** · 3R Petroleum p.21 · `slides/3RPetroleum_p021.jpg`
+- **Seletor de mapas com barras e lista** · 3R Petroleum p.22 · `slides/3RPetroleum_p022.jpg`
+- **Barras e linha ao lado de citação** · 3R Petroleum p.23 · `slides/3RPetroleum_p023.jpg`
+  - Two small chart panels on the left (capex bars, opex area) and a framed card with executive portrait and large quote on the right.
+- **Linha do tempo de dívida com rosca** · 3R Petroleum p.24 · `slides/3RPetroleum_p024.jpg`
+  - Vertical zig-zag timeline of financing events with date tags alternating sides, next to debt donut and dashed box listing debt cost per instrument.
+- **Três cards de cenário com ícones** · 3R Petroleum p.26 · `slides/3RPetroleum_p026.jpg`
+  - Three equal white cards with bull/house/bear line icons in circles and three bold-keyword bullets each under a green header tab.
+- **Cards de cenário com destaque sobreposto** · 3R Petroleum p.27 · `slides/3RPetroleum_p027.jpg`
+  - Pop-over card layered over the dimmed scenario slide showing three columns of Bear/Base/Bull discount values (build animation).
+- **Dois painéis elevados com linhas e barras** · 3R Petroleum p.33 · `slides/3RPetroleum_p033.jpg`
+  - Two framed panels side by side: oil price curves per cluster with end labels, and stacked production per cluster bars.
+- **Painel de linhas com dois gráficos laterais** · 3R Petroleum p.34 · `slides/3RPetroleum_p034.jpg`
+  - Three small-multiples in one slide: Brent three-scenario lines, gas price bars and FX lines, each with value chips.
+- **Barras largas com nota tracejada** · 3R Petroleum p.35 · `slides/3RPetroleum_p035.jpg`
+  - Dashed CAGR bracket above the bars and grey overlay area marking the no-acquisition zero-growth zone with a callout box.
+- **Citação, barril com custos e linhas** · 3R Petroleum p.36 · `slides/3RPetroleum_p036.jpg`
+  - Barrel illustration with a stacked row of 4 green pills decomposing revenue per barrel down to net income, beside a portrait quote card and margin lines.
+- **Tabela flutuante de WACC sobre gráficos** · 3R Petroleum p.39 · `slides/3RPetroleum_p039.jpg`
+  - Pop-up zebra table with the final WACC row in bold, layered over the dimmed FCFF slide.
+- **Tela escura com mapa de calor ampliado** · 3R Petroleum p.41 · `slides/3RPetroleum_p041.jpg`
+  - Price history line fanning out into a red-to-green heat table of all scenarios with upside colored by value.
+- **Histograma Monte Carlo com legenda** · 3R Petroleum p.42 · `slides/3RPetroleum_p042.jpg`
+  - Histogram with the modal bar highlighted light green, a pill showing the upside range on top and an explanatory text box inside the plot.
+- **Tabela de múltiplos e dispersão de logos** · 3R Petroleum p.43 · `slides/3RPetroleum_p043.jpg`
+  - Peer table with logos and a funnel arrow into mean multiple and dashed result box, next to margin-vs-multiple scatter where logos are the data points.
+- **Foto de plataforma com texto central** · 3R Petroleum p.47 · `slides/3RPetroleum_p047.jpg`
+- **Colagem de prints de entrevistas e visita** · 3R Petroleum p.51 · `slides/3RPetroleum_p051.jpg`
+  - Mosaic of video-call screenshots, phone-call screen and platform photo with one-line captions of name and role as evidence of primary research.
+- **Linhas à esquerda e rosca com barras** · 3R Petroleum p.53 · `slides/3RPetroleum_p053.jpg`
+  - Line chart of production/export/import over time paired with a donut and a stacked bar with hatched segment showing the refining deficit.
+- **Área empilhada e caixas tracejadas de plano** · 3R Petroleum p.55 · `slides/3RPetroleum_p055.jpg`
+  - Stacked area chart with Petrobras logo mark beside dashed boxes comparing initial plan US$58Bn and new plan US$20-30Bn.
+- **Prints de notícias e cards de pressão** · 3R Petroleum p.56 · `slides/3RPetroleum_p056.jpg`
+  - Browser-window mockups of news headlines on the left and dashed icon cards for each policy pressure on the right.
+- **Manchetes, definição e citação em grade** · 3R Petroleum p.58 · `slides/3RPetroleum_p058.jpg`
+- **Lista de subsidiárias, setas e pizza** · 3R Petroleum p.60 · `slides/3RPetroleum_p060.jpg`
+  - Subsidiary tree on the left, a vertical stack of chevrons where the active step darkens, and a grey wedge card detailing that step; same template repeated for steps 2-6 (p61-65).
+- **Lista, chevrons verticais e painel de passo** · 3R Petroleum p.61 · `slides/3RPetroleum_p061.jpg`
+- **Lista, chevrons verticais e painel de passo** · 3R Petroleum p.62 · `slides/3RPetroleum_p062.jpg`
+- **Lista, chevrons verticais e painel de passo** · 3R Petroleum p.63 · `slides/3RPetroleum_p063.jpg`
+- **Lista, chevrons verticais e painel de passo** · 3R Petroleum p.64 · `slides/3RPetroleum_p064.jpg`
+- **Lista, chevrons verticais e painel de passo** · 3R Petroleum p.65 · `slides/3RPetroleum_p065.jpg`
+- **Três recortes de notícia alternados** · 3R Petroleum p.70 · `slides/3RPetroleum_p070.jpg`
+  - Three horizontal news strips, each with a photo, newspaper logo and quote line, to contrast OGX history against 3R.
+- **Barras com seta e citação com foto** · 3R Petroleum p.71 · `slides/3RPetroleum_p071.jpg`
+  - Stacked daily-production columns with a big rising arrow and +93% label beside a portrait quote card with phone call-log image.
+- **Fórmulas de Ke e Kd com funil** · 3R Petroleum p.73 · `slides/3RPetroleum_p073.jpg`
+  - Two grey equation panels (Ke US/BR, Kd) with inline formula arithmetic feeding a big arrow to a zebra WACC breakdown table.
+- **Quatro linhas SWOT com selos de letra** · 3R Petroleum p.99 · `slides/3RPetroleum_p099.jpg`
+  - Four text rows each paired with a letter tab icon (S W O T) that is highlighted while the other rows dim; letter tabs stacked on the right with arrow notch.
+- **Quatro linhas SWOT com selos de letra** · 3R Petroleum p.100 · `slides/3RPetroleum_p100.jpg`
+- **Radar de cinco forças com lista** · 3R Petroleum p.101 · `slides/3RPetroleum_p101.jpg`
+  - Pentagon radar with numbered vertices matching numbered list entries on the right card.
+- **Tese em três itens com revelação progressiva** · 3R Petroleum p.7 · `slides/3RPetroleum_p007.jpg`
+  - Dark divider with oval motif and three thesis lines; the active pillar is lit in white while the others are dimmed, repeated as a progress divider before each section.
+- **Duas barras sobre barras empilhadas** · 3R Petroleum p.9 · `slides/3RPetroleum_p009.jpg`
+  - Bars switch from dark (actual) to faded (forecast) shade to signal projection, with stacked per-product bars below and total label tabs on top.
+- **Barras com média global e área** · 3R Petroleum p.12 · `slides/3RPetroleum_p012.jpg`
+  - Country ranking bars with Brazil highlighted in light green and a dashed Global Average line with a speech-bubble callout.
+- **Área grande com barras e rosca** · 3R Petroleum p.13 · `slides/3RPetroleum_p013.jpg`
+  - Hero stacked-area chart on the left spanning full height with two smaller stacked panels (ranked bars of top 15 producers, donut) on the right.
+- **Tese em três itens com revelação progressiva** · 3R Petroleum p.17 · `slides/3RPetroleum_p017.jpg`
+- **Tese em três itens com revelação progressiva** · 3R Petroleum p.25 · `slides/3RPetroleum_p025.jpg`
+- **Três painéis pequenos e barras altas** · 3R Petroleum p.37 · `slides/3RPetroleum_p037.jpg`
+  - Leverage line chart over a debt-amortization BoP/EoP bar pair on the left, and cash-flow bars with value tabs on the right.
+- **Painéis de linha e barras horizontais** · 3R Petroleum p.38 · `slides/3RPetroleum_p038.jpg`
+  - Three coordinated panels (capex/D&A line, working-capital bars, tall horizontal FCFF bars by year) with a boxed 118% callout.
+- **Sumário em duas colunas sobre foto** · 3R Petroleum p.48 · `slides/3RPetroleum_p048.jpg`
+- **Sumário de apêndice sobre foto** · 3R Petroleum p.49 · `slides/3RPetroleum_p049.jpg`
+  - Two-column hyperlinked index over a tinted full-bleed photo for appendix navigation.
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.50 · `slides/3RPetroleum_p050.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.52 · `slides/3RPetroleum_p052.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.54 · `slides/3RPetroleum_p054.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.57 · `slides/3RPetroleum_p057.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.59 · `slides/3RPetroleum_p059.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.66 · `slides/3RPetroleum_p066.jpg`
+- **Duas barras sobre série temporal larga** · 3R Petroleum p.67 · `slides/3RPetroleum_p067.jpg`
+  - Four charts with forecast bars faded to grey and trend arrow above, Brent daily series with annotated events.
+- **Duas roscas sobre série temporal larga** · 3R Petroleum p.68 · `slides/3RPetroleum_p068.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.69 · `slides/3RPetroleum_p069.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.72 · `slides/3RPetroleum_p072.jpg`
+- **Tabela WACC, debênture e dispersão beta** · 3R Petroleum p.74 · `slides/3RPetroleum_p074.jpg`
+  - Beta scatter with dashed regression line next to pasted calculation table and debenture terms card.
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.75 · `slides/3RPetroleum_p075.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.76 · `slides/3RPetroleum_p076.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.77 · `slides/3RPetroleum_p077.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.78 · `slides/3RPetroleum_p078.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.79 · `slides/3RPetroleum_p079.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.80 · `slides/3RPetroleum_p080.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.81 · `slides/3RPetroleum_p081.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.82 · `slides/3RPetroleum_p082.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.83 · `slides/3RPetroleum_p083.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.84 · `slides/3RPetroleum_p084.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.85 · `slides/3RPetroleum_p085.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.86 · `slides/3RPetroleum_p086.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.87 · `slides/3RPetroleum_p087.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.88 · `slides/3RPetroleum_p088.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.89 · `slides/3RPetroleum_p089.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.90 · `slides/3RPetroleum_p090.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.91 · `slides/3RPetroleum_p091.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.92 · `slides/3RPetroleum_p092.jpg`
+- **Duas tabelas de hedge lado a lado** · 3R Petroleum p.93 · `slides/3RPetroleum_p093.jpg`
+  - Two clean zebra tables side by side (NDF and Collar) with green headers and total rows.
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.94 · `slides/3RPetroleum_p094.jpg`
+- **Planilha crua de premissas** · 3R Petroleum p.95 · `slides/3RPetroleum_p095.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.96 · `slides/3RPetroleum_p096.jpg`
+- **Bloco de código em página branca** · 3R Petroleum p.97 · `slides/3RPetroleum_p097.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.98 · `slides/3RPetroleum_p098.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.102 · `slides/3RPetroleum_p102.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.108 · `slides/3RPetroleum_p108.jpg`
+- **Print de código em página branca** · 3R Petroleum p.109 · `slides/3RPetroleum_p109.jpg`

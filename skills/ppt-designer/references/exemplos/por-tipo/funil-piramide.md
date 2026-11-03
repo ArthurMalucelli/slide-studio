@@ -1,0 +1,22 @@
+# Funil e pirâmide (10)
+
+- ★ **Flared funnel wedges between blocks** · AB InBev p.39 · `tipo/funil-piramide/ab-inbev_p39_flared-funnel-wedges-between-blocks_5.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Face #FFCC00, wedges #BF9000 (about 75% brightness of face). Block 1 (69,217)-(197,293). Wedge A: (197,217),(273,192),(273,317),(197,293). Block 2 (273,192)-(442,317). Wedge B: (442,192),(532,164),(532,346),(442,317). Terminal table starts at x=532 with height y 164-346. Height grows 76, 125, 182: step ratio about 1.5. Wedge is a
+- ★ **Pirâmide de segmentos com pressão** · Intelbras p.17 · `tipo/funil-piramide/Intelbras_p017_q2.jpg` · slide: `slides/Intelbras_p017.jpg`
+  - ...because not all segments are equal
+- ★ **Pirâmide de camadas de incentivo** · Intelbras p.52 · `tipo/funil-piramide/Intelbras_p052_q1.jpg` · slide: `slides/Intelbras_p052.jpg`
+  - Four layers, one moat
+- ★ **Pirâmide de etapas de seleção** · Meliuz p.16 · `tipo/funil-piramide/Meliuz_p016_q1.jpg` · slide: `slides/Meliuz_p016.jpg`
+  - Para se tornar sócio do Méliuz
+- ★ **Subtractive funnel of centred offset plates** · Nubank p.13 · `tipo/funil-piramide/nubank_p13_subtractive-funnel-of-centred-offset-plates_4.jpg`
+  - Five abutting flat rectangles in one tint, each slightly narrower and centred, each with an italic thin label and a bold signed number on two lines; last plate labelled TAM; a grey-to-transparent gradient wedge joins the plates to the map on the left.
+- ★ **Funil de população até mercado endereçável** · Nubank p.13 · `tipo/funil-piramide/Nubank_p013_q3.jpg` · slide: `slides/Nubank_p013.jpg`
+  - Unbanked beyond digital reach
+- ★ **Slab pyramid with diagonal straps and fading bands (variation of faceted pyramid)** · Senior Sistemas p.7 · `tipo/funil-piramide/senior-sistemas_p7_slab-pyramid-with-diagonal-straps-and-fading-bands-variation_52.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Slabs are separated, not contiguous. Triangle (604,167),(638,122),(672,167) gradient #01826D to #205C64. Strap parallelogram (604,191),(640,166),(670,165),(634,190) #205C64. Trapezoid (575,227),(589,189),(686,189),(700,227) gradient #205C64 to dark. Strap (578,252),(643,218),(687,221),(622,255) gradient #1F3C4E. Trapezoid (553,28
+- ★ **Tonal 3D funnel of truncated cones** · Vasta p.24 · `tipo/funil-piramide/vasta_p24_tonal-3d-funnel-of-truncated-cones_57.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Raster, no vector paths in this region, but simple to rebuild. Crop 185x220. Four separate cups with gaps overlapping about 8. Widths/heights at top: 165x56, 124x57, 88x44, 53x38; centres aligned at x~447. Build each with: front body = freeform with top ellipse's lower arc and bottom arc at ~60% of top width; horizontal gradient dark-light-dark, hi
+- **Stacked arches ascending** · BTG Pactual p.122 · `tipo/funil-piramide/btg-pactual_p122_stacked-arches-ascending_78.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact, thick open polylines with rounded shoulders. Each arch 4pt thick; shape for E: (530,482),(557,440),(584,426),(830,426),(857,440),(884,482) #134263. Above, D: (575,415)..(625,363)..(789,363)..(838,415) #1D6295; C: (617,347)..(662,300)..(752,300)..(797,347) #75B6E5; B: (653,279)..(693,237)..(721,237)..(761,279) #A3CEED; A: (682,220)..(707,199)
+- **Faceted pyramid with tier tabs** · Meliuz p.16 · `tipo/funil-piramide/meliuz_p16_faceted-pyramid-with-tier-tabs_102.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Known pyramid, but better than usual: each tier is a truncated pyramid with a darker top-right wall and a lighter left, and a tab rectangle in the same tone emerges from behind the tier's right wall, carrying its text. Tiers (bottom to top) #FF385A/#FF6B84, #FF8196/#FFAEBB, #FFE1E6/#FF

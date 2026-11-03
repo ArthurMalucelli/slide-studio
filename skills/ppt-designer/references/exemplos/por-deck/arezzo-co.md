@@ -1,0 +1,22 @@
+# Arezzo&Co: páginas (10)
+
+- ★ **Faixas por classe e curvas suavizadas** · Arezzo&Co p.4 · `slides/ArezzoCo_p004.jpg`
+  - Peer logos on rows with horizontal dots on a C- to A+ customer-class scale, plus a smooth line chart of inflation vs revenue variation with an annotation callout.
+- **Capa com foto em recorte curvo** · Arezzo&Co p.1 · `slides/ArezzoCo_p001.jpg`
+  - Left dark panel with big bold white title and a diagonal cyan swoosh over a full-bleed store photo; company logo bottom-right, team names bottom-left.
+- **Linha grande com rosca e logos** · Arezzo&Co p.3 · `slides/ArezzoCo_p003.jpg`
+  - Logo wall of acquired brands in a shaded box next to a market-share donut and a share-evolution line chart, tying consolidation text to visuals.
+- **Quatro gráficos com frases de abertura** · Arezzo&Co p.6 · `slides/ArezzoCo_p006.jpg`
+  - Three stacked chart bands (columns with CAGR badge, benchmark bars highlighting Brazil in cyan, ribbon of yearly values) in one dark-grey and cyan palette.
+- **Gráficos com painel destacado à direita** · Arezzo&Co p.7 · `slides/ArezzoCo_p007.jpg`
+  - Right-hand cyan-tinted panel isolates the influencer sub-story (histogram, donut, takeaway box) from the left channel-penetration charts.
+- **Linhas, rosca e barras em grade** · Arezzo&Co p.8 · `slides/ArezzoCo_p008.jpg`
+  - Men vs women shown consistently as dark vs cyan series across line, stacked 100% bars and paired columns, so the gender contrast reads at a glance.
+- **Grade com fileira de roscas pequenas** · Arezzo&Co p.9 · `slides/ArezzoCo_p009.jpg`
+  - Row of five small donuts with one-line labels for decisive purchase factors, beneath a Google Trends line with a dark callout stat box.
+- **Matriz de impacto com quatro gráficos** · Arezzo&Co p.10 · `slides/ArezzoCo_p010.jpg`
+  - Risk matrix with impact vs probability grid and named cells placed in the grid, paired on the right with evidence charts for each risk (SELIC line, Shein users, ICMS bars).
+- **Coluna de cadeia com gráficos densos** · Arezzo&Co p.2 · `slides/ArezzoCo_p002.jpg`
+  - Left callout box with a value-chain icon stack (design, manufacturing, distribution) beside 4 compact charts, each with a one-line bold takeaway above it.
+- **Linha do tempo de logos e gráficos** · Arezzo&Co p.5 · `slides/ArezzoCo_p005.jpg`
+  - Logo timeline by entry decade across the top, with Shein-vs-Arezzo logo comparison and price-benchmark horizontal bars below.

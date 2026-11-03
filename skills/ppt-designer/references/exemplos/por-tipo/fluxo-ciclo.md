@@ -1,0 +1,117 @@
+# Fluxo e ciclo (58)
+
+- ★ **Long chain above short chain to show disintermediation** · AB InBev p.101 · `tipo/fluxo-ciclo/ab-inbev_p101_long-chain-above-short-chain-to-show-disintermediation_3.jpg`
+  - Grey panel; upper row of six line icons with chevrons, lower row of three icons spaced across the same width with chevrons; italic row labels and a two-line note beneath each row.
+- ★ **Bowtie funnel with gradient wedges from rows into a circle and out** · BTG Pactual p.3 · `tipo/fluxo-ciclo/btg-pactual_p3_bowtie-funnel-with-gradient-wedges-from-rows-into-a-circle-a_9.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact. Left rows: five rects x348-517, each 57 tall, stacked y206-493, alpha .5 #7DE2E7 (top two) and #77CEEF (lower three). Left wedge inside gradient rect x517-643,y206-493 clipped by triangle (517,206),(517,493),(632,348), #7DE2E7 at the base fading to #D2EFFA. Right wedge mirror x623-748, triangle (748,206),(748,493),(632,348), #BBE6F7 near ape
+- ★ **Two-tone arc arrows as a two-engine flywheel** · BTG Pactual p.48 · `tipo/fluxo-ciclo/btg-pactual_p48_two-tone-arc-arrows-as-a-two-engine-flywheel_6.jpg`
+  - Two thick block-arc arrows, medium and dark, forming a full ring around a white logo disc with a hairline inner circle; a rectangular name tag sits on the left and right of the ring; four text blocks at the diagonals connect through hairlines with diamond ends.
+- ★ **Accordion fold ribbon arrows** · BTG Pactual p.80 · `tipo/fluxo-ciclo/btg-pactual_p80_accordion-fold-ribbon-arrows_11.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact. Arrow 1 (43,162),(454,162),(488,196),(454,230),(43,230) #A4DEF4; arrow 2 (43,230),(508,230),(542,264),(508,298),(43,298) #77CEEF; arrow 3 (43,298),(415,298),(449,332),(415,366),(43,366) #D2EFFA. Arrows are 68 tall, tip 34 long and touch one another. Fold walls behind at left edge, extending off the slide: wall 1 (44,163),(-44,99),(-44,241),(
+- ★ **Curved ribbons flowing off page into icon tiles, with an underside fold** · BTG Pactual p.86 · `tipo/fluxo-ciclo/btg-pactual_p86_curved-ribbons-flowing-off-page-into-icon-tiles-with-an-unde_12.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact cubic paths starting off slide x=-70. Tile rect (98,215)-(155,272) #A1C8C5. Ribbon top face: (-70,275)->(98,215)->(98,272)->(-70,296) #7EC492. Underside fold, darker: curve (-70,294) via (53,268),(105,260) to (155,272), back via (108,284),(12,292) to (-70,296), #318B71. So the fold emerges as a thin crescent beneath and curls under the tile. 
+- ★ **Bowtie plates with rounded chamfer into grey wheel** · BTG Pactual p.96 · `tipo/fluxo-ciclo/btg-pactual_p96_bowtie-plates-with-rounded-chamfer-into-grey-wheel_10.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact path, rounded polygon. Left plate (81,129)->(118,115)->(515,226)->(530,240)->(530,270)->(515,284)->(118,395)->(81,380)->close, #7030A0 alpha .2. Right mirror (880,129),(842,115),(436,226),(421,240),(421,270),(436,284),(842,394),(880,380), #082D6C alpha .15. Corners rounded ~15. Each plate's neck goes beneath the wheel and overlaps it. Wheel: 
+- ★ **Isometric slabs connected by a road** · CSN - ArcelorMittal p.3 · `tipo/fluxo-ciclo/csn-arcelormittal_p3_isometric-slabs-connected-by-a-road_19.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Source is one 1024x1536 raster, cropped in a framed box (44,160)-(720,738), with 4 native numbered circles on top with soft shadows (grey #C8C8C8, r~18, shadow to lower right). Not reproducible literally. Shape version: 4 iso slabs in zigzag, each a rhombus about 220x100 with a 20px th
+- ★ **Cadeia de valor em estrada isométrica** · CSN - ArcelorMittal p.3 · `tipo/fluxo-ciclo/CSN-ArcelorMittal_p003_q1.jpg` · slide: `slides/CSN-ArcelorMittal_p003.jpg`
+  - Steel Industry Value Chain
+- ★ **Master plan re-entered as tracker** · CSN Liability p.9 · `tipo/fluxo-ciclo/csn-liability_p9_master-plan-re-entered-as-tracker_4.jpg`
+  - Build one master slide with 4 columns. Duplicate it before each section; set the other columns to about 25% opacity and keep the active one at full. Step labels are small italics between two vertical ticks on a line running edge to edge. Column values are constant across all copies, so the page also recaps the numbers.
+- ★ **Before/after ownership tree** · CSN Liability p.22 · `tipo/fluxo-ciclo/csn-liability_p22_before-after-ownership-tree_8.jpg`
+  - Left tree from adviser and parent logos forks to two steps. Each connects by right-angled line to an open-top frame titled in its border. Top frame: logo with stem to subsidiaries, % chips on stem (dashed chips), outline arrow, reduced tree. Bottom: tranche tile and interest table. Dashed notes box lower left.
+- ★ **Estrutura societária antes e depois da venda** · CSN Liability p.22 · `tipo/fluxo-ciclo/CSNLiabilityManagement_p022_q1.jpg` · slide: `slides/CSNLiabilityManagement_p022.jpg`
+  - CSN Cimentos sale generates R$14.9bn in proceeds
+- ★ **Cadeia de valor com ícones isométricos** · ChallengeB p.3 · `tipo/fluxo-ciclo/ChallengeB_p003_q3.jpg` · slide: `slides/ChallengeB_p003.jpg`
+  - With a tightly linked value chain
+- ★ **Diamond nodes on a capped rail with dashed span brackets beneath** · Intelbras p.7 · `tipo/fluxo-ciclo/intelbras_p7_diamond-nodes-on-a-capped-rail-with-dashed-span-brackets-ben_13.jpg`
+  - Thin green horizontal line with short vertical end caps; three large green-outlined pale diamonds with a line icon; label above each; dashed green square bracket beneath spanning from node to node, with a centred two-line caption.
+- ★ **Seta vertical com camadas amortecedoras** · Intelbras p.59 · `tipo/fluxo-ciclo/Intelbras_p059_q3.jpg` · slide: `slides/Intelbras_p059.jpg`
+  - The channel as a shock absorber
+- ★ **Illustrated process chain with a risk row beneath** · Sabesp p.41 · `tipo/fluxo-ciclo/sabesp_p41_illustrated-process-chain-with-a-risk-row-beneath_11.jpg`
+  - Seven same-angle isometric illustrations with thin arrows between them; a bold step name under each; below, two rows of short coloured risk labels with an icon bullet at the left, aligned to the same columns.
+- ★ **Isometric icon chain on square plinths** · Sabesp p.41 · `tipo/fluxo-ciclo/sabesp_p41_isometric-icon-chain-on-square-plinths_49.jpg`
+  - Pasted single PNG 2172x724, generated scene. To rebuild natively: plinth = a rhombus top face (2:1 width to height) #E6E8EB, left face parallelogram #A9AFB7, right face parallelogram #8A9099, thickness about 10% of width. On the plinth, cylinders (ellipse top + rect + ellipse bottom with a horizontal gradient) and cubes in brand blue. Small cyan arrows between plinths in flat 2D.
+- ★ **Cadeia de valor ilustrada com riscos** · Sabesp p.41 · `tipo/fluxo-ciclo/Sabesp_p041_q1.jpg` · slide: `slides/Sabesp_p041.jpg`
+  - Eight steps to deliver water. One to collect payment
+- ★ **Quatro pilares numerados em círculos** · Senior Sistemas p.55 · `tipo/fluxo-ciclo/SeniorSistemas_p055_q1.jpg` · slide: `slides/SeniorSistemas_p055.jpg`
+  - Tese de Investimento...
+- ★ **Staged deal columns closing on a final structure panel** · Vibra p.37 · `tipo/fluxo-ciclo/vibra_p37_staged-deal-columns-closing-on-a-final-structure-panel_4.jpg`
+  - On dark, three neon-green-outlined columns each holding two numbered steps with a large stat per step, and thin chevrons in the gutters; a fourth wider column holds the final structure chart; assumptions run in a footer.
+- **Cadeia upstream midstream downstream** · 3R Petroleum p.4 · `tipo/fluxo-ciclo/3RPetroleum_p004_q3.jpg` · slide: `slides/3RPetroleum_p004.jpg`
+  - Oil&Gas Segments
+- **Bar-terminated connector tree** · AB InBev p.7 · `tipo/fluxo-ciclo/ab-inbev_p7_bar-terminated-connector-tree_18.jpg`
+  - Thin coloured lines leave a dashed box from small diamonds, one colour per branch; branches end in short thick bars on which the labels sit (Suppliers, Clients, Negative WK); a dashed line then falls to a T-tick on the equation strip below.
+- **Vertical value chain rail with icon and callout cards** · Arezzo&Co p.2 · `tipo/fluxo-ciclo/arezzo-co_p2_vertical-value-chain-rail-with-icon-and-callout-cards_8.jpg`
+  - Pale blue vertical panel with a header tab; three steps alternate a line icon and a small blue-outlined text box, joined by thin elbows; the rail closes with a dark conclusion box.
+- **Zigzag value chain with stepped dashes** · Arezzo&Co p.2 · `tipo/fluxo-ciclo/arezzo-co_p2_zigzag-value-chain-with-stepped-dashes_20.jpg`
+  - Tall pale panel; three text boxes alternate left and right with icons opposite, linked by dashed elbow lines; arrow into a dark box at the bottom with the takeaway, keywords in accent.
+- **Pointed attribute band into a stem splitting to two icon conclusions** · BTG Pactual p.30 · `tipo/fluxo-ciclo/btg-pactual_p30_pointed-attribute-band-into-a-stem-splitting-to-two-icon-con_15.jpg`
+  - Pale blue rectangle whose lower edge forms a very wide shallow V, five bold attributes evenly spaced; thin line from the tip; hollow diamond at the fork, filled diamonds at both ends; large dark icon and centred two-tone sentence under each end.
+- **Três faixas convergindo em seta** · BTG Pactual p.52 · `tipo/fluxo-ciclo/BTGPactual_p052_q2.jpg` · slide: `slides/BTGPactual_p052.jpg`
+  - We highlight three key aspects that support such a business model
+- **Triangle-pointer process axis** · BTG Pactual p.96 · `tipo/fluxo-ciclo/btg-pactual_p96_triangle-pointer-process-axis_5.jpg`
+  - Pale grey strip; hairline axis with three solid dots; a short grey triangle drops from each caption to its dot, with the middle dot in dark colour; the last column is a bold conclusion and has no pointer.
+- **Service stack with fee arrows to two clients** · BTG Pactual p.112 · `tipo/fluxo-ciclo/btg-pactual_p112_service-stack-with-fee-arrows-to-two-clients_7.jpg`
+  - Five stacked rows in shades of one blue under a dark header, framed in dark; to the right, paired arrows pointing opposite ways with service above and fee below in blue; each pair ends in an outlined pale green tile with a big icon and label.
+- **Setas de vantagens operacionais** · CSN - ArcelorMittal p.26 · `tipo/fluxo-ciclo/CSN-ArcelorMittal_p026_q2.jpg` · slide: `slides/CSN-ArcelorMittal_p026.jpg`
+  - ArcelorMittal's Operational Edge
+- **Estrutura de emissão com tranches** · CSN - ArcelorMittal p.32 · `tipo/fluxo-ciclo/CSN-ArcelorMittal_p032_q1.jpg` · slide: `slides/CSN-ArcelorMittal_p032.jpg`
+  - InFinance Debt Emisson
+- **Plano em quatro passos com valores** · CSN Liability p.9 · `tipo/fluxo-ciclo/CSNLiabilityManagement_p009_q1.jpg` · slide: `slides/CSNLiabilityManagement_p009.jpg`
+  - 1st Step
+- **Plano em quatro passos com valores** · CSN Liability p.9 · `tipo/fluxo-ciclo/CSNLiabilityManagement_p009_q2.jpg` · slide: `slides/CSNLiabilityManagement_p009.jpg`
+  - 2nd Step
+- **Plano em quatro passos com valores** · CSN Liability p.9 · `tipo/fluxo-ciclo/CSNLiabilityManagement_p009_q3.jpg` · slide: `slides/CSNLiabilityManagement_p009.jpg`
+  - 3rd Step
+- **Plano em quatro passos com valores** · CSN Liability p.9 · `tipo/fluxo-ciclo/CSNLiabilityManagement_p009_q4.jpg` · slide: `slides/CSNLiabilityManagement_p009.jpg`
+  - 4th Step
+- **Gradient-stroke corner box** · CSN Liability p.31 · `tipo/fluxo-ciclo/csn-liability_p31_gradient-stroke-corner-box_84.jpg`
+  - White box, no full outline. Build with 2 thin rects (1.5pt) on the top and right edges, solid #C00000 at the shared corner fading to alpha 0 towards the far ends; plus a soft shadow at low alpha on the opposite corner. Box appears lifted and lit from the top-right.
+- **Lista vertical com ícones em trilho** · ChallengeB p.13 · `tipo/fluxo-ciclo/ChallengeB_p013_q1.jpg` · slide: `slides/ChallengeB_p013.jpg`
+  - How scope clauses work
+- **Fluxo de três etapas com losangos** · Intelbras p.7 · `tipo/fluxo-ciclo/Intelbras_p007_q1.jpg` · slide: `slides/Intelbras_p007.jpg`
+  - One channel, three BUs: the cross-sell setup
+- **Soma de três fatores gerando resultado** · Intelbras p.13 · `tipo/fluxo-ciclo/Intelbras_p013_q1.jpg` · slide: `slides/Intelbras_p013.jpg`
+  - A system that generates trust
+- **Rail of cascading chevrons** · Meliuz p.62 · `tipo/fluxo-ciclo/meliuz_p62_rail-of-cascading-chevrons_103.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Left rail 75px wide, #404040. Bottom: 3 chevrons pitch ~50, width of the rail, each with a 6px white chevron above it, tones stepping #FF385A, #FF8196, #FFE1E6 (or greys on appendix). Slide-wide signature, cheap sense of downward layers.
+- **Hollow outline arrows between stakeholder panels and a dashed logo disc** · Meliuz p.79 · `tipo/fluxo-ciclo/meliuz_p79_hollow-outline-arrows-between-stakeholder-panels-and-a-dashe_14.jpg`
+  - Two tall rounded panels (brand tint and grey), each with name, icon rows, big stat, optional logos; centre: dashed circle with logo; above and below it hollow block arrows with sharp pointed tails, pink for user side, grey for partner side, with a flow label over or under each.
+- **Círculo central com setas de troca** · Meliuz p.79 · `tipo/fluxo-ciclo/Meliuz_p079_q2.jpg` · slide: `slides/Meliuz_p079.jpg`
+- **Logo ring for cross-sell** · Mercado Libre p.4 · `tipo/fluxo-ciclo/mercado-libre_p4_logo-ring-for-cross-sell_45.jpg`
+  - Ring of curved arrows linking sub-brand logos around an italic centre word, on a grey panel, next to a Seven Powers cover and quote. Low-res crop.
+- **Roof-top plates under persona icons with a logo sum between** · Mercado Libre p.135 · `tipo/fluxo-ciclo/mercado-libre_p135_roof-top-plates-under-persona-icons-with-a-logo-sum-between_9.jpg`
+  - Light-grey pentagon shape like a house (very shallow roof) with bullets inside; line icon centred above the peak with a bold label; thick navy arrow from one icon to the other; in the centre gutter two logos stacked with a bold plus between.
+- **Mercado endereçável e efeito de rede** · Nubank p.20 · `tipo/fluxo-ciclo/Nubank_p020_q4.jpg` · slide: `slides/Nubank_p020.jpg`
+  - SME's TAM
+- **Stem flags over square icon tiles on an arrow rail** · Nubank p.30 · `tipo/fluxo-ciclo/nubank_p30_stem-flags-over-square-icon-tiles-on-an-arrow-rail_16.jpg`
+  - Pale rounded tray; thin black arrow crossing the tray; four large rounded-square brand tiles with white icons sitting on the line; thin vertical stem rising from each tile's right portion; right-aligned two-line bold head and smaller note set against the stem's left side.
+- **Career path told in logos** · RD Saúde p.29 · `tipo/fluxo-ciclo/rd-saude_p29_career-path-told-in-logos_23.jpg`
+  - Dashed-border logo boxes joined by short green arrows, turning back on itself with an elbow to the current employer, which is on a grey tile; portrait and bio plate beneath.
+- **Trajetória do CEO com foto** · RD Saúde p.29 · `tipo/fluxo-ciclo/RDSaude_p029_q3.jpg` · slide: `slides/RDSaude_p029.jpg`
+  - A top tier CEO: Mr. Marcílio Pousada
+- **X-cross brand wheel split by a tinted horizon** · RD Saúde p.77 · `tipo/fluxo-ciclo/rd-saude_p77_x-cross-brand-wheel-split-by-a-tinted-horizon_8.jpg`
+  - Central dark disc with circular arrows and people icon; two diagonal hairlines forming an X; horizontal rule through the disc with a grey fill under it; row names at far left of the horizon; wedge titles in teal near the disc and logos loose in each wedge.
+- **Double-outline hexagons on a background arc** · Rede D'Or p.11 · `tipo/fluxo-ciclo/rede-d-or_p11_double-outline-hexagons-on-a-background-arc_120.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Hexagon outer about 98pt wide: stroke 2.5pt #6FC3E8, fill page navy #1F3864. Inner hexagon about 82pt wide, solid #6FC3E8, concentric. Teal #009B85 1.5pt arc, from a large circle centered off the left edge, passes behind hexagons. Middle hex shifts right 68pt following the arc. Inactive at alpha 0.2 as progress state.
+- **Reasons-add-up card** · Restaurant Brands p.39 · `tipo/fluxo-ciclo/restaurant-brands_p39_reasons-add-up-card_31.jpg`
+  - Rounded grey card with solid red title band; three italic bold red phrases split by pale plus signs; wide flat grey down-triangle; result in larger italic red. P.30 uses it as X >> Y pills then a triangle then a verdict.
+- **Cadeia de três etapas com logos** · Vibra p.3 · `tipo/fluxo-ciclo/Vibra_p003_q2.jpg` · slide: `slides/Vibra_p003.jpg`
+  - The Fuel Supply Chain Architecture
+- **Pilar numerado em anel escalonado** · Vibra p.7 · `tipo/fluxo-ciclo/Vibra_p007_q1.jpg` · slide: `slides/Vibra_p007.jpg`
+  - Divestiture of Comerc
+- **Pilar numerado em anel escalonado** · Vibra p.7 · `tipo/fluxo-ciclo/Vibra_p007_q2.jpg` · slide: `slides/Vibra_p007.jpg`
+  - Moove Acquisition to Build a Lubricants Champion
+- **Pilar numerado em anel escalonado** · Vibra p.7 · `tipo/fluxo-ciclo/Vibra_p007_q3.jpg` · slide: `slides/Vibra_p007.jpg`
+  - Unlocking Credit to Capture Market Share
+- **Before/After money-flow mini diagram** · Vibra p.14 · `tipo/fluxo-ciclo/vibra_p14_before-after-money-flow-mini-diagram_52.jpg`
+  - Two row labels at left in italics (Operator, Client), Before and After column titles; grey lines for old flow and accent lines for new flow; '$' labels; a lightning icon for the product; dashed leader to accent '0% Tax' tag.
+- **Numbered chain header driving one row per step** · Vibra p.20 · `tipo/fluxo-ciclo/vibra_p20_numbered-chain-header-driving-one-row-per-step_3.jpg`
+  - Four small dashed numbered tiles on a dashed line with step names under them; below, four outlined rows numbered 1 to 4, each with a sentence on the left and an icon or logo cell on the right.
+- **Thread running behind vertical panels** · CSN - ArcelorMittal p.17 · `tipo/fluxo-ciclo/csn-arcelormittal_p17_thread-running-behind-vertical-panels_148.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Panels 237x500 at x 484, 815, 1152, gradient #1A3A85 to #15306E, 1px white border, on a darker navy field. A 1px white line crosses the slide at y=171 and appears interrupted by a break-tick ||  label on each panel, as if threaded. Weak depth but cheap.
+- **Ring with outer arc segments** · Meliuz p.13 · `tipo/fluxo-ciclo/meliuz_p13_ring-with-outer-arc-segments_149.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Low-depth variant of nested ovals. Inner ring ~r=145 center (264,432), 20px stroke #CCCCCC, white center. Outer half-ring r 290, 40px thick arcs each 45 degrees, tones #CCCCCC, #FFE1E6, #FF8196, #FF385A clockwise, thin grey spokes, icons between. Colour matches items 01-04 in the panel
+- **Two-triangle folded logo mark** · Vasta p.6 · `tipo/fluxo-ciclo/vasta_p6_two-triangle-folded-logo-mark_153.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Corner mark: dark triangle #2A2A33 plus overlapping pink triangle #E5206F, sharing the apex at bottom; approx 40 wide,35 tall at the top right, ~(932,24). Mixed by overlap, like a folded sheet. Used as a repeating page mark.

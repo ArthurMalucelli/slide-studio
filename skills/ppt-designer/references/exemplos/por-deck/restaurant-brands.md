@@ -1,0 +1,91 @@
+# Restaurant Brands: páginas (49)
+
+- ★ **Veredito com preço-alvo sobre foto** · Restaurant Brands p.3 · `slides/RestaurantBrandsInternational_p003.jpg`
+  - Giant BUY! word on a translucent dark-red band over a darkened photo, with price / upside / target on one horizontal line connected by thin rules.
+- ★ **Mapa-múndi de calor com critérios** · Restaurant Brands p.38 · `slides/RestaurantBrandsInternational_p038.jpg`
+  - World choropleth heat map in red scale with numbered criteria list at left and code badge showing methodology.
+- **Capa com foto e cunha vermelha** · Restaurant Brands p.1 · `slides/RestaurantBrandsInternational_p001.jpg`
+  - Full-bleed photo of the brand signage under a diagonal red wedge carrying the team name, so the cover is branded without any logo wall.
+- **Barras de marcas, áreas empilhadas e colunas** · Restaurant Brands p.2 · `slides/RestaurantBrandsInternational_p002.jpg`
+  - Three side-by-side shaded panels each with a claim headline, a grey italic chart title and brand logos as chart axis labels.
+- **Três caixas escalonadas com ícones** · Restaurant Brands p.4 · `slides/RestaurantBrandsInternational_p004.jpg`
+  - Each pillar is an outlined rounded bar with an icon on a vertical spine line, staggered in x; the divider is reused later with only the active pillar visible.
+- **Barras empilhadas e linha com crise** · Restaurant Brands p.6 · `slides/RestaurantBrandsInternational_p006.jpg`
+  - Two charts under red sub-headline plus grey italic chart-title caption; red/orange CAGR chips as boxed callouts on the chart.
+- **Citação de entrevista, esquema e gráficos** · Restaurant Brands p.7 · `slides/RestaurantBrandsInternational_p007.jpg`
+  - Two-column template: red bold claim, italic grey chart title, then a primary-research photo-quote card with name/title strip.
+- **Citação, regressão, barras e comparativo** · Restaurant Brands p.8 · `slides/RestaurantBrandsInternational_p008.jpg`
+  - Founder photo with dark name bar next to a regression scatter; code/stats snippet pasted as small evidence badge.
+- **Linha de aquisições e lista de marcas** · Restaurant Brands p.9 · `slides/RestaurantBrandsInternational_p009.jpg`
+  - Line chart of system sales with annotated acquisition dates as callout labels; right column lists each brand logo + one-line fact + market share.
+- **Fórmula de marca, linhas e dispersão** · Restaurant Brands p.10 · `slides/RestaurantBrandsInternational_p010.jpg`
+  - Red header bar with three-term equation (scale + flame + customization = awareness) feeding a brand-index line chart.
+- **Esquema de cadeia vertical e cascata** · Restaurant Brands p.11 · `slides/RestaurantBrandsInternational_p011.jpg`
+  - Value-chain diagram (royalties, supply chain) with icon trio under a red title bar; cost waterfall quantifies moat as years-to-match.
+- **Esquema de cadeia vertical e citação** · Restaurant Brands p.12 · `slides/RestaurantBrandsInternational_p012.jpg`
+  - Tims vs Sbux head-to-head table with colored column headers (green vs red) next to a pull-quote from an interview.
+- **Citação de professor e cascata de valor** · Restaurant Brands p.13 · `slides/RestaurantBrandsInternational_p013.jpg`
+  - Waterfall of asset value build-up with grey bars for components, orange for franchise gap, red for EPV; academic expert photo with title bar.
+- **Pop-up de linhas sobre slide esmaecido** · Restaurant Brands p.14 · `slides/RestaurantBrandsInternational_p014.jpg`
+- **Citação de entrevista e cascata de margens** · Restaurant Brands p.16 · `slides/RestaurantBrandsInternational_p016.jpg`
+  - Expert quote on left card with three photos; operating-leverage waterfall; bottom two-box 'X' graphic showing trade-off.
+- **Faixa de pergunta sobre slide esmaecido** · Restaurant Brands p.17 · `slides/RestaurantBrandsInternational_p017.jpg`
+- **Entrevistas de campo com fluxo de suporte** · Restaurant Brands p.18 · `slides/RestaurantBrandsInternational_p018.jpg`
+  - Real field photos plus a three-step chevron process (pre-opening, training, ongoing) with numbered red icon bullets.
+- **Dois executivos com citação e gráfico** · Restaurant Brands p.19 · `slides/RestaurantBrandsInternational_p019.jpg`
+  - Executive portraits with black name strip and quotation, followed by a stock-price-under-CEO line with tenure shading.
+- **Lista de premissas e gráficos de retorno** · Restaurant Brands p.20 · `slides/RestaurantBrandsInternational_p020.jpg`
+  - Left icon list of unit assumptions in a rounded grey panel; right cash-flow columns with IRR/MOIC chip and ROE vs cost-of-equity line.
+- **Mapas de unidades antes e depois** · Restaurant Brands p.21 · `slides/RestaurantBrandsInternational_p021.jpg`
+  - Two dot-maps of US store locations (2013 vs 2017) stacked with chevron between, with unit counts in rounded cards.
+- **Barras, fluxo de causas e mapas** · Restaurant Brands p.22 · `slides/RestaurantBrandsInternational_p022.jpg`
+  - 2017 vs 2023 US store maps before/after plus equation boxes (Menu inflation + Pandemic + Modernization = Lower traffic).
+- **Plano de ação com barras e linhas** · Restaurant Brands p.23 · `slides/RestaurantBrandsInternational_p023.jpg`
+  - Three-card scheme header (Fuel / Royal Reset / Carrols) reused across slides, with the active card highlighted and others faded.
+- **Acordo em três etapas e cascata** · Restaurant Brands p.24 · `slides/RestaurantBrandsInternational_p024.jpg`
+  - Three grey boxed steps (Agreement, Remodel, Expansion) under a faded scheme header, payback heatmap by grade vs royalty rate.
+- **Plano em três etapas e cenários de retorno** · Restaurant Brands p.25 · `slides/RestaurantBrandsInternational_p025.jpg`
+  - Bear/base/bull red chips with ROIC and uplift above a fan line chart that diverges toward 2030.
+- **Plano de aquisição e sensibilidade em calor** · Restaurant Brands p.26 · `slides/RestaurantBrandsInternational_p026.jpg`
+  - Red-labelled step rows (Acquisition, Remodel, Refranchising) beside NOPAT chart and IRR sensitivity grid with base case boxed.
+- **Mercado endereçável em círculos e citação** · Restaurant Brands p.28 · `slides/RestaurantBrandsInternational_p028.jpg`
+  - Three numbered circles scaled by TAM with RBI share chip below each; subsequent slides fade two and spotlight one (Canada, US, Worldwide).
+- **Seletor de mercado e gráfico de linhas** · Restaurant Brands p.29 · `slides/RestaurantBrandsInternational_p029.jpg`
+  - Reuse of the TAM circles with Canada highlighted, others faded at low opacity, followed by units/AUV combo chart.
+- **Árvore de receita e gráficos de preço** · Restaurant Brands p.30 · `slides/RestaurantBrandsInternational_p030.jpg`
+  - Revenue = AUV x Units driver tree with the lever under discussion in red and the rest in grey; elasticity bars and 1% price vs 1.29% traffic equation.
+- **Árvore de receita e área de tráfego** · Restaurant Brands p.31 · `slides/RestaurantBrandsInternational_p031.jpg`
+- **Árvore de receita, comparativo e mapa** · Restaurant Brands p.32 · `slides/RestaurantBrandsInternational_p032.jpg`
+  - Canadian dot map beneath a Python-code badge question; Tims vs Sbux white-space comparison with X between boxes.
+- **Seletor de mercado e cascata de categorias** · Restaurant Brands p.33 · `slides/RestaurantBrandsInternational_p033.jpg`
+- **Linha de tráfego, barras e entrevista** · Restaurant Brands p.34 · `slides/RestaurantBrandsInternational_p034.jpg`
+  - Leadership card: portrait, 12-years-RBI chip and arrow to turnaround expertise chip; interview quote with photo.
+- **Métricas em caixas e barras crescentes** · Restaurant Brands p.35 · `slides/RestaurantBrandsInternational_p035.jpg`
+  - Two CAGR chips before/after with arrow, units-per-franchisee funnel chip (2.44 vs 577) and expert quote from the brand's marketing lead.
+- **Seletor de mercado, entrevista e área** · Restaurant Brands p.36 · `slides/RestaurantBrandsInternational_p036.jpg`
+- **Visita de campo, fluxo e citação** · Restaurant Brands p.37 · `slides/RestaurantBrandsInternational_p037.jpg`
+- **Barras de caso, notícias e causas** · Restaurant Brands p.39 · `slides/RestaurantBrandsInternational_p039.jpg`
+  - Why-it-failed red banner with three red words, then buy price to NPV chip pair with arrow and result.
+- **Retrato de fundador e lista de marcas** · Restaurant Brands p.40 · `slides/RestaurantBrandsInternational_p040.jpg`
+  - Founder portrait with quote, brand logo list with horizontal bars of today vs pre-RBI international presence.
+- **Divisor com faixa vermelha sobre foto** · Restaurant Brands p.41 · `slides/RestaurantBrandsInternational_p041.jpg`
+  - Photo band with the cover imagery tinted dark red and centered white title plus italic question as subtitle.
+- **Premissas em painel e barras empilhadas** · Restaurant Brands p.42 · `slides/RestaurantBrandsInternational_p042.jpg`
+  - Left assumptions card with brand logo + one-line growth driver per brand, right stacked column by operation with CAGR chip.
+- **Premissas em painel e barras empilhadas** · Restaurant Brands p.43 · `slides/RestaurantBrandsInternational_p043.jpg`
+  - Same assumptions-card + stacked chart template as the prior slide, keeping the model walk consistent.
+- **Barras de fluxo e cascata de valor** · Restaurant Brands p.45 · `slides/RestaurantBrandsInternational_p045.jpg`
+  - FCFF columns with WACC line above an EV-to-equity waterfall; build-up table with target vs current price in a rounded card.
+- **Tabela de cenários e sensibilidade de IRR** · Restaurant Brands p.46 · `slides/RestaurantBrandsInternational_p046.jpg`
+  - Three scenario columns with assumption rows and icon (bear/target/bull) over upside bars; exit multiple vs EBITDA CAGR IRR heatmap with base boxed.
+- **Série de múltiplo e dispersão com logos** · Restaurant Brands p.47 · `slides/RestaurantBrandsInternational_p047.jpg`
+  - Historical multiple line vs 10Y Treasury plus peer scatter of EV/EBITDA vs franchised share with logos as points and RBI logo highlighted.
+- **Matriz de risco com tabela descritiva** · Restaurant Brands p.48 · `slides/RestaurantBrandsInternational_p048.jpg`
+  - Probability x impact matrix with B/MK/M coded boxes aligned to a risk table where each row shows description, meaning and Δ target price % in red.
+- **Veredito com quatro cartões de pilares** · Restaurant Brands p.49 · `slides/RestaurantBrandsInternational_p049.jpg`
+  - Four white rounded cards over a dark-red band across the cover photo with Roman-numeral red badges; fourth card for risks in italic title.
+- **Caixa única de tese em fundo vinho** · Restaurant Brands p.5 · `slides/RestaurantBrandsInternational_p005.jpg`
+- **Caixa única de tese em fundo vinho** · Restaurant Brands p.15 · `slides/RestaurantBrandsInternational_p015.jpg`
+- **Caixa única de tese em fundo vinho** · Restaurant Brands p.27 · `slides/RestaurantBrandsInternational_p027.jpg`
+- **Linhas de margem e barras de resultado** · Restaurant Brands p.44 · `slides/RestaurantBrandsInternational_p044.jpg`
+  - Operating margin line chart for all brands next to EBIT columns with a CAGR chip; dashed labelled callout 'margin improvement from refranchising'.

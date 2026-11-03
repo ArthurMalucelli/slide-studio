@@ -1,0 +1,252 @@
+# Mercado Libre: páginas (155)
+
+- ★ **Capa em caixa de papelão com etiqueta** · Mercado Libre p.1 · `slides/MercadoLibre_p001.jpg`
+  - Cover borrows the company's own packaging metaphor (cardboard texture + shipping label holding rec/TP/upside) so the key numbers sit in a label card instead of a generic box.
+- ★ **Matriz de sensibilidade e barras comparadas** · Mercado Libre p.30 · `slides/MercadoLibre_p030.jpg`
+  - Matrix of Ads % of GMV by EV/EBIT multiple on the left and a two-bar before/after chart with a bracket 'Upside: 35%' on the right, formula shown at the bottom.
+- ★ **Cenários com ícones e tabela de sensibilidade** · Mercado Libre p.35 · `slides/MercadoLibre_p035.jpg`
+  - Bull/house/bear icons on the left with a three-column table of price, Ads % and GMV assumptions, plus a P/E x holding-period IRR grid with the base case cell highlighted.
+- **Texto, mapa e barras empilhadas** · Mercado Libre p.2 · `slides/MercadoLibre_p002.jpg`
+  - Three-panel at-a-glance: 3 key-fact banner on top, revenue columns with CAGR bracket and Fintech/Commerce split stacked on the last bar, and a shaded LatAm map with % bubbles per country.
+- **Cadeia de valor com ícones e gráficos** · Mercado Libre p.3 · `slides/MercadoLibre_p003.jpg`
+  - Value-chain strip with icons per step and small Meli-logo markers under the steps where the company participates, plus a CAGR callout card beside GMV/TPV bars.
+- **Barras com citação e ciclo circular** · Mercado Libre p.4 · `slides/MercadoLibre_p004.jpg`
+  - Circular cross-sell diagram with the Meli handshake icon in each node around a central 'Cross-Sell' label, paired with a book quote and a user-growth bar chart with multiple bracket.
+- **Divisor com cartão e lista vertical** · Mercado Libre p.5 · `slides/MercadoLibre_p005.jpg`
+  - Recurring divider card: vertical dot-line of pillars where the active one is dark and the others fade, with ticker/BUY header and upside/IRR footer, repeated before each section.
+- **Divisor com item destacado em trilha** · Mercado Libre p.6 · `slides/MercadoLibre_p006.jpg`
+- **Linha do tempo, perfis e ranking** · Mercado Libre p.7 · `slides/MercadoLibre_p007.jpg`
+  - Executive portrait cards with big 'years at MELI' numbers over a navy KPI strip, next to a timeline of milestone logos and a word-frequency table from shareholder letters.
+- **Linhas de share e dívida com citação** · Mercado Libre p.8 · `slides/MercadoLibre_p008.jpg`
+  - Pull-quote block with portrait (Ayrton Senna) as a visual metaphor between a market-share line chart and a net debt bar + EBITDA ratio chart.
+- **Barras com curva e dispersão com logos** · Mercado Libre p.9 · `slides/MercadoLibre_p009.jpg`
+  - Scatter of annualized TSR vs revenue CAGR using peer logos as markers, next to a columns+line chart where the Meli bar is highlighted in a framed column.
+- **Barras empilhadas e barras horizontais comparadas** · Mercado Libre p.10 · `slides/MercadoLibre_p010.jpg`
+  - 100% stacked variable/fixed pay columns per executive plus staggered horizontal bars actual vs consensus by year, with a dashed callout stating the track record.
+- **Avaliações por estrelas com citação e fotos** · Mercado Libre p.11 · `slides/MercadoLibre_p011.jpg`
+  - Peer rows with logo + star rating + score inside a dashed column, beside a Zoom-interview screenshot and book quote (Good to Great) as primary-research proof.
+- **Divisor com item destacado em trilha** · Mercado Libre p.12 · `slides/MercadoLibre_p012.jpg`
+- **Barras com linha e ranking de prioridades** · Mercado Libre p.13 · `slides/MercadoLibre_p013.jpg`
+  - Own survey badge (Google Forms icon + '467 answers') anchoring a ranked horizontal bar chart, with the lines that matter highlighted in yellow inside a dashed frame.
+- **Ranking, foto, citação e mapa de calor** · Mercado Libre p.14 · `slides/MercadoLibre_p014.jpg`
+  - Real heatmap of distribution centers over a LatAm map (Python-generated) with city markers, next to executive quote card with photo and a ranked bar of city populations.
+- **Barras com linha e barras antes depois** · Mercado Libre p.15 · `slides/MercadoLibre_p015.jpg`
+  - Dual-axis bars+line with a boxed 'SCALE GAINS' callout and arrow pointing down the curve, plus a Before-vs-Today bar for the free-shipping threshold.
+- **Pergunta sobreposta em faixa branca** · Mercado Libre p.16 · `slides/MercadoLibre_p016.jpg`
+- **Barras, passos numerados e cartões com código** · Mercado Libre p.17 · `slides/MercadoLibre_p017.jpg`
+  - Three white logo cards with giant day counts (14 / 18 / 7 days) under the chart as a head-to-head comparison, plus a numbered step list with diamond bullets.
+- **Barras com destaque e citação com código** · Mercado Libre p.18 · `slides/MercadoLibre_p018.jpg`
+  - Columns for average ticket per category with a yellow line for % of 1P inventory and the key category highlighted by a lifted bar and shadowed quote box.
+- **Barras agrupadas com destaque e notas laterais** · Mercado Libre p.19 · `slides/MercadoLibre_p019.jpg`
+  - Highlight the key category columns with a yellow shaded zone and tie to a mini vertical 'flow' with square markers (attractiveness / credit demand) on the right.
+- **Barras com linha e notas laterais** · Mercado Libre p.20 · `slides/MercadoLibre_p020.jpg`
+- **Linhas de spread e barras de EBIT** · Mercado Libre p.21 · `slides/MercadoLibre_p021.jpg`
+  - Line chart of NIMAL by bank with the definition 'NIMAL = Revenue - Provision - Funding costs' as a dashed formula box below the chart.
+- **Degraus de valor e barras com linha** · Mercado Libre p.22 · `slides/MercadoLibre_p022.jpg`
+  - Staircase diagram of customer-satisfaction levers (Quality > Price > Assortment > Shipping) with 'Economies of scale + Customer captivity' formula boxes, next to GMV columns and EBIT margin line.
+- **Divisor com item destacado em trilha** · Mercado Libre p.23 · `slides/MercadoLibre_p023.jpg`
+- **Celular com anotações e barras** · Mercado Libre p.24 · `slides/MercadoLibre_p024.jpg`
+  - Phone mockup of the real app with three right-aligned callouts on a navy vertical bar, flanking a revenue-vs-%GMV bar chart.
+- **Celular anotado com citação e foto** · Mercado Libre p.25 · `slides/MercadoLibre_p025.jpg`
+- **Áreas em ondas com citação lateral** · Mercado Libre p.26 · `slides/MercadoLibre_p026.jpg`
+  - Stacked area chart labeled by wave (1st/2nd/3rd Wave) with a gold diamond-bullet vertical axis of three advantages and a McKinsey partner quote.
+- **Painel de segmentos e tabela comparativa** · Mercado Libre p.27 · `slides/MercadoLibre_p027.jpg`
+  - Navy panel with bullet list on the left and logo-led table of time-on-site/page views on the right, ending in a dashed call-out with the headline stat.
+- **KPI de ganho e print de painel** · Mercado Libre p.28 · `slides/MercadoLibre_p028.jpg`
+  - Real seller-dashboard screenshot as proof, with before/after number boxes (41 > 6, ACOS 5.9%) and a big up arrow + 35.4% stat in a dashed frame.
+- **Barras de margem e tabela com barras** · Mercado Libre p.29 · `slides/MercadoLibre_p029.jpg`
+  - Single-bar contrast (75% navy vs 12.6% yellow vs grey) on left and an Amazon-vs-Meli logo table of Ads revenue / GMV on the right with a market-size chart below.
+- **Pergunta sobreposta em faixa branca** · Mercado Libre p.31 · `slides/MercadoLibre_p031.jpg`
+- **Barras empilhadas e círculos proporcionais** · Mercado Libre p.32 · `slides/MercadoLibre_p032.jpg`
+  - Stacked GMV bars per country/segment with CAGR box, and two circles sized proportionally to the 2023 vs 2028 market share, for a clear 'gain of share' message.
+- **Dois gráficos de barras empilhadas** · Mercado Libre p.33 · `slides/MercadoLibre_p033.jpg`
+  - Side-by-side stacked columns (TPV and net revenue) each with a CAGR callout box at top left, same x-axis rhythm for easy comparison.
+- **Escada de margem com notas laterais** · Mercado Libre p.34 · `slides/MercadoLibre_p034.jpg`
+  - Rising stepped line of margin labels with three square-marker explanations in a grey side panel that decode each driver of the climb.
+- **Matriz de risco com lista de riscos** · Mercado Libre p.36 · `slides/MercadoLibre_p036.jpg`
+  - 3x3 grid with navy cells for company-specific risks and grey for market risks, each coded C1/M1 and decoded in a legend panel at right, axes labeled Impact/Likelihood.
+- **Divisor com cartão e lista vertical** · Mercado Libre p.37 · `slides/MercadoLibre_p037.jpg`
+- **Encerramento em papelão com faixas pontilhadas** · Mercado Libre p.38 · `slides/MercadoLibre_p038.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.43 · `slides/MercadoLibre_p043.jpg`
+- **Linhas de crescimento e barras por país** · Mercado Libre p.44 · `slides/MercadoLibre_p044.jpg`
+  - Line chart with CAGR boxes for E-commerce vs GDP, plus stacked internet users/population bars per country with penetration dots and a grey insight box.
+- **Barras com linha de participação pareadas** · Mercado Libre p.47 · `slides/MercadoLibre_p047.jpg`
+  - Twin column+line charts, GMV and revenue with the % of total as yellow line, same format for both so reader sees the parallel growth.
+- **Barras, barra horizontal e notas laterais** · Mercado Libre p.48 · `slides/MercadoLibre_p048.jpg`
+- **Barras crescentes com citação em painel** · Mercado Libre p.49 · `slides/MercadoLibre_p049.jpg`
+- **Barras com CAGR e citação de executivo** · Mercado Libre p.50 · `slides/MercadoLibre_p050.jpg`
+- **Print de formulário e perguntas principais** · Mercado Libre p.51 · `slides/MercadoLibre_p051.jpg`
+  - Screenshot of the survey form on left and a grey panel listing the Main Questions on the right, making the methodology transparent.
+- **Barras de survey e ranking horizontal** · Mercado Libre p.52 · `slides/MercadoLibre_p052.jpg`
+  - Own-survey result: vertical bars by platform with Meli highlighted in yellow, beside a horizontal ranked bar chart and Google Forms badge with the sample size.
+- **Barras de survey e ranking horizontal** · Mercado Libre p.53 · `slides/MercadoLibre_p053.jpg`
+- **Barras horizontais de survey com callouts** · Mercado Libre p.54 · `slides/MercadoLibre_p054.jpg`
+  - Horizontal survey bars with a dashed headline box and square-marker stats (27%, 25%, 24%) on the right drawing the conclusion from the data.
+- **Painéis de survey com blocos isométricos** · Mercado Libre p.56 · `slides/MercadoLibre_p056.jpg`
+- **Barras per capita e linhas regionais** · Mercado Libre p.57 · `slides/MercadoLibre_p057.jpg`
+  - Retail GMV per capita column chart ranking countries beside line chart of e-commerce share by region, giving the 'gap' vs the developed world.
+- **Divisor de seção em papelão** · Mercado Libre p.58 · `slides/MercadoLibre_p058.jpg`
+- **Barras com CAGR e barras horizontais** · Mercado Libre p.59 · `slides/MercadoLibre_p059.jpg`
+  - Exponential column chart with CAGR bracket arrow from the first to last bar and a horizontal bars panel comparing population vs users by country.
+- **Barras com CAGR e barras simples** · Mercado Libre p.60 · `slides/MercadoLibre_p060.jpg`
+- **Pergunta com passos e dois gráficos** · Mercado Libre p.61 · `slides/MercadoLibre_p061.jpg`
+  - Vertical diamond-bullet list of network-economy logic next to two stacked charts (CAC bars with 'pandemic outlier' dashed marker and a take-rate line).
+- **Dispersão com logos e barras de ROIC** · Mercado Libre p.62 · `slides/MercadoLibre_p062.jpg`
+  - Scatter of ROIC components (NOPAT margin x capital turnover) with logo markers and a dashed ellipse around Meli and its 25.2% value, plus a ROIC/WACC peers bar.
+- **Linhas de share e barras de variação** · Mercado Libre p.63 · `slides/MercadoLibre_p063.jpg`
+  - Line chart of share by player next to a ranked bar chart and a formula box defining the average absolute change metric.
+- **Pizza com fórmula e barras horizontais** · Mercado Libre p.64 · `slides/MercadoLibre_p064.jpg`
+  - Pie of Brazil e-commerce shares and a bar chart of HHI by industry with the e-commerce bar highlighted yellow, plus the HHI formula in dashed box.
+- **Comparação de preço e barras com citação** · Mercado Libre p.65 · `slides/MercadoLibre_p065.jpg`
+  - Two logo cards with ASP numbers connected by a bracket to a conclusion line, next to a ranked cross-border bar chart and an executive quote with photo.
+- **Linhas de tendência com regras laterais** · Mercado Libre p.66 · `slides/MercadoLibre_p066.jpg`
+  - Google Trends line chart with dated event marker and a rules panel using yellow diamond bullets plus bold conclusion.
+- **Divisor de seção em papelão** · Mercado Libre p.67 · `slides/MercadoLibre_p067.jpg`
+- **Capa de livro e tabela comparativa** · Mercado Libre p.68 · `slides/MercadoLibre_p068.jpg`
+  - Book cover (The Outsiders) as visual anchor with a compact peer table where Meli's result is circled in a yellow hand-drawn ring.
+- **Fotos em losangos com lista de membros** · Mercado Libre p.69 · `slides/MercadoLibre_p069.jpg`
+  - Diamond-cropped portrait collage on a grey band with school logos above and name/bio lines on the right, repeated across three pages for the board.
+- **Fotos em losangos com lista de membros** · Mercado Libre p.70 · `slides/MercadoLibre_p070.jpg`
+- **Fotos em losangos com lista de membros** · Mercado Libre p.71 · `slides/MercadoLibre_p071.jpg`
+- **Organograma de conselho e barras** · Mercado Libre p.72 · `slides/MercadoLibre_p072.jpg`
+  - People-icon org chart of committees, two donuts for gender participation and 100% stacked bars of board pay mix.
+- **Donut de acionistas com citação** · Mercado Libre p.73 · `slides/MercadoLibre_p073.jpg`
+  - Large donut of shareholders with segment labels beside a book quote and a dashed box with the two conclusions in large navy type.
+- **Organograma com linha do tempo e citação** · Mercado Libre p.74 · `slides/MercadoLibre_p074.jpg`
+  - Org chart of CEO + six executives with years-at-Meli strip, a mini timeline above the CEO photo (Wharton, born, IPO), and a book quote with cover.
+- **Barras com curva de recomendação** · Mercado Libre p.75 · `slides/MercadoLibre_p075.jpg`
+  - Rating bars per company with 'would recommend' as dashed line with % labels; Meli highlighted in yellow.
+- **Dois gráficos de barras com destaque** · Mercado Libre p.76 · `slides/MercadoLibre_p076.jpg`
+  - Two ordered bar charts (E score and S score) sorted ascending with an Average bar in the middle and the Meli bar highlighted yellow at the end.
+- **Dois gráficos de barras com destaque** · Mercado Libre p.77 · `slides/MercadoLibre_p077.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.83 · `slides/MercadoLibre_p083.jpg`
+- **Entrevista com citação e cartões de foto** · Mercado Libre p.84 · `slides/MercadoLibre_p084.jpg`
+  - Two dashed cards (Meli Places / Meli Air) each with a real photo and bullets, beside an interviewee video-call screenshot and quote on a navy base bar.
+- **Barras de rede e mapa com citação** · Mercado Libre p.85 · `slides/MercadoLibre_p085.jpg`
+  - Column chart with penetration labels above and a navy banner with the headline stat, paired with the DC heatmap and interview quote.
+- **Barras de crescimento e barras com linha** · Mercado Libre p.86 · `slides/MercadoLibre_p086.jpg`
+  - Two charts: retail 1P growth bars and revenue bars with a dotted COGS line overlaid and the key labels in yellow boxes.
+- **Print de código com notas e barras** · Mercado Libre p.87 · `slides/MercadoLibre_p087.jpg`
+  - Dark code screenshot (Python) as a methodology proof with an italic caption, plus two square-bullet steps and a bar chart of estimated probability by category.
+- **Print de código com notas e barras** · Mercado Libre p.88 · `slides/MercadoLibre_p088.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.89 · `slides/MercadoLibre_p089.jpg`
+- **Argumentos em faixas e áreas em ondas** · Mercado Libre p.91 · `slides/MercadoLibre_p091.jpg`
+- **Matriz de sensibilidade com premissas laterais** · Mercado Libre p.92 · `slides/MercadoLibre_p092.jpg`
+  - Compact upside matrix in navy-bold headers with the EV formula in highlighted box at the bottom and numbered premise list with square bullets on the right.
+- **Fórmula anotada com texto explicativo** · Mercado Libre p.94 · `slides/MercadoLibre_p094.jpg`
+  - Large formula with vertical connector lines to annotations below each term and a right-hand takeaway, making an algorithm readable as a diagram.
+- **KPIs de teste e print de painel** · Mercado Libre p.96 · `slides/MercadoLibre_p096.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.97 · `slides/MercadoLibre_p097.jpg`
+- **Dois gráficos de barras empilhadas 100%** · Mercado Libre p.117 · `slides/MercadoLibre_p117.jpg`
+  - Two 100% stacked column charts side by side (OPEX and COGS as % of revenue) with colored components and labels for each year.
+- **Cascata de margem e linhas por segmento** · Mercado Libre p.118 · `slides/MercadoLibre_p118.jpg`
+  - Yellow waterfall steps rising from a navy start bar to a navy end bar, with a companion line chart of EBIT margins by segment on the right.
+- **Cascata, barras com CAGR e texto** · Mercado Libre p.119 · `slides/MercadoLibre_p119.jpg`
+  - Mini waterfall for the 2024 FX/CPI effect on the left, rounded grey explanation box in the center and columns with CAGR bracket on the right.
+- **Linha histórica de P/E e tabela de pares** · Mercado Libre p.120 · `slides/MercadoLibre_p120.jpg`
+  - Historical P/E line chart with a dashed highlighted last point, and peers table with logos for LTM/NTM and average/median, ending in a yellow-diamond conclusion.
+- **Barras empilhadas com CAGR e linhas** · Mercado Libre p.121 · `slides/MercadoLibre_p121.jpg`
+  - Stacked column revenue buildup with a rounded legend panel that carries a CAGR per segment, plus line chart of segment share.
+- **Dois gráficos de linhas de margem** · Mercado Libre p.122 · `slides/MercadoLibre_p122.jpg`
+  - Two line charts with endpoint labels only: margins on left, return metrics on right, to keep many lines readable.
+- **Cascata de custo de capital e matriz** · Mercado Libre p.123 · `slides/MercadoLibre_p123.jpg`
+  - Mini waterfall of the Ke build-up on the left and an upside heat matrix in navy header on the right, with a yellow-outlined takeaway text underneath.
+- **Divisor de seção em papelão** · Mercado Libre p.124 · `slides/MercadoLibre_p124.jpg`
+- **Barras de inflação com painel de impacto** · Mercado Libre p.125 · `slides/MercadoLibre_p125.jpg`
+  - Column chart of CPI variation by month beside a navy panel with two loss items and two dashed boxes labeled for the dollar rates.
+- **Linhas de inadimplência e painel cinza** · Mercado Libre p.126 · `slides/MercadoLibre_p126.jpg`
+  - Two charts (NPL line by player, coverage vs provision ratio) with a grey summary callout box beside, and a navy conclusion bar at the bottom of the follow-up page.
+- **Linhas de inadimplência e painel cinza** · Mercado Libre p.127 · `slides/MercadoLibre_p127.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.128 · `slides/MercadoLibre_p128.jpg`
+- **Passos de sinergia e citação com foto** · Mercado Libre p.129 · `slides/MercadoLibre_p129.jpg`
+  - Navy banner header over three square-bullet items next to a Zoom screenshot of the interview in a dashed quote card.
+- **Barras horizontais e barras com linha** · Mercado Libre p.130 · `slides/MercadoLibre_p130.jpg`
+  - Horizontal bar of main bank accounts, a '93 calls' stamp to show primary research, and a navy conclusion banner under the credit book chart.
+- **Barras horizontais e pizza de pagamentos** · Mercado Libre p.131 · `slides/MercadoLibre_p131.jpg`
+- **Dois gráficos de linha com cartão** · Mercado Libre p.132 · `slides/MercadoLibre_p132.jpg`
+- **Lista de conta digital e tarifas comparadas** · Mercado Libre p.133 · `slides/MercadoLibre_p133.jpg`
+  - Logo-headed fee comparison tables with a crown icon on the best offer, framed in a dashed box next to the digital account mock card.
+- **Barras com linha e barras crescentes** · Mercado Libre p.134 · `slides/MercadoLibre_p134.jpg`
+  - Pair of column charts with the line for % of fintech revenue and a CAGR bracket arrow over originations.
+- **Vendedor, seta e consumidor com benefícios** · Mercado Libre p.135 · `slides/MercadoLibre_p135.jpg`
+  - Two house-shaped grey roofs for Seller and Consumer with icons and bullets, connected by a long arrow and the merged logos in the center.
+- **Divisor de seção em papelão** · Mercado Libre p.136 · `slides/MercadoLibre_p136.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.146 · `slides/MercadoLibre_p146.jpg`
+- **Lista de estratégia e citação com foto** · Mercado Libre p.147 · `slides/MercadoLibre_p147.jpg`
+  - Three stacked grey blocks with bold italic labels where the last one is highlighted yellow, with a Sr Director portrait quote card to the right.
+- **Barras de survey e cartões de proteção** · Mercado Libre p.149 · `slides/MercadoLibre_p149.jpg`
+  - Horizontal survey bars with the first one highlighted in a navy label and two rounded boxes for Buyers and Sellers, each with an icon and 2-3 guarantees.
+- **Tabela comparativa de tarifas com logos** · Mercado Libre p.150 · `slides/MercadoLibre_p150.jpg`
+  - Cost comparison table with logo cells in the first column, navy header and zebra rows; Meli row is white to pop.
+- **Barras horizontais e barras com taxa** · Mercado Libre p.151 · `slides/MercadoLibre_p151.jpg`
+  - Horizontal ranking of how consumers search, with columns for monthly visits plus dots for % pool and a second panel for bounce rates, Meli highlighted in yellow.
+- **Dispersão com quadrantes rotulados** · Mercado Libre p.152 · `slides/MercadoLibre_p152.jpg`
+  - Scatter of countries with colored zone labels (Digitally resistant, Digitized & underpenetrated, Digitized & mature) as large highlighted tags directly on the plot.
+- **Dispersão de posicionamento com logos** · Mercado Libre p.153 · `slides/MercadoLibre_p153.jpg`
+  - Scatter plot with logos replacing dots; Meli's logo isolated in the top-right corner as visual proof of dominance.
+- **Tabela de avaliações de apps com ícones** · Mercado Libre p.154 · `slides/MercadoLibre_p154.jpg`
+  - Navy header table with app-store icons per column and company logos per row; zebra rows and big numbers in a high-contrast grid.
+- **Índice em papelão em duas colunas** · Mercado Libre p.39 · `slides/MercadoLibre_p039.jpg`
+  - Two-column index on branded kraft background with chapters in bold underlined and slide titles listed with page numbers.
+- **Índice de apêndice em papelão** · Mercado Libre p.40 · `slides/MercadoLibre_p040.jpg`
+- **Índice de apêndice em papelão** · Mercado Libre p.41 · `slides/MercadoLibre_p041.jpg`
+- **Índice de apêndice em papelão** · Mercado Libre p.42 · `slides/MercadoLibre_p042.jpg`
+- **Dois gráficos de barras agrupadas** · Mercado Libre p.45 · `slides/MercadoLibre_p045.jpg`
+  - Two grouped bar charts (2022 vs 2023) by competitor, side by side, one for 3P and one for 1P, with Meli always the tallest.
+- **Linha do tempo com colunas de texto** · Mercado Libre p.46 · `slides/MercadoLibre_p046.jpg`
+  - Single horizontal timeline with year ticks and four dashed-separated text columns underneath in a grey band, explaining each phase.
+- **Painéis de survey com donut e barras** · Mercado Libre p.55 · `slides/MercadoLibre_p055.jpg`
+  - Grey panel with 3D-tilted stat tiles and pros/cons check list for sellers, with strong numbers in navy boxes at the corner.
+- **Tabela densa de pontuação** · Mercado Libre p.78 · `slides/MercadoLibre_p078.jpg`
+  - Clean scoring table with criteria numbered G1-G5, E1-E6, bold group totals and peer columns plus Average.
+- **Tabela densa de pontuação** · Mercado Libre p.79 · `slides/MercadoLibre_p079.jpg`
+  - Final row highlighted in yellow with bold total line, closing the multi-page scoring table with the answer.
+- **Tabela de perguntas e justificativas** · Mercado Libre p.80 · `slides/MercadoLibre_p080.jpg`
+- **Tabela de perguntas e justificativas** · Mercado Libre p.81 · `slides/MercadoLibre_p081.jpg`
+- **Tabela de perguntas e justificativas** · Mercado Libre p.82 · `slides/MercadoLibre_p082.jpg`
+- **Comparação de receita e três gráficos** · Mercado Libre p.90 · `slides/MercadoLibre_p090.jpg`
+  - Amazon vs Meli ads-revenue/GMV logo mini table beside stacked digital/traditional ad spend bars and ranking of retail media by company.
+- **Tabela de sensibilidade de EBIT** · Mercado Libre p.93 · `slides/MercadoLibre_p093.jpg`
+- **Três colunas de teoria de leilão** · Mercado Libre p.95 · `slides/MercadoLibre_p095.jpg`
+- **Apêndice de DCF em planilha** · Mercado Libre p.98 · `slides/MercadoLibre_p098.jpg`
+  - Compact DCF with projected years in a red/pink header and a present-values matrix by discount rate below, base row bolded.
+- **Apêndice de DCF em planilha** · Mercado Libre p.99 · `slides/MercadoLibre_p099.jpg`
+  - Same template as bull/bear for easy comparison with base-case cell highlighted in yellow and blue.
+- **Apêndice de DCF em planilha** · Mercado Libre p.100 · `slides/MercadoLibre_p100.jpg`
+  - Triplet of identical-layout DCF pages (Bull/Base/Bear) letting the reader flip between scenarios.
+- **Apêndice de múltiplos em planilha** · Mercado Libre p.101 · `slides/MercadoLibre_p101.jpg`
+- **Tabelas de IRR com destaque** · Mercado Libre p.102 · `slides/MercadoLibre_p102.jpg`
+  - IRR by holding period table with exit-multiple sensitivity heatmap in orange and three result boxes (5y IRR, 5y TSR, annualized TSR) at the right.
+- **Apêndice de sensibilidade em planilha** · Mercado Libre p.103 · `slides/MercadoLibre_p103.jpg`
+  - Plain Ke x perpetual growth grid; useful as a minimal example of a sensitivity page.
+- **Apêndice de KPIs em planilha** · Mercado Libre p.104 · `slides/MercadoLibre_p104.jpg`
+- **Tabelas de custo de capital** · Mercado Libre p.105 · `slides/MercadoLibre_p105.jpg`
+  - Two navy-header tables side by side: Ke build-up on the left and country risk premium weights by country on the right.
+- **Apêndice de DCF reverso em planilha** · Mercado Libre p.106 · `slides/MercadoLibre_p106.jpg`
+- **Apêndice de múltiplos comparáveis** · Mercado Libre p.107 · `slides/MercadoLibre_p107.jpg`
+  - Three-block comps table (EV/Revenue, EV/EBIT, P/E; Today vs NTM) split into Commerce and Fintech groups with Average and Premium/Discount rows for Meli.
+- **Apêndice de soma das partes** · Mercado Libre p.108 · `slides/MercadoLibre_p108.jpg`
+  - Three column layout: SOTP for commerce and fintech by EV/EBIT and EV/Revenue, consolidated bridge to price per share, and a P/E commerce peers cross-check.
+- **Apêndice de projeção em planilha** · Mercado Libre p.109 · `slides/MercadoLibre_p109.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.110 · `slides/MercadoLibre_p110.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.111 · `slides/MercadoLibre_p111.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.112 · `slides/MercadoLibre_p112.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.113 · `slides/MercadoLibre_p113.jpg`
+- **Apêndice de balanço em planilha** · Mercado Libre p.114 · `slides/MercadoLibre_p114.jpg`
+- **Apêndice de balanço em planilha** · Mercado Libre p.115 · `slides/MercadoLibre_p115.jpg`
+- **Apêndice de balanço em planilha** · Mercado Libre p.116 · `slides/MercadoLibre_p116.jpg`
+- **Quatro painéis de linhas macro** · Mercado Libre p.137 · `slides/MercadoLibre_p137.jpg`
+  - Four small line charts in a 2x2 grid with direct data labels, a compact macro dashboard format.
+- **Dois gráficos de linha macro** · Mercado Libre p.138 · `slides/MercadoLibre_p138.jpg`
+- **Três painéis de linhas macro** · Mercado Libre p.139 · `slides/MercadoLibre_p139.jpg`
+  - Combination of yield curve, IPCA and FX charts, three small line charts with the bold conclusion in the lead sentence.
+- **Quatro painéis de linhas macro** · Mercado Libre p.140 · `slides/MercadoLibre_p140.jpg`
+- **Dois gráficos de linha macro** · Mercado Libre p.141 · `slides/MercadoLibre_p141.jpg`
+- **Três painéis de linhas macro** · Mercado Libre p.142 · `slides/MercadoLibre_p142.jpg`
+- **Quatro painéis de linhas macro** · Mercado Libre p.143 · `slides/MercadoLibre_p143.jpg`
+- **Dois gráficos de linha macro** · Mercado Libre p.144 · `slides/MercadoLibre_p144.jpg`
+- **Linha de juros e dois painéis de inflação** · Mercado Libre p.145 · `slides/MercadoLibre_p145.jpg`
+- **Dois gráficos de barras crescentes** · Mercado Libre p.148 · `slides/MercadoLibre_p148.jpg`
+  - Two same-scale bar charts side by side showing both inputs growing exponentially.
+- **Barras agrupadas de alavancagem** · Mercado Libre p.155 · `slides/MercadoLibre_p155.jpg`
+  - Diverging columns around zero grouped per year for four companies, clearly separating net-cash and levered peers.
