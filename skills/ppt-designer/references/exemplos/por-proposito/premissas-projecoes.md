@@ -1,7 +1,8 @@
-# Propósito: Premissas e projeções (61 slides)
+# Propósito: Premissas e projeções (62 slides)
 
 Ordenado por qualidade, alternando decks. Abra 2–4 prints ★★★/★★ antes de desenhar; copie o truque, não o conteúdo.
 
+- `../prints/ChallengeB_p007.jpg` (★★★) "Eve is a funded bet: its liquidity and Embraer's cash flow can carry the burn." · visual: colunas, linha · propósito: premissas-projecoes · truque: Two wide pale panels linked by a narrow grey fold; dashed box over the uses; two anchored callouts with the ratio.
 - `../prints/Meliuz_p056.jpg` (★★★) "Receita projetada cresce 41% a.a. até 2025, puxada por serviços financeiros" · visual: colunas-empilhadas, linha · propósito: premissas-projecoes · truque: Colunas empilhadas marketplace x serviços financeiros com seta curva de CAGR e painel rosa claro ao lado fazendo zoom na base de cartões; slide 57 troca o zoom para premissas de crédito.
 - `../prints/MercadoLibre_p118.jpg` (★★★) "EBIT margin bridge by segment: from 13.0% in 2023 to 22.9% in 2028 (Ads +3.0, 3P +2.5, Payments +1.9, Credit +1.4, 1P +1.1)." · visual: bridge-cascata, linha · propósito: premissas-projecoes · truque: Yellow waterfall steps rising from a navy start bar to a navy end bar, with a companion line chart of EBIT margins by segment on the right.
 - `../prints/3RPetroleum_p023.jpg` (★★) "Opex expected to peak in 2025 and capex to 290-440 then fall; CFO quotes guidance" · visual: colunas, area, citacao-foto · propósito: premissas-projecoes · truque: Two small chart panels on the left (capex bars, opex area) and a framed card with executive portrait and large quote on the right.

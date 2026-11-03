@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.5.0
+
+- Nova `references/RECEITA.md`: como montar um bom slide, em 9 passos, tirada de Sabesp, Nubank e ChallengeB. O designer não copia slides.
+- O roteiro vira argumento encadeado + banco de provas. Mensagem, números e ressalvas são fixos; o designer escolhe as provas, o formato e o texto.
+- Novo crítico de roteiro: lê só o roteiro e pergunta se ele dá um bom slide.
+- Uma peça de profundidade discreta por slide: cunha quando um número abre em outro, dobra entre painéis ligados. Cunha e sólido passam em 4 testes (origem, destino, forma = conteúdo, função).
+- Orçamento de texto: 85 a 130 palavras e 25 a 50 dados por slide, com limite no verificador.
+- Novo `scripts/checar_slide.py`: trava para colisão de texto, título, logo, chips soltos, gráficos com 1 ou 2 categorias, linha com 2 pontos e pouco dado.
+- Exportação em fila entre agentes, e por cópia própria: nunca mais exporta nem fecha outro deck que esteja aberto.
+- `references/reprovados/` e `references/gabarito.md`; ChallengeB entra no catálogo (22 decks, 987 slides).
+- Nunca gráfico de barras com só duas barras; linha sem marcador nos pontos; rodapé sempre `Sources: Company Data, Group Calculations.`
+- No máximo 3 gráficos por slide. Painéis com volume são a profundidade padrão, e a cunha só entra com abertura real.
+- Agente de criatividade para conteúdo qualitativo; `gerar_imagem.py`, `buscar_paleta.py` e `validar_pptx.py`.
+- `references/aprovados/`, com peças aprovadas e dados fictícios.
+- `panel_header` aceita **palavra-chave**; novos `beam_from_mark` e `dobra`.
+
 ## 0.4.1
 
 - Todo slide passa a levar ao menos uma peça do catálogo, salvo no novo modo `visual = "sóbrio"`.

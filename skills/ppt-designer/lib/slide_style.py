@@ -249,10 +249,14 @@ def tracker(slide, items, active, x, y, size=14):
 
 
 def panel_header(slide, x, y, w, head, sub):
-    """Cabeçalho desenhado: frase-conclusão 14pt + itálico 11pt (o que o gráfico mostra, unidade, período).
+    """Cabeçalho desenhado: frase-conclusão 14pt (marque 1 ou 2 palavras-chave com **assim**) + itálico 11pt.
     Devolve o y onde o visual começa. Um cabeçalho para um visual: dois gráficos pedem dois painéis."""
     _check_no_digits("cabeçalho de painel", head)
-    hd = text(slide, x, y, w, 0.28, [[(head, {"color": FG, "size": 14})]], anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
+    # **palavra-chave** sai em negrito na cor de destaque da série principal
+    partes = [t for t in head.split("**")]
+    runs = [(t, {"color": FOCUS, "size": 14, "bold": True} if i % 2 else {"color": FG, "size": 14})
+            for i, t in enumerate(partes) if t]
+    hd = text(slide, x, y, w, 0.28, [runs], anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
     hd.text_frame.word_wrap = False
     text(slide, x, y + 0.28, w, 0.23, [[(sub, {"italic": True, "color": MUTED, "size": 11})]],
          anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
@@ -641,6 +645,10 @@ def labels(ser, fmt, fill, color=WHITE, pos="outEnd", points=None, texts=None):
     """Data labels em pill (retângulo arredondado). ser = series._element. Padrão único do slide: fundo escuro e
     texto branco (FOCUS na empresa-foco, PEER_DARK em terceiros, NEG em negativo), mesmo em série de cor clara.
     texts: texto fixo por ponto (evita formatação regional). points = {idx: dict(fill, color, border, dash, rich, delete, pos)}."""
+    # outEnd em barra empilhada é XML inválido: o PowerPoint para num aviso de reparo e recusa tudo depois (-1712, -9074).
+    grupo = ser.getparent().find(qn("c:grouping")) if ser.getparent() is not None else None
+    if pos == "outEnd" and grupo is not None and grupo.get("val") in ("stacked", "percentStacked"):
+        pos = "ctr"
     for old in ser.findall(qn("c:dLbls")):
         ser.remove(old)
     d = E("c:dLbls")

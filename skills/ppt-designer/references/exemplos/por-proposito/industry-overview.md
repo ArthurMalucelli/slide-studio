@@ -1,8 +1,9 @@
-# Propósito: Industry overview (58 slides)
+# Propósito: Industry overview (59 slides)
 
 Ordenado por qualidade, alternando decks. Abra 2–4 prints ★★★/★★ antes de desenhar; copie o truque, não o conteúdo.
 
 - `../prints/CSN-ArcelorMittal_p003.jpg` (★★★) "Steel value chain runs from iron ore to end-use, with construction and autos as largest demand sectors" · visual: 3d-isometrico, colunas-empilhadas · propósito: industry-overview · truque: Isometric 3D illustration of the value chain with numbered nodes (1-4) paired with a 100% stacked column of consumption by sector
+- `../prints/ChallengeB_p003.jpg` (★★★) "Aging fleets and rising traffic sustain aircraft demand." · visual: colunas, colunas+linha, linha, outro:cadeia-isometrica · propósito: industry-overview · truque: 2x2 with four different proofs; the value chain is a row of good isometric illustrations; delta marked at the end of the line.
 - `../prints/RedeDOr_p003.jpg` (★★★) "Brazil: low private insurance penetration (23.3%), extreme income inequality, and >60% of beds are private." · visual: donut, colunas, linha · propósito: industry-overview · truque: Donut with a grey trapezoid 'zoom' wedge that opens into the detail bar chart (top 1% earns more than bottom 95%), a visual drill-down linking two charts.
 - `../prints/CSN-ArcelorMittal_p008.jpg` (★★★) "Iron ore price normalization and Chinese exports compressed CSN steel margins below the cycle average" · visual: area, linha · propósito: industry-overview · truque: Iron ore area, margin line and dashed average, with three grey shaded vertical bands labeled with macro-cause callouts
 - `../prints/3RPetroleum_p004.jpg` (★★) "Before analysing 3R, classify O&G assets: onshore vs offshore platform types, segments, and 1P/2P/3P reserve certainty" · visual: outro:ilustracao-plataformas, colunas, fluxo-processo · propósito: industry-overview · truque: Cross-section illustration of seabed with platform types labelled, paired with a side card of reserve mini-bars and 1P/2P/3P definitions.

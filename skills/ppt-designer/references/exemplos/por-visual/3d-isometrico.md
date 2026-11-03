@@ -1,8 +1,10 @@
-# Padrão visual: 3d-isometrico (7 slides)
+# Padrão visual: 3d-isometrico (9 slides)
 
 Quando usar: ilustração de escala/posicionamento.
 
 - `../prints/CSN-ArcelorMittal_p003.jpg` (★★★) "Steel value chain runs from iron ore to end-use, with construction and autos as largest demand sectors" · visual: 3d-isometrico, colunas-empilhadas · propósito: industry-overview · truque: Isometric 3D illustration of the value chain with numbered nodes (1-4) paired with a 100% stacked column of consumption by sector
+- `../prints/ChallengeB_p006.jpg` (★★★) "Eve at a glance: air taxi built on Embraer's know-how, still in testing and burning cash." · visual: 3d-isometrico, colunas+linha, icones+dado-curto · propósito: business-overview · truque: Headers chained with ellipses; wedge opens from the aircraft image into three items; roadmap as isometric steps with text inside.
+- `../prints/ChallengeB_p008.jpg` (★★★) "Executive jets are a fleet-driven growth engine with a lean lineup." · visual: barras-horizontais, colunas+linha, 3d-isometrico · propósito: kpis-operacionais · truque: Product ladder: rising dark steps with real jet photos on top and specs below, next to bars and a combo chart.
 - `../prints/3RPetroleum_p028.jpg` (★★) "Production forecast built in steps: 2P extraction curve, depletion, guidance discount" · visual: 3d-isometrico, fluxo-processo · propósito: premissas-projecoes · truque: Isometric 3D green staircase with a rising arrow whose steps carry the methodology text boxes, with a left column explaining the order of steps.
 - `../prints/Intelbras_p007.jpg` (★★) "Security clients pull ICT products: a cross-sell engine across three BUs." · visual: heatmap-sensibilidade, 3d-isometrico, icones+dado-curto · propósito: modelo-negocio-unit-economics · truque: Cross-sell matrix as a green heatmap table (product x product % of clients) next to an illustrative scene image with labelled callouts.
 - `../prints/Meliuz_p062.jpg` (★★) "Recomendação final de compra apoiada em três pilares: capital humano, serviços financeiros por drivers e ecossistema" · visual: pilares, 3d-isometrico, texto-bullets · propósito: tese-pilares-divisor · truque: Bloco 3D rosa à esquerda com três números ligados por linhas tracejadas a três parágrafos de tese numerados, fechando o deck.

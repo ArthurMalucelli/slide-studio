@@ -147,6 +147,38 @@ def gallery(prs, layout, slides, source_note):
         ss.footer(s, source_note)
 
 
+def beam_from_mark(s, right, y0, y1, card_x, card_top, card_bottom, color=F, alpha=86):
+    """Feixe que nasce num dado: a ponta estreita é a borda direita da barra (x=right, de y0 a y1), na cor dela,
+    e a larga é a borda inteira do cartão. Sem gradiente, para fundir com a barra. RD Saúde p.39."""
+    sp = ss.poly(s, [(right, y0), (right, y1), (card_x, card_bottom), (card_x, card_top)], color)
+    ss.set_alpha(sp, alpha)
+    return sp
+
+
+def dobra(s, x, y0, w, top_h, y1, fold=0.18, inset=0.19, upper=None, lower=None, edge=None):
+    """Dois painéis em planos diferentes, ligados por um trapézio (Sabesp p.13). Dentro deles ficam cabeçalho, itálico e dado.
+    Devolve as caixas internas (x, y, w, h) do painel de cima e do de baixo."""
+    upper = upper or ss.mix(ss.PEER, ss.WHITE, .72)
+    lower = lower or ss.mix(ss.PEER, ss.WHITE, .82)
+    edge = edge or ss.PEER
+    yf = y0 + top_h
+    ss.rect(s, x, y0, w, top_h, upper)
+    ss.poly(s, [(x, yf), (x + w, yf), (x + w - inset, yf + fold), (x + inset, yf + fold)], edge)
+    ss.rect(s, x + inset, yf + fold, w - 2 * inset, y1 - yf - fold, lower)
+    return (x, y0, w, top_h), (x + inset, yf + fold, w - 2 * inset, y1 - yf - fold)
+
+
+def painel_volume(s, x, y, w, h, offset=0.06):
+    """Painel cinza com volume: sombra dura deslocada, sem sombra suave. Cabeçalho, itálico e dado ficam dentro."""
+    ss.rect(s, x + offset, y + offset, w, h, ss.CARD_EDGE)
+    ss.rect(s, x, y, w, h, ss.CARD)
+
+
+def ponte_volume(s, x0, x1, y0, y1, recuo=0.42):
+    """Bloco atrás de dois painéis vizinhos, ligando os dois. Desenhe antes dos painéis. x0 e x1: bordas que se olham."""
+    ss.rect(s, x0, y0 + recuo, x1 - x0, y1 - y0 - 2 * recuo, ss.mix(ss.CARD_EDGE, ss.WHITE, .35))
+
+
 # ---------- Mapas ----------
 _GEO50, _ADM1 = None, None
 

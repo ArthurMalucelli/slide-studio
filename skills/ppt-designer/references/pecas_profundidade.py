@@ -444,14 +444,14 @@ def orbit_rows(s, x, y, w, h):
 
 def beam_bars(s, x, y, w, h):
     m = M((300, 96, 960, 497), (x, y, w, h))
-    for i, (bt, st, sb) in enumerate(((300, 330, 390), (260, 290, 370), (220, 245, 335), (150, 188, 261))):
+    for i, (bt, st, sb) in enumerate(((300, 330, 390), (260, 290, 370), (220, 245, 335), (150, 260, 333))):
         bx = 330 + i * 45
         if i == 3: bx = 470
         R(s, m, bx + 2.5, bt + 3, bx + 27.5, 423, "000000")
         R(s, m, bx, bt, bx + 25, 420, G2)
         R(s, m, bx, st, bx + 25, sb, F)
     ss.line(s, *m.p((315, 420)), *m.p((510, 420)), G4, 0.75, dash=False)
-    poly(s, m, ((497, 188), (498, 261), (590, 497), (590, 96)), F, alpha=86)
+    poly(s, m, ((495, 260), (495, 333), (590, 497), (590, 96)), F, alpha=86)
     R(s, m, 590, 96, 960, 497, G1, F, width=1.5)
     tm(s, m, 610, 110, 940, 170, "Digital revenue", size=10, bold=True, color=F)
     mini_bars(s, m, 625, 200, 925, 400, n=9)

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.4.1-1249C6">
+  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.5.0-1249C6">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-plugin-0B1D4E">
   <img alt="Saída" src="https://img.shields.io/badge/sa%C3%ADda-.pptx%20edit%C3%A1vel-4FA3F5">
 </p>
@@ -27,8 +27,10 @@
 
 Slide feito por IA costuma sair com o número certo e o visual genérico. O slide-studio separa os dois trabalhos e dá ao designer um repertório real:
 
-- **Pesquisa com crítico:** um subagente procura os vãos da pesquisa até não sobrar nenhum relevante.
-- **Catálogo de 21 decks de competição:** 973 slides por propósito e por visual, e 590 técnicas garimpadas em 1.633 páginas.
+- **Receita, não colagem:** 9 passos tirados dos melhores decks, do argumento à conferência do peso visual. Veja [`RECEITA.md`](skills/ppt-designer/references/RECEITA.md).
+- **Pesquisa com crítico:** um subagente procura os vãos da pesquisa, e outro julga se o roteiro dá um bom slide.
+- **Verificador automático:** barra colisão de texto, excesso de palavras e dados, slide plano e gráficos que o dono já reprovou.
+- **Catálogo de 22 decks de competição:** 987 slides por propósito e por visual, e 590 técnicas garimpadas em 1.633 páginas.
 - **274 itens do catálogo com peça pronta:** mapas, sólidos, feixes, fitas, diagramas e elementos.
 - **Qualquer mestre:** lê grade, cores e zonas proibidas do seu .pptx. As peças assumem as cores do tema.
 - **Tudo editável:** gráficos nativos e formas do PowerPoint, sem imagem colada para simular volume.
@@ -43,7 +45,7 @@ flowchart LR
     C -- sim --> B
     C -- não --> D["roteiro.md"]
     D --> E["/ppt-designer<br>mestre + roteiro"]
-    E --> F["Lê o mestre e<br>escolhe as peças"]
+    E --> F["Lê o mestre e<br>segue a receita"]
     F --> G["Monta o .pptx e<br>exporta o PDF"]
     G --> H{"Crítico<br>de design"}
     H -- corrigir --> G
@@ -54,8 +56,8 @@ flowchart LR
 
 | Skill | O que faz | Entrega |
 |---|---|---|
-| `/ppt-researcher <empresa> "<tópico>"` | Pesquisa o tópico em fontes primárias, com um crítico de vãos, e escreve o roteiro. O roteiro traz os números e as fontes, e não diz que gráfico usar | `research.md` + `roteiro.md` |
-| `/ppt-designer <mestre.pptx> <roteiro.md>` | Lê o mestre, escolhe as peças no catálogo, monta o slide e valida no PDF do PowerPoint, com um crítico de design | `.pptx` + `.pdf` |
+| `/ppt-researcher <empresa> "<tópico>"` | Pesquisa o tópico em fontes primárias, com um crítico de vãos, e escreve um argumento encadeado e um banco de provas, revisados por um crítico de roteiro | `research.md` + `roteiro.md` |
+| `/ppt-designer <mestre.pptx> <roteiro.md>` | Lê o mestre, segue a receita, escolhe as provas, monta o slide e valida no PDF do PowerPoint, com verificador automático e crítico de design | `.pptx` + `.pdf` |
 
 ## Galeria
 
@@ -179,7 +181,7 @@ Na primeira vez do deck, responda as preferências, que ficam em `deck_prefs.jso
 | Números grandes | não, sim | não |
 | Nível visual | rico, sóbrio | rico |
 
-No modo **rico**, todo slide leva ao menos uma peça do catálogo.
+No modo **rico**, todo slide de conteúdo leva uma peça de profundidade discreta: uma cunha quando um número abre em outro, ou uma dobra entre dois painéis ligados.
 
 **3. Ajuste em português normal**
 
@@ -197,6 +199,12 @@ Vieram de decks reais e de revisões de quem apresentou. Estão em [`RULES.md`](
 - Um cabeçalho e um itálico por visual, sem terceiro nível de texto.
 - Sem bloco de notas na face do slide: as ressalvas vão para as notas do apresentador.
 - Sem colunas de texto coladas no gráfico.
+- Nunca gráfico de barras com só duas barras, nem linha com marcador nos pontos.
+- No máximo 3 gráficos por slide, e sem linhas divisórias finas.
+- Nada aparece do nada: a peça de profundidade fica presa ao conteúdo e é discreta.
+- Uma peça por slide: nem peça forte solta, nem slide totalmente plano.
+- Até ~130 palavras e 50 dados por slide.
+- Rodapé sempre `Sources: Company Data, Group Calculations.`
 - Data label em um único estilo.
 - Cor com significado fixo e um único destaque por painel.
 - Números exatamente como no roteiro.
@@ -212,12 +220,15 @@ skills/
     ├── lib/                 biblioteca de componentes, leitor de mestre, dados de mapa
     ├── scripts/             exportação pelo PowerPoint (Mac e Windows)
     └── references/
+        ├── RECEITA.md       como montar um bom slide
         ├── RULES.md         regras de design
+        ├── aprovados/       peças aprovadas, com dados fictícios
+        ├── reprovados/      erros reprovados, com dados fictícios
         ├── COMPONENTS.md    o que a biblioteca desenha
         ├── PITFALLS.md      bugs do PowerPoint já resolvidos
         ├── catalogo/        590 técnicas: origem, recorte e receita
         ├── pecas_*.py       peças prontas para copiar
-        └── exemplos/        973 slides por propósito e por visual, com prints e PDFs
+        └── exemplos/        987 slides por propósito e por visual, com prints e PDFs
 ```
 
 Para ver as peças no seu mestre, sem o Claude:
@@ -230,6 +241,9 @@ Troque `pecas_mapas_a` por `pecas_mapas_b`, `pecas_profundidade`, `pecas_diagram
 
 ## Limitações
 
+- **Fluxos e diagramas:** ainda sem versão aprovada. Para conteúdo qualitativo, o designer aciona um agente de criatividade, que propõe 3 representações.
+- **Imagens geradas:** `gerar_imagem.py` depende do Codex CLI; sem ele, entrega o prompt para você gerar onde quiser. A marca nos mockups ainda não foi validada.
+- **Paletas do Color Hunt:** o site não tem API pública, então a busca pode parar de funcionar. Nesse caso, passe os códigos com `--hex`.
 - **Mapas:** há estados de RUS, USA, IND, IDN, CHN, BRA, CAN, AUS e ZAF. Não há municípios: as malhas municipais das peças são fictícias e não podem representar dado real. Malha de rua e terreno ficam como molde.
 - **Tamanho das peças:** muitas foram testadas em caixa pequena. Em caixa maior, ajuste as fontes para os tamanhos das regras.
 - **Peças mais fracas:** a lista está em [`catalogo/INDEX.md`](skills/ppt-designer/references/catalogo/INDEX.md).

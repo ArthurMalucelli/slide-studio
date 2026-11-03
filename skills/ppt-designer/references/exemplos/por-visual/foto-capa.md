@@ -1,7 +1,8 @@
-# Padrão visual: foto-capa (28 slides)
+# Padrão visual: foto-capa (29 slides)
 
 Quando usar: capa e divisores.
 
+- `../prints/ChallengeB_p001.jpg` (★★★) "Cover: Challenge Group B title on dark technical background." · visual: foto-capa · propósito: capa · truque: Dark full-bleed cover with company and group marks, team names at the bottom.
 - `../prints/MercadoLibre_p001.jpg` (★★★) "Cover styled as a Mercado Libre shipping box: kraft cardboard with a yellow band and a shipping-label card carrying ticker, date, BUY, target price and upside." · visual: foto-capa · propósito: capa · truque: Cover borrows the company's own packaging metaphor (cardboard texture + shipping label holding rec/TP/upside) so the key numbers sit in a label card instead of a generic box.
 - `../prints/Nubank_p004.jpg` (★★★) "BUY: low-cost model, high usage today with higher monetization tomorrow, LatAm as next compounding engine." · visual: pilares, foto-capa · propósito: tese-pilares-divisor · truque: Recommendation as a section divider: three thesis lines staggered along a dashed diagonal path with piggy-bank icons, and BUY in large type over the photo.
 - `../prints/RestaurantBrandsInternational_p003.jpg` (★★★) "BUY: target USD 99.48 vs 73.75 current, 34.9% upside, 14.1% 5Y IRR" · visual: foto-capa, kpi-numeros-grandes · propósito: recomendacao-exec-summary · truque: Giant BUY! word on a translucent dark-red band over a darkened photo, with price / upside / target on one horizontal line connected by thin rules.

@@ -19,7 +19,9 @@ Os arquivos são longos: use `grep` por palavra ou leia só o começo, onde est�
 
 ## Como usar
 
-1. **Parta da mensagem do roteiro,** não da peça. O visual precisa provar o claim.
+A galeria mostra técnicas soltas. Em slide real, cada peça passa nos 4 testes de `RULES.md` (origem, destino, forma = conteúdo, função), e há no máximo um protagonista.
+
+1. **Parta da relação central do roteiro,** não da peça. Sem relação, o slide fica plano.
 2. **Ache a família** na tabela abaixo e abra o arquivo dela. Veja o recorte (`crops/…jpg`) das candidatas.
 3. **Peça pronta:** copie a função de `references/pecas_*.py` para o build, com os helpers de `lib/pecas_base.py`, e troque só o conteúdo. Sem peça pronta: monte pela receita.
 4. **Compare o resultado com o recorte, lado a lado,** e corrija proporção e ordem das camadas. Peça aproximada não serve.
@@ -35,7 +37,8 @@ Os arquivos são longos: use `grep` por palavra ou leia só o começo, onde est�
 | Comparar nota, cenário ou payoff | Dado | `square_rating`, `payoff_grid`; placar de estrelas em `pecas_elementos_b.py` |
 | Risco com tamanho | Dado, Estrutura | `priced_risks`; códigos com drill-down em `pecas_elementos_b.py` |
 | Fazer o gráfico argumentar | Anotação | `scribble_link`, `span_bracket`, `event_flags`, `phase_windows` |
-| Explicar um pedaço do dado | Profundidade | `beam_bars`, `donut_flare`, `zoom_wedge` |
+| Mostrar só dois valores | Nenhuma | Dado direto dentro de um painel; nunca gráfico de duas barras nem sólido |
+| Explicar um pedaço do dado | Profundidade | `beam_from_mark` (em `pecas_base`), `beam_bars`, `donut_flare`, `zoom_wedge` |
 | Mostrar camadas ou segmentos | Profundidade | `pyramid3d`, `iso_plates`, `arc_ribbons`, `lens_stack` |
 | Dar volume a um cartão ou painel | Profundidade | `tapered_wall`, `gutter_wall`, `bevel_panel`, `slab_cards` |
 | Separar uma mensagem do resto da página | Profundidade | `modal_sandwich`, `l_wedges`, `spotlight` |
@@ -58,7 +61,7 @@ Peças de evidência e citação existem como moldes com rótulos cinza (`[photo
 ## Limites
 
 - **Profundidade:** gráfico com dado segue plano, salvo `use_3d = "also_data"`. Perspectiva e degradê que apaga a base atrapalham a leitura do valor. `use_3d = "never"` veta sólidos; cartões, feixes e triângulos continuam permitidos.
-- **No máximo uma peça sólida grande por slide.** Ela sustenta a mensagem; não é enfeite.
+- **No máximo um protagonista por slide.** O resto fica plano.
 - **Peça só com o que o roteiro já diz.** Não invente camada, segmento ou conclusão para preencher a forma.
 - **Tudo é forma editável.** Nada de imagem colada para simular volume.
 - **Tamanho:** muitas peças foram testadas em caixa de cerca de 3,7 × 2,6 pol., com texto pequeno. Em caixa maior, ajuste as fontes para os tamanhos de `RULES.md`.
