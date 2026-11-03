@@ -9,11 +9,11 @@ Uso:
 A imagem é ilustração, nunca evidência. Usa a conta do Codex do usuário: gere só as que entram no slide. Sem Codex ou
 sem imagem gerada, sai com código 3: passe o prompt ao usuário.
 """
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
-import time
 from pathlib import Path
 
 PROMPT = ("Isometric 3D illustration, miniature diorama style of {cena}, wide angle, zoomed out view, clean and "
@@ -52,15 +52,15 @@ def recortar(entrada, saida, tolerancia=26):
 def gerar(cena, saida):
     if not shutil.which("codex"):
         return None
-    inicio = time.time()
     with tempfile.TemporaryDirectory() as t:
         pedido = ("Generate one image with your image generation tool, using exactly this prompt. Do not draw it with "
-                  f"code. If you have no image tool, say so and stop. Prompt: {PROMPT.format(cena=cena)}")
-        subprocess.run(["codex", "exec", "--skip-git-repo-check", "-C", t, pedido], capture_output=True, timeout=240)
-    novos = [f for f in PASTA.glob("*/*.png") if f.stat().st_mtime >= inicio]
-    if not novos:
-        return None
-    return max(novos, key=lambda f: f.stat().st_mtime)
+                  "code. End your answer with the absolute path of the image. If you have no image tool, say so and "
+                  f"stop. Prompt: {PROMPT.format(cena=cena)}")
+        r = subprocess.run(["codex", "exec", "--skip-git-repo-check", "-C", t, pedido], capture_output=True, text=True,
+                           timeout=240)
+    # O caminho vem da resposta do próprio Codex: procurar a imagem mais nova pega a de outro agente em paralelo.
+    achados = re.findall(re.escape(str(PASTA)) + r"[^\s)\]]+\.png", r.stdout + r.stderr)
+    return Path(achados[-1]) if achados and Path(achados[-1]).exists() else None
 
 
 def main():
