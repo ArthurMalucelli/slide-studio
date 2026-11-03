@@ -204,6 +204,12 @@ def checar(pptx, pdf, profile):
     if fios:
         err.append(f"{fios} linhas divisórias finas: tire. Separe com espaço ou cor de fundo.")
 
+    # Profundidade: slide plano é reprovado como "sem sal". Painel = forma preenchida grande; sombra dura ou dobra = duas sobrepostas.
+    grandes = [sh for sh in shapes if sh.shape_type in (1, 5) and sh.width / IN > 2 and sh.height / IN > 1.5]
+    cunha_grande = any(sh.shape_type == 5 and sh.height / IN > 1.5 for sh in shapes)
+    if len(grandes) < 2 and not cunha_grande:
+        err.append("Slide sem profundidade: faltam painéis com volume (`painel_volume`, `ponte_volume`) ou dobra.")
+
     # Gráficos: duas barras, dois pontos, marcador
     for g in graficos:
         ch = g.chart

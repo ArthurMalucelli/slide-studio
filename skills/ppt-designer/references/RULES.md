@@ -4,7 +4,7 @@ São regras aprendidas em decks reais de equity research, com feedback de quem a
 
 ## A regra central: nada aparece do nada
 
-Como montar: `RECEITA.md`. O dono reprova os dois extremos: peça forte "do nada" e slide totalmente plano, "sem sal". Por isso, uma peça por slide, discreta e presa ao conteúdo. A dobra em cinza claro entre dois painéis ligados vale sem número em comum.
+Como montar: `RECEITA.md`. O dono reprova os dois extremos: peça forte "do nada" e slide totalmente plano, "sem sal". Por isso, todo slide tem painéis com volume ou dobra, e no máximo uma cunha ou um sólido, presos ao conteúdo.
 
 Cunha e sólido precisam passar nos 4 testes. Se falharem em um, troque pela dobra:
 
@@ -58,6 +58,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Grupo de ícone + frases centralizadas:** cards cinza com ícone e 2 ou 3 linhas de texto, mesmo copiados do gabarito (Nubank p.16): "uma bosta" | Esse conteúdo vira gráfico ou tabela numérica. Se o roteiro só tem frases, troque de modelo |
 | **Foto do nada:** foto real de uma loja colada ao lado de um gráfico que não fala dela | Imagem é parte da prova, ou sai (`RECEITA.md`, passo 5) |
 | **Itálico com resultado:** "Per-warehouse share: 73.8% FY19–26", empurrando a unidade para a legenda | Itálico diz métrica, unidade e período. O resultado está no gráfico |
+| **Cunha terminando no ar:** sai de uma barra e acaba num rótulo ou no vazio, sem painel de destino: "uma merda" | Termina na borda inteira de um painel com o detalhe daquele número. Sem isso, sem cunha |
 | **Cunha solta:** vão entre a barra e a cunha, ou ponta passando do eixo | Encosta na barra, com a altura exata dela (`RECEITA.md`, passo 4) |
 | **3D só em volta do gráfico:** dobra ou painel que começa abaixo do cabeçalho, deixando título e subtítulo fora | O volume incorpora cabeçalho e itálico: eles ficam dentro do painel |
 | **Linha divisória fina:** fio cinza entre itens, em lista, tabela ou painel: "em nada, muita cara de AI" (`checar_slide.py` barra) | Separe com espaço ou cor de fundo. Eixo de gráfico e colchete continuam |

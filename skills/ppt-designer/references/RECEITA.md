@@ -40,13 +40,13 @@ Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grad
 
 ## 4. Dê profundidade ao slide, com uma peça
 
-Slide totalmente plano sai sem sal: tiramos a dobra de um slide bom, e ele foi reprovado por isso. No modo visual rico, todo slide de conteúdo leva **uma** peça discreta. Olhe as frases do passo 1 e escolha:
+Slide totalmente plano sai sem sal: esse erro já foi reprovado várias vezes. No modo visual rico, todo slide de conteúdo tem profundidade visível. Olhe as frases do passo 1:
 
-1. **Um número de uma frase abre em outra?** Use a cunha. É a melhor opção: mostra o que há dentro do número.
-2. **Duas frases só se respondem, sem número em comum?** Use painéis com volume ligados por um bloco atrás, ou a dobra. O dono gosta deles, mesmo sem dado abrindo em dado.
+1. **Padrão, em todo slide:** dois painéis ou mais com volume, ligados por um bloco atrás (`painel_volume`, `ponte_volume`), ou a dobra. Cabeçalho, itálico e gráfico dentro. É a opção mais aprovada e não depende de relação entre números.
+2. **Um número abre no que há dentro dele?** Some a cunha ao padrão, ou use-a no lugar dele. Ela sai de um total ou segmento e termina na borda inteira de um painel que detalha esse número. Ligar uma linha à mesma linha de outro gráfico não é abertura, e cunha terminando em rótulo ou no ar é reprovada. Sem isso, nada de cunha.
 3. **Etapas ou degraus?** Use o sólido, com o conteúdo dentro.
 
-Nunca invente uma relação de número que não existe: a cunha exige número dos dois lados.
+Em dúvida, fique no padrão. Ele nunca foi reprovado por "aparecer do nada".
 
 | Peça | Como é feita | Exemplo |
 |---|---|---|
