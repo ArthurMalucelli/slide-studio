@@ -47,11 +47,14 @@ Se a pasta de trabalho já tem `deck_prefs.json`, use-o e só confirme numa linh
 5. **Números grandes / key takeaways em destaque:**
    - "Não (padrão)";
    - "Sim, quando fizer sentido".
+6. **Nível visual:**
+   - "Rico (padrão)": todo slide leva peça do catálogo;
+   - "Sóbrio": peça do catálogo só quando o usuário pedir.
 
 Grave em `deck_prefs.json`, na pasta de trabalho, junto com qualquer override de paleta ou fonte que o usuário pedir:
 ```json
 {"master": "...", "background": "white", "bars": "flat", "use_3d": "illustration_only",
- "big_numbers": false, "palette": {}, "font": null}
+ "big_numbers": false, "visual": "rico", "palette": {}, "font": null}
 ```
 
 ## 2. Profile do mestre
@@ -85,8 +88,8 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
    - composição → rosca ou barra 100%;
    - geografia → `region_map`;
    - sequência → timeline/funil.
-5. **Abra `references/catalogo/INDEX.md` e procure a peça que prova melhor cada claim:** mapa, profundidade, diagrama, dispositivo de dado, anotação, navegação ou evidência. São mais de 500 entradas e cerca de 270 peças prontas para copiar de `references/pecas_*.py`; em cada slide, considere ao menos 2 opções além de um gráfico simples. Compare a peça montada com o recorte de origem, lado a lado. Se a peça pede material real, peça ao usuário; nunca invente.
-6. **Escreva em 3–5 linhas o plano do layout** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
+5. **Abra `references/catalogo/INDEX.md` e escolha as peças do slide.** Obrigatório, salvo `visual = "sóbrio"`: todo slide leva ao menos uma peça do catálogo que crie profundidade ou faça o dado argumentar (feixe até um cartão, parede, placas, mapa, veredito, anotação). Slide só com título e gráficos planos está reprovado. Se o conteúdo é só dado, ligue o dado à conclusão com feixe e cartão, ou marque-o com anotação. Considere ao menos 3 candidatas por slide, veja os recortes e escolha pelo claim, sem repetir a mesma peça em slides vizinhos. As peças prontas estão em `references/pecas_*.py`. Compare a peça montada com o recorte de origem, lado a lado. Se a peça pede material real, peça ao usuário; nunca invente.
+6. **Escreva em 3–5 linhas o plano do layout, nomeando cada peça, sua função em `pecas_*.py` e o recorte de origem** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
 
 ## 4. Build
 

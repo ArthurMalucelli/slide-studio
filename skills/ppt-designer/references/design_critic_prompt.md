@@ -20,6 +20,7 @@ problemas de layout e de regra.
    - terceiro nível de texto sobre um gráfico; bloco de notas na face do slide; colunas de texto ao lado do gráfico;
    - data labels em mais de um estilo, ou com fundo claro;
    - molde com rótulo cinza, ou evidência sem origem real;
+   - slide sem peça do catálogo, salvo `visual = "sóbrio"` nas preferências: marque ALTA e sugira 2 peças de `catalogo/INDEX.md`;
    - cor fora do papel (empresa-foco em PEER, terceiros em FOCUS, dois destaques);
    - fonte ausente.
 3. **Fidelidade:** algum número no slide difere do roteiro, foi repetido ou foi inventado?
