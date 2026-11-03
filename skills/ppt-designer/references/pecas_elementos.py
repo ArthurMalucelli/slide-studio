@@ -217,7 +217,7 @@ def phase_windows(s, x, y, w, h):
 def formula_stairs(s, x, y, w, h):
     """Cada termo da fórmula desce em escada até a sua explicação. Mercado Libre p.94."""
     m = M((0, 0, 620, 270), (x, y, w, h))
-    terms = (("Ad cost", 0, 80), ("Conversion", 92, 132), ("Price", 236, 58), ("Score", 306, 58))
+    terms = (("Ad cost", 0, 80), ("Conversion", 92, 132), ("Price", 236, 58), ("Score", 306, 72))
     notes = ("Willingness to pay for ads", "Clicks that become purchases", "Revenue of the listed item", "Seller reputation and quality")
     for i, ((t, x0, wd), nt) in enumerate(zip(terms, notes)):
         tm(s, m, x0, 8, x0 + wd, 36, t, size=9, italic=True)
@@ -230,10 +230,10 @@ def formula_stairs(s, x, y, w, h):
         sp = s.shapes.add_shape(MSO_SHAPE.DIAMOND, Inches(px - .05), Inches(py - .05), Inches(.1), Inches(.1)); sp.shadow.inherit = False
         ss.paint(sp.fill, A); sp.line.fill.background()
         tm(s, m, cx + 10, yy - 16, 620, yy + 16, nt, size=8, italic=True, align=PP_ALIGN.LEFT)
-    tm(s, m, 366, 8, 386, 36, "=", size=9, bold=True)
-    tm(s, m, 388, 8, 450, 36, "Rank", size=9, bold=True, italic=True)
-    R(s, m, 388, 38, 450, 42, D)
-    ss.line(s, *m.p((456, 24)), *m.p((476, 24)), INK, .75, dash=False)
+    tm(s, m, 378, 8, 396, 36, "=", size=9, bold=True)
+    tm(s, m, 398, 8, 456, 36, "Rank", size=9, bold=True, italic=True)
+    R(s, m, 398, 38, 456, 42, D)
+    ss.line(s, *m.p((460, 24)), *m.p((478, 24)), INK, .75, dash=False)
     tm(s, m, 480, 2, 620, 50, "Best rank wins the first page", size=8, italic=True, align=PP_ALIGN.LEFT)
 
 
