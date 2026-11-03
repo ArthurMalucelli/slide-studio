@@ -1,17 +1,112 @@
-# slide-studio
+<h1 align="center">slide-studio</h1>
 
-Plugin do Claude Code para montar slides de equity research de **qualquer empresa**, com **qualquer slide mestre**, em duas etapas:
+<p align="center">
+  <strong>Slides de equity research em nível de competição, com qualquer empresa e qualquer slide mestre.</strong><br>
+  Plugin do Claude Code: pesquisa o tema, escreve o roteiro e entrega o .pptx editável, validado no PowerPoint.
+</p>
+
+<p align="center">
+  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.4.1-1249C6">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-plugin-0B1D4E">
+  <img alt="Saída" src="https://img.shields.io/badge/sa%C3%ADda-.pptx%20edit%C3%A1vel-4FA3F5">
+</p>
+
+<p align="center">
+  <a href="#instalação">Instalação</a> ·
+  <a href="#como-funciona">Como funciona</a> ·
+  <a href="#galeria">Galeria</a> ·
+  <a href="#uso">Uso</a> ·
+  <a href="#estrutura">Estrutura</a>
+</p>
+
+![Amostra de peças do catálogo: mapas, sólidos, dispositivos de dado e diagramas](docs/images/hero.png)
+
+<p align="center"><sub>Amostras geradas pelo plugin, em formas editáveis. O conteúdo é fictício; só a técnica vem dos decks de referência.</sub></p>
+
+## Por que usar
+
+Slide feito por IA costuma sair com o número certo e o visual genérico. O slide-studio separa os dois trabalhos e dá ao designer um repertório real:
+
+- **Pesquisa com crítico:** um subagente procura os vãos da pesquisa até não sobrar nenhum relevante.
+- **Catálogo de 21 decks de competição:** 973 slides por propósito e por visual, e 590 técnicas garimpadas em 1.633 páginas.
+- **274 itens do catálogo com peça pronta:** mapas, sólidos, feixes, fitas, diagramas e elementos.
+- **Qualquer mestre:** lê grade, cores e zonas proibidas do seu .pptx. As peças assumem as cores do tema.
+- **Tudo editável:** gráficos nativos e formas do PowerPoint, sem imagem colada para simular volume.
+- **Sem prova inventada:** peças de evidência ficam como moldes até você trazer foto, print ou entrevista real.
+
+## Como funciona
+
+```mermaid
+flowchart LR
+    A["/ppt-researcher<br>empresa + tópico"] --> B["Pesquisa em<br>fontes primárias"]
+    B --> C{"Crítico:<br>falta algo?"}
+    C -- sim --> B
+    C -- não --> D["roteiro.md"]
+    D --> E["/ppt-designer<br>mestre + roteiro"]
+    E --> F["Lê o mestre e<br>escolhe as peças"]
+    F --> G["Monta o .pptx e<br>exporta o PDF"]
+    G --> H{"Crítico<br>de design"}
+    H -- corrigir --> G
+    H -- ok --> I[".pptx + .pdf"]
+    I --> J["ajusta: …"]
+    J --> G
+```
 
 | Skill | O que faz | Entrega |
 |---|---|---|
-| `/ppt-researcher <empresa> "<tópico>"` | Pesquisa tudo sobre o tópico em fontes primárias. Um subagente crítico caça vãos até não sobrar nenhum relevante, e no fim o roteiro do slide é escrito | `research.md` + `roteiro.md` |
-| `/ppt-designer <mestre.pptx> <roteiro.md>` | Lê o mestre e escolhe o visual olhando um catálogo de 973 slides de 21 decks de competição. Depois monta o .pptx e valida no PDF do PowerPoint, com um crítico de design | `.pptx` + `.pdf` |
+| `/ppt-researcher <empresa> "<tópico>"` | Pesquisa o tópico em fontes primárias, com um crítico de vãos, e escreve o roteiro. O roteiro traz os números e as fontes, e não diz que gráfico usar | `research.md` + `roteiro.md` |
+| `/ppt-designer <mestre.pptx> <roteiro.md>` | Lê o mestre, escolhe as peças no catálogo, monta o slide e valida no PDF do PowerPoint, com um crítico de design | `.pptx` + `.pdf` |
 
-Depois da v1, peça `ajusta …` (ex.: "ajusta: tira o texto de baixo do gráfico da direita"). O designer gera a v2 com o mesmo roteiro, sem pesquisar de novo.
+## Galeria
 
-## Jeito rápido: cole isto no Claude Code
+Amostras em tamanho pequeno. As técnicas vieram de decks de competição, e cada peça indica o deck e a página de origem.
 
-Abra o Claude Code (app desktop, aba **Code**, ou `claude` no terminal), cole o prompt abaixo e mande. O Claude faz a instalação inteira, confere o que falta e te diz o próximo passo.
+### Mapas
+
+Estados de 9 países e países em 1:50m, desenhados como formas editáveis.
+
+![Mapas do Brasil com painéis, cunhas e rótulos](docs/images/mapas.png)
+
+<details>
+<summary>Mais mapas</summary>
+
+![Comparações, silhuetas e recortes de território](docs/images/mapas-2.png)
+
+</details>
+
+### Profundidade
+
+Volume em volta do dado, com os gráficos planos por padrão.
+
+![Sólidos isométricos, placas, trilhos e palco](docs/images/profundidade.png)
+
+| Feixes | Fitas e dobras | Camadas |
+|---|---|---|
+| ![Feixes](docs/images/feixes.png) | ![Fitas e dobras](docs/images/fitas.png) | ![Camadas](docs/images/camadas.png) |
+
+### Dados e anotações
+
+| Dispositivos de dado | Anotações |
+|---|---|
+| ![Veredito, fórmulas, notas e matriz de payoff](docs/images/dados.png) | ![Marcas sobre gráficos e tabelas](docs/images/anotacoes.png) |
+
+### Diagramas e navegação
+
+| Diagramas | Navegação |
+|---|---|
+| ![Flywheel, eras e trilhos](docs/images/diagramas.png) | ![Trackers e agendas](docs/images/navegacao.png) |
+
+### Moldes para evidência real
+
+Entrevista, teste de campo e código são peças fortes, mas não podem ser inventados. O molde reserva o layout com rótulos como `[print]` e `[quote from a real interview]`, e não vai para a entrega sem o material real.
+
+![Moldes de evidência com rótulos cinza](docs/images/evidencia.png)
+
+## Instalação
+
+### Jeito rápido
+
+Abra o Claude Code (app desktop, aba **Code**, ou `claude` no terminal), cole o prompt e mande. O Claude faz a instalação e te diz o que faltar.
 
 ```text
 Quero usar o plugin slide-studio (https://github.com/ArthurMalucelli/slide-studio) para montar slides de
@@ -33,23 +128,9 @@ equity research. Faça a instalação completa por mim, rodando os comandos voc�
 Depois, me explique em 5 linhas como usar /ppt-researcher e /ppt-designer.
 ```
 
-Na **sessão nova**, para fazer um slide, cole e adapte:
+### Manual
 
-```text
-/ppt-researcher <Empresa> "<tópico do slide>"
-```
-Responda as perguntas: expositivo ou analítico, e quantas rodadas o crítico pode rodar. Quando o roteiro estiver pronto:
-
-```text
-/ppt-designer <caminho do seu slide mestre .pptx> research/<Empresa>-<tópico>/roteiro.md
-```
-Responda as preferências: fundo, 3D e números grandes. Ao receber o slide, peça ajustes em português normal: `ajusta: tira o texto de baixo do gráfico da direita`.
-
-> A fonte do seu slide mestre precisa estar instalada no computador (ex.: Montserrat, no Google Fonts). Sem ela, o PDF sai com outra fonte.
-
-## Instalação manual (se preferir fazer você mesmo)
-
-1. **Plugin.** No Claude Code (terminal ou app desktop, aba Code):
+1. **Plugin**, no Claude Code:
    ```
    /plugin marketplace add ArthurMalucelli/slide-studio
    /plugin install slide-studio@slide-studio
@@ -60,64 +141,100 @@ Responda as preferências: fundo, 3D e números grandes. Ao receber o slide, pe�
    ```
 3. **Poppler** (`pdftoppm`, para o Claude ver o slide):
    - Mac: `brew install poppler`
-   - Windows: `choco install poppler` ou https://github.com/oschwartz10612/poppler-windows
+   - Windows: `choco install poppler` ou [poppler-windows](https://github.com/oschwartz10612/poppler-windows)
 4. **Microsoft PowerPoint**, para validar. Sem ele, o designer usa o LibreOffice e avisa que gráficos podem sair diferentes.
-5. **A fonte do seu mestre instalada** (ex.: Montserrat no Google Fonts). Sem ela, o PDF troca a fonte.
+5. **A fonte do seu mestre instalada** (ex.: Montserrat, no Google Fonts). Sem ela, o PDF troca a fonte.
+
+### Atualizar
+
+```bash
+claude plugin marketplace update slide-studio && claude plugin update slide-studio@slide-studio
+```
+
+Depois, reinicie o Claude Code. As novidades de cada versão estão no [CHANGELOG](CHANGELOG.md).
 
 ## Uso
 
-```
+**1. Pesquise e gere o roteiro**
+
+```text
 /ppt-researcher Embraer "riscos"
 ```
-1. **Perguntas iniciais:**
-   - o slide é **expositivo** (apresenta fatos) ou **analítico** (defende uma conclusão)?
-   - se for analítico, qual ângulo? Pode deixar o agente decidir;
-   - quantas rodadas o crítico pode rodar? Sem resposta = sem limite.
-2. **Pesquisa e crítica:** o pesquisador pesquisa. Quando acha que terminou, um crítico lista o que falta, e o ciclo se repete.
-3. **Saída:** sai `research/Embraer-riscos/roteiro.md`. O roteiro traz:
-   - a **mensagem principal** do slide;
-   - título, subtítulo e blocos com os números e as fontes.
 
-   Ele **não** diz que gráfico usar.
+Responda se o slide é **expositivo** ou **analítico**, qual o ângulo, se houver, e quantas rodadas o crítico pode rodar. Sem resposta, não há limite. O roteiro sai em `research/Embraer-riscos/roteiro.md`, com a mensagem principal, os blocos, as fontes e o material real disponível.
 
-```
+**2. Monte o slide**
+
+```text
 /ppt-designer ~/Desktop/MeuMestre.pptx research/Embraer-riscos/roteiro.md
 ```
-1. **Preferências (uma vez por deck, ficam em `deck_prefs.json`):**
-   - caminho do mestre;
-   - fundo;
-   - barras planas ou 3D;
-   - uso do 3D;
-   - números grandes em destaque: **padrão não**.
-2. **Mestre:** o designer lê o mestre (grade, cores, zonas proibidas) e mostra os layouts.
-3. **Referências:** abre o catálogo pelo propósito do slide (ex.: `riscos`) e olha os melhores exemplos.
-4. **Build e validação:** monta, exporta o PDF pelo PowerPoint, revisa com o crítico e entrega.
 
-```
+Na primeira vez do deck, responda as preferências, que ficam em `deck_prefs.json`:
+
+| Preferência | Opções | Padrão |
+|---|---|---|
+| Fundo | branco, do mestre, escuro | branco |
+| Barras e blocos de dados | planos, 3D isométrico | planos |
+| Uso do 3D | só ilustração, também dados, nunca | só ilustração |
+| Números grandes | não, sim | não |
+| Nível visual | rico, sóbrio | rico |
+
+No modo **rico**, todo slide leva ao menos uma peça do catálogo.
+
+**3. Ajuste em português normal**
+
+```text
 ajusta: deixa o mapa da esquerda na largura inteira
 ```
 
-Se o Claude não reconhecer `/ppt-researcher`, use o nome com prefixo: `/slide-studio:ppt-researcher`.
+O designer gera a versão seguinte com o mesmo roteiro, sem pesquisar de novo. Se o Claude não reconhecer `/ppt-researcher`, use o prefixo: `/slide-studio:ppt-researcher`.
 
-## O que tem aqui
+## Regras de design
 
-| Pasta | Conteúdo |
-|---|---|
-| `skills/ppt-researcher/` | Instruções do pesquisador, prompt do crítico de vãos, modelo de roteiro |
-| `skills/ppt-designer/` | Instruções do designer, regras, componentes, armadilhas, prompt do crítico de design |
-| `skills/ppt-designer/references/exemplos/` | Catálogo: `INDEX.md`, `por-proposito/`, `por-visual/`, `prints/` (973 slides) e os 21 PDFs |
-| `skills/ppt-designer/lib/slide_style.py` | Biblioteca de componentes: gráficos nativos com pills, combo coluna+linha, rosca, mapa por região, 3D isométrico, legendas, rodapé |
-| `skills/ppt-designer/references/catalogo/` | Catálogo com mais de 500 mapas, peças de profundidade, diagramas e elementos: origem, recorte e receita |
-| `skills/ppt-designer/references/pecas_*.py` | Cerca de 270 peças prontas em formas editáveis, que se adaptam às cores de qualquer mestre |
-| `skills/ppt-designer/lib/master_profile.py` | Lê qualquer mestre e gera `profile.json`: grade, título/subtítulo, rodapé, zonas proibidas, paleta do tema |
-| `skills/ppt-designer/references/exemplo_componentes.py` | Exemplo de montagem (dados fictícios): os mesmos painéis em 2 grades diferentes, com qualquer mestre |
-| `skills/ppt-designer/scripts/export_pdf.sh` / `.ps1` | Exportam .pptx → PDF pelo PowerPoint (Mac / Windows) |
+Vieram de decks reais e de revisões de quem apresentou. Estão em [`RULES.md`](skills/ppt-designer/references/RULES.md):
 
-Teste rápido, sem Claude:
-```bash
-python3 skills/ppt-designer/references/exemplo_componentes.py MeuMestre.pptx teste.pptx 0
+- Nenhum número ou período em título e cabeçalho de painel.
+- Um cabeçalho e um itálico por visual, sem terceiro nível de texto.
+- Sem bloco de notas na face do slide: as ressalvas vão para as notas do apresentador.
+- Sem colunas de texto coladas no gráfico.
+- Data label em um único estilo.
+- Cor com significado fixo e um único destaque por painel.
+- Números exatamente como no roteiro.
+- Validação no PDF exportado pelo PowerPoint.
+
+## Estrutura
+
+```text
+skills/
+├── ppt-researcher/          pesquisador, crítico de vãos, modelo de roteiro
+└── ppt-designer/
+    ├── SKILL.md             fluxo do designer
+    ├── lib/                 biblioteca de componentes, leitor de mestre, dados de mapa
+    ├── scripts/             exportação pelo PowerPoint (Mac e Windows)
+    └── references/
+        ├── RULES.md         regras de design
+        ├── COMPONENTS.md    o que a biblioteca desenha
+        ├── PITFALLS.md      bugs do PowerPoint já resolvidos
+        ├── catalogo/        590 técnicas: origem, recorte e receita
+        ├── pecas_*.py       peças prontas para copiar
+        └── exemplos/        973 slides por propósito e por visual, com prints e PDFs
 ```
+
+Para ver as peças no seu mestre, sem o Claude:
+
+```bash
+python3 skills/ppt-designer/references/pecas_mapas_a.py MeuMestre.pptx teste.pptx 0
+```
+
+Troque `pecas_mapas_a` por `pecas_mapas_b`, `pecas_profundidade`, `pecas_diagramas`, `pecas_elementos`, `pecas_elementos_a`, `pecas_elementos_b` ou `pecas_moldes`. O último número é o índice do layout do mestre.
+
+## Limitações
+
+- **Mapas:** há estados de RUS, USA, IND, IDN, CHN, BRA, CAN, AUS e ZAF. Não há municípios: as malhas municipais das peças são fictícias e não podem representar dado real. Malha de rua e terreno ficam como molde.
+- **Tamanho das peças:** muitas foram testadas em caixa pequena. Em caixa maior, ajuste as fontes para os tamanhos das regras.
+- **Peças mais fracas:** a lista está em [`catalogo/INDEX.md`](skills/ppt-designer/references/catalogo/INDEX.md).
+- **PowerPoint:** a validação completa pede o Microsoft PowerPoint. O LibreOffice pode renderizar gráficos de outro jeito.
 
 ## Aviso sobre o catálogo
 
-Os decks de `references/exemplos/` são de equipes de competições de equity research e entram **só como referência de design**. Use o catálogo para aprender o layout; não copie conteúdo.
+Os PDFs, as prints e os recortes em `references/` vêm de decks de equipes de competições de equity research e entram **só como referência de design**. Eles pertencem aos seus autores. Use o catálogo para aprender o layout; não copie conteúdo, marca ou dados.
