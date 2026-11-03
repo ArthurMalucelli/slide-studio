@@ -48,7 +48,8 @@ Se a pasta de trabalho já tem `deck_prefs.json`, use-o e só confirme numa linh
 5. **Números grandes / key takeaways em destaque:**
    - "Não (padrão)";
    - "Sim, quando fizer sentido".
-6. **Nível visual:**
+6. **Paleta:** "Cores do mestre (padrão)", "Quero escolher no Color Hunt" (peça uma tag, como `navy`, ou 4 códigos) ou "Mando a minha". `python3 SKILL_DIR/scripts/buscar_paleta.py <tag>` lista opções e avisa o que quebraria; `--hex` traduz a do usuário. Mostre as opções, e quem escolhe é o usuário. Grave o bloco em `deck_prefs.json` → `palette`.
+7. **Nível visual:**
    - "Rico (padrão)": uma peça de profundidade discreta em todo slide de conteúdo;
    - "Sóbrio": sem peça, salvo pedido.
 
