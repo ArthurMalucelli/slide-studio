@@ -38,9 +38,15 @@ Escolha no banco de provas do roteiro. Use a tabela abaixo como ponto de partida
 
 Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grade continua alinhada. Nunca mais que 4. Uma prova por painel, com tabela e mapa contando como prova. Os blocos ficam alinhados, e nada entra "onde sobrou espaço".
 
-## 4. Agora procure a ligação (profundidade)
+## 4. Dê profundidade ao slide, com uma peça
 
-Olhe as frases do passo 1: alguma abre um número de outra? Se sim, e só se sim, desenhe **uma** peça entre os dois painéis. O conteúdo já existe dos dois lados: a peça só mostra a relação.
+Slide totalmente plano sai sem sal: tiramos a dobra de um slide bom, e ele foi reprovado por isso. No modo visual rico, todo slide de conteúdo leva **uma** peça discreta. Olhe as frases do passo 1 e escolha:
+
+1. **Um número de uma frase abre em outra?** Use a cunha. É a melhor opção: mostra o que há dentro do número.
+2. **Duas frases só se respondem, sem número em comum?** Use a dobra entre os dois painéis mais ligados, com os dois em cinza quase branco. O dono gosta dela, mesmo sem dado abrindo em dado.
+3. **Etapas ou degraus?** Use o sólido, com o conteúdo dentro.
+
+Nunca invente uma relação de número que não existe: a cunha exige número dos dois lados.
 
 | Peça | Como é feita | Exemplo |
 |---|---|---|
@@ -52,7 +58,7 @@ Olhe as frases do passo 1: alguma abre um número de outra? Se sim, e só se sim
 
 **A cunha encosta no dado.** A ponta estreita tem a altura exata da barra, do topo até o eixo, sem vão e sem passar do eixo. A caixa do gráfico não dá essa posição: exporte, rode `scripts/medir_slide.py` no seu próprio PDF, pegue o retângulo da barra pela cor e reconstrua. Depois olhe a junção ampliada, a 300 dpi.
 
-**A peça é discreta.** Cinza claro ou tom claro da origem, nunca cor cheia em área grande, e pequena perto dos painéis que liga. Ela não pode ser o que mais chama atenção no slide. Sem relação no conteúdo, o slide fica sem peça.
+**A peça é discreta.** Cinza claro ou tom claro da origem, nunca cor cheia em área grande, e pequena perto dos painéis que liga. Ela não pode ser o que mais chama atenção no slide. No modo sóbrio, o slide pode ficar sem peça.
 
 ## 5. Use imagem real quando o assunto é uma coisa
 

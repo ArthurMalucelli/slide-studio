@@ -49,8 +49,8 @@ Se a pasta de trabalho já tem `deck_prefs.json`, use-o e só confirme numa linh
    - "Não (padrão)";
    - "Sim, quando fizer sentido".
 6. **Nível visual:**
-   - "Rico (padrão)": busca um protagonista quando o conteúdo tem relação;
-   - "Sóbrio": sem protagonista, salvo pedido.
+   - "Rico (padrão)": uma peça de profundidade discreta em todo slide de conteúdo;
+   - "Sóbrio": sem peça, salvo pedido.
 
 Grave em `deck_prefs.json`, na pasta de trabalho, junto com qualquer override de paleta ou fonte que o usuário pedir:
 ```json

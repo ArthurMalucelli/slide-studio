@@ -4,9 +4,9 @@ São regras aprendidas em decks reais de equity research, com feedback de quem a
 
 ## A regra central: nada aparece do nada
 
-Como montar: `RECEITA.md`. Profundidade não é enfeite nem cota. Ela existe porque o conteúdo tem uma relação: um dado que abre em outro, camadas reais, uma sequência. Sem relação, o slide fica plano e limpo. **Slide plano e bem composto é melhor que slide enfeitado.**
+Como montar: `RECEITA.md`. O dono reprova os dois extremos: peça forte "do nada" e slide totalmente plano, "sem sal". Por isso, uma peça por slide, discreta e presa ao conteúdo. A dobra em cinza claro entre dois painéis ligados vale sem número em comum.
 
-Toda peça de profundidade precisa passar nos 4 testes. Se falhar em um, ela sai:
+Cunha e sólido precisam passar nos 4 testes. Se falharem em um, troque pela dobra:
 
 | Teste | Passa | Reprovado |
 |---|---|---|
@@ -67,7 +67,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 
 ## Aprovado pelo dono do deck
 
-**Membership da rodada 9, feito só pela receita (117 palavras, 33 dados):** "ficou bem melhor" e "isso aqui tá bem legal", sobre a cunha que abre a última coluna na ponte por sócio, depois de corrigir a junção. Primeiro slide aprovado sem copiar modelo: painel largo em cima e 3 embaixo, com um gráfico de cada tipo.
+**Membership da rodada 9, feito só pela receita (106 palavras, 33 dados):** "tá legal", com a cunha que abre a última coluna na ponte por sócio, encostada na barra. Primeiro slide aprovado sem copiar modelo: painel largo em cima e 3 embaixo, com um gráfico de cada tipo.
 
 **Grade 2×2 regular com 4 provas (teste com dados da Sabesp p.18):** primeiro slide inteiro aprovado depois de seis rodadas ("tá legal, mas dava para ter mais coisa de profundidade"). Não é para copiar: é o resultado dos passos 2 e 3 de `RECEITA.md`.
 
@@ -75,7 +75,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 
 **Cunha que sai da barra empilhada e abre em cartões com dado:** cada segmento da última barra abre, na cor dele e colado nele, num cartão com a altura proporcional, com os valores do segmento dentro (`beam_from_mark`). O dono gostou: um número abrindo no que há dentro dele.
 
-**Dobra (Sabesp p.13):** dois painéis cinza em planos diferentes, ligados por um trapézio escuro (`dobra`). O 3D foi aprovado; o conteúdo só de rótulos foi reprovado. Dentro, tem de haver dado.
+**Dobra (Sabesp p.13, ChallengeB p.7):** dois painéis cinza em planos diferentes, ligados por uma faixa ou trapézio (`dobra`). O 3D foi aprovado; o conteúdo só de rótulos foi reprovado. Dentro, tem de haver dado. Ao tirá-la de um slide, ele foi reprovado: "tirou a profundidade, ficou meio sem sal".
 
 **Ideias aprovadas, sem execução aprovada até agora:** barra de decomposição abrindo em painéis e diagrama fornecedor → empresa → cliente. Cada uma já tomou duas reprovações na execução; não as use como protagonista sem pedido.
 

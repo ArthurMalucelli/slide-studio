@@ -179,7 +179,7 @@ Na primeira vez do deck, responda as preferências, que ficam em `deck_prefs.jso
 | Números grandes | não, sim | não |
 | Nível visual | rico, sóbrio | rico |
 
-No modo **rico**, o designer busca um protagonista quando o conteúdo tem uma relação. Sem relação, o slide fica plano e ele avisa o que faltaria no roteiro.
+No modo **rico**, todo slide de conteúdo leva uma peça de profundidade discreta: uma cunha quando um número abre em outro, ou uma dobra entre dois painéis ligados.
 
 **3. Ajuste em português normal**
 
@@ -198,8 +198,9 @@ Vieram de decks reais e de revisões de quem apresentou. Estão em [`RULES.md`](
 - Sem bloco de notas na face do slide: as ressalvas vão para as notas do apresentador.
 - Sem colunas de texto coladas no gráfico.
 - Nunca gráfico de barras com só duas barras, nem linha com marcador nos pontos.
-- Nada aparece do nada: toda peça sai de um dado real, expande esse dado e muda o que o leitor entende.
-- No máximo um protagonista por slide.
+- Nada aparece do nada: a peça de profundidade fica presa ao conteúdo e é discreta.
+- Uma peça por slide: nem peça forte solta, nem slide totalmente plano.
+- Até ~130 palavras e 50 dados por slide.
 - Rodapé sempre `Sources: Company Data, Group Calculations.`
 - Data label em um único estilo.
 - Cor com significado fixo e um único destaque por painel.
