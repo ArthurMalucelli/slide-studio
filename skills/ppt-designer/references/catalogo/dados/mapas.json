@@ -1,0 +1,958 @@
+[
+ {
+  "element": "Dark-slide outline map with glowing corridor states and two-sided orthogonal leaders",
+  "category": "map",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   24
+  ],
+  "crop": "m_dark_outline_glow_leaders.png",
+  "quality": 3,
+  "what_it_does": "Turns a logistics footprint into the whole slide, with eight assets labelled around a map that stays readable on navy.",
+  "how_built": "Geography: Brazil by state, full slide. Colour: navy gradient background; all states no fill with white hairline outline; only MG/SP/RJ and RS filled with a blue gradient that brightens at the centre. Labels: outside the map, five on the right and three on the left, bold white name plus grey one-line spec. Overlays: white freeform rail lines; 1 pt bright-blue elbow connectors running only horizontal and vertical, ending in a small arrow at the label; framed KPI box top left with numbered circles. Order: background, state outlines, active fills, rail, connectors, labels, KPI box. Collision control: all text is off the map and leaders never cross.",
+  "use_for": "Logistics or asset footprint as a showpiece slide; a change of pace in a light deck.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Per-country black-to-red gradient map with plant dots, under an active tab bar",
+  "category": "map",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   26
+  ],
+  "crop": "m_europe_gradient_plants_tabs.png",
+  "quality": 3,
+  "what_it_does": "Shows a regional network with the two target assets lifted out of an otherwise dark, dense field.",
+  "how_built": "Geography: Europe by country, cut to the network. Colour: each country its own black-to-red diagonal gradient with white borders; the target countries (Germany, Portugal) in a lighter rose so they read first. Overlays: red dots for network, black for recycling, blue with white ring for target assets; thin elbow rule from each target to a label of name, capacity, type. Legend: one horizontal row above the map. Tabs above: three dark gradient bars; active tab has a dashed red double frame. Order: tabs, legend, countries, highlights, dots, leaders, labels. Labels sit in the white margin off the map.",
+  "use_for": "Target or acquisition assets inside a wider network; multi-asset sections needing navigation.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Map between chamfered gradient panels with rail network",
+  "category": "map",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   23
+  ],
+  "crop": "m_chamfer_panels_rail_map.png",
+  "quality": 3,
+  "what_it_does": "Makes the map the hinge of the slide, joining an acquisition history on the left to the rationale on the right.",
+  "how_built": "Geography: Brazil by state in very pale grey with white borders. Panels: left and right rosy-grey-to-white gradient shapes whose inner edges are cut diagonally around the map, leaving a hexagonal opening; solid dark-red triangles on the diagonal seams give depth. Overlays: thin dark-red freeform rail lines, dark-red plant dots clustered in the Southeast; large red '27 units' and KPI text at the base. Left panel: year-stamped rows of target logo, swap arrows, acquirer logo, one-line rationale. Right panel: rationale bullets plus a browser-chrome news card. Order: panels, triangles, map, lines, dots, text.",
+  "use_for": "Serial M&A or footprint build-up told as history, map and thesis on one slide.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Funnel wedge from map to colour-keyed cluster bars",
+  "category": "map",
+  "deck": "3R Petroleum",
+  "pages": [
+   19
+  ],
+  "crop": "m_funnel_wedge_clusters.png",
+  "quality": 3,
+  "what_it_does": "Zooms geography into portfolio, so each coloured state becomes a labelled bar that continues into a reserves donut.",
+  "how_built": "Geography: Brazil by state in 4-5 greys; only cluster states take the brand colours (navy, green, dark teal). Wedge: solid green triangle, apex at the map's east edge and base at the full panel height, gradient running to grey at the apex. Panel: light grey rectangle behind three stacked bars, one per cluster, each with a darker skewed parallelogram on its right so it looks folded; donut in the same colours and a dashed total box to the right. Order: panel, wedge, map, bars, donut. No labels on the map; colour is the only key.",
+  "use_for": "Portfolio or segment breakdown tied to geography; historical overview above a timeline.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Grey wedge from map into a funnel, with region values",
+  "category": "map",
+  "deck": "Nubank",
+  "pages": [
+   13
+  ],
+  "crop": "m_region_values_wedge_funnel.png",
+  "quality": 3,
+  "what_it_does": "Narrows a national population map down to the addressable market in one reading motion.",
+  "how_built": "Geography: Brazil by state lines, filled by 5-region purple ramp, Northeast darkest. Labels: bold value on each region, white on dark and dark on light. Wedge: grey gradient shape from the map's east edge opening right, fading to white. Funnel: five lilac blocks of shrinking width, each with an italic label and bold number. Order: wedge, map, region values, funnel. Values sit on large regions, so no leaders are needed.",
+  "use_for": "TAM funnels with regional context.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Region-tint map with white pins and dashed count leaders",
+  "category": "map",
+  "deck": "RD Saude",
+  "pages": [
+   25
+  ],
+  "crop": "m_region_tint_pins_dashed_counts.png",
+  "quality": 3,
+  "what_it_does": "Reports store count by region with no legend, because each number takes its region's colour.",
+  "how_built": "Geography: Brazil by state, grouped into 5 regions, each a different green, Southeast darkest. Overlays: one white teardrop pin per state. Labels: bold store count outside the map in the region's own colour, joined by a dashed horizontal leader. Left: dashed-frame fact box. Right: pale grey panel with a diagonal edge starting at the map, holding before/after bar pairs. Order: panel, map, pins, leaders, labels.",
+  "use_for": "Capillarity or footprint where the regional total is the message.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Coloured wedge drill-down holding a map copy",
+  "category": "map",
+  "deck": "RD Saude",
+  "pages": [
+   39
+  ],
+  "crop": "m_wedge_drilldown_map.png",
+  "quality": 2,
+  "what_it_does": "Links one stack segment of a revenue chart to a detail panel that reuses the footprint map as evidence.",
+  "how_built": "Base: stacked column chart with the e-commerce series in teal and the rest pale grey. Wedge: solid teal shape from that segment opening right into a teal-framed panel. Panel: bars, bold takeaway, then a reduced copy of the region-tint map joined by a dotted frame and stem. Order: chart, wedge, panel, inner content.",
+  "use_for": "Revenue build-ups where one line depends on physical footprint.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Mini region-tint map in a card",
+  "category": "map",
+  "deck": "RD Saude",
+  "pages": [
+   2
+  ],
+  "crop": "m_mini_region_tint_card.png",
+  "quality": 2,
+  "what_it_does": "Compresses the footprint for an at-a-glance card without dropping the regional counts.",
+  "how_built": "Same recipe as the region-tint map at about a third of the size: 5 green regions, white pins, dashed leaders to counts in region colour, and a dark-green chip with total stores and distribution centres at bottom left. Sits in a framed card with a green top rule.",
+  "use_for": "At-a-glance slides.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Small-multiple maps in each competitor's brand hue",
+  "category": "map",
+  "deck": "RD Saude",
+  "pages": [
+   11
+  ],
+  "crop": "m_triptych_brand_maps.png",
+  "quality": 3,
+  "what_it_does": "Compares regional strength across chains side by side using nothing but each brand's own colour ramp.",
+  "how_built": "Geography: three identical Brazil maps by state or region. Colour: each map uses one chain's hue, strongest where the chain is strongest (coral with a red Northeast; mint with a dark Southeast; grey with a blue South). Labels: logo centred above each map; rounded chip with total stores at its bottom left, in the same hue. Bars below reuse the hues. Order: logo, map, chip.",
+  "use_for": "Competitive footprint comparison.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Twin state choropleths with counts and independent scales",
+  "category": "map",
+  "deck": "BTG Pactual",
+  "pages": [
+   87
+  ],
+  "crop": "m_twin_state_counts.png",
+  "quality": 3,
+  "what_it_does": "Compares two firms' office networks with the actual number printed on every state.",
+  "how_built": "Geography: two Brazil state maps, BTG and XP. Colour: grey for zero, pale blue to strong teal for count. Labels: integer centred on each state with at least one office, and a small title above each map. Legend: thin vertical gradient bar beside each map, labelled max and 1. Each map has its own scale (60 vs 302), which fits footprint shape but not absolute size, so state that next to the slide. Rebuild: Excel or PowerPoint filled-map chart, whose 'Powered by Bing' credit stays visible, or freeform states.",
+  "use_for": "Footprint contrast between two companies.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Twin choropleths with dashed min/max leaders and icon rail",
+  "category": "map",
+  "deck": "Sabesp",
+  "pages": [
+   3
+  ],
+  "crop": "m_twin_dashed_minmax_icon_rail.png",
+  "quality": 3,
+  "what_it_does": "Shows two indicators by state, then ties them to the regulatory regimes below.",
+  "how_built": "Geography: two Brazil state maps in a blue ramp. Labels: only best and worst values, bold italic, on dashed curved leaders. Legend: one shared horizontal gradient bar between the maps, 0% to 100%. Overlays: cyan stems drop from each map's base with a small cap into a pale-cyan panel holding three diamond icons on a horizontal rail with captions. Order: panel, rail, maps, leaders, values, legend, stems.",
+  "use_for": "Paired indicators where only the extremes matter.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Silhouette with radial glow gradient and route lines",
+  "category": "map",
+  "deck": "Alupar",
+  "pages": [
+   13,
+   14,
+   17,
+   18
+  ],
+  "crop": "m_gradient_silhouette_route.png",
+  "quality": 3,
+  "what_it_does": "Gives a plain country outline drama with one gradient and thin route lines, leaving the data card to carry the numbers.",
+  "how_built": "Geography: one country as a single shape, no internal borders (Peru, Colombia). Colour: radial gradient, royal blue centre to near-black navy edge. Overlays: thin blue-to-cyan polylines with small ring nodes for each transmission route; tiny legend of line swatches at bottom left; Python logo floating top left to flag analysis. Order: silhouette, routes, nodes, legend. Paired with a framed term-sheet card on the right. Page 18 uses a small variant.",
+  "use_for": "Single-project or single-country pages; repeatable project template.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Dense route network with dashed cluster ellipses",
+  "category": "map",
+  "deck": "Alupar",
+  "pages": [
+   12
+  ],
+  "crop": "m_network_dashed_ellipses.png",
+  "quality": 3,
+  "what_it_does": "Shows a whole country's transmission network and uses thin dashed ellipses to group it into the areas that matter, with no labels on the map.",
+  "how_built": "Geography: Peru as one shape, radial gradient from royal blue centre to near-black navy edge. Overlays: many thin cyan-to-white polylines with small ring nodes, voltage legend of line swatches at lower left, dark dashed ellipses drawn around 4 clusters, Python logo floating top left. Container: pale-blue gradient panel with a blue border, KPI row and two underlined plan headings on top. Order: panel, silhouette, lines, nodes, ellipses, legend.",
+  "use_for": "Grouping a dense network into regions.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Map clipped by a card, with long rule labels",
+  "category": "map",
+  "deck": "Alupar",
+  "pages": [
+   3
+  ],
+  "crop": "m_map_clipped_rule_labels.png",
+  "quality": 2,
+  "what_it_does": "Uses a cropped map as a backdrop for three business lines instead of as a data display.",
+  "how_built": "Geography: east half of Brazil in navy gradient, the rest hidden behind the white company card that sits in front. Overlays: white squiggle freeforms for lines. Labels: three bold-italic headings, each on a long navy rule starting at the map and ending in a small marker, with a grey sub-line underneath. Order: map, white lines, card in front, rules, labels.",
+  "use_for": "Company overview where the map is texture.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Black-to-red cutout with dashed leaders to logo rows",
+  "category": "map",
+  "deck": "Cosan",
+  "pages": [
+   8
+  ],
+  "crop": "m_gradient_cutout_logo_rows.png",
+  "quality": 3,
+  "what_it_does": "Assigns each concession to its state and reads like a table, because every leader ends in an aligned row.",
+  "how_built": "Geography: only the served coastal and southern states, cut out and enlarged. Colour: black-to-red gradient per state with white borders. Labels: right column of 7 rows, each a logo, share %, vertical rule, volume in mm/day; underlined column header 'Volume m3'. Leaders: black dashed elbow connectors from state to logo, staggered so they don't cross. Order: map, connectors, logos, numbers.",
+  "use_for": "Concessions, subsidiaries or brands by territory with a metric per row.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Active states with dashed leaders to logos and a bracket",
+  "category": "map",
+  "deck": "Rede D'Or",
+  "pages": [
+   17
+  ],
+  "crop": "m_logo_leaders_bracket.png",
+  "quality": 2,
+  "what_it_does": "Shows that local brands were kept by placing each logo beside its state.",
+  "how_built": "Geography: Brazil by state; inactive states in 3-4 greys, active states navy. Labels: logos in a vertical right-hand column. Leaders: thin dashed horizontal lines from state to logo, then a dashed bracket from the column to the explanatory text. Order: map, leaders, logos, bracket.",
+  "use_for": "Multi-brand or acquisition strategies by region.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Mini active-state map, reused as a template",
+  "category": "map",
+  "deck": "Rede D'Or",
+  "pages": [
+   8,
+   9
+  ],
+  "crop": "m_active_states_mini.png",
+  "quality": 2,
+  "what_it_does": "Marks where a company operates at a glance, and the same layout on the next page makes target and acquired company directly comparable.",
+  "how_built": "Geography: Brazil by state, inactive greys, active navy, no labels. Sits in a light grey tile under a numbered heading with a navy rule. Page 9 repeats the layout with the acquired company's states.",
+  "use_for": "Paired company profiles in M&A decks.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Silhouette on a 100% share bar with stems",
+  "category": "map",
+  "deck": "Cury Construtora",
+  "pages": [
+   13
+  ],
+  "crop": "m_state_on_share_bar.png",
+  "quality": 3,
+  "what_it_does": "Connects a stacked share bar physically to the geography it splits.",
+  "how_built": "Geography: Sao Paulo and Rio de Janeiro joined as one shape in a blue gradient with darker edge and soft shadow. Below: horizontal 100% bar, SP 72% and RJ 28%, in two blues. Overlays: thin vertical stems with a small foot rising from each segment into the map. Order: bar, stems, map. Labels live inside the bar, so the map stays clean.",
+  "use_for": "Regional allocation of a landbank or asset base.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Per-state gradient with owner dot clusters and bleeding plates",
+  "category": "map",
+  "deck": "Cury Construtora",
+  "pages": [
+   24
+  ],
+  "crop": "m_gradient_dot_clusters_plates.png",
+  "quality": 2,
+  "what_it_does": "Compares two players' locations in metro clusters while KPIs and a table share the same space.",
+  "how_built": "Geography: Brazil by state, navy in the north to mid blue in the south, white borders. Overlays: dark dots vs bright blue dots packed tightly at each metro; legend pair on top. Plates: three translucent pale-blue rectangles bleeding off the right edge over the map. Table: small framed region table overlapping lower left. Order: map, dots, table, plates.",
+  "use_for": "Peer footprint where KPIs must sit on the map.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Tier choropleth and table in one tile, with dashed callout",
+  "category": "map",
+  "deck": "Cury Construtora",
+  "pages": [
+   7
+  ],
+  "crop": "m_tier_choropleth_table_tile.png",
+  "quality": 2,
+  "what_it_does": "Pairs a regional map with its numbers and calls out the one concentration that matters.",
+  "how_built": "Geography: Brazil by state in 4-5 blues, darkest in the Southeast. Container: pale-blue tile with thin border holding both the map and a borderless table. Callout: dashed elbow from SP/RJ to a small dashed box with the takeaway. Order: tile, map, table, callout.",
+  "use_for": "Market concentration by region.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "State filled with its own flag, plus dashed bracket",
+  "category": "map",
+  "deck": "Intelbras",
+  "pages": [
+   17
+  ],
+  "crop": "m_flag_filled_state_bracket.png",
+  "quality": 1,
+  "what_it_does": "Turns a small supporting stat into a memorable mark by filling the state with its flag.",
+  "how_built": "Geography: Sao Paulo state as one shape. Fill: the actual state flag clipped to the shape (rebuild with a picture fill or Merge Shapes). Overlays: green dashed bracket from the sigma label to a dashed rounded note. Order: flag shape, bracket, note. This is a decorative choice and suits one small panel only.",
+  "use_for": "Small local-market panel.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Three-tier choropleth with legend squares",
+  "category": "map",
+  "deck": "Intelbras",
+  "pages": [
+   2
+  ],
+  "crop": "m_three_tier_legend_squares.png",
+  "quality": 2,
+  "what_it_does": "Shows service-centre density in three classes at very small size, without a label on the map.",
+  "how_built": "Geography: Brazil by state, three brand tiers (dark green, mid green, pale yellow-green). Legend: a row of three squares with class ranges underneath. No leaders. Sits in a column between a dashed text box and a framed KPI list with diamond bullets.",
+  "use_for": "At-a-glance slides.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Staggered street-map zoom pair with heat overlay on a folded panel",
+  "category": "map",
+  "deck": "Intelbras",
+  "pages": [
+   9
+  ],
+  "crop": "m_staggered_raster_heat_fold.png",
+  "quality": 3,
+  "what_it_does": "Goes from metro to city in two overlapping maps, showing primary location data rather than a generic footprint.",
+  "how_built": "Geography: real road-map rasters, metro and city. Heat: Google API heat map, blue through green and yellow to red, generated in code and captured as an image. Overlays: star markers for rivals with a small legend; framed label boxes with a diamond-end rule pointing at each map; green dashed callout overlapping the corner. Container: pale grey panel with a chamfered 3D fold into a second panel with KPIs and a dark code screenshot with Python logo. Order: panel, metro raster, city raster offset down-right, stars, labels, callout.",
+  "use_for": "Proprietary spatial analysis of distribution density.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Raster heatmap pair in a navy frame",
+  "category": "map",
+  "deck": "Mercado Libre",
+  "pages": [
+   14,
+   85
+  ],
+  "crop": "m_raster_heat_frame.png",
+  "quality": 2,
+  "what_it_does": "Presents the team's own distribution-centre analysis as a framed exhibit next to an executive quote.",
+  "how_built": "Geography: two road-map rasters (southeast South America, Mexico) with pale-blue sea. Heat: blue through green to red blobs. Overlays: red teardrop pins on key cities, dark grey label plates beside them. Container: navy rounded rectangle bleeding off the slide edge, with an italic white caption, short rule and white Python tile. Order: frame, rasters, heat, pins, plates, caption.",
+  "use_for": "Logistics coverage, especially with interviews.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Street-map popup with pin legend on a trapezoid connector",
+  "category": "map",
+  "deck": "RD Saude",
+  "pages": [
+   14,
+   15
+  ],
+  "crop": "m_street_popup_trapezoid_legend.png",
+  "quality": 3,
+  "what_it_does": "Shows local competition at street level as a zoom-in that sits on top of the dimmed parent slide.",
+  "how_built": "Geography: real neighbourhood street raster in a green dashed frame. Overlays: teardrop pins by chain (about 45 on p14 in four colours; p15 turns small drugstores black). Legend: green dashed box on the left with coloured pins and chain names in matching colour, joined to the map by a grey trapezoid with dashed green edges. Callout: dashed box at right on p15. Popup: parent slide copied and dimmed under a white shadowed card. Order: dimmed slide, card, connector, raster, pins, legend.",
+  "use_for": "Field research on local competition.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Terrain tile on a plinth with dotted leaders into a chart",
+  "category": "map",
+  "deck": "Sabesp",
+  "pages": [
+   33
+  ],
+  "crop": "m_terrain_tile_plinth_leaders.png",
+  "quality": 3,
+  "what_it_does": "Explains an operating conflict by physically linking places on a real map to the chart series below.",
+  "how_built": "Geography: real road and terrain raster of the reservoir system. Overlays: red and navy teardrop pins with bold place names, red dotted distance line labelled 9.32 km, small white note box on the map, pin legend row above. Container: grey panel with a trapezoid plinth narrowing down to a chart. Leaders: dotted blue lines from the pins to each series' legend entry. Order: panel, raster, pins, distance line, plinth, chart, leaders.",
+  "use_for": "Single-asset case studies.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Phased rollout map with status chips and ranked bars",
+  "category": "map",
+  "deck": "Vasta",
+  "pages": [
+   23
+  ],
+  "crop": "m_phased_rollout_card.png",
+  "quality": 3,
+  "what_it_does": "Sequences market entry in one view, with phase on the map and the score ranking beside it in the same order.",
+  "how_built": "Geography: pale coast shape, sea white, in a rounded card, with italic region name, compass and scale bar. Overlays: magenta pin (entry), magenta dots (pilot), lilac dot (M&A), dark pin (second wave), dotted arc from first to last. Labels: bold city plus coloured status chip, set to the right of each point in a loose column. Beside it: numbered round badges and bars in matching colours, then a table. Order: card, basemap, arc, points, labels, ranking.",
+  "use_for": "Expansion roadmaps.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Neighbourhood thumbnails with polygon and rent",
+  "category": "map",
+  "deck": "Vasta",
+  "pages": [
+   23
+  ],
+  "crop": "m_neighbourhood_polygon_thumbs.png",
+  "quality": 2,
+  "what_it_does": "Backs the city choice with micro-location evidence, repeated as three uniform cards.",
+  "how_built": "Geography: pale street raster for each neighbourhood. Overlays: magenta pin and translucent pink polygon. Beside each: city chip, neighbourhood name, dotted rule, big R$ number per m2 per month. Three equal cards in a rounded container with a coloured heading.",
+  "use_for": "Micro-location or real-estate evidence.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Five-region ramp with values outside in matching tint",
+  "category": "map",
+  "deck": "Vasta",
+  "pages": [
+   27
+  ],
+  "crop": "m_region_ramp_outside_values.png",
+  "quality": 2,
+  "what_it_does": "Labels regions with no leaders by colour-matching each number to its region.",
+  "how_built": "Geography: Brazil in 5 regions, violet ramp, Northeast darkest, white borders. Labels: bold percentage placed just outside each region in that region's tint, even when the tint is pale. Caption in italics at top. Thin line runs from the map to the neighbouring panel.",
+  "use_for": "Regional split in a compact space.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Pale map in a tinted tile with two-owner dots",
+  "category": "map",
+  "deck": "Vibra",
+  "pages": [
+   17
+  ],
+  "crop": "m_tile_two_owner_dots.png",
+  "quality": 2,
+  "what_it_does": "Shows the combined portfolio's plants by owner in a before/after table layout.",
+  "how_built": "Geography: Brazil and neighbours in pale grey, no emphasis. Container: pale-green tile holding both map and table. Overlays: bright green vs black dots, legend box top left. Pre-Deal and Pro Forma tags on the boundary between map and table. Order: tile, map, dots, legend, table.",
+  "use_for": "Pro forma portfolio after a merger.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Dot density with no outline",
+  "category": "map",
+  "deck": "Vibra",
+  "pages": [
+   23
+  ],
+  "crop": "m_dot_density_no_outline.png",
+  "quality": 2,
+  "what_it_does": "Lets several thousand stations draw the country on their own.",
+  "how_built": "Geography: none drawn; the outline emerges from the points. Overlays: small dark-green dots for one network, pale dots for the other, legend box lower left; green-framed text and data cards overlap the empty east. Rebuild: scatter of lat/lon in code exported as transparent PNG or SVG.",
+  "use_for": "Very dense networks such as stations or stores.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "World crop bleeding off the slide with dashed selection box",
+  "category": "map",
+  "deck": "Vibra",
+  "pages": [
+   26
+  ],
+  "crop": "m_world_crop_selection_bleed.png",
+  "quality": 1,
+  "what_it_does": "Points to the international assets being sold using a small, cut-off map rather than a full panel.",
+  "how_built": "Geography: world crop cut by the right edge of the slide. Colour: USA bright green, Brazil dark green, rest pale grey. Overlays: dashed green box running across the top of the map from the USA toward Europe, thin rule from the table to the box. Order: map, box, rule.",
+  "use_for": "Small supporting geography beside a table.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Map breaking out of a card, with KPI strips over it",
+  "category": "map",
+  "deck": "Vibra",
+  "pages": [
+   27
+  ],
+  "crop": "m_map_breaks_card_kpi_strips.png",
+  "quality": 2,
+  "what_it_does": "Adds energy to an A + B = C layout by letting the map escape the card frame.",
+  "how_built": "Geography: Brazil in grey with white state lines, overlapping the card's left edge and crossing the footer rule. Overlays: tiny markers for factories and distribution centres in two colours, legend box. KPI strips: pale translucent rows with big green numbers, overlapping the map's east side. Order: card, map, markers, strips.",
+  "use_for": "Merger result summaries.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Municipal choropleth pair breaking out of a grey panel",
+  "category": "map",
+  "deck": "Sabesp",
+  "pages": [
+   24,
+   25
+  ],
+  "crop": "m_municipal_pair_panel_breakout.png",
+  "quality": 3,
+  "what_it_does": "Shows two municipal variables stacked so the viewer sees the same places light up, ahead of the regression that proves it.",
+  "how_built": "Geography: Sao Paulo state by municipality. Colour: about 8 blue classes plus pale grey for not operated. Container: grey panel with shadow; the map rises out of its top right. Inside the panel: small swatch legend and a bold insight sentence; Python badge at the corner. Stacked twice, with a regression scatter (R2 and p-value boxes) on p24 and a torn-paper news clip on p25. Municipal shapes need GeoJSON and code or a filled-map chart, exported as SVG for editing.",
+  "use_for": "Proving a geographic correlation.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Adjacency-tier municipal map",
+  "category": "map",
+  "deck": "Sabesp",
+  "pages": [
+   34
+  ],
+  "crop": "m_adjacency_tiers_breakout.png",
+  "quality": 2,
+  "what_it_does": "Maps network proximity, in tiers by how many municipalities away each one is, to argue the expansion is contiguous.",
+  "how_built": "Geography: Sao Paulo state by municipality. Colour: navy for the existing network, cyan shades by distance from it, grey for others. Same panel breakout as the municipal pair, with a swatch legend and a bold sentence.",
+  "use_for": "Adjacent expansion theses.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Municipal footprint with corner chips",
+  "category": "map",
+  "deck": "Sabesp",
+  "pages": [
+   2
+  ],
+  "crop": "m_municipal_footprint_chips.png",
+  "quality": 2,
+  "what_it_does": "Shows a concession footprint at municipal detail with two headline numbers tucked into the empty corners.",
+  "how_built": "Geography: Sao Paulo state by municipality; served in bright cyan, unserved in grey. Container: grey card with a dark right and bottom bar. Overlays: two cyan rounded chips (375 cities, 58% coverage) at the lower corners.",
+  "use_for": "At-a-glance for regional concessions.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Map, grey wedge and bold state letter into block bars",
+  "category": "map",
+  "deck": "Sabesp",
+  "pages": [
+   7
+  ],
+  "crop": "m_wedge_state_to_blocks.png",
+  "quality": 2,
+  "what_it_does": "Moves from national concession blocks into the blocks inside one state.",
+  "how_built": "Geography: Brazil by state, cyan to navy, small vertical gradient legend. Connector: cyan dashed line from a framed text box to the map. Wedge: grey shape opening right from Sao Paulo, carrying a large bold 'SP'. Panel: horizontal bars by block with a cyan 'Unified' bracket. Order: panel, wedge, map, letter, bars.",
+  "use_for": "Regulatory or regional drill-downs.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Income contour map with sized pins",
+  "category": "map",
+  "deck": "Nubank",
+  "pages": [
+   25
+  ],
+  "crop": "m_smoothed_income_pins.png",
+  "quality": 3,
+  "what_it_does": "Overlays bank branches on income to show visually who the branches ignore.",
+  "how_built": "Geography: Mexico City with smoothed contours rather than administrative lines. Colour: lilac to deep purple. Overlays: black teardrop pins in 4 sizes by branch concentration; stacked pin-size legend; horizontal gradient bar 'Income level' with 5 ticks. Dark code card with lilac Python tile overlapping top right. Order: contours, pins, legends, code card. Contours need code output or GIS, inserted as an image; pins can stay native.",
+  "use_for": "Demand-vs-supply white space.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Staircase chips on hairline leaders",
+  "category": "map",
+  "deck": "Nubank",
+  "pages": [
+   23
+  ],
+  "crop": "m_staircase_pill_leaders.png",
+  "quality": 3,
+  "what_it_does": "Places each country's metrics in steps down the slide that follow the geography from Mexico to Brazil.",
+  "how_built": "Geography: Latin America, three active countries purple, rest pale grey, no borders emphasised. Labels: lilac rounded chips with 23'/25' and dark purple value pills, each moved down and right to match its country. Leaders: thin grey horizontal lines from country to chip. Flag-and-pill 'Deposits' card below. Order: map, leaders, chips, card.",
+  "use_for": "Few-country metrics over time.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Screening cards with flag and magnifier on hairline leaders",
+  "category": "map",
+  "deck": "Nubank",
+  "pages": [
+   44
+  ],
+  "crop": "m_screen_country_cards.png",
+  "quality": 2,
+  "what_it_does": "Explains why each market was rejected with a mini-card anchored directly on the country.",
+  "how_built": "Geography: Latin America, screened countries purple, rest grey. Cards: rounded pale grey, circular flag, name, magnifier icon, two friction lines with purple keywords. Leaders: thin grey straight lines. Cards sit in the Pacific and Atlantic, so nothing covers land. Filter pills top right.",
+  "use_for": "Market screening.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Map in a rounded panel with flag legend",
+  "category": "map",
+  "deck": "Nubank",
+  "pages": [
+   43
+  ],
+  "crop": "m_latam_panel_flag_legend.png",
+  "quality": 1,
+  "what_it_does": "A clean supporting map where flags replace both legend and labels.",
+  "how_built": "Geography: Latin America, active countries purple, rest pale grey. Container: huge rounded pale-grey panel bleeding right. Legend: flag rectangle and ~% rows at top right, in the empty Atlantic.",
+  "use_for": "Share by country beside a main chart.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Map at the base of a tabbed summary card",
+  "category": "map",
+  "deck": "Nubank",
+  "pages": [
+   2
+  ],
+  "crop": "m_latam_in_summary_card.png",
+  "quality": 2,
+  "what_it_does": "Fills the lower half of a text card with geography so the text block looks finished.",
+  "how_built": "Geography: Latin America, active countries purple, rest pale grey, no labels. Container: lilac card with rounded bottom, purple title tab with folded corners. Order: card, text, map.",
+  "use_for": "At-a-glance slides.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Ring-percent circles straddling the coast",
+  "category": "map",
+  "deck": "Mercado Libre",
+  "pages": [
+   2
+  ],
+  "crop": "m_latam_ring_percent.png",
+  "quality": 2,
+  "what_it_does": "Reads revenue share per country at once using oversized numbers placed just off the land.",
+  "how_built": "Geography: Latin America; Brazil near-black navy, Mexico and Argentina mid blues, rest pale lilac. Labels: white circles with black ring carrying the %, sitting on each country's coast. Grey text plate with a left rule and notch runs behind the southern cone. Order: plate, map, circles.",
+  "use_for": "Revenue by geography.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Gold-halo bubbles on a grey world",
+  "category": "map",
+  "deck": "Kering - Moncler",
+  "pages": [
+   8,
+   11,
+   15
+  ],
+  "crop": "m_gold_halo_bubbles_pair.png",
+  "quality": 2,
+  "what_it_does": "Puts a regional figure (revenue share on pp. 11 and 15, growth on p. 8) on a world map while staying inside a luxury palette of grey and gold.",
+  "how_built": "Geography: world in flat mid grey on off-white, no borders. Bubbles: dark grey circle sized by share, soft gold glow ring (Glow effect, about 8 pt), white % inside; very small values become a dot in a ring (p8). Labels: bold caps region under each bubble on p15, none on p11. Section header with rule above. Stacked twice on p15 for two brands. Print the % inside every bubble, because the size alone is hard to read.",
+  "use_for": "Regional revenue mix.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Mini-map coin selector",
+  "category": "map",
+  "deck": "3R Petroleum",
+  "pages": [
+   20,
+   21,
+   22
+  ],
+  "crop": "m_coin_selector.png",
+  "quality": 3,
+  "what_it_does": "Uses mini-maps as tabs: the active cluster stays in full colour and the others fade, so a repeated page shows where you are.",
+  "how_built": "Geography: Brazil by state inside a circle. Active: dark-green circle, pale map, active state bright green, solid arrow to bold cluster name. Inactive: pale sage circle, near-white map, pale arrow and faded label. Build all three, then swap the active style per page. Order: circle, map, highlight, arrow, label.",
+  "use_for": "Repeating a template across clusters, regions or projects.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Pills colour-keyed to states, no leaders",
+  "category": "map",
+  "deck": "3R Petroleum",
+  "pages": [
+   2
+  ],
+  "crop": "m_pill_chips_cluster_card.png",
+  "quality": 2,
+  "what_it_does": "Avoids all leader clutter by making the colour of the pill the only link to the state.",
+  "how_built": "Geography: Brazil by state in greys, 3 cluster areas in navy, green, dark teal. Labels: stacked rounded pills to the right, same colours, white text. Container: grey card with dark top rule and right shadow bar.",
+  "use_for": "At-a-glance with up to about 4 categories.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Diamond markers with overlapping dark plates",
+  "category": "map",
+  "deck": "BTG Pactual",
+  "pages": [
+   120,
+   121
+  ],
+  "crop": "m_diamond_plates.png",
+  "quality": 2,
+  "what_it_does": "Attaches a compact mini-profile directly to each country, keeping it on the map instead of in a side table.",
+  "how_built": "Geography: South America; Brazil strong teal-blue, other countries pale blue tints or grey. Overlays: navy diamond on the country's coast, dark grey plate overlapping the land, white title, cyan subtitle. Plain sentence set beneath each plate on the white space. Order: map, plate, diamond in front.",
+  "use_for": "International entries with a date or licence.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Portrait leaders into a map",
+  "category": "map",
+  "deck": "BTG Pactual",
+  "pages": [
+   62
+  ],
+  "crop": "m_portrait_leader_map.png",
+  "quality": 3,
+  "what_it_does": "Credits primary research geographically by running a line from each interviewee's face to their country.",
+  "how_built": "Geography: Latin America; operating countries near-black navy, Brazil mid blue, rest grey. Left: circular portrait, name, role, italic date. Leaders: thin black line from a small diamond above the name straight to the country. Right: dark grey quote boxes with cyan emphasis. Order: map, leaders, portraits, text.",
+  "use_for": "Interview evidence by geography.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Flow arrows out of a highlighted country",
+  "category": "map",
+  "deck": "AB InBev",
+  "pages": [
+   35
+  ],
+  "crop": "m_flow_arrows_expansion.png",
+  "quality": 2,
+  "what_it_does": "Signals planned expansion with hand-drawn looking arrows, showing direction rather than data.",
+  "how_built": "Geography: Latin America by country in grey with white lines, Brazil solid yellow. Overlays: four black curved arrows from inside Brazil outward (Curved Connector or Scribble, with arrowhead); mascot icon on Brazil; thin grey elbow to a dashed box with chevron bullets; italic grey caption over the map. Order: map, highlight, arrows, icon, callout.",
+  "use_for": "Geographic expansion plans.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Coverage circles over a municipal silhouette",
+  "category": "map",
+  "deck": "AB InBev",
+  "pages": [
+   33
+  ],
+  "crop": "m_city_coverage_circles.png",
+  "quality": 2,
+  "what_it_does": "Documents field coverage with translucent circles beside the numbers and photos that prove the visits.",
+  "how_built": "Geography: one flat grey municipal shape, no internal lines. Overlays: 8 yellow circles at about 50-60% transparency in varied sizes, which get stronger where they overlap. Paired with a dashed-rule band of huge yellow numbers (27, 10+) and a store photo collage.",
+  "use_for": "Primary-research coverage.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Flat world fill with soft shadow",
+  "category": "map",
+  "deck": "AB InBev",
+  "pages": [
+   120
+  ],
+  "crop": "m_world_flat_fill_shadow.png",
+  "quality": 1,
+  "what_it_does": "Answers one question ('where?') at near full slide with no labels.",
+  "how_built": "Geography: world by country, no ocean. Colour: brand yellow vs white with hairline. Effect: soft grey outer shadow on the whole map group gives slight lift. Rebuild with a single SVG of country shapes.",
+  "use_for": "Appendix or ESG pages.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "World highlight with no labels",
+  "category": "map",
+  "deck": "AB InBev",
+  "pages": [
+   51
+  ],
+  "crop": "m_world_highlight_bees.png",
+  "quality": 1,
+  "what_it_does": "Shows platform presence in a small panel under an interview.",
+  "how_built": "Geography: world by country; yellow active on mid-grey with white lines. Small italic caption above. No legend or labels.",
+  "use_for": "Footprint in a secondary panel.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Mini world in a framed card",
+  "category": "map",
+  "deck": "AB InBev",
+  "pages": [
+   4
+  ],
+  "crop": "m_mini_world_card_footprint.png",
+  "quality": 1,
+  "what_it_does": "Fills one of three at-a-glance cards with a yellow-grey world above a volume area chart.",
+  "how_built": "Geography: world by country, yellow vs grey. Container: pale grey card with yellow top and bottom rule and a centred title on a dashed underline.",
+  "use_for": "At-a-glance slides.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Code card beside a dot map",
+  "category": "map",
+  "deck": "AB InBev",
+  "pages": [
+   124,
+   125
+  ],
+  "crop": "m_code_plus_dot_map_us.png",
+  "quality": 2,
+  "what_it_does": "Proves the data is self-collected by placing the Python script next to the plotted result.",
+  "how_built": "Geography: country by state or province in pale blue-grey with white lines (USA with Alaska and Hawaii insets; India). Overlays: orange dots, hundreds on p124 and about 20 larger ones on p125. Left: dark rounded code screenshot with syntax colours. Order: code card, base map, dots. Export the dots from code as a transparent image above a native map.",
+  "use_for": "Appendix evidence of proprietary data work.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "World score choropleth with hatched exclusion and overlapping criteria card",
+  "category": "map",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   38
+  ],
+  "crop": "m_world_score_hatched_criteria.png",
+  "quality": 3,
+  "what_it_does": "Shows a proprietary score worldwide, and hatching keeps the home market clearly out of the ranking rather than scored low.",
+  "how_built": "Geography: world by country. Colour: white through pink to deep red; grey for unscored; diagonal hatch (Pattern Fill) for North America. Legend: horizontal gradient bar Low-Medium-High with caption. Overlay: white rounded shadowed card with red square tiles numbered in roman numerals and a Python logo, covering the empty Pacific and part of North America. Order: map, hatch, legend, card.",
+  "use_for": "Market prioritisation scoring.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Stacked before/after dot maps beside stat cards",
+  "category": "map",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   21,
+   22
+  ],
+  "crop": "m_dot_map_before_after.png",
+  "quality": 3,
+  "what_it_does": "Shows store growth over time through density alone, with the number on the card and the pattern on the map.",
+  "how_built": "Geography: USA by state in very faint grey lines. Overlays: thousands of tiny dark-red dots, exported from code. Cards: white rounded shadowed cards on the left with a red year and red counts, touching the map's west side; grey double chevron between the two rows. Order: map, dots, card.",
+  "use_for": "Unit growth over time.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Faint province map with proportional dots under a KPI card",
+  "category": "map",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   32
+  ],
+  "crop": "m_canada_dots_kpi_card.png",
+  "quality": 2,
+  "what_it_does": "Shows white-space cities as a screening result, with the filter outcome stated in a strip above.",
+  "how_built": "Geography: Canada by province, faint outline only. Overlays: red circles of varying size along the populated south (the slide does not state the sizing variable). Card: white rounded shadow strip with 3 red KPI tiles and double chevrons, overlapping the top of the map, where there is no data. Above it: red question banner with Python badge and numbered criteria.",
+  "use_for": "City-level white-space screens.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Greyscale class map with dark table panel",
+  "category": "map",
+  "deck": "Meliuz",
+  "pages": [
+   106,
+   107
+  ],
+  "crop": "m_greyscale_classes_dark_table.png",
+  "quality": 2,
+  "what_it_does": "A sober accent-free map for backup data, where the dark table bleeding off the slide provides the weight.",
+  "how_built": "Geography: Brazil by state in 5 greys, top class (SP and RJ) black. Legend: dashed box at lower left in the empty Pacific side, 5 swatches. Right: dark charcoal panel bleeding off the edge holding a white-lined table and totals. Order: map, legend, panel.",
+  "use_for": "Appendix and data-heavy pages.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Translucent proportional city circles",
+  "category": "map",
+  "deck": "Meliuz",
+  "pages": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "crop": "m_proportional_city_bubbles.png",
+  "quality": 2,
+  "what_it_does": "Shows reach by city in a small card, with overlaps naturally darkening the dense Southeast.",
+  "how_built": "Geography: Brazil white with hairline state outlines. Overlays: pink circles at about 50% transparency sized by value. Card 02 of three numbered cards; pink KPIs under. On pp. 4-6 the same slide reveals one card at a time.",
+  "use_for": "Reach or penetration by city.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Brand-colour world with stacked numbers",
+  "category": "map",
+  "deck": "Meliuz",
+  "pages": [
+   88
+  ],
+  "crop": "m_world_brand_kpi_stack.png",
+  "quality": 2,
+  "what_it_does": "Gives a simple presence map character by placing three big numbers and the logo in empty ocean.",
+  "how_built": "Geography: world by country, orange active with thin borders, white land with thin dark outline. Labels: number-plus-word stack (44, 19, 9) at lower left; logo at lower right. No legend.",
+  "use_for": "Acquired-company or international presence.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Single-diagonal gradient corridor cutout",
+  "category": "map",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   30
+  ],
+  "crop": "m_corridor_cutout_red.png",
+  "quality": 2,
+  "what_it_does": "Cuts the country down to only the states of the rail corridor, so the map becomes the shape of the argument.",
+  "how_built": "Geography: only the corridor states, enlarged. Colour: dark red to near black. Overlays: white dashed rail freeform, red dots with dark ring, legend top left, red KPI text beside it. Tab bar with dashed active frame above.",
+  "use_for": "Regional infrastructure next to a valuation table.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Corridor zoom with thick brand-colour rail and dashed stems",
+  "category": "map",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   27
+  ],
+  "crop": "m_corridor_zoom_brand_rail.png",
+  "quality": 2,
+  "what_it_does": "Lets the subject company's own yellow take over the slide on a blue state cutout.",
+  "how_built": "Geography: southeastern states, active blue gradient, neighbours grey. Overlays: thick bright-yellow rail lines. Labels: three stacked corridor blocks (name in olive-yellow, characteristics, impact), joined to the rail by dashed grey vertical stems. Order: states, rail, stems, labels.",
+  "use_for": "Single-asset profiles in the asset's own branding.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Operating-states-only cutout with elbow labels",
+  "category": "map",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   6
+  ],
+  "crop": "m_states_only_elbow_labels.png",
+  "quality": 2,
+  "what_it_does": "Omits every irrelevant state so the shape itself says where the company operates.",
+  "how_built": "Geography: only operating states, navy, white borders, others absent. Overlays: blue dots with white ring. Labels: bold-italic blue plant name plus 2 spec lines with thin grey elbow leaders, all placed in the white space where the missing states would be.",
+  "use_for": "Industrial footprint with plant specs.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Full-bleed gradient band with highlighted countries",
+  "category": "map",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   11
+  ],
+  "crop": "m_band_panel_highlight_country.png",
+  "quality": 2,
+  "what_it_does": "Stages a regional map on a band that runs off the slide, with the two non-core countries bright against dark.",
+  "how_built": "Geography: Europe by country, navy gradient; Germany bright blue, Portugal mid blue. Container: pale-blue horizontal gradient band from the slide's left edge, with blue rule at bottom. Labels: plant name on a rule, blue capacity below, placed in the Atlantic and above.",
+  "use_for": "Non-core or target assets abroad.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Framed tile with asset-type dots and internal text",
+  "category": "map",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   16
+  ],
+  "crop": "m_framed_tile_asset_dots.png",
+  "quality": 2,
+  "what_it_does": "Combines map, legend and short explanatory lists in one framed exhibit above a production-chain strip.",
+  "how_built": "Geography: Brazil grey with white state lines, neighbours white with thin outline. Container: pale-blue gradient tile with navy left and bottom edge. Overlays: 3 dot types by asset type; legend box top right; two pale text panels in the Atlantic. Beneath: 3 chain boxes linked by pale bands.",
+  "use_for": "Asset base with a process explanation.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Grey world with per-country red gradient beside a treemap",
+  "category": "map",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   19
+  ],
+  "crop": "m_world_gradient_red.png",
+  "quality": 1,
+  "what_it_does": "Shows global footprint in a small panel, matching the reds of the adjacent regional treemap.",
+  "how_built": "Geography: world grey, active countries with a black-to-red gradient per shape. No labels. Treemap beside it uses the same reds.",
+  "use_for": "At-a-glance for global companies.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Aerial photo pair (reference, not a map)",
+  "category": "map",
+  "deck": "Cury Construtora",
+  "pages": [
+   14
+  ],
+  "crop": "m_aerial_photo_pair.png",
+  "quality": 1,
+  "what_it_does": "Compares two sites from above with captioned satellite-style images, the closest thing to a satellite map in the corpus.",
+  "how_built": "Two equal images side by side with a coloured title and grey caption beneath. Needs real imagery.",
+  "use_for": "Site-level comparisons.",
+  "needs_real_asset": true
+ }
+]

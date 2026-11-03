@@ -19,6 +19,7 @@ Leia antes do primeiro slide da sessão:
 - `references/RULES.md`: regras e preferências;
 - `references/COMPONENTS.md`: o que a biblioteca desenha e como;
 - `references/PITFALLS.md`: bugs do PowerPoint já resolvidos.
+- `references/catalogo/INDEX.md`: catálogo de mapas, profundidade, diagramas e elementos, com peças prontas.
 
 ## 0. Pedido de ajuste ("ajusta X", "muda Y")
 
@@ -84,7 +85,7 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
    - composição → rosca ou barra 100%;
    - geografia → `region_map`;
    - sequência → timeline/funil.
-5. **Procure onde cabe profundidade:** se o conteúdo tem camadas, segmentos, conclusão ou zoom em um dado, abra `references/PROFUNDIDADE.md`. Peça sólida só com o que o roteiro já diz.
+5. **Abra `references/catalogo/INDEX.md` e procure a peça que prova melhor cada claim:** mapa, profundidade, diagrama, dispositivo de dado, anotação, navegação ou evidência. São mais de 500 entradas e cerca de 270 peças prontas para copiar de `references/pecas_*.py`; em cada slide, considere ao menos 2 opções além de um gráfico simples. Compare a peça montada com o recorte de origem, lado a lado. Se a peça pede material real, peça ao usuário; nunca invente.
 6. **Escreva em 3–5 linhas o plano do layout** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
 
 ## 4. Build

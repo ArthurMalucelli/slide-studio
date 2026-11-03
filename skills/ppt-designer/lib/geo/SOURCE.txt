@@ -1,1 +1,3 @@
 Natural Earth 1:110m Admin 0 Countries (public domain, naturalearthdata.com), simplified 0.25°.
+
+countries_50m.json e admin1_50m.json: Natural Earth 1:50m (dominio publico), simplificados.

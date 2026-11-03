@@ -1,0 +1,2092 @@
+[
+ {
+  "technique": "Isometric staircase of prisms into a 3D arrow",
+  "deck": "3R Petroleum",
+  "pages": [
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  "crop": "b4_iso_stairs_arrow.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector, 12 polygons, draw back to front. Each step is a hex prism with 3 tones. Step 1: top (1177,618)(1052,554)(985,591)(1110,654) #004D5B; left (1111,771)(1111,653)(986,589)(986,708) #013E48; right (1178,734)(1178,616)(1111,653)(1111,771) #022E36. Step 2: top (1244,524)(1119,461)(1052,498)(1176,561) #216452; left (1178,734)(1178,560)(1053,497)(1053,670) #1E5848; right (1245,696)(1245,523)(1178,560)(1178,734) #174538. Step 3: top (1312,431)(1188,367)(1120,405)(1245,468) #297864; left (1245,696)(1245,468)(1120,405)(1120,633) #338D73; right (1312,659)(1312,431)(1245,468)(1245,696) #1F5848. Pitch is +67,-37 per step on the front diagonal, top face drops ~95 per level. Arrow: front face (1312,659)(1312,331)(1365,359)(1265,122)(1137,242)(1188,268)(1188,596) #5EC98E; shaft side (1379,622)(1379,351)(1365,359)(1312,331)(1312,659) #3E966E; head side (1320,92)(1265,122)(1365,359)(1422,328) #3E966E. Rule: top lightest of the prism in steps 1-2, right wall always darkest. Attached text tabs: flat rects flush against each step's left edge in the same colour as the step, x 570/638/705/772 to the step, heights ~118/92/92/92, stepping up; a 5px white staircase polyline separates tabs from the prisms. Build sequence dims later steps by a 23% black overlay and highlights one at a time on pages 29-32.",
+  "use_for": "Sequential build-up to a result: premises to forecast, method steps, value bridge in words.",
+  "is_image": false
+ },
+ {
+  "technique": "Rectangle with bevelled top and bottom lips and a side wall",
+  "deck": "3R Petroleum",
+  "pages": [
+   2,
+   4,
+   18,
+   26,
+   60
+  ],
+  "crop": "b4_panel_top_bottom_lip.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector, the deck's standard card. Depth offset is only 9-10px up-right (0.6% of width). Body rect (70,171)-(495,729) #ECEEF4. Right wall parallelogram (504,140)(495,149)(495,729)(504,721) #BEBFC4. Top bar rect (70,150)-(495,171) #205B4A; its top bevel (504,141)(80,141)(70,150)(495,150) #4C7B6D (bar colour +25% toward white); its right end (504,141)(495,150)(495,171)(504,162) #1A493B (bar -20%). Bottom bar rect (70,725)-(495,747) #205B4A with the same right end at (504,716)(495,725)(495,747)(504,738) #1A493B. Draw wall, bevels, body, bars. Three cards at a pitch of 446 with a 21px gap. Works over a page dimmed by 23% black on page 26.",
+  "use_for": "Reusable content card for scenarios, overview triplets, side rails. Cheap depth on any dense slide.",
+  "is_image": false
+ },
+ {
+  "technique": "Stacked overlapping arrows with a beam to two overlapping callout cards",
+  "deck": "3R Petroleum",
+  "pages": [
+   103,
+   104,
+   105,
+   106,
+   107
+  ],
+  "crop": "b4_overlap_arrows_beam.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Vector. Page dimmed about 35% black (white becomes ~#A0A0A0). Row of 5 notched rounded block arrows at y 545-780, each ~250w, pitch ~240, so tip and next tail overlap ~35px; inactive arrows at ~55% alpha, so the overlaps visibly darken, reading as glass plates. Active arrow 100% alpha (#003E49 first, later greens moving to #4BC184). Beam: flat triangle (716,395)(204,663)(383,113) #D9D9D9 from the active arrow up, behind the cards. Two cards offset so they overlap: top card (313,35)-(1010,285) #EBEBEB; lower card (440,283)-(1143,533) with the top card overlapping its top edge by ~8. Each card has a 6px L-shaped offset in #207D5A along right and bottom (a solid rect the same size shifted +6,+6). Big number on the left with a vertical rule. Page sequence moves the active arrow and the beam.",
+  "use_for": "Chronology of financing rounds, deal timeline with drill-down per event.",
+  "is_image": false
+ },
+ {
+  "technique": "Interlocking S-shaped ribbon timeline",
+  "deck": "3R Petroleum",
+  "pages": [
+   2,
+   3,
+   19
+  ],
+  "crop": "b4_interlock_ribbons.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector. Each period has two freeforms of 219x94 at the same y (589-683): coloured S-parallelogram (121-340) with flared lower-left foot and rounded top-right, and a grey #D9D9D9 mirrored twin (228-446) with flared lower-right foot. They overlap by ~112 so coloured bends over grey like a woven band. Pitch ~195; next coloured piece is drawn on top of the previous grey. Colour steps: #013E49, #004F4F, #205B4A, #207D5A, #20A874, #4BC184. A 3px grey line runs behind at y=636. Event flags: 1px vertical stem from the ribbon up/down ~90 px ending in a small right triangle pennant ~30x15 same colour, text beside it, alternating up and down.",
+  "use_for": "Company history, M&A timeline, 5-7 dated events.",
+  "is_image": false
+ },
+ {
+  "technique": "Flared funnel wedges between blocks",
+  "deck": "AB InBev",
+  "pages": [
+   39
+  ],
+  "crop": "b1_funnel_flare_wedges.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Face #FFCC00, wedges #BF9000 (about 75% brightness of face). Block 1 (69,217)-(197,293). Wedge A: (197,217),(273,192),(273,317),(197,293). Block 2 (273,192)-(442,317). Wedge B: (442,192),(532,164),(532,346),(442,317). Terminal table starts at x=532 with height y 164-346. Height grows 76, 125, 182: step ratio about 1.5. Wedge is a flat darker tone, no gradient; reads as a corridor opening toward the viewer.",
+  "use_for": "Progressive argument, small to large, ending in a table.",
+  "is_image": false
+ },
+ {
+  "technique": "Sharp triangle sandwich with hairlines",
+  "deck": "AB InBev",
+  "pages": [
+   1,
+   2,
+   52,
+   58,
+   60,
+   61
+  ],
+  "crop": "b1_cover_shard_collage.png",
+  "quality": 3,
+  "construction": "In px@110 on p58, multiply by 0.6545. Grayscale photo fills page. Yellow polygon (0,0),(310,0),(1020,562),(770,825),(0,825), vertical gradient #E0B018 to #F0D000. White polygon (1020,562),(1068,514),(1467,812),(1467,825),(770,825). Charcoal #3A3A3A polygon (1022,480),(1467,200),(1467,812); darker spike #252525 (1022,480),(1467,75),(1467,200). Yellow hairline 1pt along the charcoal lower edge, white hairline along yellow's upper edge. p2 version in crop b1_fold_triangles: nested right triangles from the lower-left: yellow, grey #A8A8A8, white, plus a darker sliver, each revealing a 20-60pt strip.",
+  "use_for": "Cover, Q&A, divider, thesis slide.",
+  "is_image": false
+ },
+ {
+  "technique": "Glossy token with rim",
+  "deck": "Alupar",
+  "pages": [
+   10,
+   12,
+   13,
+   14
+  ],
+  "crop": "b2_spheres.png",
+  "quality": 3,
+  "construction": "Vector, no images on p10. 51pt circle stack, back to front: (1) navy disc #001A5E; (2) slightly smaller disc offset about 1.5pt up-left, white 1pt stroke, filled with linear gradient at 45 degrees: #0572C1 top-left to #002B7A bottom-right. Navy crescent remains visible on the bottom-right as a rim. Text in 2 lines white: italic name above, regular region below. Group them inside a nested dashed oval: rotated ellipse 1pt dashed navy with fill #2040C0 at 12% alpha. Plot area: diagonal gradient #A8C4FF bottom-left to white top-right, white gridlines; a blue dotted 45 degree line runs under the tokens.",
+  "use_for": "Scatter plots with named entities instead of dots; project maps",
+  "is_image": false
+ },
+ {
+  "technique": "Faded wheel selector",
+  "deck": "Alupar",
+  "pages": [
+   22,
+   23,
+   24,
+   25,
+   26
+  ],
+  "crop": "b2_wheel_menu.png",
+  "quality": 3,
+  "construction": "Vertical list that imitates a rotating drum. Centre row: full size bold italic blue text in a rect with 1.5pt blue outline and #0A1A5C alpha fill, overlapping a vertical blue axis on its right. Rows +/-1: grey, wide-stretched type, about 80% height. Rows +/-2: clipped to the top or bottom third, heavily squashed. On later pages the selection advances with the order rotated. The rows are small rasters in this PDF (712x54 with soft mask). Native build: 3-5 textboxes; for the outer rows use a smaller font and put a bg-colour to alpha 0 gradient rect on top, or use a clipped picture.",
+  "use_for": "Section navigator on a multi-part walkthrough slide",
+  "is_image": true
+ },
+ {
+  "technique": "Bowtie funnel with gradient wedges from rows into a circle and out",
+  "deck": "BTG Pactual",
+  "pages": [
+   3
+  ],
+  "crop": "b3_btg_funnel_bowtie.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Left rows: five rects x348-517, each 57 tall, stacked y206-493, alpha .5 #7DE2E7 (top two) and #77CEEF (lower three). Left wedge inside gradient rect x517-643,y206-493 clipped by triangle (517,206),(517,493),(632,348), #7DE2E7 at the base fading to #D2EFFA. Right wedge mirror x623-748, triangle (748,206),(748,493),(632,348), #BBE6F7 near apex to #1482AC at base. Right block rect x748-917, y206-493 #1482AC alpha .81 with white hairlines at y302,y396. White circle centre (632,348) r46.5 with thin cyan stroke drawn last with logo. Both wedges reach the same height as the blocks, so it reads as a solid channel. Dark header tabs on both blocks.",
+  "use_for": "Many business lines to one company to new units; before/after mapping",
+  "is_image": false
+ },
+ {
+  "technique": "Bowtie plates with rounded chamfer into grey wheel",
+  "deck": "BTG Pactual",
+  "pages": [
+   96
+  ],
+  "crop": "b3_btg_bowtie_ring.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact path, rounded polygon. Left plate (81,129)->(118,115)->(515,226)->(530,240)->(530,270)->(515,284)->(118,395)->(81,380)->close, #7030A0 alpha .2. Right mirror (880,129),(842,115),(436,226),(421,240),(421,270),(436,284),(842,394),(880,380), #082D6C alpha .15. Corners rounded ~15. Each plate's neck goes beneath the wheel and overlaps it. Wheel: white circle centre (476,260) r82.5, then #D9D9D9 r69.5, then two curved arrows #65757D and #184263. List dots on the plate outer edge: vertical line with ring markers.",
+  "use_for": "Partnership with two sides feeding each other",
+  "is_image": false
+ },
+ {
+  "technique": "Accordion fold ribbon arrows",
+  "deck": "BTG Pactual",
+  "pages": [
+   80
+  ],
+  "crop": "b3_btg_fold_arrows.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Arrow 1 (43,162),(454,162),(488,196),(454,230),(43,230) #A4DEF4; arrow 2 (43,230),(508,230),(542,264),(508,298),(43,298) #77CEEF; arrow 3 (43,298),(415,298),(449,332),(415,366),(43,366) #D2EFFA. Arrows are 68 tall, tip 34 long and touch one another. Fold walls behind at left edge, extending off the slide: wall 1 (44,163),(-44,99),(-44,241),(45,241) #A0C1D5; wall 2 (44,298),(-45,353),(-45,230),(44,230) #70A1C0; wall 3 similar, third, mirrors wall 1 downward, pale #D0DEE8 estimated. Walls flare outward at slope ~0.7 and are darker than their arrow by ~20%. Draw walls first. Lengths deliberately vary, longest in the middle. Dark background #0F2233 to #142B3F.",
+  "use_for": "Closing summary, three-point conclusion; agenda",
+  "is_image": false
+ },
+ {
+  "technique": "Curved ribbons flowing off page into icon tiles, with an underside fold",
+  "deck": "BTG Pactual",
+  "pages": [
+   86
+  ],
+  "crop": "b3_btg_twist_ribbons.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact cubic paths starting off slide x=-70. Tile rect (98,215)-(155,272) #A1C8C5. Ribbon top face: (-70,275)->(98,215)->(98,272)->(-70,296) #7EC492. Underside fold, darker: curve (-70,294) via (53,268),(105,260) to (155,272), back via (108,284),(12,292) to (-70,296), #318B71. So the fold emerges as a thin crescent beneath and curls under the tile. Middle ribbon (-71,306)-(47,299)-(99,289), (99,346)-(48,337)-(-71,327) #70A1C0, with tile #1482AC, no fold. Lower (-71,344),(99,368),(99,425),(-71,365) #2683C6 with fold above (-69,346)..(53,372)..(105,381)..(155,368)..(108,356)..(12,348) #134263, tile #1D6295. Text bar rounded rect, x135-360, 46 tall, behind the tile. Tiles 57x57, step 77.",
+  "use_for": "Drivers converging; three causes leading to three labelled outcomes",
+  "is_image": false
+ },
+ {
+  "technique": "Interlocked double chevron column",
+  "deck": "BTG Pactual",
+  "pages": [
+   99
+  ],
+  "crop": "b3_btg_chevron_interlock.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact native polygons. Left chevrons point right: (210,197),(244,197),(261,250),(244,303),(210,303),(227,250) #A3CEED; (209,311),(244,311),(261,364),(244,417),(209,417),(227,364) #1D6295; grey end (209,423),(246,423),(261,471),(225,471) #D9D9D9. Right chevrons point left and nest in left tips: (303,357),(269,357),(251,306),(269,255),(303,255),(286,306) #75B6E5; (303,471),(269,471),(251,418),(269,365),(303,365),(286,418) #134263; grey start (251,197),(288,197),(303,249),(267,249) #D9D9D9. Each chevron w~51, h~106, notch 17; left and right offset by ~56 vertically. Each carries a shadow PNG (144x295) with darker edge, soft dark side at the notch, so it reads as stacked folded plates. Text on both outer sides.",
+  "use_for": "Dual timeline; two parallel evolutions; events alternating",
+  "is_image": false
+ },
+ {
+  "technique": "Active nav tab with fold triangle under header",
+  "deck": "BTG Pactual",
+  "pages": [
+   3,
+   31,
+   47,
+   61
+  ],
+  "crop": "b3_btg_fold_tab.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Header bar #65757D y0-54 and inactive tabs #A3CEED y0-54. Active tab rect (513,0)-(662,62) #134263 is 8 taller than the bar. Fold triangle (513,54),(504,54),(513,62) #141719, near black. The tab looks like a paper strip wrapped behind the header. All-tab width 148. Very cheap, always on.",
+  "use_for": "Section navigation on every slide",
+  "is_image": false
+ },
+ {
+  "technique": "Fade-to-floor light-pillar waterfall",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   8
+  ],
+  "crop": "b2_fade_waterfall.png",
+  "quality": 3,
+  "construction": "Native chart on dark gradient slide bg (black top-left, #00305F bottom-right). Bars are vertical linear gradients: #0177C8 at top, #0056A0 at 60%, background tone or alpha 0 at the bottom, so bars dissolve downward like light columns. Value label sits inside the bar top in white, percent above. The negative step inverts it: top nearly transparent (#1F5A91), bottom brightest (#47A4FA), with a slight diagonal gradient. Hairline white floor. Bars 75pt wide with 37pt gaps.",
+  "use_for": "SOTP or waterfall on dark slides",
+  "is_image": false
+ },
+ {
+  "technique": "Diagonal bands and converging pentagons behind a map",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   23
+  ],
+  "crop": "b4_bands_behind_map.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Vector, 25 gradient fills. Back: left pentagon (35,137)(487,137)(732,427)(487,717)(35,717), horizontal gradient #FDFDFD at x=50, #E5E0E0 at 250, #D3CACB at 400, #CABEBF at the tip, so the content on the left sits on a plate that darkens toward the map. Right mirror: starts at x=1467 white (#FDFCFC), #EBE7E7 at 1300, #D3CACA at 1100, #C7BBBC at 1000; top-left chamfer from (1027,137) to the map. Cross band: rotated rect (1041,149)(1093,230)(480,629)(427,547), about 96px thick, #8D2925, ~-33 degrees, in the source stacked in shifted copies 14px apart; visible only as the wedges either side of the map, which is the point. Front: map polygons #D9D9D9 with 1px white borders, opaque, drawn last. Text and logos sit on the pentagons at alpha 100%. Bottom right: browser-style card #F2F2F2 with 3 traffic-light dots over the right pentagon.",
+  "use_for": "Footprint or map slide with a timeline on one side and rationale on the other; makes a map the focal object.",
+  "is_image": false
+ },
+ {
+  "technique": "Layered shard frame on a section divider",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   9,
+   10,
+   18,
+   21,
+   25
+  ],
+  "crop": "b4_shard_frame.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Vector, no raster behind. Field: diagonal gradient #1A0000 top-left to #8A0000 bottom-right. Left shards: stacked long polygons bounded by the inner hexagon edge (345,0)(184,395)(283,825), plus extra triangles at top left and sharp strips from the top; alternating tones #491A1B, #890101, #730A0A, with gradient across each shard, so they overlap like folded sheets. Right shards: inner edge (1155,0)(1467,420) and (1467,445)(1245,825), tones #8A0101, #6E0B0C, grey-brown #3F2020 strip at the bottom. Center is the darkest area, so the text sits in a recessed hexagon. Numbered circles with a thin gradient stroke; inactive item at ~30% alpha. Blue twin on pages 9-10.",
+  "use_for": "Section divider, cover alternative on dark palettes.",
+  "is_image": false
+ },
+ {
+  "technique": "Twisted strand bundle",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   1,
+   38
+  ],
+  "crop": "b4_strand_twist_cover.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Vector with gradients. Black field. Back: 2-3 broad curved swooshes, navy to transparent, e.g. a band x 1015-1230 at top fading out around y=470, and diagonal sheet from (810,0) to (340,825) at ~10-20% alpha. Front: 12-16 long tapered freeforms crossing at a waist near (1185,430), width 12-14px at the slide edges tapering to hairline at the waist, fill #3E5FA8 to #2A4A90 alpha 70-90%, each from a top/bottom edge to the opposite. Taper creates the perspective of twisting. Red twin on page 38. Reproduce with narrow closed freeforms: two bezier edges sharing the waist point.",
+  "use_for": "Cover, closing and Q&A only. Too busy for content slides.",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric slabs connected by a road",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   3
+  ],
+  "crop": "b4_iso_raster_chain.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Source is one 1024x1536 raster, cropped in a framed box (44,160)-(720,738), with 4 native numbered circles on top with soft shadows (grey #C8C8C8, r~18, shadow to lower right). Not reproducible literally. Shape version: 4 iso slabs in zigzag, each a rhombus about 220x100 with a 20px thick left and right wall (tones as prism: top lightest, right darkest), one small dark road ribbon: a thick #404040 polyline with a #C8A878 2px outer border, S-curving between slabs behind them. Small icon cubes on top as simple prisms.",
+  "use_for": "Value chain, process from raw material to end customer.",
+  "is_image": true
+ },
+ {
+  "technique": "Row of gradient bands with hairlines and chevron facets",
+  "deck": "Cury Construtora",
+  "pages": [
+   5,
+   12,
+   20,
+   25
+  ],
+  "crop": "b3_cu_ribbons.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact native bands. Background near-black navy #000715. Band rect x0-960,y238-306 and y387-456, horizontal gradient #000715 to royal blue at right, with hairlines 0.5pt white alpha .4 at top and bottom; bands extended by tip polygons at right. Left column x0-55,y278-540 gradient #002854 and raster facet stack (98x778,154x727,127x1500). Facets: stacked chevrons, each two-tone, pointing right at x~0-250, y~230-540, dark #0A1C3C and #142E66. Selected thesis highlighted.",
+  "use_for": "Dark-themed agenda divider",
+  "is_image": true
+ },
+ {
+  "technique": "Zoom beam from price point to gradient panel on dark",
+  "deck": "Cury Construtora",
+  "pages": [
+   32
+  ],
+  "crop": "b3_cu_zoom_panel.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Variant: beam fades. Apex at price chart end ~(440,245). Panel x533-960,y77-154 with gradient blue #1D3F8E to transparent at right. Beam triangle (440,245),(533,77),(533,154), same blue, alpha ~.4 fading to apex. Football-field bars below with a gradient rgba: alpha ~.5 at the outer ends, sharper at mean line; subtle glass effect. Measured from render, plus or minus 5.",
+  "use_for": "Dark-mode thesis summary slide with scenario panel",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric scene with leader callouts",
+  "deck": "Intelbras",
+  "pages": [
+   7
+  ],
+  "crop": "b2_iso_scene.png",
+  "quality": 3,
+  "construction": "Pasted PNG with alpha. The native part is the overlay: thin green arrow leaders with a dot on the scene and an arrowhead pointing at a labelled product cut-out outside it. Base slab: rhombus with a visible front edge (dark grey road, light grey curb).",
+  "use_for": "Product ecosystems, where things sit in a real site",
+  "is_image": true
+ },
+ {
+  "technique": "Concentric arc ribbons feeding rows",
+  "deck": "Intelbras",
+  "pages": [
+   30
+  ],
+  "crop": "b2_arc_ribbons.png",
+  "quality": 3,
+  "construction": "Measured p30. Hub centre (523.8,393). OUTER ring = 5 pie wedges, R about 68.6, hub-angle boundaries at about -90, -57, -21, +21, +57, +90 degrees (right half only). INNER ring = 5 wedges centred (523.4,390.6), R about 38, same angles and colours, separated from the outer ring by a white gap: paint a white circle R about 44 between them. ROWS: 5 rects h about 21, all ending x905.7; left ends at x524, 566, 580, 564, 523 so they start from the arc. y tops 315.1, 349.7, 383.1, 419.6, 450.8. Colours per row and wedge: #56C589 #6DC073 #09AD72 #05AA4D #006240. Top and bottom rows run past the arc's end and merge with it. Hub label: rounded rect (505.6,371.5)-(561.1,405) #09AD72 in front of all, white bold text. Each row holds 2 white-text fields.",
+  "use_for": "One hub radiating to 5 benefits; cross-sell, drivers of a thesis",
+  "is_image": false
+ },
+ {
+  "technique": "Seated-table scene (figures radiating around an oval)",
+  "deck": "Intelbras",
+  "pages": [
+   32
+  ],
+  "crop": "b2_ellipse_table.png",
+  "quality": 3,
+  "construction": "Native. Ellipse about 210x105pt, #A6DCC8, soft shadow (blur 6, 30% black), text inside. Figures behind it: each = circle head + trapezoid torso, rotated to radiate from the ellipse centre. About 10 figures at varying angles; those at the bottom are effectively upside down. Tone by role: #09AD4A, #006240, #E2EC90. The ellipse hides half the torsos, which sells a tabletop seen from above.",
+  "use_for": "Boards, governance, partnerships",
+  "is_image": false
+ },
+ {
+  "technique": "Boardroom plan: beveled table, lit-seat chairs",
+  "deck": "Kering - Moncler",
+  "pages": [
+   25
+  ],
+  "crop": "b1_board_table_bevel.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED table. Outer rounded rect (146,211)-(472,273), radial or horizontal gradient #272727 to #808080, radius about 18. Inner rect (158,222)-(462,263) flat #595959, radius about 14. Gives a raised rim. Chairs about 46pt: back plate rounded rect #595959 and seat #C9AE2C shifted 4pt toward the table, overlapping it; curved back rail ellipse sliver in #C9AE2C plus grey; two side arms #5A4F5E. Top row mirrored for bottom; side chairs rotated 90 degrees.",
+  "use_for": "Governance; same content as Vibra version but on a light slide.",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric stacked plates fading downward",
+  "deck": "Meliuz",
+  "pages": [
+   62
+  ],
+  "crop": "b4_iso_plates_stack.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector. Three identical slabs drawn bottom-first so the upper covers the lower. Top slab: top face rhombus (197,331)(397,365)(516,287)(315,253); left wall (197,331)(197,365)(397,399)(397,365); right wall (397,365)(516,287)(516,321)(397,399). Slab 319w x 146h, wall height 34 (about 23% of total), vertical pitch 84-83 so each slab is about 40% hidden by the one above. All three faces of a slab have the SAME fill; volume comes only from a 1px white polyline on the top-face front edges (199,331)(397,365)(516,287). Fills top to bottom #FF385A, #FF8196, #FFE1E6 (same hue, stepping toward white). Skew: long edge runs +34px down over 200px, short edge -78px over 119px. Anchor: 16px dark dot on the visible right part of each top face at (468,296)(468,384)(468,467), then a dashed 1px leader to a numbered square box with a heading rule and body text at x=655+.",
+  "use_for": "Pillars of a thesis, layered stack, 3 items with explanatory text on the right.",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric columns standing on a floor band",
+  "deck": "Meliuz",
+  "pages": [
+   82
+  ],
+  "crop": "b4_iso_columns_floor.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector. Floor: full-width rect y 537-750, #F2F2F2, drawn first, columns rise above it into the white. Column 1: front-left face (195,173)(269,203)(269,616)(195,578) #FF3859; right face (269,203)(344,173)(344,578)(269,616) #FE738A; top rhombus (195,172)(269,141)(344,172)(269,203) #FF9BAD. Width 149, top rhombus height 62 (ratio 0.42), slope about 0.42 px/px. The source fakes the slanted base with rectangles masked by floor-coloured parallelograms; code true hex polygons instead. Column 2 offset +108,+128 at top, +53 at base: faces #404040 / #7F7F7F / #D3D3D3. Column 3 offset +106,+157 at top, +56 at base: faces #BFBFBF / #D9D9D9 / #F2F2F2. Heights 443/368/266. Each later column overlaps the previous one by ~36px and sits in front. Each heading plus text starts just right of its column's top, so text staircases with the columns. No cast shadow; despite the floor look there is only the band.",
+  "use_for": "Ranked growth avenues, 3 priorities with decreasing weight, sized comparison in words.",
+  "is_image": false
+ },
+ {
+  "technique": "Corner folded ribbon on a card",
+  "deck": "Meliuz",
+  "pages": [
+   61,
+   71
+  ],
+  "crop": "b4_folded_corner_ribbon.png",
+  "quality": 3,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector. Rounded card #F0F0F0, (812,224)-(1383,396), soft shadow bottom-right about 3px dark grey. Ribbon front: (1233,200)(1311,200)(1405,293)(1405,372) #FF8196, 45 degree band about 110 px along the edge, drawn over the top-right corner so it overhangs the card by 22px on the right and 24px on top. Fold back: polygon (1233,200)(1233,219)(1387,373)(1405,373)(1396,351)(1251,204) in the dark brand tone #FF385A, drawn UNDER the ribbon: only two small triangles show at the ends, just below (1233,200-219) and just left of (1387-1405,373). White text rotated 45 degrees along the band. Grey twin: front #7F7F7F, fold #404040, at (1233,434). Page 71 uses it in a SWOT with one on each outer corner.",
+  "use_for": "Category labels on risk cards, SWOT quadrants, internal vs external split.",
+  "is_image": false
+ },
+ {
+  "technique": "Tapered wall joining two panels of different height (side wall variant)",
+  "deck": "Mercado Libre",
+  "pages": [
+   21,
+   26,
+   29
+  ],
+  "crop": "b2_wall_rail_panel.png",
+  "quality": 3,
+  "construction": "Measured ML p26. LEFT panel (0,120.8)-(480,490.3) #F1F1F1. WALL polygon (480,120.8) (494.4,135) (494.4,476.7) (480,491.2), #BFBFBF, 45 degree taper: 14.4 wide, loses 14.2 at each end. RIGHT panel (494.2,135)-(932,476.4) #F1F1F1, so it reads as a plane receding away. Add a navy rail on the far right edge (#2D3277, about 6pt, rounded outer corners) and a 3.7pt navy bottom stripe that carries a caption. Key relationship: wall tone is about 20% darker than panel faces, and left panel is exactly as tall as the wall's long edge, right panel as tall as its short edge. Sabesp p9, p11 use a shallower angle: 17.1 wide, 5.2 drop, wall #D1D1D1, panels #F5F5F5: gives subtler perspective. Better than the usual side wall because the taper is applied to the panel heights too.",
+  "use_for": "Two-chart slides where the right chart is the consequence of the left",
+  "is_image": false
+ },
+ {
+  "technique": "Stickered label on a taped kraft surface",
+  "deck": "Mercado Libre",
+  "pages": [
+   1,
+   5,
+   6,
+   12,
+   23,
+   37,
+   38,
+   43,
+   58
+  ],
+  "crop": "b2_kraft_label.png",
+  "quality": 3,
+  "construction": "Background: full-bleed kraft photo texture 2666x1499 (raster). Yellow band (#D6C93F, alpha about 85% so the texture shows through) across middle, 35% of slide height, with dot-grid patches at both ends, like packing tape. Shipping label: white rect 259x228pt with vertical gradient #FFFFFF to #E8E8E8 at the top 20%, soft shadow, hanging from the top edge and overlapping the band by 50pt; content includes barcode and rating. Inner pages p5: header strip of the kraft, then cards on #EDEDED.",
+  "use_for": "Covers and dividers where the company has a physical product metaphor",
+  "is_image": true
+ },
+ {
+  "technique": "Extruded plate with coloured top and bottom rails",
+  "deck": "RD Saude",
+  "pages": [
+   55
+  ],
+  "crop": "b3_rd_extruded_plate.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact vector, 9 quads. Oblique offset dx=+10,dy=-10 for all. Body front rect (502,114)-(932,303) #F2F2F2; right wall (932,114),(941,104),(941,293),(932,303) #C3C3C3; top face (502,114),(512,104),(941,104),(932,114) #F5F5F5. Top rail, a thin box 6.5 tall: front (503,108)-(931,115) #50B56D, top (503,108),(513,97),(942,97),(931,108) #72C48A, right (931,108),(942,97),(942,104),(931,115) #409258. Bottom rail: same three faces at y=302-308 (top 291). Tone rule: top face = front lightened ~+25% (rail) or +1 step (body), side = front darkened ~-20%. Draw order: bottom rail, body faces, top rail.",
+  "use_for": "Assumption or premises box; any text panel that must read as a physical slab",
+  "is_image": false
+ },
+ {
+  "technique": "Gutter wall between a recessed plate and a front plate",
+  "deck": "RD Saude",
+  "pages": [
+   20
+  ],
+  "crop": "b3_rd_sidewall_panel.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Left plate x25-466, y124-473, #F2F2F2 (recessed, shorter). Right plate x509-960, y100-497, #F2F2F2 (nearer, taller). Between them one trapezoid (466,124),(509,100),(509,497),(466,473) #BFBFBF. Wall width 43, height step 24 at top and 24 at bottom, slope about 0.56, symmetric. Both plates same tone and only the wall darker. Reads as an open book with the right page closer. Variation on 'panel with a side wall' because it has the wall in the middle of the slide and spans almost the full height.",
+  "use_for": "Two-part slide: chart on the receding left, explanation in front on the right",
+  "is_image": false
+ },
+ {
+  "technique": "Wall from small legend to large map (perspective zoom)",
+  "deck": "RD Saude",
+  "pages": [
+   14,
+   15
+  ],
+  "crop": "b3_rd_wall_legend_map.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Small plate rect (128,182)-(268,407) #D9D9D9. Wall trapezoid (268,182),(324,159),(324,430),(268,406) #D9D9D9, same tone as the legend, separated only by dashed green outline (#00B071-ish, 1pt, dash) tracing plate, wall top and bottom edges and the map frame. Large picture x324-797, y159-430 with same dashed frame. Height ratio legend:map = 225:271. Sits on a modal white/grey card (103,83)-(897,480) with soft lower-right shadow over a page dimmed about 60% with light grey.",
+  "use_for": "Key-to-detail: legend, filter or list expanding into a map or a table",
+  "is_image": false
+ },
+ {
+  "technique": "Dark spine wall from book cover to quote plate",
+  "deck": "RD Saude",
+  "pages": [
+   57
+  ],
+  "crop": "b3_rd_book_wall.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact wall (256,137),(303,125),(303,319),(256,307) #00744B. Quote plate rect x303-869, y125-319, bright green #00B071-ish. Book cover picture x139-255, y~137-307 with hairline border. Wall width 47, height step 12 each end, slope 0.25, tone = plate darkened by ~35%. Three thin stems leave the plate's bottom-left down to three text rows, elbow connectors 1.5pt #00764C. Whole group on grey modal over dimmed page.",
+  "use_for": "Quote or author reference attached to a cover or portrait",
+  "is_image": false
+ },
+ {
+  "technique": "Plinth under picture (trapezoid top plus front face)",
+  "deck": "RD Saude",
+  "pages": [
+   76
+  ],
+  "crop": "b3_rd_plinth.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Top face trapezoid (163,378),(194,327),(697,327),(728,378) #C9C9C9. Front rect (163,376)-(728,492) #DBDBDB. Picture sits on the back edge of the top face, x198-688, ending at y~330 so that it stands on the plinth. Inset 31 per side over a depth of 51. Front is lighter than the top, an inverted lighting that reads as a lit stage front. Quote text on the front.",
+  "use_for": "Interview or field research photo with quote; product image with caption",
+  "is_image": false
+ },
+ {
+  "technique": "Solid beam from one stacked-bar segment to a detail card",
+  "deck": "RD Saude",
+  "pages": [
+   39,
+   38,
+   40
+  ],
+  "crop": "b3_rd_beam_bars_card.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Better variant of the zoom beam. Exact quad (497,188),(498,261),(590,497),(590,96) #0FA9B2 alpha 0.86, no gradient. Narrow end height 73 equals the teal segment of the last bar, wide end height 401 equals the card edge. Card x590-960, y96-497, #F2F2F2 with 1.5pt teal stroke. Bars: grey #D9D9D9 base and cap with teal middle segment; each bar has a black copy offset (+2.5,+3) behind it as a hard shadow. Pages 38 and 40 repeat with dark green and a third colour, one beam per segment.",
+  "use_for": "Segment drill-down: one revenue line expanding into its own chart",
+  "is_image": false
+ },
+ {
+  "technique": "Spotlight lens with beam on a dimmed page",
+  "deck": "RD Saude",
+  "pages": [
+   62
+  ],
+  "crop": "b3_rd_lens_zoom.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Whole page dimmed with a light grey veil (alpha ~70%). A white circle about 90 diameter behind the selected cell S2, cell rect (61,347)-(126,396) #00764B redrawn at full opacity on top of the veil. Beam freeform (150,165),(281,268),(138,387),(139,384),(106,334),(70,331) #00764C, with the narrow end hugging the circle. Card white rect (131,143)-(692,279) with beam colour stroke, drawn above the beam. Caption pill (278,277)-(703,319) #00764B straddling the card bottom edge by 2 pt. Order: page, veil, circle, cell, beam, card, pill.",
+  "use_for": "Risk matrix cell or chart point opening to a sensitivity table",
+  "is_image": false
+ },
+ {
+  "technique": "Donut slice flaring into a text plate",
+  "deck": "RD Saude",
+  "pages": [
+   12,
+   13
+  ],
+  "crop": "b3_rd_donut_callout.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact ring: outer centre (738,291) radius ~87; slices from top clockwise #005124,#01774C,#008E41,#00B256, the remainder #ADADAD. Inner diamond-outline ring #F2F2F2 (678,291),(738,231),(797,291),(738,350) in the source's path; render is a white gap and a small inner pie. Trapezoid in same #ADADAD descends from the ring's bottom (x~690-785, y~381) and flares to plate x562-912 at y~405; plate y405-485 same grey, with white text and shadow offset (+3,+3). So the donut's rest slice literally turns into the box that comments on it.",
+  "use_for": "Market share with concentrated commentary",
+  "is_image": false
+ },
+ {
+  "technique": "Stone hexagon staircase over faded diagonal beams",
+  "deck": "RD Saude",
+  "pages": [
+   6,
+   7,
+   22,
+   34
+  ],
+  "crop": "b3_rd_hex_stone.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Hexagon exact (77,144),(105,88),(182,88),(210,144),(182,200),(105,200) #A6A6A6, so w133,h112, corners cut 28. Soft drop shadow lower right, blur~6, offset (3,4), black alpha .4. White line icon inside, in a white circle ring when applicable. Next hexes step (+139,+157)/(+143,+154) forming a descending staircase. Selected one turns bright green #00B071-ish and its text sits on a same-tone rounded bar, others faded. Background #007A47 with 2-3 diagonal parallelogram beams at 45 degrees, lighter green with alpha gradient, from top right and bottom left.",
+  "use_for": "Thesis agenda divider that repeats with one step highlighted",
+  "is_image": false
+ },
+ {
+  "technique": "Dim-all modal with hard plate",
+  "deck": "Rede D'Or",
+  "pages": [
+   27,
+   29,
+   31,
+   65
+  ],
+  "crop": "b1_dim_modal_hardshadow.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED p27. Previous slide unchanged. Grey wash over it (render reads about #D9D9D9 as page color, so a black or grey rect at roughly 15-25% alpha; p65 uses a white wash at about 60%; overlay alpha is estimated, not extracted). Plate (174,125)-(774,428) #004185, offset -6,+7 from card. Card (180,118)-(780,422) #F2F2F2. Plate shows as an L on left and bottom. p65 flips it to +6,+6 and also keeps title washed.",
+  "use_for": "Single-focus chart popped above its own context; cheap and strong.",
+  "is_image": false
+ },
+ {
+  "technique": "Slip card overlapping chart with highlighted window",
+  "deck": "Rede D'Or",
+  "pages": [
+   61,
+   62,
+   63
+  ],
+  "crop": "b1_slip_card_over_highlight.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Card (546,133)-(874,502) #F2F2F2, plate offset +6,+6 #004185, so L on right and bottom. Left: chart runs under the card. Highlight rect over the chart phase, #1F5A9A alpha 0.4 and 2pt dashed navy, overlapping the data; the chart line passes on top of or through it. Card moves across pp. 61-63 to reveal successive phases, a repeated overlay used as a build.",
+  "use_for": "Before, during, after; annotating phases of a time series.",
+  "is_image": false
+ },
+ {
+  "technique": "Red L-wedges behind white modal (bracket variation)",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   14
+  ],
+  "crop": "b3_rbi_modal_brackets.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Better version of offset brackets, with mitred ends. Exact. Upper-left: (246,73),(508,73),(421,141),(315,141),(315,225),(246,279) #CC0002. Lower-right: (736,495),(551,495),(613,436),(677,436),(677,374),(736,316) #CC0002. Then white rect (253,78)-(730,491) on top. Visible offsets are only 7 top/left and 6 right/bottom beyond the card; hidden thickness ~68. Page dimmed behind by black alpha ~.35 at full slide.",
+  "use_for": "Deep-dive modal on a darkened page",
+  "is_image": false
+ },
+ {
+  "technique": "Overlapping rounded cards with number tab on a band over a photo",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   49,
+   3
+  ],
+  "crop": "b3_rbi_cards_tabs.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Photo full-slide (1600x900). Band dark red gradient from y~148 to bottom, top #8E0E1C to bottom #7A1420, alpha ~.92. Cards white roundrect (60,275)-(252,500), (278,275)-(469,500), (502,275)-(694,500), r~20, w192,h225. Number tab roundrect (45,266)-(79,299) #C00000, r~6, white 1.5pt stroke, overlapping the card's top-left with 15 outside on left and 9 above. Stack order: photo, band, card, tab. Header word sits on the band at 96pt.",
+  "use_for": "Closing recommendation; three theses and risk card",
+  "is_image": false
+ },
+ {
+  "technique": "Folded ribbon timeline (S-curve slabs)",
+  "deck": "Sabesp",
+  "pages": [
+   2,
+   17
+  ],
+  "crop": "b2_ribbon_timeline.png",
+  "quality": 3,
+  "construction": "All pt on 960x540; measured from the PDF vectors, p2. Each node = 2 freeforms, 137.8 wide x 52.5 tall, pitch about 118-120. COLOURED FACE, vertices relative to its bbox: (137.8,0) (58.8,0) (53,1.2) (47.4,3.6) (42.4,7.3) (38,12.6) (23.4,39.2) (20.6,43.3) (17.3,46.7) (13,49.3) (7.3,51.2) (0,52.5) (79,52.5) (86.3,51.2) (92,49.3) (96.3,46.7) (99.6,43.3) (102.4,39.2) (117,12.6) (121.3,7.3) (126.4,3.6) (132,1.2) close: a parallelogram leaning right with S-curved flanks. GREY BACK FACE: the same shape mirrored horizontally (leans left), fill #D9D9D9, x offset +67 from its coloured partner, same y. Z-ORDER back to front: all grey faces, then 1.75pt #4B4B4B axis line through mid-height extending about 40pt past both ends, then coloured faces left to right so each overlaps its predecessor's grey tail. Fill progression dark to bright: #003854 #003087 #0057A8 #0393DD #00C4E9 #12D0FF. Year in bold white centred. Stems: 0.75pt vertical line from slab edge up or down alternating, topped with a right-triangle pennant 14.6x8.4 in node colour, label beside it. p17 variant: progressive tint (#2D2A80 fading to pale lilac) then one saturated node for the climax.",
+  "use_for": "History, milestone and acquisition timelines; 5-7 nodes; the best timeline device in the batch",
+  "is_image": false
+ },
+ {
+  "technique": "Slab card with offset base plate and receding link band",
+  "deck": "Sabesp",
+  "pages": [
+   2
+  ],
+  "crop": "b2_slab_cards.png",
+  "quality": 3,
+  "construction": "Measured p2. CARD 259.2x228.9 fill #EFEFEF at (72.6,89.6). BASE PLATE same size, fill #A6A6A6, offset +9.0 x, +4.65 y, placed behind: reads as a hard shadow or slab edge on bottom and right only. LINK BAND behind everything, fill about #D9D9D9, about 23pt wide, spanning the 32pt gap between cards, top at about y103 and bottom at about y297, so inset about 13pt top and 21pt bottom relative to the card; last one bleeds to the page edge. Sampled by eye from the render, not from vectors: treat band values as approximate. Three cards on a 291pt pitch. No blur at all.",
+  "use_for": "KPI or at-a-glance triptych; holds a table, map and chart in matching cards",
+  "is_image": false
+ },
+ {
+  "technique": "Folded tab cards on a stepped base bar",
+  "deck": "Sabesp",
+  "pages": [
+   11
+  ],
+  "crop": "b2_fold_tab_cards.png",
+  "quality": 3,
+  "construction": "Measured p11. BASE: 6 contiguous rects y225.06-283.05, x edges 63.7 210.8 352.6 495.2 633.1 779.5 917.8, fills #E3F6FD #12D0FF #00C4E9 #0393DD #0057A8 #003087. CARDS: 113.6 wide x about 88 tall, #F2F2F2, bottoms on the base line, x 76.4 217.7 361.1 503.5 645.9 788.2. FOLD: right triangle at each card's right edge, vertices (x,205) (x,226) (x+19.7,226), x about the card's right edge, right angle at bottom-left, filled with the NEXT segment's colour (first triangle #12D0FF, second #00C4E9, and so on; last #003854), so its point touches the next segment boundary and the card seems to stand on a bent tab. Mirror triangle (77.9,202.8)-(64.2,228.3)-(77.9,228.3) in the first segment's pale tint closes the left end. Card text above, white segment title on the base.",
+  "use_for": "Obligation calendars, process stages, covenants: a dated fact over a labelled stage",
+  "is_image": false
+ },
+ {
+  "technique": "Modal card sandwiched between two offset plates over a scrim",
+  "deck": "Sabesp",
+  "pages": [
+   10,
+   22,
+   29,
+   62
+  ],
+  "crop": "b2_modal_offset_plates.png",
+  "quality": 3,
+  "construction": "p22, px at 110 dpi converted to pt. Keep the full previous slide beneath. SCRIM: full-slide black at about 28-30% alpha. CARD: #F5F5F5, about (245,96)-(691,471). PLATE A: blue #2197D4, about (268,84)-(703,358), behind card: sticks out top and right by about 12pt. PLATE B: same blue, about (234,207)-(669,482), behind card: sticks out left and bottom by about 12pt. Plates overlap in the card's middle only, so you read 2 L-shaped edges at opposite corners. No shadow, no rounding. Band version on p10, p29, p62: full-width cyan band across the scrim with white question text.",
+  "use_for": "The 'so what' reveal after a dense slide; a single chart that should pop out of a page",
+  "is_image": false
+ },
+ {
+  "technique": "Stacked lens layers with cards straddling the edge",
+  "deck": "Sabesp",
+  "pages": [
+   4,
+   5,
+   15,
+   26,
+   35,
+   37
+  ],
+  "crop": "b2_lens_stack_cards.png",
+  "quality": 3,
+  "construction": "Background pale #BFF0F9. Two nested closed-curve lenses bleeding off the right edge: rear lens #00C4E9, front lens #009FE0; front tip is inset about 50pt right of the rear tip and the two converge at the top and bottom, forming a crescent that narrows to nothing. Big circle outlines 1.25pt in the same hue bleed off the left (R about 230 and R about 115) with icon circles at the intersections. p37: 3 rounded cards #E1F5FD radius about 20pt straddle the lens edge, with number tabs (24pt square, radius 4, #12D0FF) overlapping each card's top-left corner by half. Edge looks stepped in the PDF (rasterised strips in the export; not verified how it was authored), build as a native freeform with Bezier curves.",
+  "use_for": "Thesis or divider slides, closing recommendation",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric icon chain on square plinths",
+  "deck": "Sabesp",
+  "pages": [
+   41
+  ],
+  "crop": "b2_iso_chain.png",
+  "quality": 3,
+  "construction": "Pasted single PNG 2172x724, generated scene. To rebuild natively: plinth = a rhombus top face (2:1 width to height) #E6E8EB, left face parallelogram #A9AFB7, right face parallelogram #8A9099, thickness about 10% of width. On the plinth, cylinders (ellipse top + rect + ellipse bottom with a horizontal gradient) and cubes in brand blue. Small cyan arrows between plinths in flat 2D.",
+  "use_for": "Value chain, process stages",
+  "is_image": true
+ },
+ {
+  "technique": "Modal sheet with ribbon crown over washed slide",
+  "deck": "Senior Sistemas",
+  "pages": [
+   15,
+   21,
+   43,
+   49,
+   50
+  ],
+  "crop": "b1_modal_ribbon_crown.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED p15. Order, back to front: (1) underlying slide intact; (2) full-page rect #F2F2F2 alpha 0.60; (3) soft outer shadow plus gradient frame rect (77,123)-(874,474), dark teal #004136 at top to pale aqua #AAF0E0 at bottom, showing about 1.5pt; (4) card rect (78,124)-(872,472) #F2F2F2; (5) crown wave A freeform #205C64 spanning x 83-532, y 82-111, a low hump; (6) wave B freeform #01826D spanning x 362-862, y 73-111, crest near (668,73), overlapping A; (7) dark roof freeform #112235: (70,74) then a concave curve sagging to about (445,108), then rising to (884,79), down to (884,112), back to (70,112), so the waves show only above its sag; (8) lintel rect (70,111)-(884,126) #112235, clipped to about 8pt side wings that taper in to the card edge at y=126, with small darker triangles below each end reading as a fold. Roof overhangs the card by 8pt on each side. Aspect: crown 814x38 on a 794x348 card.",
+  "use_for": "Pop-up drill-down: one focal chart or message over the previous slide kept as ghost context.",
+  "is_image": false
+ },
+ {
+  "technique": "Pentagon arrow cards stepping down a sheet edge",
+  "deck": "Senior Sistemas",
+  "pages": [
+   21
+  ],
+  "crop": "b1_modal_ribbon_arrowcards.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Three left-pointing pentagons, each about 313pt wide by 80pt tall at an 80pt vertical step, tip 42pt deep: (520,219),(563,179),(876,179),(876,260),(563,260), repeating with y+80. Right edge is flush with the sheet's right side, tips stick out into the chart area. Fill tone darkens with depth: #01826D, #1F3A4D, #112235. Each lower card slightly overlaps the one above (tip zone sits over the previous bottom edge) and has a soft shadow. White icon in the tip zone, white text.",
+  "use_for": "Stacked explanation of a chart, reading as a hanging deck of tabs.",
+  "is_image": false
+ },
+ {
+  "technique": "Slab pyramid with diagonal straps and fading bands (variation of faceted pyramid)",
+  "deck": "Senior Sistemas",
+  "pages": [
+   7
+  ],
+  "crop": "b1_pyramid_slabs_bands.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Slabs are separated, not contiguous. Triangle (604,167),(638,122),(672,167) gradient #01826D to #205C64. Strap parallelogram (604,191),(640,166),(670,165),(634,190) #205C64. Trapezoid (575,227),(589,189),(686,189),(700,227) gradient #205C64 to dark. Strap (578,252),(643,218),(687,221),(622,255) gradient #1F3C4E. Trapezoid (553,289),(567,247),(709,247),(724,289) navy #122135 to #2A2F55, soft bottom shadow. Straps go behind the slab below, so they read as a spiral ramp. Behind everything to the right, one band per tier: rects (665,123)-(939,178), (659,177)-(939,231), (626,231)-(936,289), linear gradient left tier tone to near-white #F5FAF9 at right. Bands overlap slightly at seams. Slab text white, band text white bold.",
+  "use_for": "TAM or segment tiers where the label needs its own row.",
+  "is_image": false
+ },
+ {
+  "technique": "Beam from donut slice into a teal panel with framed rows",
+  "deck": "Senior Sistemas",
+  "pages": [
+   10
+  ],
+  "crop": "b1_beam_donut_to_panel.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Trapezoid (264,392),(392,326),(392,512),(264,446), its narrow side tucked behind the donut's largest slice (#01826D, slice bb x 159-271, y 348-489). Linear gradient left to right, #01826D to navy #122135. Beam widens into panel rect (392,326)-(944,512) with matching left navy, running to teal at right. On panel: three rows at y 331, 393, 454, each frame (409,y)-(937,y+51) gradient teal to navy, with inner card (413,y+3)-(891,y+49) #F2F2F2, leaving a 46pt right strip for a white icon. Key: beam end tone equals panel start tone, so they fuse.",
+  "use_for": "Decomposing one chart slice into drivers. Better than the usual flat grey beam because beam, panel and rows are nested.",
+  "is_image": false
+ },
+ {
+  "technique": "Ring chain: S-curve band with white discs",
+  "deck": "Senior Sistemas",
+  "pages": [
+   15,
+   55
+  ],
+  "crop": "b1_ring_chain.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED p15, vector. Five white discs d=98 at centers (241,253),(359,368),(478,253),(594,368),(711,253). Under each, circle d=116 as ring. Rings are joined by a continuous thick band with big fillets; the path's horizontal runs sit at y=312. Easy build: gradient circles, a rect spanning the middle rows, then cover with 110x76 rounded pocket rects in the background color at (331,139),(595,139),(331,265),(595,265), radius about 25, on which icon and text sit. Gradient: end rings navy #122135, center teal #01826D, center section solid teal. Soft shadow under each white disc gives a pressed-in look. p55 is a 4-disc version.",
+  "use_for": "Hero stats alternating with labels, or numbered thesis steps.",
+  "is_image": false
+ },
+ {
+  "technique": "Pinched pill stack",
+  "deck": "Senior Sistemas",
+  "pages": [
+   14
+  ],
+  "crop": "b1_pinched_pill_stack.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Pills: rounded rect 168x31 at x 754-922, y 178, 244, 310, 376, 442 (pitch 66), fill #F2F2F2, radius about 11, soft right and bottom shadow. Between pills: link rect (764,208)-(911,245), vertical gradient navy #122135 to teal #01826D, with both sides bitten by circles r≈18 centered at (782,227) and (896,227), so only a concave neck of about x 796-878 connects. Pills sit above links. Bite circles can be background-color ovals over a plain rect. Icon badge: d=29 circle, white with a teal to navy ring, overlapping pill's left end at x 745-774.",
+  "use_for": "Vertical list of sectors or items that should feel physically connected.",
+  "is_image": false
+ },
+ {
+  "technique": "Orbit arcs with tangential index rules over a diagonal plane",
+  "deck": "Senior Sistemas",
+  "pages": [
+   2,
+   12,
+   24,
+   28
+  ],
+  "crop": "b1_wire_sphere_arcs.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Back: diagonal plane polygon #E3E3E3, in 110dpi px (1145,0),(1467,0),(1467,825),(525,825), multiply by 0.6545 for pt. Mid: four D-shaped outlines, teal #205C64 1.5pt, each offset about 6pt to the right, running from top left around to bottom. Five horizontal rules start tangent to the arcs at different x and run to the right page edge, passing over the plane; section label sits on each rule. Front: wire sphere (raster 889x1058, can be swapped for circles and lines or a plain nested circle) with faded back nodes. Active section bold, others thin.",
+  "use_for": "Agenda or section divider, the labels forming a curved stack.",
+  "is_image": false
+ },
+ {
+  "technique": "Tonal 3D funnel of truncated cones",
+  "deck": "Vasta",
+  "pages": [
+   24
+  ],
+  "crop": "b3_va_funnel.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Raster, no vector paths in this region, but simple to rebuild. Crop 185x220. Four separate cups with gaps overlapping about 8. Widths/heights at top: 165x56, 124x57, 88x44, 53x38; centres aligned at x~447. Build each with: front body = freeform with top ellipse's lower arc and bottom arc at ~60% of top width; horizontal gradient dark-light-dark, highlight at 40%; top lip = ellipse (w, h~22% of w) filled by lighter colour; inner ellipse scaled 88%, darker shade, for the inside. Colours top to bottom: #E6236F, #F48FB8, #B39DDB, #A5D8DC. Leaders: dotted line in layer colour from the rim to the right label with number.",
+  "use_for": "TAM/SAM/SOM; funnel of addressable targets",
+  "is_image": true
+ },
+ {
+  "technique": "Rounded offset plates behind a modal with dark veil",
+  "deck": "Vasta",
+  "pages": [
+   15,
+   38
+  ],
+  "crop": "b3_va_offset_modal.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Measured from render. Veil: full-slide #000 alpha ~.6. Plate 1 #E5206F roundrect x~53-400,y~60-390 r~30; plate 2 same colour x~600-912,y~200-490. White modal roundrect (67,74)-(898,475) r~30 on top. Visible as a thick rounded L top-left and bottom-right, offset ~14. Softer than the mitred RBI version.",
+  "use_for": "Deep-dive popup in a rounded visual system",
+  "is_image": false
+ },
+ {
+  "technique": "Off-page segmented half ring with staggered cards",
+  "deck": "Vasta",
+  "pages": [
+   6
+  ],
+  "crop": "b3_va_halfring_cards.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Measured. Ring centre (-29,315), outer radius ~170, ring width ~45, cut by slide's left edge. 5 segments with small gaps, colours #A70E55,#A70E55,#EF5FA0,#F2C2D8,#ABDBDB. Faceted brand triangle at centre, peeking from the edge. Five cards with 2pt stroke per segment, roundrect r~8, h~62, gap ~10, x-starts 101,144,170,144,101 following the arc, w~310, soft shadow (+3,+3). Card strokes match their segments. Depth comes from cards sitting on top of the arc.",
+  "use_for": "Portfolio of 4-6 products around a platform",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric building overlapping cards",
+  "deck": "Vasta",
+  "pages": [
+   25,
+   27,
+   5,
+   34
+  ],
+  "crop": "b3_va_iso_building.png",
+  "quality": 3,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Raster AI render (transparent PNG) at x~470-690,y~245-410. Draw order: option cards x512-975,y~150-265; building above covering their bottom; panel x~707-1000,y~262-425 behind right side. Native approximation: 3 parallelogram faces (top lighter, left mid, right dark, ratio about 1:0.75:0.55), angle 30 degrees, ground diamond in grey with a yellow-edge. Keep as picture in real decks.",
+  "use_for": "Physical asset: school, store, plant, tied to an investment option",
+  "is_image": true
+ },
+ {
+  "technique": "Faceted shard burst between cards (+ / = connector)",
+  "deck": "Vibra",
+  "pages": [
+   27
+  ],
+  "crop": "b1_shard_burst_connector.png",
+  "quality": 3,
+  "construction": "In source this is a raster; polygons below measured on a 300dpi render, in pt, ready to rebuild. Gap between cards x 286-352. Main wedge: (286,163),(352,191),(352,260),(286,245), linear gradient #006A00 at upper left to #00B000 at lower right. Top rim 2pt line #22DD22 along upper edge. Darker upper facet band: (286,169),(352,198),(352,215),(286,190) #004D00 alpha 0.5. Lower facet: (286,211),(352,236),(352,260),(286,245) #006000. Spikes behind the right card, pointing left: tip (311,131) to base (352,144)-(352,165), #006000 gradient; tip (314,159) to base (352,172)-(352,190). Bright offset rim behind each spike, tip (329,130), #22DD22, 3-4pt visible. Streaks below: thin polygon (286,249) to (352,262), width 1.5pt #33DD33; two more further down with alpha fading to 0 at left. White '+' or '=' at wedge center. Order: wedge and shards behind both cards, right card clips the right ends.",
+  "use_for": "Merging A + B = NewCo; energetic connector between comparison cards.",
+  "is_image": true
+ },
+ {
+  "technique": "Stacked offset wireframe logo plates",
+  "deck": "Vibra",
+  "pages": [
+   1,
+   41,
+   7,
+   12,
+   15
+  ],
+  "crop": "b1_v_extruded_wire.png",
+  "quality": 3,
+  "construction": "Raster background in source (1625x1495 with soft mask). In px@110, front V: (757,191),(893,193),(831,577),(1235,30),(930,635),(759,633). Draw 3-4 copies shifted up-left, steps about (-8,-12) and (-13,-16) pt. Copies at the back: fill white alpha 0.05-0.08, no outline. Front copy: no fill, 1pt outline #00E000. Add a mid copy with #00A000 outline at alpha 0.5. Slightly vary scale across copies so edges fan out. Page: horizontal gradient #000 to #003300 at the right. Works with any logo-like polygon.",
+  "use_for": "Cover, Q&A, or divider background.",
+  "is_image": true
+ },
+ {
+  "technique": "Pennant banner with fold and tab on a card",
+  "deck": "3R Petroleum",
+  "pages": [
+   40
+  ],
+  "crop": "b4_side_wall_gate.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Variant on the known side-wall panel. Wall (755,761)(675,700)(675,197)(755,136) #D9D9D9; panel (755,136)-(1467,761) #F2F2F2, bleeding off the right edge; the chart panel #F2F2F2 ends at x=675 so the wall looks like an open gate between them. Top tab rect (801,131)-(1188,176) #205B4A pokes 5px above the panel with a small fold triangle (785,136)(801,131)(801,136). Inner dashed rect (838,250)-(1408,667) #D9D9D9 with 2px dashed #207D5A. Banner on the dashed edge: (937,225)(1300,225)(1300,279)(1118,292)(937,279) #207D5A, the bottom shallowly pointed, soft shadow; fold (1299,249)(1299,225)(1317,249) #205B4A. Result plate (962,574)-(1298,730) #205B4A breaks through the dashed frame at the bottom.",
+  "use_for": "Chart on the left zooming into a valuation summary.",
+  "is_image": false
+ },
+ {
+  "technique": "Solid offset L-bar with photo breakout and name plate",
+  "deck": "3R Petroleum",
+  "pages": [
+   36,
+   71,
+   23
+  ],
+  "crop": "b4_quote_L_bar_breakout.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Card (103,133)-(759,445) #F2F2F2. Bar: solid #205B4A 8px wide on right (759,142)-(767,455) and bottom (111,447)-(767,455), i.e. a same-size rect shifted +8,+10, card on top. Name plate rect (103,333)-(600,426) #BEBEBE on the card, photo cut-out PNG on top, its head overlapping the card area and shoulders overlapping the plate and reaching the bar: three layer planes in about 8px of offset. Photo is the only raster.",
+  "use_for": "Management quote, field research interview.",
+  "is_image": false
+ },
+ {
+  "technique": "Full-bleed band over dimmed slide",
+  "deck": "3R Petroleum",
+  "pages": [
+   3,
+   10,
+   14
+  ],
+  "crop": "b4_band_over_dim.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Previous slide copy, then 23% black overlay (white becomes #C4C4C4), then opaque #205B4A rect, full width, y 264-560 (36% of height), centered white question text. Content above and below stays legible as a ghost layer. No shadow.",
+  "use_for": "Question slide or transition without leaving context.",
+  "is_image": false
+ },
+ {
+  "technique": "Layered cutaway scene",
+  "deck": "3R Petroleum",
+  "pages": [
+   4
+  ],
+  "crop": "b4_cutaway_scene.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Container: rounded rect (100,190)-(1000,495), radius ~45, clip. Back to front: sky #6BB0BF, sea gradient #0A6878 to #1D4F60, seabed freeform in dark green rising to the left, gradient to dark at the bottom. Platform silhouettes in grey PNG (2455x831 and 2460x675 rasters with alpha span the width) on the waterline, dark curved risers, then dark rounded labels. Rebuild as stacked freeforms; platforms can be icons.",
+  "use_for": "Explaining an industry or asset type.",
+  "is_image": true
+ },
+ {
+  "technique": "Chevrons with beam to a card",
+  "deck": "3R Petroleum",
+  "pages": [
+   61,
+   62,
+   63,
+   64,
+   65
+  ],
+  "crop": "b4_chevron_beam_card.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Variant on the zoom beam: 6 chevrons x 592-714, height ~120, pitch 97, so each chevron nests into the previous with a ~20 px white gap; inactive #BDBDBD, active #205B4A. Beam flat #D9D9D9, polygon from the active chevron's right tip (714,277) to (854,165) and (854,725). Card (854,142)-(1365,750) #EBEBEB with soft shadow. Inactive text in card at 25% alpha.",
+  "use_for": "Six-step process with detail per step.",
+  "is_image": false
+ },
+ {
+  "technique": "Rail of translucent curved layers",
+  "deck": "3R Petroleum",
+  "pages": [
+   2
+  ],
+  "crop": "b4_rail_waves_3r.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Left rail ~70px, 4-5 tall curved freeforms overlapping, e.g. #003E49, #3F9D6F, #4BC184, #93D9B3 at 60-80% alpha, so overlaps create new tones. Pages under dim keep them visible. Nubank twin below.",
+  "use_for": "Slide master signature.",
+  "is_image": false
+ },
+ {
+  "technique": "Yellow-edged V cut-outs into a dark page",
+  "deck": "AB InBev",
+  "pages": [
+   3,
+   8,
+   21,
+   31
+  ],
+  "crop": "b1_frame_v_chevrons.png",
+  "quality": 2,
+  "construction": "In px@110. Dark page #3A3838. Light #D9D9D9 polygon (910,0),(1467,0),(1467,80),(1215,495) with 6px stroke #FFCC00. Second polygon (1067,825),(1423,245),(1467,320),(1467,825), same stroke. A diagonal dark corridor stays between them. The active item uses color, inactive at alpha 0.3.",
+  "use_for": "Thesis overview with progress state.",
+  "is_image": false
+ },
+ {
+  "technique": "Donut slices extended into flag tabs",
+  "deck": "AB InBev",
+  "pages": [
+   150
+  ],
+  "crop": "b1_donut_slice_flags.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Donut r≈145 centered (415,350), hole r≈72. Big slices merge into rects of the same color: e.g. Oil #F0D010 rect (87,231)-(370,287), Aluminium #736F6E rect (415,231)-(715,279), Fixed costs #807F7F (470,345)-(715,443), Barley #D9D9D9 (87,373)-(370,443). Tabs behind donut slices, same fill so seam disappears. Label in tab. Hole: white circle over a light grey circle shifted (0,+3), giving a pressed crescent. Small slices have no tabs.",
+  "use_for": "Cost breakdown with long labels, no legend needed.",
+  "is_image": false
+ },
+ {
+  "technique": "Speed rays behind an object",
+  "deck": "AB InBev",
+  "pages": [
+   129
+  ],
+  "crop": "b1_speed_rays.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Five #FFFF00 freeforms bleeding from the sidebar edge at x=61, each flaring: 30-40pt tall at left narrowing to 15-20pt rectangles by x≈115, ending behind a mascot at x≈200. White gaps taper. Object sits on top with soft oval ground shadow. Not checked whether the mascot is vector.",
+  "use_for": "Motion or network-effect metaphor; connects a logo to the page edge.",
+  "is_image": false
+ },
+ {
+  "technique": "Diamond photo tiling",
+  "deck": "AB InBev",
+  "pages": [
+   73,
+   74,
+   75,
+   76,
+   77
+  ],
+  "crop": "b1_diamond_photo_tile.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Square photos masked as rotated 45-degree squares, diagonal about 160pt, 4 tiles in a big diamond of about 317x320 with white 2pt seams. Lower half overlaps a grey #F2F2F2 panel starting at y=226, so the top tile rises above the panel. Names as 45-degree text outside each tile.",
+  "use_for": "Team or leadership.",
+  "is_image": true
+ },
+ {
+  "technique": "Double-band ring with lit segment",
+  "deck": "Alupar",
+  "pages": [
+   22,
+   23,
+   24,
+   25,
+   26
+  ],
+  "crop": "b2_double_ring.png",
+  "quality": 2,
+  "construction": "Two concentric thin bands, both grey 1pt outlines with no fill: outer radii about 75pt and 63pt; inner radii 61pt and 49pt. Radial tick dividers at slice boundaries. The active slice in both bands filled with angular gradient #0B2A8A to #1F55E0, outer slice a bit longer than the inner. Centre text gradient blue italic. Percent labels outside; active one white, others grey.",
+  "use_for": "Capital structure tranche selector on dark slides",
+  "is_image": false
+ },
+ {
+  "technique": "Ring nodes on staggered ledger lines",
+  "deck": "Alupar",
+  "pages": [
+   4,
+   5,
+   8,
+   16
+  ],
+  "crop": "b2_ring_ledger_wave.png",
+  "quality": 2,
+  "construction": "Each item: 68pt circle, 1pt blue stroke, no fill, with a second arc stroke rotated and offset about 2pt so the edge looks doubled at 2 opposite quadrants. A 1pt line leaves the circle's bottom tangent and runs to the slide's right edge, ending in a small diamond. Items step right and down at x about 66, 140, 255 (irregular). Background: near-black #020B1A plus a very low alpha raster terrain mesh at the bottom 20% and faint + grid marks.",
+  "use_for": "Thesis or section dividers on dark slides",
+  "is_image": false
+ },
+ {
+  "technique": "Focus-dim of inactive items",
+  "deck": "Alupar, Sabesp, Intelbras, CSN (Liability Management), Mercado Libre",
+  "pages": [
+   5,
+   8,
+   16
+  ],
+  "crop": null,
+  "quality": 2,
+  "construction": "Repeat the agenda or thesis slide per section, active item at 100%, the rest at 25-35% alpha (text and icons). Pages by deck: Alupar 5, 8, 16, 22-26; Sabesp 5, 15, 26; Intelbras 5, 14, 22; CSN 10, 15, 23, 33; Mercado Libre 6, 12, 23. The pages field lists Alupar's. Confirmed on contact sheets; only Alupar 22 and Sabesp 4 zoomed.",
+  "use_for": "Sections, agenda trackers",
+  "is_image": false
+ },
+ {
+  "technique": "Hard offset shadow on boxes",
+  "deck": "Arezzo&Co",
+  "pages": [
+   9,
+   4,
+   10
+  ],
+  "crop": "b3_az_hard_shadow.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Top rect (412,154)-(482,250) #404040; shadow rect (414,158)-(485,253) #202020, drawn first. Offsets (+3,+3.5). Pale version: box #DCF1F8 with shadow rect in #5CC8EC, same offset. No blur. Printer-safe.",
+  "use_for": "Small callouts in dense slides",
+  "is_image": false
+ },
+ {
+  "technique": "Stepped arrow bars with shield banner",
+  "deck": "BTG Pactual",
+  "pages": [
+   31
+  ],
+  "crop": "b3_btg_ribbon_chevrons.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Bars from x=-3: y338-369 #264457, y378-409 #1D6295, y419-450 #0E5772, y459-490 #192E3A. Bar ends x=266,294,322,351, step +28. Head triangle e.g. (266,338),(278,353),(266,369) same colour, 12 long, 31 tall. Plate behind: #F2F2F2 x0-480,y~320-500. Right side: pale-blue pentagon banner, flat top, bottom V shape x~443-965, y~200-310, V depth ~25, from which a vertical stem drops to a diamond-node line. Depth low but reliable.",
+  "use_for": "Ranking factors; progressively heavier arguments",
+  "is_image": false
+ },
+ {
+  "technique": "Trapezoid tabs merging into a grey plate with matching slope",
+  "deck": "BTG Pactual",
+  "pages": [
+   47
+  ],
+  "crop": "b3_btg_trapezoid_levels.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact plate (413,218),(903,218),(903,369),(511,369) #F2F2F2, slope dx/dy=0.649. LOW tab: flat left x256, right edge from (~405,218) to (~421+,280), #1482AC-ish; HIGH tab x256 to (478,369), top y~304, #0E5772. Their right edges use the same slope with a white gutter ~10 between them and the plate, so tabs slide under/in front of the plate. Tabs measured from render, plus or minus 3. Left stack: three rects 147 wide, 88 tall in tones #1482AC,#0E5772,#134263 within thin bracket frame with two arrows at top and bottom.",
+  "use_for": "Low versus high level with explanation",
+  "is_image": false
+ },
+ {
+  "technique": "Stacked arches ascending",
+  "deck": "BTG Pactual",
+  "pages": [
+   122
+  ],
+  "crop": "b3_btg_arch_stack.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact, thick open polylines with rounded shoulders. Each arch 4pt thick; shape for E: (530,482),(557,440),(584,426),(830,426),(857,440),(884,482) #134263. Above, D: (575,415)..(625,363)..(789,363)..(838,415) #1D6295; C: (617,347)..(662,300)..(752,300)..(797,347) #75B6E5; B: (653,279)..(693,237)..(721,237)..(761,279) #A3CEED; A: (682,220)..(707,199)..(732,220) #65757D. Widths 354,263,180,108,50, step ~63. Letter inside. Together an open line pyramid. Dashed divider between two arches marks a split.",
+  "use_for": "Income classes, hierarchy segments without solid fills",
+  "is_image": false
+ },
+ {
+  "technique": "Rhombus photo mosaic",
+  "deck": "BTG Pactual",
+  "pages": [
+   61
+  ],
+  "crop": "b3_btg_diamond_photos.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Whole diamond x72-422, y141-489, centre ~(247,315). Four photo rhombi of half diagonal ~87, gaps ~4, grey #A6A6A6 fills showing behind the photo corners. Photos are rasters cropped by freeform. Labels at outer vertices, connected with short lines ending in small diamonds. Build: 4 freeform pictures or 4 diamond shapes with picture fill.",
+  "use_for": "Team, management or partners; 4 people",
+  "is_image": false
+ },
+ {
+  "technique": "Glass plate and angled planes over a photo",
+  "deck": "BTG Pactual",
+  "pages": [
+   4,
+   20,
+   49,
+   65,
+   68
+  ],
+  "crop": "b3_btg_glass_planes.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Translucent plate exact rect (377,234)-(766,329) #CFE0EA alpha .2 with large text. Background navy #0F2233. Photo raster (973x779) masked by diagonal triangle at right, plus raster tilted card (1082x866). Two or three diagonal 1pt lines and darker parallelograms at about 60 degrees. Native rebuild: photo in rect, navy triangles overlaying it, parallelogram alpha .3-.6 on top.",
+  "use_for": "Section dividers with photo background",
+  "is_image": true
+ },
+ {
+  "technique": "Tube bars and glowing tab",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   4,
+   5,
+   6,
+   31
+  ],
+  "crop": "b2_tube_bars.png",
+  "quality": 2,
+  "construction": "Multi-stop gradient across the bar's short side simulates a cylinder: dark at both edges and bright at the middle. p4 vertical bars: #1A6FA8 top, #2188CF middle, #1A6FA8 bottom. Waterfall bars: #003A7A, #0067C0, #003A7A. p31 red version, horizontal bars: #5A0000, #B00000, #5A0000. Active tab: full-width navy rect #001F3F with vertical gradient to #6FC3FF at the bottom edge, 1.5pt dashed navy outline offset 2pt out; inactive tabs flat navy. Spotlight for a chosen year: translucent #BFE3FF at 35% rect with 1pt border, behind the bar and rising above the chart.",
+  "use_for": "Rendering conventional bars with volume, navigation tabs",
+  "is_image": false
+ },
+ {
+  "technique": "Glass columns over a dark gradient, crossed by a timeline",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   9,
+   10,
+   15,
+   23,
+   33
+  ],
+  "crop": "b2_glass_columns.png",
+  "quality": 2,
+  "construction": "Slide bg: linear gradient black (top-left) to #00305F. 4 column rects about 171x382pt, fill white at about 4-6% alpha, 0.75pt border white at about 25% alpha, positions staggered +/-2pt vertically. White 1pt horizontal line runs edge to edge passing through them at step-label height, interrupted by the labels with short vertical ticks either side. Inner boxes: dashed 0.75pt #0B5CAD with fill a bit lighter, so 3 tones of depth: bg, column, inner box. Unselected column contents faded to about 35% on later pages.",
+  "use_for": "Step plans and comparison columns on dark slides",
+  "is_image": false
+ },
+ {
+  "technique": "Gradient lit regions on outlined map",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   24
+  ],
+  "crop": "b2_gradient_map.png",
+  "quality": 2,
+  "construction": "Map borders white 1pt no-fill on dark bg. Selected states filled with vertical gradient: bg-tone at top to #0A5CB0 at bottom, overlaid white 1.5pt rail lines in sky blue. Translucent table panel (#FFFFFF 3%, border #1C5D93) overlaps the map's top-left, so the map shows through. Leader lines with diamond end caps run to labels.",
+  "use_for": "Geographic footprint on dark slides",
+  "is_image": false
+ },
+ {
+  "technique": "Gradient-stroke corner box",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   31
+  ],
+  "crop": "b2_lshadow_box.png",
+  "quality": 2,
+  "construction": "White box, no full outline. Build with 2 thin rects (1.5pt) on the top and right edges, solid #C00000 at the shared corner fading to alpha 0 towards the far ends; plus a soft shadow at low alpha on the opposite corner. Box appears lifted and lit from the top-right.",
+  "use_for": "Org and transaction structure nodes",
+  "is_image": false
+ },
+ {
+  "technique": "Glow row bands with fading rules",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   2,
+   9,
+   10,
+   18
+  ],
+  "crop": "b4_glow_row_bands.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Background horizontal #0B122B to #1A3C87. Bands 83px tall, full width, each a rect with horizontal gradient #0B122A to #19387D, a hair lighter than the field. Top and bottom 1.5px rules #517FDE that fade to transparent past ~84% of the width (bottom rule slightly stronger). Dotted-circle medallion r=24 at x=93 with the roman numeral. Rows act as recessed slots. Section variant fades inactive rows to about 35% alpha.",
+  "use_for": "Agenda on navy, section dividers.",
+  "is_image": false
+ },
+ {
+  "technique": "Double-outline hexagons in staggered layout with a translucent column",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   27
+  ],
+  "crop": "b4_hex_double_column.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Hexagons ~126x116 px: outer stroke 2px #FF0000, inner hexagon inset 5px stroke 1px #C00000, fill transparent over gradient red. Staggered: two in a column at x~1200, third offset +160 at mid height. Label plate below each with 1px stroke. Column (957,178)-(1067,522), radius 25, red at 50% alpha (#A00000) with 2px #FF0000 stroke, over the table's rows so the rows read through it. Horizontal rules cross over it. Depth from translucency, not faces.",
+  "use_for": "KPI cluster plus emphasising a terminal value column.",
+  "is_image": false
+ },
+ {
+  "technique": "Translucent plate over org-chart lines with ghost nodes",
+  "deck": "Cosan",
+  "pages": [
+   21,
+   22,
+   23
+  ],
+  "crop": "b4_translucent_plate_chart.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Dark gradient slide. Plate rect (857,246)-(1365,300), white at ~20% alpha, 1px dashed white border, drawn over the connector lines so the lines read through it; holds the percentages. Inactive state layers: same connectors and nodes in red at 25-30% alpha sit behind the active white ones, offset ~50px left, i.e. the previous structure stays as a ghost. Ghost box 'Others' (1239,343)-(1364,407). Active node: filled dark-red with white or red 2px stroke.",
+  "use_for": "Before/after ownership structure, highlighting a stake band.",
+  "is_image": false
+ },
+ {
+  "technique": "Folder lip between header and chart body",
+  "deck": "Cosan",
+  "pages": [
+   30
+  ],
+  "crop": "b4_folder_lip_card.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured. Header rect (47,147)-(720,266) #F2F2F2 with black 1px border, holds legend. Lip trapezoid (47,266)(720,266)(714,294)(52,294), black at 90% alpha (#191919): narrows by ~5-6px each side going down, 28px tall. Body rect (54,294)-(712,740) white with 1px black border, narrower than header. Reads as a binder/visor hanging over the chart. MOIC oval overlaps a connector line above the bars.",
+  "use_for": "Waterfall or chart with legend/key in a header zone.",
+  "is_image": false
+ },
+ {
+  "technique": "Vertical-gradient rows on a diagonal gradient field",
+  "deck": "Cosan",
+  "pages": [
+   2
+  ],
+  "crop": "b4_gradient_rows.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Background diagonal linear #020000 top-left to #8E0000 bottom-right. Rows 1303x83 at pitch 125, x 46-1349. Row fill vertical gradient #670000 top, #3F0000 mid, #250000/near black bottom. 1px dotted white on left and bottom edges only (lit edge), dark on top/right. Rows look like raised metal plates because each one's value range differs from the field behind it.",
+  "use_for": "Agenda, section lists on dark themes.",
+  "is_image": false
+ },
+ {
+  "technique": "Top-down boardroom capsule with chairs under the table",
+  "deck": "Cosan",
+  "pages": [
+   6
+  ],
+  "crop": "b4_topdown_boardroom.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. No raster at matching size, treat as native. Table capsule x 160-600, y 240-320, dark olive #3F4F31 about 85% alpha, drawn OVER 7 chair groups, so chair seats read through the table edge. Chair: back rounded rect plus two arm rounded rects and seat, top-down, #5B7F2F with dark #24361A arms; investor chairs tinted navy or grey to signal the new board member. Dashed leaders from the logo to the chair. Vertical 1px rule splits New vs Existing members.",
+  "use_for": "Board composition, governance.",
+  "is_image": false
+ },
+ {
+  "technique": "Shaded map states with dashed leaders",
+  "deck": "Cosan",
+  "pages": [
+   8,
+   23
+  ],
+  "crop": "b4_map_shade_leaders.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Native polygons. Each state with its own horizontal gradient #821616 at outer left to #470000 at inner to dark, with white 1px borders. The gradient runs across the whole map so it reads as a lit relief. Dashed stepped leaders from each state to a logo row at x~710-780, % and volume to the right of a 1px rule. Gradient bars in the chart repeat the same red-to-dark gradient.",
+  "use_for": "Regional portfolio, concessions.",
+  "is_image": false
+ },
+ {
+  "technique": "Card with a top dark edge and notched corner (pasted)",
+  "deck": "Cosan",
+  "pages": [
+   8
+  ],
+  "crop": "b4_card_top_tab.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Source is a 591x1144 PNG with alpha placed at (43,114)-(367,743). To rebuild: white rect, 2px dark border, a 5px dark red bar overhanging the top by 3px, chamfered at the top-right corner.",
+  "use_for": "Company snapshot sidebar.",
+  "is_image": true
+ },
+ {
+  "technique": "Glass waterfall on dark",
+  "deck": "Cury Construtora",
+  "pages": [
+   33
+  ],
+  "crop": "b3_cu_glass_waterfall.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact bars left: outlined (46,260)-(82,457), (153,281)-(189,399), (261,171)-(297,248), (368,409)-(404,457): no fill, white 1.25pt stroke. Filled bars (100,260)-(135,399),(207,248)-(243,281),(314,171)-(350,457),(422,131)-(458,457): vertical gradient #0F2F7A top to navy #071734 bottom, alpha ~.8 with thin lighter stroke. Alternating outlined positive and solid negative or totals. Background: gradient to bright blue at lower right.",
+  "use_for": "NAV or waterfall on a dark slide",
+  "is_image": false
+ },
+ {
+  "technique": "Fading parallelogram tabs on tree",
+  "deck": "Cury Construtora",
+  "pages": [
+   31
+  ],
+  "crop": "b3_cu_para_tabs.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact. Row tab: rect + triangle, e.g. rect (22,351)-(150,400) #F2F2F2 + triangle (150,351),(178,351),(150,400); or (21,269)-(190,318). Heights 49, tip 28, widths shrink by 40 per row. Final row dark gradient (21,433)-(109,482),(109,433)-(136,482) #152757 to mid blue. Each tab connected to a stroked value box x~320-412 by a hairline. A vertical navy line connects rows. Cheap.",
+  "use_for": "Return decomposition: factor to value",
+  "is_image": false
+ },
+ {
+  "technique": "Donut seated on a chamfered plate",
+  "deck": "Intelbras",
+  "pages": [
+   56
+  ],
+  "crop": "b2_donut_plate.png",
+  "quality": 2,
+  "construction": "Grey plate #F0F0F0 polygon: bottom edge full width (about 233pt), rising verticals, top corners chamfered inward at 50 degrees up behind the donut; plate top is hidden by the donut, which overlaps about 25% of its height. Caption sits on the plate below the donut. Three grey boxes below continue the base, with dashed tether.",
+  "use_for": "Pie or donut with a one-line takeaway",
+  "is_image": false
+ },
+ {
+  "technique": "Overlapping alpha triangles",
+  "deck": "Intelbras",
+  "pages": [
+   4,
+   5,
+   14,
+   22,
+   31,
+   33
+  ],
+  "crop": "b2_triangles_overlap.png",
+  "quality": 2,
+  "construction": "Tall thin isosceles triangles and kites from the right edge, 4-5 shapes, each 40-60% alpha in greens and lime (#B7E07A, #7CCB4F, #3EB56E, #2FA87A, #7EC9A8) on a pale #CBEEDB. Overlaps darken and create secondary facets. One apex meets the mid-height at about x1235 px of 1467. Same set reduced to about 90pt wide forms the left side rail on all content slides.",
+  "use_for": "Dividers and page chrome where a brand needs a facet language",
+  "is_image": false
+ },
+ {
+  "technique": "Fan plate from logo to a stack of rows",
+  "deck": "Intelbras",
+  "pages": [
+   62
+  ],
+  "crop": "b2_fan_plate.png",
+  "quality": 2,
+  "construction": "Triangle #E6E6E6, apex at (204,319) next to the logo, vertical base at x252 from y137 to y499; the rows are placed just right of it. Right side uses a counterpart pointing right: (806,350), (806,489), (840,419), #D9D9D9, from 3 stacked rows to a dashed conclusion box. Effectively a side wall with zero short edge.",
+  "use_for": "One company vs a list; a list collapsing to one conclusion",
+  "is_image": false
+ },
+ {
+  "technique": "Swoosh arrow overlapping a bracketed panel",
+  "deck": "Intelbras",
+  "pages": [
+   8,
+   29
+  ],
+  "crop": "b2_swoosh_panel.png",
+  "quality": 2,
+  "construction": "Curved block arrow freeform: tail tapers to a point at (437,354), widens up to about 22pt at the neck, head about 45pt, tip at (522,281), overlapping the panel's corner. Panel: #F5F5F5 with offset green L-brackets (known), with the arrow head in front of both. Small ramp wedge before the next title in the same green.",
+  "use_for": "Causal jump from evidence on the left to a chart on the right",
+  "is_image": false
+ },
+ {
+  "technique": "Bars fading to black at the base",
+  "deck": "Kering - Moncler",
+  "pages": [
+   5,
+   15,
+   19
+  ],
+  "crop": "b1_fade_bars.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Native bar fill, vertical gradient #595959 from top down to about 40%, then to #0D0D0D at baseline. Thin gridline-like dashed verticals run in front, a thin gold trend arrow crosses bars on top.",
+  "use_for": "Long market-size series; the base merges with axis so bars seem to rise from the floor.",
+  "is_image": false
+ },
+ {
+  "technique": "Soft glow dots on a risk matrix",
+  "deck": "Kering - Moncler",
+  "pages": [
+   28
+  ],
+  "crop": "b1_glow_dots.png",
+  "quality": 2,
+  "construction": "Probably raster with soft mask. Build with oval d≈36 and radial gradient: solid to 70% then alpha 0 at 100% of a d≈52 oval behind it. Red #FF0000, amber #FFC000, green #00B050. Sits on flat grid plus a grey #E6E6E6 dashed gold highlight box.",
+  "use_for": "Risk matrix markers.",
+  "is_image": true
+ },
+ {
+  "technique": "Modal over dimmed slide with offset colour shadow",
+  "deck": "Meliuz",
+  "pages": [
+   52,
+   44
+  ],
+  "crop": "b4_modal_offset_shadow.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Duplicate the slide as background, full-bleed black at ~58% alpha above it. White rect (259,87)-(1209,735). Solid pink #FF385A offset: rect shifted +7,+6, drawn under it, so only the 6-7px L at right and bottom shows, starting 38px below the card's top at x=1209 and 11px right of its left at y=735. Inner: two overlapping circles with 40% alpha of pink and grey, and a white lens in the overlap holding the key number (+20 mn).",
+  "use_for": "Pop-up detail or definition within a sequence, reuses the previous slide as depth.",
+  "is_image": false
+ },
+ {
+  "technique": "Faceted pyramid with tier tabs",
+  "deck": "Meliuz",
+  "pages": [
+   16
+  ],
+  "crop": "b4_pyramid_tier_tabs.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Known pyramid, but better than usual: each tier is a truncated pyramid with a darker top-right wall and a lighter left, and a tab rectangle in the same tone emerges from behind the tier's right wall, carrying its text. Tiers (bottom to top) #FF385A/#FF6B84, #FF8196/#FFAEBB, #FFE1E6/#FFEFF2. Apex tab tallest. Base corners (104,621)(319,711)(535,621), upper tier overlaps lower by ~40px.",
+  "use_for": "Admission criteria, funnels with explanatory text.",
+  "is_image": false
+ },
+ {
+  "technique": "Rail of cascading chevrons",
+  "deck": "Meliuz",
+  "pages": [
+   62,
+   82
+  ],
+  "crop": "b4_rail_chevrons.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Left rail 75px wide, #404040. Bottom: 3 chevrons pitch ~50, width of the rail, each with a 6px white chevron above it, tones stepping #FF385A, #FF8196, #FFE1E6 (or greys on appendix). Slide-wide signature, cheap sense of downward layers.",
+  "use_for": "Slide master signature.",
+  "is_image": false
+ },
+ {
+  "technique": "Slashed triangle shards holding product cards",
+  "deck": "Meliuz",
+  "pages": [
+   8,
+   9,
+   20,
+   41
+  ],
+  "crop": "b4_slash_shards_cards.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Field #404040. Light #D9D9D9 triangles separated by ~25px field-coloured gaps forming an X, e.g. (1025,0)(1465,0)(1225,463). Card images (745x1031 raster, rotated cards) break out of the triangle edge, phone raster bleeds off the bottom. Triangles are native; products are rasters. Replacing the rasters with two rotated round rects gives a card stack: back card lower-left, offset ~50px, darker.",
+  "use_for": "Divider or thesis slide with product imagery.",
+  "is_image": false
+ },
+ {
+  "technique": "Mitre-joined diamond photo mosaic",
+  "deck": "Mercado Libre",
+  "pages": [
+   69,
+   70,
+   71
+  ],
+  "crop": "b2_diamond_portraits.png",
+  "quality": 2,
+  "construction": "3 square photos rotated 45 degrees, about 164pt on the diagonal, touching along edges: 2 on top row, 1 below centre, the lower in front. The cluster straddles the top edge of a full-width #E6E6E6 band (band covers lower 45%). Name labels rotated +/-45 degrees along outer edges. Build with diamond shape picture fill. Intelbras p32 variant: single diamond 1.5pt navy outline a bit larger than the photo, cropped cut-out inside.",
+  "use_for": "Team, board bios",
+  "is_image": false
+ },
+ {
+  "technique": "Elevated soft-shadow card over a recessed row",
+  "deck": "Mercado Libre",
+  "pages": [
+   5,
+   6,
+   12,
+   23,
+   37
+  ],
+  "crop": "b2_card_drop_shadow.png",
+  "quality": 2,
+  "construction": "Page #EDEDED. Upper card #F4F4F4 no shadow, radius 4pt (recessed tone). Lower card pure white, radius 4pt, native outer shadow: down 3pt, blur 4pt, about 45% black: contrast between the 2 tones implies 2 heights. Green vertical line and dots inside; hairline footer divider.",
+  "use_for": "Agenda or thesis tracker with price target strip",
+  "is_image": false
+ },
+ {
+  "technique": "Spine rail with notched teeth and overhanging header",
+  "deck": "Mercado Libre",
+  "pages": [
+   36
+  ],
+  "crop": "b2_spine_notches.png",
+  "quality": 2,
+  "construction": "Panel #F0F0F0 bleeds off the right. Left spine 6pt wide with rounded top-left corner, in section colour. Header band same colour, 29pt tall, running from the spine to the right edge. Bullets: small right-pointing triangle (6x10pt), same colour, attached to the spine, so the spine appears to have teeth. Repeat for a 2nd section in grey #A6A6A6. Risk matrix tiles on the left have 3 tones by section.",
+  "use_for": "Risk lists, grouped bullet panels",
+  "is_image": false
+ },
+ {
+  "technique": "Scrim with band and speed lines",
+  "deck": "Mercado Libre",
+  "pages": [
+   16,
+   31
+  ],
+  "crop": "b2_band_scrim.png",
+  "quality": 2,
+  "construction": "Previous slide at full size under black 50% alpha. Band: pure white, full-width, about 208pt tall centred at 55% of height. Above and below it 16pt strips #E3E3E3 so band looks extruded. Two white hairlines, different lengths (207pt, 250pt), in the top-left strip; same mirrored bottom-right.",
+  "use_for": "Rhetorical transition question between sections",
+  "is_image": false
+ },
+ {
+  "technique": "Offset corner plates peeking out from a card",
+  "deck": "Nubank",
+  "pages": [
+   64
+  ],
+  "crop": "b4_offset_corner_plates.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector, very simple. Two solid rounded rects #8C0CB0 of 382x208: top-left at (109,263)-(491,471), bottom-right at (1006,531)-(1388,739). Main card on top, #F6F6F6, (123,275)-(1375,727), radius about 75px. So plates stick out only 14px left and 12px up, and 13px right and 12px down, and read as a stack behind the card. Distinct from the grey-card corner brackets because plates are solid and share the card's radius.",
+  "use_for": "Big quotes, a transcript from a results call, one-message slides.",
+  "is_image": false
+ },
+ {
+  "technique": "Translucent concentric arcs over tinted photo",
+  "deck": "Nubank",
+  "pages": [
+   1
+  ],
+  "crop": "b4_translucent_arc_photo.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Photo raster full bleed with light purple tint (white ~25-35%). Circle 1, very large, center off-slide right: left edge at x~660 at y=500, solid #8C0CB0 at ~55% alpha (#953AA8 on photo). Circle 2, same center, left edge x~770: solid #8C0CB0 100%. Result is a soft 110px translucent rim. Title in the solid zone. The arcs are native; the photo is the only raster.",
+  "use_for": "Cover with a corporate photograph.",
+  "is_image": false
+ },
+ {
+  "technique": "Diagonal clipped photo, translucent footer band, parallel dashed path",
+  "deck": "Nubank",
+  "pages": [
+   4,
+   5,
+   12,
+   22,
+   34,
+   36,
+   38
+  ],
+  "crop": "b4_diagonal_photo_band.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Solid #8C0CB0 field with freeform right edge from (1092,0) to (720,825), about 65 degrees, photo raster behind it, tinted ~15%. Bottom band across the photo y 505-825, #8C0CB0 at ~55% alpha (#83379C), carrying the BUY call. Dashed white line (955,0) to (580,810), parallel to the edge at about 140px offset, with outline icons sitting on the line that break it; text right-aligned to each icon, so the text steps diagonally.",
+  "use_for": "Investment thesis summary, section divider with a 3-point recap.",
+  "is_image": false
+ },
+ {
+  "technique": "Wedge from a photo into a speech bubble",
+  "deck": "Nubank",
+  "pages": [
+   7
+  ],
+  "crop": "b4_speech_wedge_photo.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Portrait cut-out at left over a very light wedge #F5E6FF: polygon about (212,335)(345,320)(345,440)(212,440), going wider toward the bubble. Bubble (345,320)-(705,440), #E4BCFF, radius ~25, drawn over the wedge's right edge. Reads like a projection beam from speaker to message.",
+  "use_for": "Executive quote, founder thesis.",
+  "is_image": false
+ },
+ {
+  "technique": "Rail of curved layers, magenta to deep purple",
+  "deck": "Nubank",
+  "pages": [
+   7,
+   64
+  ],
+  "crop": "b4_rail_waves_nubank.png",
+  "quality": 2,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Same as the 3R rail, gradient-filled: base vertical gradient #E100FF to #3A0060, one dark wave #6A008C in the middle and a light translucent wave #C080FF on top; right edge wavy, width varies 45-70px.",
+  "use_for": "Slide master signature.",
+  "is_image": false
+ },
+ {
+  "technique": "Equals wedge linking chart rows",
+  "deck": "RD Saude",
+  "pages": [
+   79
+  ],
+  "crop": "b3_rd_wedge_equals.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact trapezoid (333,319),(364,287),(621,287),(652,319) #A5A5A5 with a bold '=' centred. Bottom width 319, top 257, height 32, inset 31 per side. Sits between two rows on a shared grey band so it looks like a raised shelf that the upper chart row rests on and feeds into the lower row. Multiplication signs between upper charts are plain text.",
+  "use_for": "DuPont or formula decomposition, three charts equal one result chart",
+  "is_image": false
+ },
+ {
+  "technique": "Double lens: circular window in the veil plus gradientless beam",
+  "deck": "RD Saude",
+  "pages": [
+   50
+  ],
+  "crop": "b3_rd_lens_beam_roiic.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Veil over page. Big white ellipse roughly x690-930, y30-310 cut on the veil so that the right chart end stays lit; both ellipse top and bottom are clipped into arcs. Teal beam #0FA9B2 approx (475,240),(566,379),(667,197),(710,274), measured from render, plus or minus 5, and not found as a separate vector. Grey card x48-565, y240-465 with teal stroke, caption pill straddling the bottom edge.",
+  "use_for": "Comparing a metric with its incremental variant; focus on the last point",
+  "is_image": false
+ },
+ {
+  "technique": "Histogram tail wall into quote plate",
+  "deck": "RD Saude",
+  "pages": [
+   55
+  ],
+  "crop": "b3_rd_wedge_hist_callout.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Measured from render, plus or minus 3. Grey band behind the histogram tail, #E8E8E8, x~530-636, y~375-510. Wall trapezoid x636-668, left height ~375-510, right ~352-522, #A6A6A6. Plate x668-960, y352-522, #F2F2F2 with portrait and quote. Histogram bars change colour from green to teal at the band start, so colour and wall both mark the same split.",
+  "use_for": "Distribution tail or subset expanding into a comment",
+  "is_image": false
+ },
+ {
+  "technique": "Nested tonal pentagon radar",
+  "deck": "RD Saude",
+  "pages": [
+   20
+  ],
+  "crop": "b3_rd_radar.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Exact, five concentric pentagons, dark to neon from outside in: (156,313),(253,242),(351,315),(312,424),(192,424) #00764C; (175,314),(253,258),(332,316),(300,409),(205,409) #00925E; (197,322),(254,280),(310,323),(288,392),(219,392) #00C07B; (216,329),(254,301),(293,330),(277,376),(231,376) #01FFA4; (236,337),(254,324),(273,337),(266,360),(243,360) #00C07B. Data polygon on top: no fill, white 1.5pt stroke, (176,317),(253,281),(331,317),(277,374),(206,407). Reads as a stepped pyramid viewed from above.",
+  "use_for": "Porter forces or any 5-axis score",
+  "is_image": false
+ },
+ {
+  "technique": "Faded previous slide as modal backdrop",
+  "deck": "RD Saude",
+  "pages": [
+   10,
+   14,
+   15,
+   28,
+   33,
+   50,
+   57,
+   62
+  ],
+  "crop": "b3_rd_lens_beam_roiic.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Same slide kept beneath, then a full-slide rect #F2F2F2 or light grey alpha ~0.7-0.8 and a modal plate with shadow on top; title of the slide still ghosted, modal gets a new heading. Modal rect offset 100/80 from slide edges, with shadow (+4,+4) blur 8, black alpha .35. No slide transition, simply duplicates of the slide.",
+  "use_for": "Animated-style step on a static deck: deep-dive popups, Q&A follow-ups",
+  "is_image": false
+ },
+ {
+  "technique": "Grey lens into browser window",
+  "deck": "Rede D'Or",
+  "pages": [
+   14,
+   51,
+   56,
+   64
+  ],
+  "crop": "b1_lens_browser_window.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Grey #D9D9D9 wedge from bar to card (known zoom). Distinct part: card with shadow, then mock window: grey chrome #D9D9D9 band, three dots red, yellow and green d=10, white pill URL field, white page inset 8pt with news text.",
+  "use_for": "Citing a news article as evidence attached to a data point.",
+  "is_image": false
+ },
+ {
+  "technique": "Double-outline hexagons on a background arc",
+  "deck": "Rede D'Or",
+  "pages": [
+   11,
+   12,
+   22,
+   33
+  ],
+  "crop": "b1_double_hex_on_arc.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Hexagon outer about 98pt wide: stroke 2.5pt #6FC3E8, fill page navy #1F3864. Inner hexagon about 82pt wide, solid #6FC3E8, concentric. Teal #009B85 1.5pt arc, from a large circle centered off the left edge, passes behind hexagons. Middle hex shifts right 68pt following the arc. Inactive at alpha 0.2 as progress state.",
+  "use_for": "Three-point thesis on a dark slide.",
+  "is_image": false
+ },
+ {
+  "technique": "Interlocked hexagon cluster",
+  "deck": "Rede D'Or",
+  "pages": [
+   10
+  ],
+  "crop": "b1_hex_interlock.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Same double hex about 118pt wide. Three stacked with shared adjacent edges: outer strokes touch, navy gap keeps them separate. Offsets dx≈91, dy≈52, then dy≈110. Bleeds over a gradient page, no chart overlap.",
+  "use_for": "Recommendation stats: target, IRR, price.",
+  "is_image": false
+ },
+ {
+  "technique": "Flowing wave ribbons on the slide edge",
+  "deck": "Rede D'Or",
+  "pages": [
+   2,
+   3
+  ],
+  "crop": "b1_wave_edge_ribbons.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Freeform band on left edge, x 0-37, with sinusoidal right side; 3 overlapping waves in horizontal gradients, #5FBFC0 to #004185, phase-shifted, darker on top. Page number in white at the bottom. Light stroke between waves. Master element.",
+  "use_for": "Master-level identity touch that keeps content area clean.",
+  "is_image": false
+ },
+ {
+  "technique": "Full-width red band over a dimmed slide",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   17
+  ],
+  "crop": "b3_rbi_band_over_dim.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Page duplicate; full-slide white or grey veil alpha ~.5; band rect y~218-322, full width, #CC0002 with a large white centred question. Text beneath is cut by band. No shadow. Transition slide with no new layout.",
+  "use_for": "Pivot question between sections",
+  "is_image": false
+ },
+ {
+  "technique": "Wedges over photo cover",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   1
+  ],
+  "crop": "b3_rbi_cover_wedge.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Rasters with alpha (923x761, 1342x388) over a photo. Upper polygon bright red #C80000 gradient with a very rounded corner (r~60) covers left 2/3, angle ~ -60 degrees at right edge. Second lower shape dark red #8E0E1C rising from the bottom edge with a rounded peak near (690,320). Photo appears between them as a wedge. Native rebuild: freeform with arcs, gradient fill.",
+  "use_for": "Cover or divider",
+  "is_image": true
+ },
+ {
+  "technique": "Shallow-angle wall panel pair",
+  "deck": "Sabesp",
+  "pages": [
+   9,
+   11
+  ],
+  "crop": "b2_wall_tapered.png",
+  "quality": 2,
+  "construction": "Polygon on p11: x489.9-507, long edge y339.9-501.6, short edge y345.07-496.4, #D1D1D1. p9 larger: left panel #F5F5F5, about x61-491 y108-477; wall to about x505, short-side panel about y122-468. Angle is about 17 degrees from horizontal, versus 45 in Mercado Libre.",
+  "use_for": "Same as above when a quieter effect is wanted; dense slides",
+  "is_image": false
+ },
+ {
+  "technique": "Solid zoom trapezoid between tables",
+  "deck": "Sabesp",
+  "pages": [
+   46
+  ],
+  "crop": "b2_solid_zoom_trapezoid.png",
+  "quality": 2,
+  "construction": "Variant of the gradient beam: one solid polygon #12D0FF, no gradient. Narrow edge at x447.6 y254-365 (spans the 3 source rows), wide edge x525 y167-451 (full height of the destination table). The destination table sits on top of the wide edge, hiding nothing; source table abuts the narrow edge. The polygon has a notch: the middle of the wide side is covered by the table so only the top and bottom triangles remain visible.",
+  "use_for": "Expanding rows of a table into a detail table",
+  "is_image": false
+ },
+ {
+  "technique": "Light cone from donut slice to callout box",
+  "deck": "Sabesp",
+  "pages": [
+   59
+  ],
+  "crop": "b2_donut_light_cone.png",
+  "quality": 2,
+  "construction": "Callout rect #00C4E9 about 307x94pt under the donut. Behind the donut, a pale #E3F6FD trapezoid: narrow top about 55pt wide hidden under the donut slice's bottom (the donut has centre about (270,264), R 78, hole r 48), wide bottom exactly the callout's width on its top edge. Order: cone, then callout, then donut on top. Cone height about 50pt.",
+  "use_for": "Tie a dominant slice to its explanation",
+  "is_image": false
+ },
+ {
+  "technique": "Slanted parallel strips cutting a photo",
+  "deck": "Sabesp",
+  "pages": [
+   1
+  ],
+  "crop": "b2_slanted_strips_photo.png",
+  "quality": 2,
+  "construction": "Photo fills the right half, its left edge masked by a slant of about 12 degrees from vertical. Three parallelograms over the seam, each about 30pt wide, top shifted about +117pt right of bottom: navy #0B3A82, mid blue #0A7BD6, pale #B6E3FF, ordered left to right, each with a thin soft shadow on its right edge (blur 4pt, 30% black). Dot halftone corner decals are raster.",
+  "use_for": "Covers",
+  "is_image": false
+ },
+ {
+  "technique": "Outlined box with a bevel and tucked screenshot",
+  "deck": "Sabesp",
+  "pages": [
+   17
+  ],
+  "crop": "b2_mini_box_bevel.png",
+  "quality": 2,
+  "construction": "Box #F4F4F4 with 2pt purple outline. On the right, grey bevel polygon about 12pt wide, tapering 3pt at top and bottom, and the outline continues around the bevel's outer top and bottom edges. A dark code screenshot sits behind the bevel, with a Python logo overlapping its bottom corner.",
+  "use_for": "Small numeric callout backed by evidence",
+  "is_image": false
+ },
+ {
+  "technique": "Cut-out person breaking a quote panel",
+  "deck": "Sabesp",
+  "pages": [
+   17,
+   8
+  ],
+  "crop": "b2_quote_flag_cutout.png",
+  "quality": 2,
+  "construction": "Quote rect #F2F2F2 with a right-triangle flag at the top corner (navy on the left, cyan on the right), about 40x14pt, pointing inward. Person PNG with transparent bg about 95pt tall placed at the panel's outer end, standing past the top and side, in front of the panel and flag.",
+  "use_for": "Management quotes attached to a timeline",
+  "is_image": true
+ },
+ {
+  "technique": "Folded tab header on a card",
+  "deck": "Senior Sistemas",
+  "pages": [
+   14
+  ],
+  "crop": "b1_folded_tab_header.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Card (47,83)-(321,485) #F1F1F1 with a thin teal outline. Header band (45,73)-(334,99) radial or linear gradient teal #01826D to near-black navy #0A1420, wider than the card: 2pt overhang left and 13pt right. Fold: triangle about (321,99),(334,99),(321,112) navy #112235, drawn behind the card, so the overhang appears to wrap behind it.",
+  "use_for": "Company profile sidebar; any card that needs a ribbon title.",
+  "is_image": false
+ },
+ {
+  "technique": "Isometric wire cube in a dashed orbit",
+  "deck": "Senior Sistemas",
+  "pages": [
+   14
+  ],
+  "crop": "b1_iso_cube_badges.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED, vector. Disc d=82 at (521,244) #F1F1F1, dashed ring d=94 teal concentric, dashed spokes to neighbor cards. Cube outline hexagon (515,275),(549,267),(549,230),(524,218),(492,225),(492,262) as thick stroke 5pt #BFBFBF, plus three inner edges meeting near (515,238). Inside it a teal disc d=29 (506,232)-(535,261), partly crossed by the front edges. Lower version inverts it: thick teal cube, grey sphere, and back edges dashed to show transparency.",
+  "use_for": "Core versus near-core, or a product module placed in the center.",
+  "is_image": false
+ },
+ {
+  "technique": "Extruded pie with ghost remainder",
+  "deck": "Senior Sistemas",
+  "pages": [
+   46
+  ],
+  "crop": "b1_pie_3d_and_diamonds.png",
+  "quality": 2,
+  "construction": "Raster 944x416 in the source, buildable from freeforms. In px@110: top ellipse x 905-1282, y 520-700, so ry/rx about 0.47. Slices sector-shaped on the ellipse, #01826D and #05604F. Extrusion depth about 29pt: freeform following the lower ellipse arc, shifted down, horizontal gradient #01604F to #002A22. Remainder of the pie left unfilled, only a hairline dashed outline. Thin white seam between slices. Prefer drawing only the two highlighted slices.",
+  "use_for": "Showing a part-of-whole where the part matters and the rest is de-emphasized.",
+  "is_image": true
+ },
+ {
+  "technique": "Diamond badge with offset under-edge",
+  "deck": "Senior Sistemas",
+  "pages": [
+   46
+  ],
+  "crop": "b1_pie_3d_and_diamonds.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Rotated square about 48pt diagonal, teal fill #01826D with white text. Below it a same-size diamond in darker #05604F shifted +4pt in y, showing only a V along the lower edges. Soft shadow optional.",
+  "use_for": "Multiple callout (5x, 8x) floating above bars.",
+  "is_image": false
+ },
+ {
+  "technique": "Recessed pie inside a donut",
+  "deck": "Senior Sistemas",
+  "pages": [
+   44
+  ],
+  "crop": "b1_donut_pie_nested.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Outer donut about 310pt in diameter, thickness about 58pt. In the hole, the same data repeated as a pie with d≈118pt, carrying a soft grey shadow on a white hole, so it reads as a disc floating in a well. Satellites: round flags d≈35 with soft shadow at each slice's outer edge, overlapping nothing. Not verified whether vector.",
+  "use_for": "Share by country or peer; focus plus context in the same ring.",
+  "is_image": false
+ },
+ {
+  "technique": "Hard offset plate and L-shadow cards",
+  "deck": "Senior Sistemas",
+  "pages": [
+   49,
+   50
+  ],
+  "crop": "b1_hard_shadow_plates.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Logo plate: rect 158x66 teal #01826D with a darker copy #05604F offset +6,+6 behind it. Cards: rect 186x65 #F2F2F2 with soft shadow, then an L along right and bottom edges 3pt thick, gradient teal to navy. Faded alternative state: same group at alpha about 40%, placed in the sibling column to show the deal not in focus.",
+  "use_for": "Side-by-side comparison in which one column is focal.",
+  "is_image": false
+ },
+ {
+  "technique": "Icon disc with orbiting partial arcs",
+  "deck": "Senior Sistemas",
+  "pages": [
+   19
+  ],
+  "crop": "b1_zoom_gray_lens.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Grey wedge zoom (known) leads to a raised card with a 2pt grey border and shadow. Distinct part: disc d≈54 with a thick gradient ring, plus one or two partial arcs r≈+10pt around it, 1.5pt, covering about 120 degrees and offset to the left. Thin curved connector links discs in a zigzag. Text rule runs from disc to the right edge, ending in a small diamond.",
+  "use_for": "Short list of 3 drivers next to a chart.",
+  "is_image": false
+ },
+ {
+  "technique": "Ghost next row",
+  "deck": "Vasta",
+  "pages": [
+   8,
+   9,
+   10
+  ],
+  "crop": "b3_va_ghost_row.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Top card full opacity; second row of chart and card in the same position at alpha ~8%, no animation, suggesting what's coming. Rounded cards r~22, white with 1pt grey stroke and soft shadow (+2,+3) on pale background.",
+  "use_for": "Progressive reveal on printed or PDF decks",
+  "is_image": false
+ },
+ {
+  "technique": "Hard L-shadow card with gradient plate",
+  "deck": "Vibra",
+  "pages": [
+   27
+  ],
+  "crop": "b1_shard_burst_connector.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Plate rect (30,80)-(286,317), gradient #006600 to #00B000 to #006600; white card (30,73)-(281,312) sits over it, leaving 5pt visible on right and bottom only. Thin frame stroke #003300 on the card. Third card (NewCo) tinted #F7FFF7 with bright green frame instead, no plate.",
+  "use_for": "Comparison cards; the plate gradient gives a lit-edge look.",
+  "is_image": false
+ },
+ {
+  "technique": "Gradient glass bubbles at scale",
+  "deck": "Vibra",
+  "pages": [
+   27
+  ],
+  "crop": "b1_glass_bubbles.png",
+  "quality": 2,
+  "construction": "Probably rasters with soft masks (205x205 and 41x41 images on page), not confirmed by position. Build with ovals: d=73 hero, d=16 small. Radial gradient, focus upper left #E8FFE8 to #A5EDA5 at rim, hairline grey outline. Three heroes overlap nothing; small dots scattered at varying saturation, alpha 0.6-1. Active variant shifts rim tone to #3DBE3D.",
+  "use_for": "KPI clusters; dots suggest quantity behind the number.",
+  "is_image": true
+ },
+ {
+  "technique": "Rim-lit circle",
+  "deck": "Vibra",
+  "pages": [
+   7,
+   8,
+   12,
+   19,
+   28
+  ],
+  "crop": "b1_rim_circle.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Disc d≈65, fill #1A1A1A. Stroke 1.5pt as gradient, #00E000 along bottom right to #005500 at top left. Second circle d≈72, 0.75pt, shifted (-2,+1), dim #00A000, visible as an open crescent. Page background black with faded diagonal streak layer.",
+  "use_for": "Numerals on dark thesis slides.",
+  "is_image": false
+ },
+ {
+  "technique": "Boardroom plan: capsule table with seats",
+  "deck": "Vibra",
+  "pages": [
+   32
+  ],
+  "crop": "b1_board_capsule_dark.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Capsule 347x51, centered around (405,424): rounded rect radius=height/2, horizontal gradient #001A00 to #0A5A0A to #001A00, white 1pt stroke. Chairs are rounded rects with arms: seat 38x27 tucked 8pt behind table, back rail 30x8 at outer side, two arm bars 6x24, all 1pt white stroke, fill gradient dark green. Head chair at capsule's right end rotated 90 degrees. Table sits over the seats.",
+  "use_for": "Board composition; each seat tied to a name.",
+  "is_image": false
+ },
+ {
+  "technique": "Fading float waterfall, outlined totals",
+  "deck": "Vibra",
+  "pages": [
+   40
+  ],
+  "crop": "b1_float_fade_waterfall.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Floating step: rect with green 0.75pt edge, gradient #00C000 at its left or bottom edge fading to transparent at the other, plus a very faint rect of same x below it extending to the next subtotal to hint a column. Totals: rect with no fill, 1pt white stroke. Page black with raster wave texture.",
+  "use_for": "Returns bridge on dark slide.",
+  "is_image": false
+ },
+ {
+  "technique": "Recessed range tube",
+  "deck": "Vibra",
+  "pages": [
+   40
+  ],
+  "crop": "b1_range_tube.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Rect 203x26, horizontal gradient #000 to #0C6B0C at center to #000, 0.75pt #0C6B0C stroke. Thin vertical tick at the center, white alpha 0.6, 8pt tall. Min and max outside, base value below in green.",
+  "use_for": "Bear, base and bull sensitivity row.",
+  "is_image": false
+ },
+ {
+  "technique": "Column lit by segment gradients",
+  "deck": "Vibra",
+  "pages": [
+   3,
+   4,
+   10
+  ],
+  "crop": "b1_gradient_stack_bars.png",
+  "quality": 2,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Native stacked bar with each series a gradient fill. Tones step from #002800 at base to #22DD22 on top; within each segment vertical gradient darker at bottom edge. Adjacent segments therefore have a visible dark seam. Same on p10 as single bars #00C000 at top to #004D00 at bottom.",
+  "use_for": "Time series that should feel like solid columns; works on native charts, so stays editable.",
+  "is_image": false
+ },
+ {
+  "technique": "Double-tail chevron cards",
+  "deck": "AB InBev",
+  "pages": [
+   44
+  ],
+  "crop": "b1_chevron_double_tail.png",
+  "quality": 1,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED. Body (554,178),(582,149),(960,149),(960,208),(582,208) #D9D9D9, bleeding off right. Detached tail (520,178),(547,149),(574,149),(547,178),(574,207),(547,207) #E0E0E0. Gap 7pt white. Next rows shift x by +88pt for a staircase toward the right, at y step 145pt.",
+  "use_for": "3 stacked benefits pointing back at a chart.",
+  "is_image": false
+ },
+ {
+  "technique": "Tube gauges in tinted cards",
+  "deck": "AB InBev",
+  "pages": [
+   43,
+   44
+  ],
+  "crop": "b1_tube_gauge_cards.png",
+  "quality": 1,
+  "construction": "All coordinates in PDF pt on a 960x540 slide unless noted. Card 110x360, rounded r≈15, tint fill brand at 30%, dashed grey stroke. Inner track 34x310 rounded #F2F2F2. Line 2pt from base to value, capped by small outlined hexagon 18x10. Logo at base.",
+  "use_for": "Comparing a score across 3 peers.",
+  "is_image": false
+ },
+ {
+  "technique": "Diagonal corner stripes rail",
+  "deck": "Arezzo&Co",
+  "pages": [
+   2,
+   3,
+   4,
+   9
+  ],
+  "crop": null,
+  "quality": 1,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Left rail x0-38 #404040 with triangle at top (0,83),(0,126),(38,126) and above alternating parallelogram stripes #5CC8EC and #B5E4F4, at 45 degrees, each ~15 thick. Gives overlapping ribbon at the page corner. Crop only shows the box, see page 4.",
+  "use_for": "Page frame accent",
+  "is_image": false
+ },
+ {
+  "technique": "Thread running behind vertical panels",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   17
+  ],
+  "crop": "b4_thread_through_panels.png",
+  "quality": 1,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Panels 237x500 at x 484, 815, 1152, gradient #1A3A85 to #15306E, 1px white border, on a darker navy field. A 1px white line crosses the slide at y=171 and appears interrupted by a break-tick ||  label on each panel, as if threaded. Weak depth but cheap.",
+  "use_for": "Sequential stages in columns on dark themes.",
+  "is_image": false
+ },
+ {
+  "technique": "Gradient vertical columns",
+  "deck": "Cury Construtora",
+  "pages": [
+   14,
+   3,
+   8
+  ],
+  "crop": null,
+  "quality": 1,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Columns vertical gradient, top ~#4472C4/#3A66B8 to bottom ~#0F2A63, sometimes left to right, giving a cylinder-lite feel. Flat chart, only slightly volumetric. Native chart gradient fill possible.",
+  "use_for": "Bar charts in a blue system",
+  "is_image": false
+ },
+ {
+  "technique": "Ring with outer arc segments",
+  "deck": "Meliuz",
+  "pages": [
+   13
+  ],
+  "crop": "b4_ring_arc_segments.png",
+  "quality": 1,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Low-depth variant of nested ovals. Inner ring ~r=145 center (264,432), 20px stroke #CCCCCC, white center. Outer half-ring r 290, 40px thick arcs each 45 degrees, tones #CCCCCC, #FFE1E6, #FF8196, #FF385A clockwise, thin grey spokes, icons between. Colour matches items 01-04 in the panel at right.",
+  "use_for": "4-item story with icons.",
+  "is_image": false
+ },
+ {
+  "technique": "Torn paper news clipping",
+  "deck": "Meliuz",
+  "pages": [
+   121
+  ],
+  "crop": "b4_torn_paper_clip.png",
+  "quality": 1,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Pasted raster with jagged alpha edge, grey paper over a faded newspaper layer with bold headline on top. Editing as shapes is not worthwhile; a jagged freeform with ~80 random points plus faded text would approximate it.",
+  "use_for": "Press evidence.",
+  "is_image": true
+ },
+ {
+  "technique": "Rounded modal over light dim",
+  "deck": "Nubank",
+  "pages": [
+   21,
+   31
+  ],
+  "crop": "b4_modal_rounded_dim.png",
+  "quality": 1,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Slide at ~15% black dim, white rect (106,205)-(1358,656) radius about 55, no shadow or border. The rail and title stay visible, content blocks at the far edge visibly poke out behind it. Depth from contrast only; weakest of the modals, add an offset or shadow when reproducing.",
+  "use_for": "Synthesis message between sections, closing thought.",
+  "is_image": false
+ },
+ {
+  "technique": "Lavender capsule table with person icons",
+  "deck": "Nubank",
+  "pages": [
+   7
+  ],
+  "crop": "b4_table_capsule.png",
+  "quality": 1,
+  "construction": "Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Capsule (970,340)-(1220,407), vertical gradient #F7EFFF top to #C9A0FF bottom, soft shadow. Icons (circle plus half-round shoulders) behind the top edge on three sides, end caps in magenta with a small dot, partly hidden by the capsule. Simpler version of the top-down boardroom.",
+  "use_for": "Founding team or board diagram, with names around.",
+  "is_image": false
+ },
+ {
+  "technique": "Spotlight plate behind chart bars",
+  "deck": "Sabesp",
+  "pages": [
+   11,
+   3,
+   65
+  ],
+  "crop": null,
+  "quality": 1,
+  "construction": "Inside a grey chart panel #F2F2F2, dashed rounded rect 1.25pt #0393DD with fill #E3F6FD surrounds the highlighted bars: 3 tonal levels (panel, plate, bar). p3 extends a thin dashed tether from the plate to a text label on another chart.",
+  "use_for": "Emphasising forecast years on a chart",
+  "is_image": false
+ },
+ {
+  "technique": "Layered brand rail with cutaway lens",
+  "deck": "Sabesp",
+  "pages": [
+   2,
+   11,
+   41
+  ],
+  "crop": null,
+  "quality": 1,
+  "construction": "Left rail 36pt wide: vertical gradient #003087 top to #12D0FF bottom with white contour lines (raster 1024x1536 with soft mask). At the bottom-left a brighter lens rises about 90pt and curves out to the footer, overlapping the rail, carrying the page number. Footer hairline starts at it. Alupar p10 has a similar raster rail.",
+  "use_for": "Page chrome",
+  "is_image": true
+ },
+ {
+  "technique": "Two-triangle folded logo mark",
+  "deck": "Vasta",
+  "pages": [
+   6,
+   8,
+   24
+  ],
+  "crop": "b3_va_halfring_cards.png",
+  "quality": 1,
+  "construction": "All coordinates in PDF points on a 960x540 slide. Corner mark: dark triangle #2A2A33 plus overlapping pink triangle #E5206F, sharing the apex at bottom; approx 40 wide,35 tall at the top right, ~(932,24). Mixed by overlap, like a folded sheet. Used as a repeating page mark.",
+  "use_for": "Page brand mark",
+  "is_image": true
+ }
+]

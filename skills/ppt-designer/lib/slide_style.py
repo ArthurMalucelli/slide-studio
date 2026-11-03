@@ -410,7 +410,7 @@ def cube(slide, x, yb, w, a, d, front=FOCUS, top=FOCUS_TINT, side=FOCUS_DARK, sh
 
 
 # =====================================================================
-# Profundidade (gabarito: deck Intelbras; ver references/PROFUNDIDADE.md). Tudo em formas editáveis.
+# Profundidade (gabarito: deck Intelbras; ver references/catalogo/INDEX.md). Tudo em formas editáveis.
 # =====================================================================
 CARD = "F2F2F2"       # fundo de cartão
 CARD_EDGE = "BFBFBF"  # parede lateral, triângulos de "portanto"
