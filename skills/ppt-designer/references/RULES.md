@@ -21,7 +21,7 @@ Exemplos reais: `references/reprovados/`.
 
 ## O que a Sabesp e o Nubank fazem e nossos slides não fizeram
 
-Medido e comparado nas rodadas de teste. Tirar os chips não basta: um slide com 86 números, sem chips e com cabeçalhos em uma linha, ainda foi reprovado como "muito crowded". A Sabesp tem slide limpo com 85 números (p.18), em 4 quadrantes iguais. O que pesa é o resto:
+Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem chips e com cabeçalhos em uma linha ainda foram reprovados como "muito crowded", e o dono apontou o excesso de texto. Orçamento em `RECEITA.md`, passo 8. O que pesa:
 
 | Gabarito | Nossos reprovados |
 |---|---|
@@ -48,7 +48,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: um slide com
 | **Cor mudando entre painéis:** a mesma série em cores diferentes, ou pares em cinza num gráfico e rosa no outro | Uma cor por significado no slide inteiro: foco, comparação e pares não mudam de um painel para outro |
 | **Qualitativo demais:** painel de frases, ícones ou cards onde o gabarito teria número | Todo painel prova com dado. Texto é apoio de um gráfico, não o painel. Se o roteiro só tem frases, avise antes de montar |
 | **Slide sem graça:** limpo, correto e vazio | Densidade do gabarito: vários números, mais de um exhibit por slide, anotação no gráfico |
-| **Poluído:** chips de número soltos, painel dentro de painel, cabeçalho em duas linhas | Fora de gráfico, número é texto em negrito (`checar_slide.py` barra mais de 4 chips). No máximo 4 exibits, contando tabela e mapa, sem exibit dentro de exibit |
+| **Poluído:** muito texto (acima de ~130 palavras), chips de número soltos, painel dentro de painel, cabeçalho em duas linhas | Fora de gráfico, número é texto em negrito (`checar_slide.py` barra mais de 4 chips). No máximo 4 exibits, contando tabela e mapa, sem exibit dentro de exibit |
 | **Faixa de KPIs soltos:** losangos ou ícones numa linha com "914 Warehouses", "81.0m Members", parecendo timeline sem ter tempo | Só use linha do tempo para tempo. KPI entra no gráfico ou no itálico, mesmo que o roteiro o liste como bloco |
 | **Gráfico em bloco do nada:** um retângulo 98/2 de uma categoria ocupando um quadrante | Composição com 3 ou mais partes, e que abre em algo. 98/2 é uma frase ou um rótulo |
 | **Cards grandes arredondados,** rosca gigante com número no meio, equação em caixas e caixas de KPI: "muito feio" | Tabela ou gráfico com rótulo. Rosca só pequena e com 3 ou mais fatias. Card de produto com foto real é outra coisa (ChallengeB p.11, p.14) |
@@ -56,12 +56,18 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: um slide com
 | **Coluna lotada:** dois mapas e um gráfico empilhados no mesmo painel, com rótulos em volta | Um exibit por painel. Tabela e mapa contam como exibits separados: o limite de 4 inclui os dois |
 | **Diagrama de colunas cinza com setas-bloco:** colunas altas e vazias, e faixas de cor com texto dentro | Reprovado com o slide inteiro. Ainda não há versão aprovada de diagrama de fluxo |
 | **Grupo de ícone + frases centralizadas:** cards cinza com ícone e 2 ou 3 linhas de texto, mesmo copiados do gabarito (Nubank p.16): "uma bosta" | Esse conteúdo vira gráfico ou tabela numérica. Se o roteiro só tem frases, troque de modelo |
+| **Foto do nada:** foto real de uma loja colada ao lado de um gráfico que não fala dela | Imagem é parte da prova, ou sai (`RECEITA.md`, passo 5) |
+| **Itálico com resultado:** "Per-warehouse share: 73.8% FY19–26", empurrando a unidade para a legenda | Itálico diz métrica, unidade e período. O resultado está no gráfico |
+| **Cunha solta:** vão entre a barra e a cunha, ou ponta passando do eixo | Encosta na barra, com a altura exata dela (`RECEITA.md`, passo 4) |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |
 | **Frase de conclusão solta** embaixo do slide, em faixa escura, caixa com sombra ou com marcador | A conclusão está no título e no subtítulo. Tire |
 | **Rótulos no lugar do dado:** painel com a geometria do gabarito, mas caixas de texto onde ele tinha gráfico | Sem o dado, troque de slide do gabarito (passo 5 da transposição) |
+| **Nota na face do slide,** mesmo ressalva do roteiro | Vai para as notas do apresentador |
 | **Ilustração caseira e flecha fina:** fábrica e loja desenhadas com formas, setas de 1pt | A ideia de diagrama pode ser boa. Ícones de um só traço ou peça do catálogo, e fluxo como faixa grossa com valor |
 
 ## Aprovado pelo dono do deck
+
+**Membership da rodada 9, feito só pela receita (117 palavras, 33 dados):** "ficou bem melhor" e "isso aqui tá bem legal", sobre a cunha que abre a última coluna na ponte por sócio, depois de corrigir a junção. Primeiro slide aprovado sem copiar modelo: painel largo em cima e 3 embaixo, com um gráfico de cada tipo.
 
 **Grade 2×2 regular com 4 provas (teste com dados da Sabesp p.18):** primeiro slide inteiro aprovado depois de seis rodadas ("tá legal, mas dava para ter mais coisa de profundidade"). Não é para copiar: é o resultado dos passos 2 e 3 de `RECEITA.md`.
 

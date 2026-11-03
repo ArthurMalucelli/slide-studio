@@ -17,8 +17,10 @@ from xml.etree import ElementTree as ET
 
 IN = 914400
 LIMITE_CHIPS = 4          # chips com número fora de gráfico
-MIN_NUMEROS = 15
-MAX_DADOS = 80
+MIN_NUMEROS = 20
+MAX_DADOS = 60
+MAX_PALAVRAS = 150
+ALVO_PALAVRAS = 130
 
 
 def palavras_pdf(pdf, pagina=1):
@@ -79,12 +81,17 @@ def numeros(words):
     return sum(len(re.findall(r"[0-9][0-9.,]*", w[4])) for w in words)
 
 
+def palavras(words):
+    """Palavras no slide inteiro, sem número e sem ano, medidas como nos decks de referência."""
+    return sum(1 for w in words if re.search(r"[A-Za-zÀ-ÿ]{2,}", w[4]) and not re.fullmatch(r"(FY)?(19|20)?\d\d[A-Z*]?|[1-4]Q\d\d[A-Z*]?", w[4].strip("(),;:")))
+
+
 def dados(words, limite_y=7.0):
     """Números que são dado: sem ano, FY, trimestre, número de página e rodapé."""
     n = 0
     for w in words:
         t = w[4].strip("(),;:")
-        if w[1] > limite_y or re.fullmatch(r"(FY)?(19|20)\d\d[A-Z*]?|FY\d\d[A-Z*]?|[1-4]Q\d\d[A-Z*]?|(FY)?\d{2,4}[–-]\d{2,4}", t):
+        if w[1] > limite_y or re.fullmatch(r"(FY)?(19|20)\d\d[A-Z*]?|FY\d\d[A-Z*]?|[1-4]Q\d\d[A-Z*]?|FY\d{2,4}[–-](FY)?\d{2,4}|(19|20)\d\d[–-](19|20)?\d\d", t):
             continue
         n += len(re.findall(r"[0-9][0-9.,]*", t))
     return n
@@ -204,15 +211,20 @@ def checar(pptx, pdf, profile):
     # Densidade e exibits
     n = dados(words, grid.get("content_bottom", 7.0))
     if n < MIN_NUMEROS:
-        err.append(f"Só {n} dados no slide, fora anos e rodapé (mínimo ~{MIN_NUMEROS}). Se o roteiro não tem mais, avise o usuário na entrega.")
+        err.append(f"Só {n} dados no slide, fora anos e rodapé (mínimo ~{MIN_NUMEROS}): tende a sair sem sal. Se o roteiro não tem mais, avise o usuário na entrega.")
     if n > MAX_DADOS:
-        err.append(f"{n} dados no slide (máximo ~{MAX_DADOS}). O dono reprovou como crowded: corte provas, sem reduzir a fonte.")
+        err.append(f"{n} dados no slide (máximo ~{MAX_DADOS}). O dono reprovou como crowded: corte provas e rótulos, sem reduzir a fonte.")
+    pal = palavras(words)
+    if pal > MAX_PALAVRAS:
+        err.append(f"{pal} palavras no slide (máximo ~{MAX_PALAVRAS}; os melhores têm 85 a 130). Corte texto: itálicos, anotações, legendas longas.")
+    elif pal > ALVO_PALAVRAS:
+        av.append(f"{pal} palavras no slide; os melhores têm 85 a 130.")
     if len(graficos) < 2:
         av.append(f"{len(graficos)} gráfico nativo. O gabarito quase sempre prova com 2 ou mais exibits; mapa desenhado conta.")
     if "Sources: Company Data, Group Calculations." not in " ".join(w[4] for w in words).replace("  ", " "):
         av.append("Rodapé diferente de `Sources: Company Data, Group Calculations.`")
 
-    print(f"{Path(pptx).name}: {n} dados ({numeros(words)} números com anos), {len(graficos)} gráficos nativos, {len(chips)} chips fora de gráfico")
+    print(f"{Path(pptx).name}: {pal} palavras, {n} dados ({numeros(words)} números com anos), {len(graficos)} gráficos nativos, {len(chips)} chips fora de gráfico")
     for e in err:
         print("  ERRO  ", e)
     for a in av:

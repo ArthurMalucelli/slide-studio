@@ -92,7 +92,7 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo `references/roteiro_t
   - uma métrica ou escala por tabela;
   - varie: comparação, evolução, composição e geografia rendem gráficos diferentes;
   - número isolado ou par início × fim vai para "Números soltos".
-- **Densidade:** os melhores decks têm 25 a 55 números na mediana, quase todos dentro de gráficos. Não infle a tabela para chegar nisso, e não ponha toda a pesquisa no roteiro.
+- **Densidade:** os melhores slides têm 25 a 50 dados e 85 a 130 palavras, com os números dentro de gráficos. Escreva pouco: frase curta, sem ressalva longa nem lista de números. Não infle a tabela para chegar nisso, e não ponha toda a pesquisa no roteiro.
 - **Aberturas possíveis:** procure um número que abra em outro, e pesquise o que há dentro do número mais importante. Escreva a relação, ou diga que não há. Não force.
 - **Imagens reais:** se o assunto é uma coisa física (produto, loja, fábrica, pessoa), busque imagens com link baixável e origem; nunca invente.
 - **Números em en-US** (1,234.5), já arredondados como devem aparecer.

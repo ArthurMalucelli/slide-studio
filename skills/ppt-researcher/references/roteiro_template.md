@@ -6,7 +6,7 @@
 - **Modo:** expositivo | analítico
 - **Ângulo (se analítico):** {conclusão defendida} · definido por: usuário | agente ({por que este ângulo})
 - **Pesquisa:** `research.md` ({N} rodadas do crítico; vãos abertos: {lista curta ou "nenhum"})
-- **Ressalvas que não podem sumir:** {até 2, curtas, para o itálico. Ex.: "projeção da empresa"; ou "nenhuma". O resto vai nas notas}
+- **Ressalvas que não podem sumir:** {até 2, curtas, para as notas do apresentador; ou "nenhuma"}
 
 Todo número abaixo é fixo. Todo texto abaixo é rascunho: o designer reescreve, escolhe e corta.
 
@@ -59,7 +59,7 @@ Número de uma prova que abre em outra, se houver. O designer decide se usa.
 
 ## Imagens reais
 
-O que o assunto pede, com link para um arquivo que se pode baixar. Foto de produto, loja, pessoa, documento. Nada inventado.
+Só a imagem que faz parte de uma prova: o produto comparado, a pessoa citada, o documento. Foto genérica da empresa não entra. Com link baixável e nada inventado.
 
 | Imagem | Para qual frase | Link | Origem/licença |
 |---|---|---|---|

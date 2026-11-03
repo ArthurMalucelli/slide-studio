@@ -40,7 +40,7 @@ Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grad
 
 ## 4. Agora procure a ligação (profundidade)
 
-Olhe as frases do passo 1: alguma abre um número de outra? Se sim, desenhe **uma** peça entre os dois painéis. O conteúdo já existe dos dois lados: a peça só mostra a relação.
+Olhe as frases do passo 1: alguma abre um número de outra? Se sim, e só se sim, desenhe **uma** peça entre os dois painéis. O conteúdo já existe dos dois lados: a peça só mostra a relação.
 
 | Peça | Como é feita | Exemplo |
 |---|---|---|
@@ -50,11 +50,15 @@ Olhe as frases do passo 1: alguma abre um número de outra? Se sim, desenhe **um
 | Fio tracejado | Liga um item a outro painel | ChallengeB p.13; Sabesp p.13 |
 | Sólidos | Só quando o sólido é o conteúdo: etapas ou degraus, com texto dentro | ChallengeB p.6 (etapas), p.8 (degraus com jato em cima) |
 
+**A cunha encosta no dado.** A ponta estreita tem a altura exata da barra, do topo até o eixo, sem vão e sem passar do eixo. A caixa do gráfico não dá essa posição: exporte, rode `scripts/medir_slide.py` no seu próprio PDF, pegue o retângulo da barra pela cor e reconstrua. Depois olhe a junção ampliada, a 300 dpi.
+
 **A peça é discreta.** Cinza claro ou tom claro da origem, nunca cor cheia em área grande, e pequena perto dos painéis que liga. Ela não pode ser o que mais chama atenção no slide. Sem relação no conteúdo, o slide fica sem peça.
 
 ## 5. Use imagem real quando o assunto é uma coisa
 
-Quase metade dos slides do ChallengeB tem imagem real: jato recortado, retrato com citação, ilustração isométrica de boa qualidade, print de documento. Ela ocupa entre 3% e 15% do slide: complementa o dado, sem ser o fundo.
+Quase metade dos slides do ChallengeB tem imagem real: jato recortado, retrato com citação, ilustração isométrica de boa qualidade, print de documento. Ela ocupa entre 3% e 15% do slide.
+
+**A imagem é parte da prova, ou sai.** O jato aparece porque o painel compara aquele modelo. Foto de uma loja ao lado de um gráfico que não fala dela é "foto do nada", mesmo sendo real. Assunto financeiro ou de número costuma ficar sem imagem, e tudo bem.
 
 - **Nunca monte um prédio ou uma máquina com retângulos.**
 - **Busque a imagem de verdade,** de fonte pública, e registre a origem nas notas do apresentador. Se não conseguir, use ícone de um traço e avise o usuário do que faltou.
@@ -74,12 +78,28 @@ O número mora no gráfico, com rótulo no estilo único. O destaque é uma marc
 
 Toda anotação aponta para um dado que está ali. Frase de conclusão solta embaixo do slide não existe.
 
-## 8. Confira o peso
+## 8. Corte texto até caber no orçamento
 
-Medido no PDF dos 13 slides de conteúdo do ChallengeB: 26 a 78 números, com mediana 55, contando anos e rótulos, quase todos dentro de gráficos; 80 a 250 palavras fora dos gráficos.
+O erro mais comum é texto demais, e o dono reprova como "muito crowded". Medido no PDF, com o mesmo critério:
 
-- Abaixo de ~15 dados, fora anos e rodapé, o slide está pobre: `checar_slide.py` acusa, e você diz ao usuário o que falta.
-- Muitos números não pesam dentro de gráficos. Pesam em chips soltos e painéis aninhados.
+| Slide | Palavras | Dados | Nota do dono |
+|---|---|---|---|
+| ChallengeB p.3, p.7, p.9 | 85 a 96 | 25 a 44 | "bem legais" |
+| Sabesp p.18 | 152 | 64 | "lindos" |
+| Nossos reprovados como crowded | 125 a 295 | 42 a 128 | "muito crowded" |
+| Nosso reprovado como sem sal | 72 | 12 | "meio sem sal" |
+
+**Orçamento: 85 a 130 palavras e 25 a 50 dados.** O limite do `checar_slide.py` é 150 palavras e 60 dados, e abaixo de 20 dados ele acusa slide pobre.
+
+Onde cortar primeiro:
+- **Itálico:** até ~50 caracteres. Só métrica, unidade e período do gráfico logo abaixo, como `Revenue, US$m, FY19–26`. Nada de resultado, número em destaque ou ressalva: ressalva vai para as notas, número vai no gráfico.
+- **Anotação no gráfico:** no máximo uma por painel, com até 4 palavras.
+- **Texto embaixo de gráfico ou em cartão:** corte. Se o dado importa, ele é o gráfico.
+- **Rótulo em toda barra:** quando há muitas barras, rotule só as pontas e o destaque.
+- **Subtítulo:** uma ideia, sem lista de números.
+- **Tabela:** menos colunas; tabela de palavras nunca.
+
+Quatro painéis cabem em 90 palavras (ChallengeB p.3 e p.9): o problema nunca é o número de painéis, é o que se escreve em volta deles.
 
 ## 9. Compare e corrija
 
