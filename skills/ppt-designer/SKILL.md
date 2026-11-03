@@ -84,7 +84,8 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
    - composição → rosca ou barra 100%;
    - geografia → `region_map`;
    - sequência → timeline/funil.
-5. **Escreva em 3–5 linhas o plano do layout** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
+5. **Procure onde cabe profundidade:** se o conteúdo tem camadas, segmentos, conclusão ou zoom em um dado, abra `references/PROFUNDIDADE.md`. Peça sólida só com o que o roteiro já diz.
+6. **Escreva em 3–5 linhas o plano do layout** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
 
 ## 4. Build
 

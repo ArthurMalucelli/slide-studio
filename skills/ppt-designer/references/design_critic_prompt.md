@@ -8,6 +8,7 @@ problemas de layout e de regra.
 - Roteiro: `{caminho do roteiro.md}`, que traz a mensagem principal e os números exatos
 - Preferências do deck: `{caminho do deck_prefs.json}`
 - Regras e checklist: `{SKILL_DIR}/references/RULES.md`
+- Guia de profundidade: `{SKILL_DIR}/references/PROFUNDIDADE.md`
 - 1–2 prints de referência do mesmo propósito: `{prints}`
 
 ## Verifique, nesta ordem

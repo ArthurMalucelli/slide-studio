@@ -385,7 +385,7 @@ def picture(slide, path, x, y_base, width):
 # =====================================================================
 # 3D isométrico (estilo Sabesp/Intelbras): freeforms editáveis
 # =====================================================================
-def poly(slide, pts, fill, line_color=None):
+def poly(slide, pts, fill, line_color=None, line_width=0.5):
     """Polígono livre em polegadas. Coordenadas em 1/1000 pol.: o custGeom grava inteiros."""
     k = [(round(x * 1000), round(y * 1000)) for x, y in pts]
     fb = slide.shapes.build_freeform(k[0][0], k[0][1], scale=914.4)
@@ -394,7 +394,7 @@ def poly(slide, pts, fill, line_color=None):
     sp.shadow.inherit = False
     paint(sp.fill, fill)
     if line_color:
-        sp.line.color.rgb = rgb(line_color); sp.line.width = Pt(0.5)
+        sp.line.color.rgb = rgb(line_color); sp.line.width = Pt(line_width)
     else:
         sp.line.fill.background()
     return sp
@@ -407,6 +407,139 @@ def cube(slide, x, yb, w, a, d, front=FOCUS, top=FOCUS_TINT, side=FOCUS_DARK, sh
     if show_side:
         poly(slide, [(x + w, yb - a), (x + w + d, yb - a + dy), (x + w + d, yb + dy), (x + w, yb)], side)
     poly(slide, [(x, yb - a), (x + w, yb - a), (x + w, yb), (x, yb)], front)
+
+
+# =====================================================================
+# Profundidade (gabarito: deck Intelbras; ver references/PROFUNDIDADE.md). Tudo em formas editáveis.
+# =====================================================================
+CARD = "F2F2F2"       # fundo de cartão
+CARD_EDGE = "BFBFBF"  # parede lateral, triângulos de "portanto"
+
+
+def mix(color, target, t):
+    """Mistura duas cores: t=0 devolve color, t=1 devolve target."""
+    a, b = hx(color), hx(target)
+    return "".join(f"{round(int(a[i:i + 2], 16) * (1 - t) + int(b[i:i + 2], 16) * t):02X}" for i in (0, 2, 4))
+
+
+def pyramid3d(slide, cx, y_top, width, height, layers=4, fill=FOCUS, edge=WHITE):
+    """Pirâmide facetada em camadas (Intelbras p.17 e p.52): cada camada tem duas faces em V e um degrau no topo.
+    Devolve [(x_borda_esquerda, x_borda_direita, y_meio)] de cima para baixo, para ancorar tick_leader."""
+    fills = fill if isinstance(fill, (list, tuple)) else [fill] * layers
+    hw_b, dip = width / 2, 0.35
+    H = height - hw_b * dip
+    hw = lambda y: hw_b * (y - y_top) / H
+    rims = [y_top + H * (k + 1) / layers for k in range(layers)]
+    anchors = []
+    for k in range(layers - 1, -1, -1):
+        c = fills[k]; right = mix(c, "000000", 0.10); ledge = mix(c, "FFFFFF", 0.25)
+        yb, wb = rims[k], hw(rims[k])
+        if k == 0:
+            poly(slide, [(cx, y_top), (cx - wb, yb), (cx, yb + wb * dip)], c, edge, 0.75)
+            poly(slide, [(cx, y_top), (cx + wb, yb), (cx, yb + wb * dip)], right, edge, 0.75)
+            anchors.append((cx - wb * 0.5, cx + wb * 0.5, (y_top + yb) / 2))
+            continue
+        yt = rims[k - 1] + (rims[k] - rims[k - 1]) * 0.18
+        wt = hw(yt)
+        poly(slide, [(cx - wt, yt), (cx, yt - wt * dip), (cx + wt, yt), (cx, yt + wt * dip)], ledge, edge, 0.75)
+        poly(slide, [(cx - wt, yt), (cx, yt + wt * dip), (cx, yb + wb * dip), (cx - wb, yb)], c, edge, 0.75)
+        poly(slide, [(cx + wt, yt), (cx, yt + wt * dip), (cx, yb + wb * dip), (cx + wb, yb)], right, edge, 0.75)
+        anchors.append((cx - (wt + wb) / 2, cx + (wt + wb) / 2, (yt + yb) / 2))
+    return anchors[::-1]
+
+
+def tick_leader(slide, x_from, y, x_to, color=FOCUS, tick=0.2, weight=0.045):
+    """Fio tracejado horizontal que termina num traço vertical grosso, junto do texto (Intelbras p.11 e p.17)."""
+    line(slide, x_from, y, x_to, y, color, 1.25, dash=True)
+    x = x_to - weight if x_to > x_from else x_to
+    return rect(slide, x, y - tick / 2, weight, tick, color)
+
+
+def depth_card(slide, x, y, w, h, accent=FOCUS, fill=CARD, weight=0.045, arm_w=0.22, arm_h=0.35):
+    """Cartão cinza com cantoneiras deslocadas no canto superior esquerdo e no inferior direito (Intelbras p.44 e p.53)."""
+    card = rect(slide, x, y, w, h, fill)
+    o = weight
+    for bx, by, bw, bh in ((x - o, y - o, w * arm_w + o, weight), (x - o, y - o, weight, h * arm_h + o),
+                           (x + w * (1 - arm_w), y + h, w * arm_w + o, weight),
+                           (x + w, y + h * (1 - arm_h), weight, h * arm_h + o)):
+        rect(slide, bx, by, bw, bh, accent)
+    return card
+
+
+def extruded_panel(slide, x, y, w, h, d=0.14, fill=CARD, wall=CARD_EDGE):
+    """Painel com parede lateral em perspectiva e uma folha atrás (Intelbras p.9): o conteúdo vai sobre ele."""
+    inset = d * 0.75
+    rect(slide, x + w + d, y + inset, d * 0.7, h - 2 * inset, mix(fill, "000000", 0.03))
+    poly(slide, [(x + w, y), (x + w + d, y + inset), (x + w + d, y + h - inset), (x + w, y + h)], wall)
+    return rect(slide, x, y, w, h, fill)
+
+
+def zoom_wedge(slide, a1, a2, b1, b2, color=FOCUS, end=CARD, angle=0, back=True):
+    """Feixe em degradê que liga um ponto do gráfico a um cartão (Intelbras p.44 e p.49). a1, a2 ficam na origem, na
+    cor color; b1, b2 ficam no destino, na cor end. angle em graus. Use back=True para o feixe passar atrás do conteúdo."""
+    sp = poly(slide, [a1, a2, b2, b1], color)
+    sp.fill.gradient()
+    sp.fill.gradient_angle = angle
+    stops = sp.fill.gradient_stops
+    stops[0].color.rgb = rgb(color); stops[0].position = 0
+    stops[1].color.rgb = rgb(end); stops[1].position = 1
+    if back:
+        to_back(slide, sp)
+    return sp
+
+
+def tri(slide, x, y, w, h, direction="down", fill=CARD_EDGE):
+    """Triângulo de 'portanto' (down) ou cunha lateral de pressão (left, right, up), Intelbras p.17 e p.53."""
+    pts = {"down": [(x, y), (x + w, y), (x + w / 2, y + h)], "up": [(x, y + h), (x + w, y + h), (x + w / 2, y)],
+           "left": [(x + w, y), (x + w, y + h), (x, y + h / 2)], "right": [(x, y), (x, y + h), (x + w, y + h / 2)]}
+    return poly(slide, pts[direction], fill)
+
+
+def wedge_tab(slide, x, y, w, h, fill=FOCUS):
+    """Cunha em rampa antes de um título de citação ou de um bloco (Intelbras p.11)."""
+    return poly(slide, [(x, y + h), (x + w, y), (x + w, y + h)], fill)
+
+
+def diamond_stack(slide, cx, y, w, h, items, step=0.62, shift=0.16, edge=WHITE):
+    """Losangos em zigue-zague, sobrepostos como placas (Intelbras p.52). items: caminhos de imagem ou cores.
+    Devolve [(x_direita, y_meio)] de cada placa, para ancorar fios."""
+    anchors = []
+    for i, it in enumerate(items):
+        x = cx - w / 2 + (w * shift if i % 2 else -w * shift) / 2
+        yy = y + i * h * step
+        if Path(str(it)).suffix.lower() in (".png", ".jpg", ".jpeg"):
+            sp = slide.shapes.add_picture(str(it), Inches(x), Inches(yy), height=Inches(h))
+            r = sp.image.size[0] / sp.image.size[1]
+            target = w / h
+            if r > target:
+                sp.crop_left = sp.crop_right = (1 - target / r) / 2
+            else:
+                sp.crop_top = sp.crop_bottom = (1 - r / target) / 2
+            sp.left, sp.top, sp.width, sp.height = Inches(x), Inches(yy), Inches(w), Inches(h)
+            sp.auto_shape_type = MSO_SHAPE.DIAMOND
+        else:
+            sp = slide.shapes.add_shape(MSO_SHAPE.DIAMOND, Inches(x), Inches(yy), Inches(w), Inches(h))
+            sp.shadow.inherit = False
+            paint(sp.fill, it)
+        sp.line.color.rgb = rgb(edge); sp.line.width = Pt(1)
+        anchors.append((x + w, yy + h / 2))
+    return anchors
+
+
+def nested_discs(slide, cx, cy, d, colors, shift=0.07):
+    """Disco externo com camadas internas ovais e deslocadas, efeito de núcleo (Intelbras p.11).
+    colors: de fora para dentro. Devolve [(x_direita, y_meio)] de cada camada."""
+    anchors = []
+    n = len(colors)
+    for i, c in enumerate(colors):
+        hh = d * (1 - 0.72 * i / n)
+        ww = hh * (0.72 if i else 1)
+        x0 = cx + (d * shift * (1 + i * 0.2) if i else 0)
+        sp = slide.shapes.add_shape(MSO_SHAPE.OVAL, Inches(x0 - ww / 2), Inches(cy - hh / 2), Inches(ww), Inches(hh))
+        sp.shadow.inherit = False
+        paint(sp.fill, c); sp.line.fill.background()
+        anchors.append((x0 + ww / 2, cy))
+    return anchors
 
 
 def to_back(slide, shape):

@@ -29,7 +29,7 @@ São regras aprendidas em decks reais de equity research, com feedback de quem a
 |---|---|---|
 | Fundo | branco / do mestre / escuro | branco |
 | Barras e blocos de dados | planos / 3D isométrico | planos |
-| 3D | só ilustração / também dado / nunca | só ilustração |
+| 3D | só ilustração / também dado / nunca | só ilustração (peças e limites em `PROFUNDIDADE.md`) |
 | Números grandes / key takeaways | não / sim | **não** |
 
 ## Papéis de cor (`ss.FOCUS`…; hex vem do tema do mestre ou de `deck_prefs.palette`)

@@ -51,6 +51,23 @@ Truques que funcionaram:
 | `to_back`, `set_alpha` | Funil/zoom translúcido atrás do conteúdo |
 | `key_stats(s, x, y, w, h, stats)` | Card de 2–4 números grandes. **Só se `deck_prefs.big_numbers = true`** |
 
+## Profundidade
+
+Guia e referências: `references/PROFUNDIDADE.md`. Exemplo: `references/exemplo_profundidade.py`.
+
+| Função | Uso |
+|---|---|
+| `pyramid3d(s, cx, y_top, largura, altura, layers, fill)` | Pirâmide facetada em camadas; devolve âncoras por camada, de cima para baixo |
+| `tick_leader(s, x_de, y, x_até, cor)` | Fio tracejado que termina num traço vertical grosso, junto do texto |
+| `nested_discs(s, cx, cy, d, cores)` | Disco com camadas internas ovais, de fora para dentro |
+| `depth_card(s, x, y, w, h)` | Cartão cinza com cantoneiras deslocadas |
+| `extruded_panel(s, x, y, w, h)` | Painel com parede lateral e folha atrás |
+| `zoom_wedge(s, a1, a2, b1, b2, cor)` | Feixe em degradê da origem até o destino, atrás do conteúdo |
+| `tri(s, x, y, w, h, direção)` | Triângulo de "portanto" (`down`) ou cunha lateral (`left`, `right`, `up`) |
+| `wedge_tab(s, x, y, w, h)` | Cunha em rampa antes de citação ou bloco |
+| `diamond_stack(s, cx, y, w, h, itens)` | Losangos em zigue-zague com imagens ou cores; devolve âncoras à direita |
+| `mix(cor, alvo, t)` | Mistura duas cores para criar tons de uma face |
+
 ## Padrões do catálogo e como montá-los
 
 | Padrão (`references/exemplos/por-visual/`) | Como montar |
@@ -64,7 +81,7 @@ Truques que funcionaram:
 | heatmap-sensibilidade | tabela de `rect` coloridos por faixa (FOCUS_TINT → FOCUS), caso-base com borda ACCENT |
 | matriz-riscos | eixos com `line`, quadrantes em `rect` claros, riscos como `pill` numerados + lista lateral curta |
 | timeline | `line` horizontal + marcadores `pill`/`rect` + texto curto em cima e embaixo, alternando |
-| funil-piramide | `poly` em trapézios (ou `cube` empilhados se o 3D for permitido) |
+| funil-piramide | `pyramid3d` se o 3D for permitido; senão, `poly` em trapézios |
 | pilares / icones+dado-curto | `rect` ou ícones + 1 dado curto cada; nada de parágrafo |
 | organograma | `rect` + `line` em cotovelo |
 | tabela | tabela nativa (`slide.shapes.add_table`) com cabeçalho FOCUS e linhas finas; o destaque em ACCENT |
