@@ -1,0 +1,140 @@
+# Números e KPIs (72)
+
+- ★ **Verdict T-bracket: price to target to upside to IRR** · 3R Petroleum p.6 · `tipo/numeros-kpis/3r-petroleum_p6_verdict-t-bracket-price-to-target-to-upside-to-irr_1.jpg`
+  - Light card on dark. Pill BUY at top. Horizontal I-beam between current and target price with bold numbers and small labels; vertical capped stem drops to upside; second capped stem to IRR. Result figures in accent. On the chart, dashed target line ends in a small price tag.
+- ★ **Formula with oversized operators to result table** · 3R Petroleum p.73 · `tipo/numeros-kpis/3r-petroleum_p73_formula-with-oversized-operators-to-result-table_2.jpg`
+  - Grey L-shadow blocks; values in plain weight; big operator glyphs in accent (+, x, =) drawn as shapes; result with bold name below; arrow from Beta to a source label; large triangle pointing to a striped result table with bold WACC row.
+- ★ **Giant-number equation strip** · AB InBev p.6 · `tipo/numeros-kpis/ab-inbev_p6_giant-number-equation-strip_4.jpg`
+  - Dashed top and bottom rule, or dashed box; 3-4 oversized bold accent numbers with dark operators between; small italic caption below each term. Rede D'Or p39 uses the same logic for EV - debt + cash - provision = equity.
+- ★ **Oversized research tally plate** · AB InBev p.38 · `tipo/numeros-kpis/ab-inbev_p38_oversized-research-tally-plate_4.jpg`
+  - Pale grey plate as wide as the column; accent numeral plus grey word at about 3x body size ('50 Orders 19 Interviewed', '23 Interviewed').
+- ★ **Verdict frame with bracketed upside** · BTG Pactual p.2 · `tipo/numeros-kpis/btg-pactual_p2_verdict-frame-with-bracketed-upside_8.jpg`
+  - Thin white rectangle with small X marks cut into both vertical sides; Recommendation in light tracked type; BUY in bold green on a dark green block; current price left, target right, joined by a line with end ticks broken by 52% UPSIDE in green; below, a lighter full-width band with 01 02 03 thin numerals and X separators.
+- ★ **Decision range bar with ringed outcome** · Cosan p.12 · `tipo/numeros-kpis/cosan_p12_decision-range-bar-with-ringed-outcome_11.jpg`
+  - Framed red-edged strip at the bottom: bold label, low number inside a dotted oval, tapered arrow line to high number. An elbow connector from the chart gap leads to it.
+- ★ **Three-state recap ledger synced to a structure diagram** · Cosan p.31 · `tipo/numeros-kpis/cosan_p31_three-state-recap-ledger-synced-to-a-structure-diagram_9.jpg`
+  - Three stacked outlined boxes, each with title notched into the top border between two small diamonds, and four big-number columns with accent labels. Active box full contrast, the others about 15 percent opacity. Right side redraws the matching ownership chart per state.
+- ★ **Thesis orbit agenda with bracketed BUY** · Intelbras / Sabesp p.4 · `tipo/numeros-kpis/intelbras-sabesp_p4_thesis-orbit-agenda-with-bracketed-buy_6.jpg`
+  - Two concentric circle outlines bleeding off the left edge, logo inside the inner one. Three 120px circles with line icons sit on the outer ring, heading to the right of each. Black heavy "BUY!" between two L-shaped corner marks at top-left and bottom-right. On section dividers remove BUY and fade the other two theses.
+- ★ **Stickered label on a taped kraft surface** · Mercado Libre p.1 · `tipo/numeros-kpis/mercado-libre_p1_stickered-label-on-a-taped-kraft-surface_30.jpg`
+  - Background: full-bleed kraft photo texture 2666x1499 (raster). Yellow band (#D6C93F, alpha about 85% so the texture shows through) across middle, 35% of slide height, with dot-grid patches at both ends, like packing tape. Shipping label: white rect 259x228pt with vertical gradient #FFFFFF to #E8E8E8 at the top 20%, soft shadow, hanging from the top edge and overlapping the band by 50pt; content in
+- ★ **Verdict ticket divider with thesis rail** · Mercado Libre p.5 · `tipo/numeros-kpis/mercado-libre_p5_verdict-ticket-divider-with-thesis-rail_8.jpg`
+  - Grey page, thin kraft header strip. Top plate: ticker left, large green BUY right. White card below: vertical green line with 3 dots and thesis names; inactive theses and their dots fade to pale grey. Card footer split by a hairline: Upside left, IRR plus exit year right. Same fields as the shipping label on the cover.
+- ★ **Hand-brushed circle on the winner** · Mercado Libre p.68 · `tipo/numeros-kpis/mercado-libre_p68_hand-brushed-circle-on-the-winner_10.jpg`
+  - Yellow brush-stroke ellipse, tapered and open-ended like marker pen, around the single winning number. Peers in the same row enclosed by a thin dashed navy box. Draw it as a freeform or PNG; use only once per deck.
+- ★ **Formula with stepped leader notes** · Mercado Libre p.94 · `tipo/numeros-kpis/mercado-libre_p94_formula-with-stepped-leader-notes_9.jpg`
+  - Math-font equation on one line. Thick navy bar below each term. From each bar a thin line drops to a yellow diamond, with a note to the right; line lengths increase leftwards so the notes form a stair. An arrow from the result leads to consequence text. Dashed rules enclose a summary paragraph.
+- ★ **Price chart with bull and bear icons on target lines** · RD Saúde p.5 · `tipo/numeros-kpis/rd-saude_p5_price-chart-with-bull-and-bear-icons-on-target-lines_11.jpg`
+  - Dark slide; price line runs under three full-width dashed lines in green, yellow and red; value label at each right end, base in a dashed box; small outline bull above and bear below the band. Right side: grey card with dashed green edge and offset shadow holding HOLD, price, a thick down arrow labelled Downside, target.
+- ★ **Extruded plate with coloured top and bottom rails** · RD Saúde p.55 · `tipo/numeros-kpis/rd-saude_p55_extruded-plate-with-coloured-top-and-bottom-rails_31.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact vector, 9 quads. Oblique offset dx=+10,dy=-10 for all. Body front rect (502,114)-(932,303) #F2F2F2; right wall (932,114),(941,104),(941,293),(932,303) #C3C3C3; top face (502,114),(512,104),(941,104),(932,114) #F5F5F5. Top rail, a thin box 6.5 tall: front (503,108)-(931,115) #50B56D, top (503,108),(513,97),(942,97),(931,108) #72C48A, right (93
+- ★ **Formula with direction arrows** · Rede D'Or p.61 · `tipo/numeros-kpis/rede-d-or_p61_formula-with-direction-arrows_19.jpg`
+  - Typeset fraction (MLR(%) = Claims / Premiums) in math italics with a small coloured vertical arrow beside the term that changes, down in one state, up in the next; one formula per bullet of the phase.
+- ★ **Formula with brackets and dashed notes** · Sabesp p.19 · `tipo/numeros-kpis/sabesp_p19_formula-with-brackets-and-dashed-notes_13.jpg`
+  - Centred equation with key terms bold navy. Curly brackets under grouped terms carry a small bold label. Straight stems run down to dashed rounded boxes with one-sentence meaning. A diamond bullet below states the takeaway.
+- ★ **Modal sheet with ribbon crown over washed slide** · Senior Sistemas p.15 · `tipo/numeros-kpis/senior-sistemas_p15_modal-sheet-with-ribbon-crown-over-washed-slide_50.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED p15. Order, back to front: (1) underlying slide intact; (2) full-page rect #F2F2F2 alpha 0.60; (3) soft outer shadow plus gradient frame rect (77,123)-(874,474), dark teal #004136 at top to pale aqua #AAF0E0 at bottom, showing about 1.5pt; (4) card rect (78,124)-(872,472) #F2F2F2; (5) crown wave A freeform #205C64 spanning x 83-53
+- ★ **Running term-sheet ledger beneath a stepper** · Vibra p.31 · `tipo/numeros-kpis/vibra_p31_running-term-sheet-ledger-beneath-a-stepper_12.jpg`
+  - Fixed left column about 22% of width: the wheel stepper (already catalogued), then a KPI ledger of paired stats per sub-header ('Block Trade: BRL 35.4 Price per Share | 5% Premium'), values in accent with small grey unit, pairs split by a thin fading vertical line.
+- **Combinatorial scenario pop-up** · 3R Petroleum p.27 · `tipo/numeros-kpis/3r-petroleum_p27_combinatorial-scenario-pop-up_14.jpg`
+  - Big count with accent number on a top card; second card overlapping, three columns divided by thick accent rules, each with driver name, Bear/Base/Bull lines and bold values.
+- **Pennant banner with fold and tab on a card** · 3R Petroleum p.40 · `tipo/numeros-kpis/3r-petroleum_p40_pennant-banner-with-fold-and-tab-on-a-card_63.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Variant on the known side-wall panel. Wall (755,761)(675,700)(675,197)(755,136) #D9D9D9; panel (755,136)-(1467,761) #F2F2F2, bleeding off the right edge; the chart panel #F2F2F2 ends at x=675 so the wall looks like an open gate between them. Top tab rect (801,131)-(1188,176) #205B4A po
+- **Painel de valuation com preço-alvo** · 3R Petroleum p.40 · `tipo/numeros-kpis/3RPetroleum_p040_q2.jpg` · slide: `slides/3RPetroleum_p040.jpg`
+  - DCF Valuation
+- **Cartão com número grande destacado** · 3R Petroleum p.103 · `tipo/numeros-kpis/3RPetroleum_p103_q1.jpg` · slide: `slides/3RPetroleum_p103.jpg`
+- **Cartão de planos com valor** · 3R Petroleum p.103 · `tipo/numeros-kpis/3RPetroleum_p103_q2.jpg` · slide: `slides/3RPetroleum_p103.jpg`
+  - Plans
+- **Cartão destaque com número grande** · 3R Petroleum p.104 · `tipo/numeros-kpis/3RPetroleum_p104_q1.jpg` · slide: `slides/3RPetroleum_p104.jpg`
+  - Initially resources going into its cash
+- **Cartão de plano com valor destacado** · 3R Petroleum p.104 · `tipo/numeros-kpis/3RPetroleum_p104_q2.jpg` · slide: `slides/3RPetroleum_p104.jpg`
+  - Plans
+- **Cartão com número grande destacado** · 3R Petroleum p.106 · `tipo/numeros-kpis/3RPetroleum_p106_q1.jpg` · slide: `slides/3RPetroleum_p106.jpg`
+- **Cartão de planos com valor** · 3R Petroleum p.106 · `tipo/numeros-kpis/3RPetroleum_p106_q2.jpg` · slide: `slides/3RPetroleum_p106.jpg`
+  - Plans
+- **Cartão destaque com composição de dívida** · 3R Petroleum p.107 · `tipo/numeros-kpis/3RPetroleum_p107_q1.jpg` · slide: `slides/3RPetroleum_p107.jpg`
+- **Cartão de plano com valor destacado** · 3R Petroleum p.107 · `tipo/numeros-kpis/3RPetroleum_p107_q2.jpg` · slide: `slides/3RPetroleum_p107.jpg`
+  - Plans
+- **Bare verdict word on thesis page** · AB InBev p.2 · `tipo/numeros-kpis/ab-inbev_p2_bare-verdict-word-on-thesis-page_1.jpg`
+  - Dark page: thin frame open on the left with price pairs at top (current to target, joined by a capped rule) and return pairs at bottom (IRR, FCFE); between them a single thin-weight accent 'BUY'; three thesis pillars branch off a diagonal as small pill nodes with italic labels.
+- **Equação de tamanho do fosso** · AB InBev p.6 · `tipo/numeros-kpis/ABInBev_p006_q2.jpg` · slide: `slides/ABInBev_p006.jpg`
+- **Quadro de indicadores do projeto** · Alupar p.13 · `tipo/numeros-kpis/Alupar_p013_q2.jpg` · slide: `slides/Alupar_p013.jpg`
+  - Projeto 1: Financiado pela TPC Capital, Alupar Cresce no Peru
+- **Estrutura de dívida de curto prazo** · Alupar p.22 · `tipo/numeros-kpis/Alupar_p022_q1.jpg` · slide: `slides/Alupar_p022.jpg`
+  - Equity Bridge Loan - Total
+- **Hard offset shadow on boxes** · Arezzo&Co p.9 · `tipo/numeros-kpis/arezzo-co_p9_hard-offset-shadow-on-boxes_75.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact. Top rect (412,154)-(482,250) #404040; shadow rect (414,158)-(485,253) #202020, drawn first. Offsets (+3,+3.5). Pale version: box #DCF1F8 with shadow rect in #5CC8EC, same offset. No blur. Printer-safe.
+- **Contagem de escritórios entrevistados com vídeo** · BTG Pactual p.26 · `tipo/numeros-kpis/BTGPactual_p026_q1.jpg` · slide: `slides/BTGPactual_p026.jpg`
+  - We went out on field, and talked to 39 IFA offices
+- **Contagem de escritórios entrevistados por concorrente** · BTG Pactual p.27 · `tipo/numeros-kpis/BTGPactual_p027_q1.jpg` · slide: `slides/BTGPactual_p027.jpg`
+  - We went out on field, and talked to 39 IFA offices
+- **Etapa de venda de ativos europeus** · CSN - ArcelorMittal p.17 · `tipo/numeros-kpis/CSN-ArcelorMittal_p017_q1.jpg` · slide: `slides/CSN-ArcelorMittal_p017.jpg`
+  - 1st Step
+- **Etapa de venda de ativo downstream** · CSN - ArcelorMittal p.17 · `tipo/numeros-kpis/CSN-ArcelorMittal_p017_q2.jpg` · slide: `slides/CSN-ArcelorMittal_p017.jpg`
+  - 2nd Step
+- **Etapa de venda de participação ferroviária** · CSN - ArcelorMittal p.17 · `tipo/numeros-kpis/CSN-ArcelorMittal_p017_q3.jpg` · slide: `slides/CSN-ArcelorMittal_p017.jpg`
+  - 3rd Step
+- **Double-outline hexagons in staggered layout with a translucent column** · CSN - ArcelorMittal p.27 · `tipo/numeros-kpis/csn-arcelormittal_p27_double-outline-hexagons-in-staggered-layout-with-a-transluce_86.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Hexagons ~126x116 px: outer stroke 2px #FF0000, inner hexagon inset 5px stroke 1px #C00000, fill transparent over gradient red. Staggered: two in a column at x~1200, third offset +160 at mid height. Label plate below each with 1px stroke. Column (957,178)-(1067,522), radius 25, red at 
+- **Texto e indicadores da emissão** · CSN - ArcelorMittal p.32 · `tipo/numeros-kpis/CSN-ArcelorMittal_p032_q2.jpg` · slide: `slides/CSN-ArcelorMittal_p032.jpg`
+  - InFinance Bond Emission
+- **Quatro números-chave em cartão** · ChallengeB p.8 · `tipo/numeros-kpis/ChallengeB_p008_q4.jpg` · slide: `slides/ChallengeB_p008.jpg`
+  - Key stats
+- **Faixa de cinco indicadores da oferta** · Cosan p.11 · `tipo/numeros-kpis/Cosan_p011_q1.jpg` · slide: `slides/Cosan_p011.jpg`
+  - Offer Overview
+- **Comparação preço implícito contra IPO** · Cosan p.13 · `tipo/numeros-kpis/Cosan_p013_q3.jpg` · slide: `slides/Cosan_p013.jpg`
+  - Compass Trades Below Intrinsic Value
+- **Fading parallelogram tabs on tree** · Cury p.31 · `tipo/numeros-kpis/cury_p31_fading-parallelogram-tabs-on-tree_94.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Exact. Row tab: rect + triangle, e.g. rect (22,351)-(150,400) #F2F2F2 + triangle (150,351),(178,351),(150,400); or (21,269)-(190,318). Heights 49, tip 28, widths shrink by 40 per row. Final row dark gradient (21,433)-(109,482),(109,433)-(136,482) #152757 to mid blue. Each tab connected to a stroked value box x~320-412 by a hairline. A vertical navy
+- **Premissas e cenários de valuation** · Meliuz p.127 · `tipo/numeros-kpis/Meliuz_p127_q2.jpg` · slide: `slides/Meliuz_p127.jpg`
+  - Métricas utilizadas
+- **Elevated soft-shadow card over a recessed row** · Mercado Libre p.5 · `tipo/numeros-kpis/mercado-libre_p5_elevated-soft-shadow-card-over-a-recessed-row_106.jpg`
+  - Page #EDEDED. Upper card #F4F4F4 no shadow, radius 4pt (recessed tone). Lower card pure white, radius 4pt, native outer shadow: down 3pt, blur 4pt, about 45% black: contrast between the 2 tones implies 2 heights. Green vertical line and dots inside; hairline footer divider.
+- **Tenure portrait card with KPI base** · Mercado Libre p.7 · `tipo/numeros-kpis/mercado-libre_p7_tenure-portrait-card-with-kpi-base_43.jpg`
+  - Circular photo in a thick partial navy arc, breaking the top edge of a thin L-frame, name to the right. Large numeral with "Years at MELI" below. Navy strip across both cards with three KPI pairs.
+- **Cartão de TIR com múltiplos de entrada** · Mercado Libre p.35 · `tipo/numeros-kpis/MercadoLibre_p035_q3.jpg` · slide: `slides/MercadoLibre_p035.jpg`
+  - Exit Year: 2028
+- **Destaque percentual com produtos ilustrados** · Nubank p.25 · `tipo/numeros-kpis/Nubank_p025_q3.jpg` · slide: `slides/Nubank_p025.jpg`
+  - But the Nu's model was able to capture this segment
+- **Folded square icon tabs on pale pill rows** · Nubank p.26 · `tipo/numeros-kpis/nubank_p26_folded-square-icon-tabs-on-pale-pill-rows_8.jpg`
+  - Pale lavender rounded rectangle with text and bold coloured key number; dark purple square overlapping its left end, taller than the pill, with small darker triangles at top and bottom right to fake a fold; white line icon inside.
+- **Bevelled vertical WACC column with stacked operators** · RD Saúde p.51 · `tipo/numeros-kpis/rd-saude_p51_bevelled-vertical-wacc-column-with-stacked-operators_1.jpg`
+  - Pale panel with a green bevel top and thick green base; centred large coloured result, then alternating '=', 'X', '+' lines with bold term and value below each.
+- **Interlocked hexagon cluster** · Rede D'Or p.10 · `tipo/numeros-kpis/rede-d-or_p10_interlocked-hexagon-cluster_121.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Same double hex about 118pt wide. Three stacked with shared adjacent edges: outer strokes touch, navy gap keeps them separate. Offsets dx≈91, dy≈52, then dy≈110. Bleeds over a gradient page, no chart overlap.
+- **Ponte aritmética do valor do acionista** · Rede D'Or p.39 · `tipo/numeros-kpis/RedeDOr_p039_q3.jpg` · slide: `slides/RedeDOr_p039.jpg`
+  - Equity Value
+- **Dashed valuation frame with breakout header and result plates** · Rede D'Or p.40 · `tipo/numeros-kpis/rede-d-or_p40_dashed-valuation-frame-with-breakout-header-and-result-plate_2.jpg`
+  - Pale grey panel with a tinted corner tab; inside, a dashed rectangle; dark navy plate overlaps its top edge, teal plate overlaps its bottom edge; centred lines with a hairline before the total.
+- **Causal pill pair** · Restaurant Brands p.30 · `tipo/numeros-kpis/restaurant-brands_p30_causal-pill-pair_32.jpg`
+  - Two muted red rounded pills in italic white, pale double chevron between, wide fading triangle below pointing at a one-line conclusion with key words in red.
+- **Outlined box with a bevel and tucked screenshot** · Sabesp p.17 · `tipo/numeros-kpis/sabesp_p17_outlined-box-with-a-bevel-and-tucked-screenshot_129.jpg`
+  - Box #F4F4F4 with 2pt purple outline. On the right, grey bevel polygon about 12pt wide, tapering 3pt at top and bottom, and the outline continues around the bevel's outer top and bottom edges. A dark code screenshot sits behind the bevel, with a Python logo overlapping its bottom corner.
+- **Light cone from donut slice to callout box** · Sabesp p.59 · `tipo/numeros-kpis/sabesp_p59_light-cone-from-donut-slice-to-callout-box_127.jpg`
+  - Callout rect #00C4E9 about 307x94pt under the donut. Behind the donut, a pale #E3F6FD trapezoid: narrow top about 55pt wide hidden under the donut slice's bottom (the donut has centre about (270,264), R 78, hole r 48), wide bottom exactly the callout's width on its top edge. Order: cone, then callout, then donut on top. Cone height about 50pt.
+- **Arrow ring KPI** · Senior Sistemas p.23 · `tipo/numeros-kpis/senior-sistemas_p23_arrow-ring-kpi_49.jpg`
+  - Thick gradient ring in a near full circle, ending in an arrowhead that points out to the right; the centre holds small white label with the value bold.
+- **Cartão de retornos em três números** · Senior Sistemas p.33 · `tipo/numeros-kpis/SeniorSistemas_p033_q3.jpg` · slide: `slides/SeniorSistemas_p033.jpg`
+  - Resultados
+- **Diamond return rail from IRR to MOIC** · Vasta p.3 · `tipo/numeros-kpis/vasta_p3_diamond-return-rail-from-irr-to-moic_2.jpg`
+  - Thin vertical magenta line with a diamond at each end; IRR above the top diamond, MOIC under the bottom one, and 'In 6 years' interrupting the line at mid-height.
+- **Proportional gradient tile pair** · Vasta p.24 · `tipo/numeros-kpis/vasta_p24_proportional-gradient-tile-pair_9.jpg`
+  - Two rounded rectangles of equal height, widths in the data ratio (80/20), each with its own diagonal gradient (slate blue fading light, deep magenta to pink); big % and caption centred in white; base label under each; related donut pill below.
+- **Aporte primário com ações emitidas** · Vasta p.34 · `tipo/numeros-kpis/Vasta_p034_q2.jpg` · slide: `slides/Vasta_p034.jpg`
+  - CJE's Entry
+- **Retornos de entrada e saída** · Vasta p.34 · `tipo/numeros-kpis/Vasta_p034_q6.jpg` · slide: `slides/Vasta_p034.jpg`
+  - Value Creation at Exit
+- **Result seal on a leader** · Vibra p.14 · `tipo/numeros-kpis/vibra_p14_result-seal-on-a-leader_4.jpg`
+  - Dashed horizontal leader from the panel into an accent circle with thick white rim and outer ring, white value and label ('18.1% Premium').
+- **KPI bubble cluster with loose droplets** · Vibra p.27 · `tipo/numeros-kpis/vibra_p27_kpi-bubble-cluster-with-loose-droplets_2.jpg`
+  - Three or four pale green circles of varied size holding a number and caption, overlapping nothing; six to ten small empty circles of the same tint scattered around them in free positions.
+- **Gradient glass bubbles at scale** · Vibra p.27 · `tipo/numeros-kpis/vibra_p27_gradient-glass-bubbles-at-scale_140.jpg`
+  - Probably rasters with soft masks (205x205 and 41x41 images on page), not confirmed by position. Build with ovals: d=73 hero, d=16 small. Radial gradient, focus upper left #E8FFE8 to #A5EDA5 at rim, hairline grey outline. Three heroes overlap nothing; small dots scattered at varying saturation, alpha 0.6-1. Active variant shifts rim tone to #3DBE3D.
+- **Cartão de destaque com valor grande** · 3R Petroleum p.105 · `tipo/numeros-kpis/3RPetroleum_p105_q1.jpg` · slide: `slides/3RPetroleum_p105.jpg`
+  - Follow on
+- **Cartão de destaque com valor grande** · 3R Petroleum p.105 · `tipo/numeros-kpis/3RPetroleum_p105_q2.jpg` · slide: `slides/3RPetroleum_p105.jpg`
+  - Plans
+- **Barra de progresso de percentual** · BTG Pactual p.26 · `tipo/numeros-kpis/BTGPactual_p026_q2.jpg` · slide: `slides/BTGPactual_p026.jpg`
+  - However, only 9% considered the possibility of becoming a broker
+- **Perfil da empresa e acionistas** · Cosan p.8 · `tipo/numeros-kpis/Cosan_p008_q1.jpg` · slide: `slides/Cosan_p008.jpg`
+- **Quadro de receita protegida e exposta** · Intelbras p.44 · `tipo/numeros-kpis/Intelbras_p044_q3.jpg` · slide: `slides/Intelbras_p044.jpg`

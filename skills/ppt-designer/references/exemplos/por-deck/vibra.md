@@ -1,0 +1,74 @@
+# Vibra: páginas (42)
+
+- **Capa verde escura com letra gigante** · Vibra p.1 · `slides/Vibra_p001.jpg`
+  - Full-bleed black-to-green gradient with giant translucent brand glyph as background, small centered title block and team/partners footer
+- **Barras empilhadas, cadeia e participação** · Vibra p.3 · `slides/Vibra_p003.jpg`
+  - Left stacked bars of volume by product with CAGR callout, right a 3-step supply chain strip with logos above a 100% stacked market-share bar by distributor
+- **Ficha da empresa, barras e linhas de margem** · Vibra p.4 · `slides/Vibra_p004.jpg`
+  - Dense one-pager: text profile + shareholder boxes + key stats table on the left, three segment arcs in the lower left, revenue and margin charts on the right; each section has gray subtitle explaining the chart
+- **Dispersão com logos, barras e linhas** · Vibra p.5 · `slides/Vibra_p005.jpg`
+  - Scatter with regression line and R2 plus brand logos as bubbles, paired with ROIC line chart having shaded gap area between competitors
+- **Linha do tempo de decisões sobre série de preço** · Vibra p.6 · `slides/Vibra_p006.jpg`
+  - CEO timeline strip on top with transaction call-out cards, price chart with event annotations, M&A comps table on the right
+- **Três pilares numerados em anéis, escuro** · Vibra p.7 · `slides/Vibra_p007.jpg`
+  - Dark divider with three circled roman numerals in a staggered diagonal; active pillar glows green and the other two are dimmed, repeated as a section tracker across the deck
+- **Pilares com destaque do item ativo** · Vibra p.8 · `slides/Vibra_p008.jpg`
+- **Ficha, barras trimestrais e margens por segmento** · Vibra p.9 · `slides/Vibra_p009.jpg`
+  - Left profile card with transaction details and valuation table, quarterly stacked EBITDA bars by segment, segment arcs with margin lines
+- **Linhas de curtailment e barras de peso** · Vibra p.10 · `slides/Vibra_p010.jpg`
+  - Capacity-factor lines with curved annotation on curtailment stress, debt vs EBITDA bars comparing 6.2x consolidated vs ex-Comerc, small table with green highlighted margin loss
+- **Série de spread com faixa de três causas** · Vibra p.11 · `slides/Vibra_p011.jpg`
+  - Spread line chart (VBBS vs UGPA3) with area fill below zero, three green header boxes explaining the phases and dated callouts on the line
+- **Pilares com passos detalhados do item ativo** · Vibra p.12 · `slides/Vibra_p012.jpg`
+- **Pilares com etapas ramificadas do item ativo** · Vibra p.15 · `slides/Vibra_p015.jpg`
+- **Ficha, barras e lista de razões em anéis** · Vibra p.16 · `slides/Vibra_p016.jpg`
+  - Reusable company-profile layout: text card with ownership and valuation table, revenue bars, segment arcs and numbered 'Why X as partner' ovals
+- **Linha de múltiplo, mapa e tabela de portfólio** · Vibra p.17 · `slides/Vibra_p017.jpg`
+  - Declining EV/EBITDA line with std-dev band, map with plants as dots, proforma portfolio mix table and three-box value levers
+- **Sinergias com linha, tabela, equação e sensibilidade** · Vibra p.18 · `slides/Vibra_p018.jpg`
+  - Area chart with-vs-without synergy lines and a circled EBITDA gain bubble, comps table of past M&A, green NPV equation block and sensitivity grid with highlighted base cell
+- **Pilares com item central em destaque** · Vibra p.19 · `slides/Vibra_p019.jpg`
+- **Barras empilhadas e dispersão de posicionamento** · Vibra p.21 · `slides/Vibra_p021.jpg`
+  - Stacked bars of premium share growth with rate callouts plus 2x2 bubble map of brands by premium vs conventional share with dashed quadrants
+- **Ficha, barras e linhas com razões laterais** · Vibra p.22 · `slides/Vibra_p022.jpg`
+- **Faixa de contexto sobre dispersão com elipses** · Vibra p.25 · `slides/Vibra_p025.jpg`
+  - Leverage vs acquisition multiple scatter with dashed ellipses for each offer and shaded target-range band, news clipping and synergy stats header
+- **Matriz de segmentos com bolhas somando ao resultado** · Vibra p.27 · `slides/Vibra_p027.jpg`
+  - A + B = C layout with checklist dot matrix per segment and bubble stats over Brazil map for each entity
+- **Pilares com terceiro item em destaque** · Vibra p.28 · `slides/Vibra_p028.jpg`
+- **Tabela comparativa, notícia com foto e barras** · Vibra p.29 · `slides/Vibra_p029.jpg`
+  - Two-panel: flagged vs white-flag comparison table with illustration and press photo, bars of working-capital days
+- **Esquema de fluxo com barras e sensibilidade** · Vibra p.30 · `slides/Vibra_p030.jpg`
+  - Before/after flow diagram with numbered steps, consensus vs incremental bars and a share-of-capture sensitivity grid with highlighted base cell
+- **Organogramas antes e depois com navegação lateral** · Vibra p.31 · `slides/Vibra_p031.jpg`
+  - Dark slide with left step tracker rail, glowing numbered header, pre vs post org charts and a KPI strip of big green numbers
+- **Organogramas societários e mesa de conselho** · Vibra p.32 · `slides/Vibra_p032.jpg`
+  - Boardroom oval table drawing showing seat allocation by shareholder, with article highlights panel
+- **Árvore societária em etapas com termos** · Vibra p.33 · `slides/Vibra_p033.jpg`
+  - Org chart with highlighted target boxes on dark background, KPI numbers strip on left
+- **Árvore societária de fusão com termos** · Vibra p.34 · `slides/Vibra_p034.jpg`
+- **Três estágios de estrutura com dívida-ponte** · Vibra p.35 · `slides/Vibra_p035.jpg`
+- **Troca de ações e estrutura final** · Vibra p.36 · `slides/Vibra_p036.jpg`
+- **Resumo da transação em colunas e estrutura final** · Vibra p.37 · `slides/Vibra_p037.jpg`
+  - Six numbered green-bordered columns with big stat per step, chevrons between them and final org chart, key assumptions checklist below
+- **Dispersão de múltiplo e barras de lucro** · Vibra p.38 · `slides/Vibra_p038.jpg`
+  - Left scatter of EV/EBITDA vs ROIC with logo markers and arrow to future position, right EPS bars with accretion row below
+- **Cascata de retorno e cenários urso-base-touro** · Vibra p.40 · `slides/Vibra_p040.jpg`
+  - Waterfall of IRR contributions on the left and three scenario columns with headline IRR/MOIC and range bars for exit assumptions
+- **Encerramento verde com letra gigante** · Vibra p.41 · `slides/Vibra_p041.jpg`
+- **Índice em linhas sobre fundo escuro** · Vibra p.2 · `slides/Vibra_p002.jpg`
+  - Roman-numeral agenda lines separated by thin green hairlines over the glyph background
+- **Quatro gráficos de linhas e barras** · Vibra p.13 · `slides/Vibra_p013.jpg`
+  - Solar capacity factor lines CG vs DG with shaded gap, tariff divergence chart with end labels, premium multiple bars below
+- **Tabela comparativa, barras horizontais e esquema** · Vibra p.14 · `slides/Vibra_p014.jpg`
+  - Two-column comparison table of Remote Self-Consumption vs Shared Generation, horizontal margin bars vs peers, before/after structure flow with a circled premium stat
+- **Cadeia de suprimento, tabela de custos e barras** · Vibra p.20 · `slides/Vibra_p020.jpg`
+  - Numbered 4-step supply chain with logos, truck monthly cost table with highlighted lubricant row (2% of cost), margin bars vs average dashed line
+- **Duas alavancas com mapa e tabelas** · Vibra p.23 · `slides/Vibra_p023.jpg`
+  - Two header-bar columns (top-line vs cost) over a Brazil dot map, assumption tables and a bold incremental revenue row
+- **Duas alavancas com gráficos e caixa de VPL** · Vibra p.24 · `slides/Vibra_p024.jpg`
+- **Barras de poder de compra, estrutura e fórmulas** · Vibra p.26 · `slides/Vibra_p026.jpg`
+  - Funding stacked bar (debt vs cash vs equity), structure flow diagram, formula boxes with circled result
+- **Tabela de saída por ano com resumo lateral** · Vibra p.39 · `slides/Vibra_p039.jpg`
+  - Exit-year matrix table with highlighted 2031 row and IRR/MOIC columns, side panel with exit routes, news snippets and precedent deal comps
+- **Sumário em duas colunas de texto** · Vibra p.42 · `slides/Vibra_p042.jpg`

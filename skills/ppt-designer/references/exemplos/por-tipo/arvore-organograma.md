@@ -1,0 +1,47 @@
+# Árvore e organograma (24)
+
+- ★ **Fotos de executivos em losango** · AB InBev p.73 · `tipo/arvore-organograma/ABInBev_p073_q1.jpg` · slide: `slides/ABInBev_p073.jpg`
+- ★ **Fotos de executivos em losango** · AB InBev p.76 · `tipo/arvore-organograma/ABInBev_p076_q1.jpg` · slide: `slides/ABInBev_p076.jpg`
+- ★ **Signed term-sheet cards** · Alupar p.2 · `tipo/arvore-organograma/alupar_p2_signed-term-sheet-cards_5.jpg`
+  - Top frame with title breaking the border holds four KPIs; a stem forks to three cards. Each card: italic title with rule, four lines of terms, two handwritten signatures with name lines at the foot. P18 repeats on covenant cards (crop b2_al_covenant_signed.png).
+- ★ **Staircase term tree** · Alupar p.22 · `tipo/arvore-organograma/alupar_p22_staircase-term-tree_4.jpg`
+  - Left: tranche values in large italics joined by a bracket. Right: each term (Carencia, Garantias, Amortizacao, Maturity) stepped inward with an L-shaped leader ending in a dot; bold title, italic value. Active block blue, rest grey.
+- ★ **Decision tree with lit path** · CSN Liability p.21 · `tipo/arvore-organograma/csn-liability_p21_decision-tree-with-lit-path_7.jpg`
+  - Framed grey panel. Question bars span the width in white with black border. Yes route navy, No route grey, with diamond nodes at splits and small L-brackets by the labels. Leaves are NPV boxes offset vertically by value; chosen ones navy-outlined, others grey.
+- ★ **Árvore de decisão de contratos** · CSN Liability p.21 · `tipo/arvore-organograma/CSNLiabilityManagement_p021_q2.jpg` · slide: `slides/CSNLiabilityManagement_p021.jpg`
+  - Contract acceptance drives valuation across four distinct scenarios
+- ★ **Ownership wires with capped percentages** · Cosan p.20 · `tipo/arvore-organograma/cosan_p20_ownership-wires-with-capped-percentages_10.jpg`
+  - Rectangular logo boxes with thin border; orthogonal lines; each stake is text interrupting the line, held between two short horizontal caps like an I-beam. Lines change colour by ownership path.
+- ★ **Lit driver tree with crosses between siblings** · Restaurant Brands p.30 · `tipo/arvore-organograma/restaurant-brands_p30_lit-driver-tree-with-crosses-between-siblings_12.jpg`
+  - Red top plate with elbow connectors to two rectangles and a light X between them; a further level beneath; active boxes in red, inactive in grey with faded X; rounded corners and italic labels; reused on later slides with a different branch lit.
+- ★ **Mini-diagram as a locator on repeat slides** · Restaurant Brands p.30 · `tipo/arvore-organograma/restaurant-brands_p30_mini-diagram-as-a-locator-on-repeat-slides_9.jpg`
+  - Top box Revenue; pale elbow arrows down to AUV X Units and on to Price X Traffic and NRG; active path in solid red, inactive boxes in flat grey with white italic text; pale X between multiplied boxes. The same tree moves slide to slide with a new branch lit. Pp. 24-26 repeat it with the Reclaim the Flame plan cards.
+- ★ **Pre/post cap table tree** · Vibra p.31 · `tipo/arvore-organograma/vibra_p31_pre-post-cap-table-tree_27.jpg`
+  - Two identical trees separated by a large thin chevron; holder boxes with logo in a row on top, lines into the company below; % chips sit on the lines; pale tabs 1st Step and 2nd Step above the boxes they affect; on the Post side, chips turn accent and carry 'plus or minus delta' labels beside them.
+- **Valores e condições do financiamento bancário** · Alupar p.22 · `tipo/arvore-organograma/Alupar_p022_q2.jpg` · slide: `slides/Alupar_p022.jpg`
+  - Project Finance Bancário I Value
+- **Valores e condições do título verde** · Alupar p.22 · `tipo/arvore-organograma/Alupar_p022_q3.jpg` · slide: `slides/Alupar_p022.jpg`
+  - Green Bond I Value
+- **Fotos de executivos em losango** · BTG Pactual p.61 · `tipo/arvore-organograma/BTGPactual_p061_q1.jpg` · slide: `slides/BTGPactual_p061.jpg`
+- **Stake chips into target logo with board list attached** · BTG Pactual p.122 · `tipo/arvore-organograma/btg-pactual_p122_stake-chips-into-target-logo-with-board-list-attached_1.jpg`
+  - Three logos or grey tags in a row with small italic percent chips on the wires dropping to a large target logo; underneath, a pale panel split by a vertical rule with 'nominated by' at left and director names at right; a double-slash mark breaks the connector.
+- **Stake exit tree with logos** · CSN - ArcelorMittal p.24 · `tipo/arvore-organograma/csn-arcelormittal_p24_stake-exit-tree-with-logos_33.jpg`
+  - Dashed context box on top; dashed bracket joins it to stacked logo tiles; dashed lines carrying percent labels converge on a single buyer logo tile.
+- **Mesa do conselho com cadeiras** · Cosan p.6 · `tipo/arvore-organograma/Cosan_p006_q1.jpg` · slide: `slides/Cosan_p006.jpg`
+  - Post-Transaction Board Structure
+- **Estrutura societária pós-conversão** · Cosan p.20 · `tipo/arvore-organograma/Cosan_p020_q1.jpg` · slide: `slides/Cosan_p020.jpg`
+  - Post-Conversion Structure
+- **Estrutura societária após cisão** · Cosan p.20 · `tipo/arvore-organograma/Cosan_p020_q2.jpg` · slide: `slides/Cosan_p020.jpg`
+  - Spin-Off Structure
+- **Translucent plate over org-chart lines with ghost nodes** · Cosan p.21 · `tipo/arvore-organograma/cosan_p21_translucent-plate-over-org-chart-lines-with-ghost-nodes_87.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Dark gradient slide. Plate rect (857,246)-(1365,300), white at ~20% alpha, 1px dashed white border, drawn over the connector lines so the lines read through it; holds the percentages. Inactive state layers: same connectors and nodes in red at 25-30% alpha sit behind the active white on
+- **Organograma societário pós-aquisição** · Kering - Moncler p.25 · `tipo/arvore-organograma/Kering-Moncler_p025_q2.jpg` · slide: `slides/Kering-Moncler_p025.jpg`
+  - GOVERNANCE STRUCTURE
+- **School logos on a board roster** · Mercado Libre p.69 · `tipo/arvore-organograma/mercado-libre_p69_school-logos-on-a-board-roster_42.jpg`
+  - Row of university logos labelled Schools above the portrait cluster, with name and short bio lines at right in a grey band. Low-res crop.
+- **Org tree with tenure chips** · Mercado Libre p.74 · `tipo/arvore-organograma/mercado-libre_p74_org-tree-with-tenure-chips_42.jpg`
+  - Round CEO portrait over a row of dashed name boxes; each carries a navy chip with years at the firm. Above, a timeline of tenure milestones in years. Low-res crop.
+- **Mesa do conselho com logos** · RD Saúde p.29 · `tipo/arvore-organograma/RDSaude_p029_q1.jpg` · slide: `slides/RDSaude_p029.jpg`
+  - Board of directors
+- **Value box branching through a dashed bracket** · Rede D'Or p.2 · `tipo/arvore-organograma/rede-d-or_p2_value-box-branching-through-a-dashed-bracket_3.jpg`
+  - Dashed rectangle with a value in large blue; short dashed line to a dashed vertical; four dashed horizontals to plain text labels.

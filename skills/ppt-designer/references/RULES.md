@@ -171,7 +171,7 @@ A fonte é a do tema do mestre ou a de `deck_prefs.font`.
 - [ ] Nenhum gráfico de barras com só duas barras; nenhuma linha com marcador
 - [ ] Nenhum item de "Reprovado pelo dono do deck"
 - [ ] Tem algo que parece "do nada"? Se você precisa explicar por que a peça está ali, ela sai
-- [ ] Lado a lado com os prints ★★★ escolhidos, o slide parece do mesmo nível
+- [ ] Lado a lado com os slides de referência, o slide parece do mesmo nível
 - [ ] Rodapé só com `Sources: Company Data, Group Calculations.`
 - [ ] Notas e fontes detalhadas nas notas do apresentador
 - [ ] Respeita `deck_prefs` (fundo, 3D, barras)

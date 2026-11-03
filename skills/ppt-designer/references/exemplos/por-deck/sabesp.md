@@ -1,0 +1,159 @@
+# Sabesp: páginas (103)
+
+- ★ **Três painéis sobre fita cronológica** · Sabesp p.2 · `slides/Sabesp_p002.jpg`
+  - Three grey-shadow cards on top (ops table, SP map with 375 cities/58% coverage chips, revenue bars with margin line) and a wavy ribbon timeline 1973-2026 below with alternating above/below labels.
+- ★ **Mapas gêmeos ligados a ícones** · Sabesp p.3 · `slides/Sabesp_p003.jpg`
+  - Twin Brazil choropleths (water vs sewage by state) side by side, then a strip of 3 icon+label regulatory regimes under them, right column pairs capex-per-capita bars with a universalization line chart inside a dashed highlight.
+- ★ **Pilares em órbita com recomendação** · Sabesp p.4 · `slides/Sabesp_p004.jpg`
+  - Giant logo on the left with concentric arcs and three icon nodes on the arc; huge 'BUY!' in a bracket on the right half - verdict as a hero word.
+- ★ **Mapa com cunha para barras** · Sabesp p.7 · `slides/Sabesp_p007.jpg`
+  - Three stacked bordered boxes for framework features next to a Brazil map with URAE bars; bottom-right small table decomposes cross-subsidy case study in R$/m3.
+- ★ **Marcos em colunas com faixa contínua** · Sabesp p.11 · `slides/Sabesp_p011.jpg`
+  - Chevron timeline of 6 dated obligations (2024 to 2060) with headline term in white band; below, capex columns and a 3-box penalties stack.
+- ★ **Fita cronológica entre retratos com citação** · Sabesp p.17 · `slides/Sabesp_p017.jpg`
+  - Ribbon timeline of acquisitions with CEO headshots+quotes at both ends, and a heatmap-colored loss-reduction table by concession over years.
+- ★ **Fórmula anotada sobre dois gráficos** · Sabesp p.19 · `slides/Sabesp_p019.jpg`
+  - Tariff formula typeset big with dashed boxes under each term and a one-line explanation per term; charts below show opex vs ceiling gap.
+- ★ **Matriz de risco com cubos isométricos** · Sabesp p.36 · `slides/Sabesp_p036.jpg`
+  - Coded bubbles (B1-B3, M1-M2, S1-S2) positioned on the grid with a color-coded legend panel on the right listing what each code means.
+- ★ **Três cartões verticais com recomendação** · Sabesp p.37 · `slides/Sabesp_p037.jpg`
+  - Three tall white rounded cards with Roman-numeral tabs on cyan background, 'BUY!' bracketed on the right.
+- ★ **Cadeia isométrica sobre dois gráficos** · Sabesp p.41 · `slides/Sabesp_p041.jpg`
+  - Isometric-style illustrated value chain left to right with step name, risk label in cyan underneath; two data charts hang below.
+- **Capa com foto em faixas diagonais** · Sabesp p.1 · `slides/Sabesp_p001.jpg`
+  - Diagonal cyan wedge cuts the full-bleed industry photo, logo lockup and names sit on flat color so text never fights the image.
+- **Divisor orbital com pilar aceso** · Sabesp p.5 · `slides/Sabesp_p005.jpg`
+  - Reuse one master graphic as section divider and fade inactive pillars (opacity) so the reader tracks position in the thesis.
+- **Lista de falhas com gráficos empilhados** · Sabesp p.6 · `slides/Sabesp_p006.jpg`
+  - Left: 5 icon rows with bold lead-in + short consequence; right: two stacked charts joined by a dashed connector from the bold key phrase to the evidence ('lost decade').
+- **Quatro painéis com retrato e citação** · Sabesp p.8 · `slides/Sabesp_p008.jpg`
+  - Regulator quote paired with a headshot, name and title inside a pale card, next to the bullet clauses - gives expert-interview credibility.
+- **Linhas voláteis ao lado de bolhas** · Sabesp p.9 · `slides/Sabesp_p009.jpg`
+  - Left: three line charts with sigma labels per regulator; right: bubble chart of states by attractiveness score with the SP bubble enlarged and labeled.
+- **Faixa-pergunta sobre slide esmaecido** · Sabesp p.10 · `slides/Sabesp_p010.jpg`
+  - Fade the prior slide to ~15% and lay a solid cyan band with one rhetorical question - a cheap narrative hinge between sections.
+- **Barras com zoom em cunha** · Sabesp p.12 · `slides/Sabesp_p012.jpg`
+  - Expert-call screenshot with quote in a pale box, and a zoom-cone from a chart bar to a callout box that explains the exact bar.
+- **Lista de ícones alimentando fluxo** · Sabesp p.13 · `slides/Sabesp_p013.jpg`
+  - Left: 4 icon rows telling a mini causal story (tension, intervention, damage, FAUSP); right: split grey panel 'Outflows' vs 'Inflows' with bars and a dashed connector.
+- **Quatro painéis com anéis e barras** · Sabesp p.14 · `slides/Sabesp_p014.jpg`
+  - Foreign analog case: tilted funnel-bars list the structural advantages, then execution-failure line and column charts; the foreign company logo badge top-right marks the case.
+- **Divisor orbital com pilar aceso** · Sabesp p.15 · `slides/Sabesp_p015.jpg`
+  - Same orbit master with a different pillar bold per divider.
+- **Blocos societários com recorte de jornal** · Sabesp p.16 · `slides/Sabesp_p016.jpg`
+  - Two treemaps (before/after ownership) show the privatization at a glance; newspaper clipping and governance bullets underneath.
+- **Quatro gráficos com treemap e destaque** · Sabesp p.18 · `slides/Sabesp_p018.jpg`
+  - Cost composition as a tiled bar (width = share), then opex/revenue line, margin lines vs Copasa/Sanepar with dashed highlight over 2024-25.
+- **Painel de fórmula ao lado de linhas** · Sabesp p.20 · `slides/Sabesp_p020.jpg`
+  - Progressive reveal series: the same slide in 3 states (old model highlighted, new model highlighted, result chart) via fading the inactive half.
+- **Fórmula com mapa de sensibilidade e linhas** · Sabesp p.21 · `slides/Sabesp_p021.jpg`
+  - Compact cyan-gradient heatmap of tariff adjustment vs Q and U factors beside the formula; blue number cells with darker = higher.
+- **Modal com gráfico sobre slide esmaecido** · Sabesp p.22 · `slides/Sabesp_p022.jpg`
+- **Cascata grande com gráficos empilhados** · Sabesp p.23 · `slides/Sabesp_p023.jpg`
+  - Revenue bridge (base 1Q25 to 1Q26 with tariff/volume/mix) plus a breakeven-by-subsidized-users bar chart annotated at 5-6% breakeven.
+- **Mapas coropléticos empilhados com dispersão** · Sabesp p.24 · `slides/Sabesp_p024.jpg`
+  - Two SP municipality maps (loss intensity and digital penetration) with legend boxes inset, plus regression scatter with R2/p-value callout.
+- **Mapas empilhados com recorte e barras** · Sabesp p.25 · `slides/Sabesp_p025.jpg`
+  - Torn-paper newspaper clipping (InfoMoney headline + quote) as external validation sitting next to the incremental-revenue bars.
+- **Divisor orbital com pilar aceso** · Sabesp p.26 · `slides/Sabesp_p026.jpg`
+- **Três gráficos sobre rosca e notas** · Sabesp p.27 · `slides/Sabesp_p027.jpg`
+  - Three-panel peer comparison (cost of debt bars, stacked debt mix by instrument, DFI exposure horizontal bars) with a dashed-border takeaway strip at the bottom.
+- **Linha larga sobre dois gráficos** · Sabesp p.28 · `slides/Sabesp_p028.jpg`
+  - 2x2 mini-charts, each with a 'headline-bold-phrase...' lead-in connecting two panels into a sentence across the slide; dashed highlight box on the 2025-26 forecast.
+- **Faixa-pergunta sobre slide esmaecido** · Sabesp p.29 · `slides/Sabesp_p029.jpg`
+- **Retratos em zigue-zague com gráficos** · Sabesp p.30 · `slides/Sabesp_p030.jpg`
+  - Zigzag of 4 headshots with name + prior companies on underlines, next to bars of results delivered and a comp-structure column chart.
+- **Antes e depois com tabela e entrevista** · Sabesp p.31 · `slides/Sabesp_p031.jpg`
+  - Before/after dashed boxes comparing regulatory models side by side with an expert-call photo and pull quote on the right.
+- **Curvas, fórmula em pílula e régua** · Sabesp p.32 · `slides/Sabesp_p032.jpg`
+  - Horizontal axis of EV/RAB zones (<1.0x value trap, 1.0-1.5x sweet spot, >1.5x limited upside) read as a verdict scale across Sanepar/Sabesp/Copasa.
+- **Mapa de satélite com barras e entrevista** · Sabesp p.33 · `slides/Sabesp_p033.jpg`
+  - Map of the reservoir complex with pins and callouts explaining the strategic logic, then EV/MW bars with Sabesp highlighted in a dashed box.
+- **Anéis concêntricos, mapa e cascata** · Sabesp p.34 · `slides/Sabesp_p034.jpg`
+  - Left: concentric-circle graphic of program stages; right: neighboring-municipality map and a waterfall that multiplies connections x tariff x consumption into revenue.
+- **Divisor orbital com palavra grande** · Sabesp p.35 · `slides/Sabesp_p035.jpg`
+- **Encerramento orbital de perguntas** · Sabesp p.38 · `slides/Sabesp_p038.jpg`
+- **Três gráficos com capa de livro** · Sabesp p.42 · `slides/Sabesp_p042.jpg`
+  - Book cover (Competition Demystified) as an image next to a quoted claim and churn-by-sector bars showing sanitation churn is 0%.
+- **Linhas sobre barras com citação** · Sabesp p.45 · `slides/Sabesp_p045.jpg`
+- **Duas tabelas ligadas por cunha** · Sabesp p.46 · `slides/Sabesp_p046.jpg`
+- **Matriz de sensibilidade com cunha explicativa** · Sabesp p.47 · `slides/Sabesp_p047.jpg`
+  - Table heatmap with color bands (cyan sweet-spot cells, orange off-zone) beside a four-bullet reading guide in a pale box.
+- **Etapas empilhadas ao lado de barras** · Sabesp p.48 · `slides/Sabesp_p048.jpg`
+  - Left vertical stack of 5 transaction steps as blue boxes, right horizontal bars of net cost paid vs obtained by item.
+- **Tabela com semáforo, linha e callout** · Sabesp p.51 · `slides/Sabesp_p051.jpg`
+  - Table with traffic-light status cells (Normal/Good/Excellent) per reservoir feeding a long-run water-level line chart.
+- **Quatro painéis com cartões numerados** · Sabesp p.52 · `slides/Sabesp_p052.jpg`
+  - 3-column infiltration/interception/baseflow pastel icon cards under a bar showing redistribution capacity rise.
+- **Painel de ícones com recorte e barras** · Sabesp p.53 · `slides/Sabesp_p053.jpg`
+- **Barras horizontais com cartões e cronologia** · Sabesp p.55 · `slides/Sabesp_p055.jpg`
+- **Cronologia textual ligada a tabela** · Sabesp p.56 · `slides/Sabesp_p056.jpg`
+  - Vertical dated timeline (2009-2024) beside a 3-period comparison table with risk row 'Prospective risk'.
+- **Recorte de jornal, cronologia e tabela** · Sabesp p.57 · `slides/Sabesp_p057.jpg`
+- **Rosca com legenda, fluxo e tabela** · Sabesp p.58 · `slides/Sabesp_p058.jpg`
+  - Donut of debt currency mix next to a swap flow diagram (Sabesp ⇄ counterparty, pays/receives) and a coverage-100% table.
+- **Rosca com legenda ao lado de tabela** · Sabesp p.59 · `slides/Sabesp_p059.jpg`
+  - Donut for debt composition by index and a conversion table (original index, derivative, result) with a dark call-out box explaining the net effect.
+- **Três colunas com painel central saliente** · Sabesp p.60 · `slides/Sabesp_p060.jpg`
+- **Pares de fotos sobrepostas em grade** · Sabesp p.61 · `slides/Sabesp_p061.jpg`
+  - 2x2 grid of news photos in cyan frames with date labels - qualitative evidence as images instead of charts.
+- **Faixa-pergunta sobre slide esmaecido** · Sabesp p.62 · `slides/Sabesp_p062.jpg`
+- **Três colunas de protocolo com ícones** · Sabesp p.63 · `slides/Sabesp_p063.jpg`
+  - Three-column pillar headers with icons and short action lines, CEO headshot quote and newspaper clipping in column 3.
+- **Linha anotada e faixas de desvio** · Sabesp p.64 · `slides/Sabesp_p064.jpg`
+  - P/E line over green/yellow/red standard deviation bands (±1σ/±2σ) with the current point circled, next to price chart annotated by events.
+- **Barras horizontais e empilhadas com destaque** · Sabesp p.65 · `slides/Sabesp_p065.jpg`
+  - Horizontal progress bars (target vs progress) per year and a vertical remaining-to-target stack with dashed highlight.
+- **Retrato recortado com citação e manchete** · Sabesp p.68 · `slides/Sabesp_p068.jpg`
+  - Executive headshot with quote on left and torn newspaper 'Why Sabesp stayed out of Copasa' on right - two proof points side by side.
+- **Linhas múltiplas com coluna destacada** · Sabesp p.74 · `slides/Sabesp_p074.jpg`
+  - Three overlaid lines (ROIC, margin, turnover) with a dashed callout box on 2025 explaining the compression.
+- **Dois gráficos empilhados e barras altas** · Sabesp p.75 · `slides/Sabesp_p075.jpg`
+  - Left: two-chart stack (cash generation columns with CAGR box above net income vs OCF lines); right: FCFF vs FCFE paired bars across years with highlight on 2025.
+- **Barras ordenadas com faixas anotadas** · Sabesp p.79 · `slides/Sabesp_p079.jpg`
+  - Ordered columns by coverage % colored grey to cyan as they cross the milestone, with two dashed callouts for average cost per connection before vs after.
+- **Índice em duas colunas de links** · Sabesp p.39 · `slides/Sabesp_p039.jpg`
+  - Two-column hyperlinked index grouped by pillar, so a 100-page deck stays navigable.
+- **Índice de apêndice em colunas** · Sabesp p.40 · `slides/Sabesp_p040.jpg`
+- **Print de jornal com tabelas marcadas** · Sabesp p.43 · `slides/Sabesp_p043.jpg`
+- **Fórmula solta em página vazia** · Sabesp p.44 · `slides/Sabesp_p044.jpg`
+- **Print de chamada com citação** · Sabesp p.49 · `slides/Sabesp_p049.jpg`
+- **Duas tabelas de balanço espelhadas** · Sabesp p.50 · `slides/Sabesp_p050.jpg`
+- **Três caixas tracejadas de texto** · Sabesp p.54 · `slides/Sabesp_p054.jpg`
+- **Print de chamada com citação** · Sabesp p.66 · `slides/Sabesp_p066.jpg`
+- **Print de chamada com citação** · Sabesp p.67 · `slides/Sabesp_p067.jpg`
+- **Tabela longa com nota de definição** · Sabesp p.69 · `slides/Sabesp_p069.jpg`
+- **Tabela marcada sobre linha** · Sabesp p.70 · `slides/Sabesp_p070.jpg`
+  - Yellow-highlighted input/output columns in a spreadsheet table above a labeled line chart of total capital remuneration.
+- **Print de portal sobre código** · Sabesp p.71 · `slides/Sabesp_p071.jpg`
+- **Saída crua em colunas densas** · Sabesp p.72 · `slides/Sabesp_p072.jpg`
+- **Parâmetros ao lado de planilha colada** · Sabesp p.73 · `slides/Sabesp_p073.jpg`
+- **Três tabelas de cenário com ícones** · Sabesp p.76 · `slides/Sabesp_p076.jpg`
+  - Three scenario columns headed with icons (bear, scale, bull) and darker blue shades from bear to bull; yellow-marked outputs.
+- **Tabela crua com colunas amarelas** · Sabesp p.77 · `slides/Sabesp_p077.jpg`
+- **Tabelas de cálculo com resultado marcado** · Sabesp p.78 · `slides/Sabesp_p078.jpg`
+- **Planilha de metodologia colada** · Sabesp p.80 · `slides/Sabesp_p080.jpg`
+- **Tabela longa com linhas coloridas** · Sabesp p.81 · `slides/Sabesp_p081.jpg`
+- **Tabela longa com linhas coloridas** · Sabesp p.82 · `slides/Sabesp_p082.jpg`
+- **Planilhas ligadas por seta** · Sabesp p.83 · `slides/Sabesp_p083.jpg`
+- **Tabela com fórmula em tarja** · Sabesp p.84 · `slides/Sabesp_p084.jpg`
+- **Lista de valores com faixas seccionais** · Sabesp p.85 · `slides/Sabesp_p085.jpg`
+- **Planilha crua em largura total** · Sabesp p.86 · `slides/Sabesp_p086.jpg`
+- **Tabelas de correção com total marcado** · Sabesp p.87 · `slides/Sabesp_p087.jpg`
+- **Planilhas de premissas em duas colunas** · Sabesp p.88 · `slides/Sabesp_p088.jpg`
+- **Tabela crua com faixas cinza** · Sabesp p.89 · `slides/Sabesp_p089.jpg`
+- **Tabela crua com total marcado** · Sabesp p.90 · `slides/Sabesp_p090.jpg`
+- **Tabela crua com colunas tingidas** · Sabesp p.91 · `slides/Sabesp_p091.jpg`
+- **Tabela crua sobre fórmula escura** · Sabesp p.92 · `slides/Sabesp_p092.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.93 · `slides/Sabesp_p093.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.94 · `slides/Sabesp_p094.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.95 · `slides/Sabesp_p095.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.96 · `slides/Sabesp_p096.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.97 · `slides/Sabesp_p097.jpg`
+- **Tabela crua de estrutura de capital** · Sabesp p.98 · `slides/Sabesp_p098.jpg`
+- **Tabela crua sobre fórmula escura** · Sabesp p.99 · `slides/Sabesp_p099.jpg`
+  - Spreadsheet table with the WACC formula in a black box beneath; plain but traceable.
+- **Tabela regulatória com células escuras** · Sabesp p.100 · `slides/Sabesp_p100.jpg`
+- **Tabela de dívida com seções** · Sabesp p.101 · `slides/Sabesp_p101.jpg`
+- **Tabela de dívida com seções** · Sabesp p.102 · `slides/Sabesp_p102.jpg`
+- **Tabela de dívida com seções** · Sabesp p.103 · `slides/Sabesp_p103.jpg`

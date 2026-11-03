@@ -1,0 +1,269 @@
+# Outros (143)
+
+- ★ **Logo treemap zoomed out from a sliver into a second treemap** · 3R Petroleum p.5 · `tipo/outros/3r-petroleum_p5_logo-treemap-zoomed-out-from-a-sliver-into-a-second-treemap_4.jpg`
+  - Left treemap with one giant tile filled with a ghosted logo; the narrow right tiles are joined by a grey trapezoid wall to a second treemap, whose tiles use full logos as the only labels; tile colours step from dark to light.
+- ★ **Numbered badges on radar vertices keyed to a list** · 3R Petroleum p.101 · `tipo/outros/3r-petroleum_p101_numbered-badges-on-radar-vertices-keyed-to-a-list_2.jpg`
+  - Hairline concentric pentagons with a single coloured polygon; dark pentagon badges with a white digit float outside each vertex; the right panel repeats the same badges beside a bold force name with its score and a short paragraph.
+- ★ **Skim-layer lede** · AB InBev p.6 · `tipo/outros/ab-inbev_p6_skim-layer-lede_18.jpg`
+  - Two-line full-width grey sentence with a thick dark tick at left; 5-8 phrases set in bold accent colour, which is the only strong colour in the sentence.
+- ★ **Criteria track with logo spotlight** · AB InBev p.40 · `tipo/outros/ab-inbev_p40_criteria-track-with-logo-spotlight_2.jpg`
+  - A chevron pair points from a short sentence into a grey band with a long horizontal line carrying three pill handles labelled with criteria; below, a row of competitor logos acts as the legend, the active one full colour and the others faded, and the chart recolours to match across the pages.
+- ★ **Logo rows on a social-class ruler** · Arezzo&Co p.4 · `tipo/outros/arezzo-co_p4_logo-rows-on-a-social-class-ruler_6.jpg`
+  - Column headers C-, C+, B-, B+, A-, A+ in bold; thin vertical gridlines; logos as row labels; thick accent line with circular end caps from lowest to highest class served.
+- ★ **Lit and ghost logo walls in dashed frames** · BTG Pactual p.30 · `tipo/outros/btg-pactual_p30_lit-and-ghost-logo-walls-in-dashed-frames_18.jpg`
+  - Two stacked 4x2 logo grids; top with dark dashed frame on white and soft shadow, full-colour black logos, a leader line and diamond into the section title; bottom same size with pale teal dashed border, grey fill, logos at about 25% opacity.
+- ★ **Wire globe with leaders to tiered activity rows** · CSN - ArcelorMittal p.5 · `tipo/outros/csn-arcelormittal_p5_wire-globe-with-leaders-to-tiered-activity-rows_2.jpg`
+  - Wireframe sphere built from lines and dots in the dark brand colour, cut by the left card; three straight leaders from three nodes pass a small bold segment label and end in a solid dot beside a one-line role description.
+- ★ **Brand takeover: palette follows the protagonist** · CSN - ArcelorMittal p.14 · `tipo/outros/csn-arcelormittal_p14_brand-takeover-palette-follows-the-protagonist_19.jpg`
+  - Swap the whole theme token set by subject: CSN blue to ArcelorMittal red (also Cosan green to Compass red with corner logo swap). Nubank does it for a single slide: rail, accents, pills and corner logo turn Inter orange (p17), MELI logo on p54. Composite crop shows both.
+- ★ **Signed term sheets** · CSN - ArcelorMittal p.32 · `tipo/outros/csn-arcelormittal_p32_signed-term-sheets_10.jpg`
+  - Three outlined term boxes with an underlined header and label-value rows. Below each, a row of three script signatures over hairlines with printed names. Project gets an italic code name in the title (Project Talos).
+- ★ **Jato com chamadas e blocos de posições** · ChallengeB p.10 · `tipo/outros/ChallengeB_p010_q2.jpg` · slide: `slides/ChallengeB_p010.jpg`
+  - ...and each jet is locked into one of each
+- ★ **Span bracket with notes in the empty years** · Cosan p.12 · `tipo/outros/cosan_p12_span-bracket-with-notes-in-the-empty-years_5.jpg`
+  - Accent rule with a diamond at both ends over the gap, title centred above it; grey rectangle below holding three bold-lead italic notes, in place of the absent bars.
+- ★ **Ilustração isométrica com produtos anotados** · Intelbras p.7 · `tipo/outros/Intelbras_p007_q3.jpg` · slide: `slides/Intelbras_p007.jpg`
+  - Ecosystem in practice: integrated solutions at work
+- ★ **Award rosette panel** · Intelbras p.43 · `tipo/outros/intelbras_p43_award-rosette-panel_14.jpg`
+  - Thick green rectangle. Each row: awarding-body logo, line rosette with "1st" in green, year and category.
+- ★ **Treemap com chamada lateral** · Kering - Moncler p.11 · `tipo/outros/Kering-Moncler_p011_q2.jpg` · slide: `slides/Kering-Moncler_p011.jpg`
+  - KERING REVENUE BY CATEGORY
+- ★ **Mesa de conselho ilustrada com cadeiras** · Kering - Moncler p.25 · `tipo/outros/Kering-Moncler_p025_q1.jpg` · slide: `slides/Kering-Moncler_p025.jpg`
+  - PROPOSED GOVERNANCE STRUCTURE
+- ★ **Own score ruler with logo tokens** · Meliuz p.48 · `tipo/outros/meliuz_p48_own-score-ruler-with-logo-tokens_17.jpg`
+  - Grey track with dashed ticks 0 to 4; circular logo tokens placed by score, target highlighted by a thin window around a tie; dashed elbow from the dark method banner; criteria as grey chips and 1 to 4 rubric at right.
+- ★ **Star-rating scorecard with logos** · Mercado Libre p.11 · `tipo/outros/mercado-libre_p11_star-rating-scorecard-with-logos_18.jpg`
+  - Rows of logo plus five outlined stars, filled in yellow to the exact fraction of the score. Source logo (Glassdoor) top right; numeric scores in a tall dashed rounded column headed SCORE in navy italics.
+- ★ **Field-trip selfie on a location band** · Mercado Libre p.14 · `tipo/outros/mercado-libre_p14_field-trip-selfie-on-a-location-band_19.jpg`
+  - Navy band from the left edge under the chart area, with italic place name and white pin icon. The photo rounded and navy-outlined, overlapping the band end and rising above it.
+- ★ **Logo-as-CV clusters** · Rede D'Or p.20 · `tipo/outros/rede-d-or_p20_logo-as-cv-clusters_20.jpg`
+  - Dashed boxes grouped by skill (Finance, Healthcare, Marketing, Insurances) with a bold heading and 2-4 logos each, placed around a central image of the board; the chair named above with their former employers' logos beside the head of the table. The seated-table scene is already catalogued; this entry is the clusters.
+- ★ **Conselho em mesa com origens por área** · Rede D'Or p.20 · `tipo/outros/RedeDOr_p020_q3.jpg` · slide: `slides/RedeDOr_p020.jpg`
+  - III. Strong, Experienced and Diverse Board
+- ★ **Fórmula tarifária com blocos explicativos** · Sabesp p.19 · `tipo/outros/Sabesp_p019_q1.jpg` · slide: `slides/Sabesp_p019.jpg`
+  - The rulebook: beat the ceiling, keep everything
+- ★ **Fieldset legend frame** · Sabesp / Intelbras p.11 · `tipo/outros/sabesp-intelbras_p11_fieldset-legend-frame_15.jpg`
+  - Two-point coloured rectangle outline with bold coloured title centred on the top edge; a white or page-coloured patch behind the text breaks the line. Stack several, one sentence each, in a grey panel.
+- ★ **Guest-company chrome recolor** · Sabesp / Intelbras / CSN Liability p.17 · `tipo/outros/sabesp-intelbras-csn-liability_p17_guest-company-chrome-recolor_11.jpg`
+  - Keep the template, swap one theme: side rail, title tick, active breadcrumb word and subtitle accents take the guest brand colour, and the top-right logo becomes the guest logo. Sabesp p17 goes purple for Equatorial, Intelbras p10 red for Coca-Cola, CSN p27-31 yellow for MRS and red for TECON. A theme-colour swap only.
+- ★ **Prédio central com categorias radiais** · Senior Sistemas p.4 · `tipo/outros/SeniorSistemas_p004_q1.jpg` · slide: `slides/SeniorSistemas_p004.jpg`
+  - Principais Categorias de Software Empresarial...
+- ★ **Core and Near Core twin rings with fanned product notes** · Senior Sistemas p.14 · `tipo/outros/senior-sistemas_p14_core-and-near-core-twin-rings-with-fanned-product-notes_1.jpg`
+  - Two rings stacked vertically, each with a cube icon and a label above (Core, Near Core); from each ring, two or four thin angled lines fan left and right to small text blocks with a green product title.
+- ★ **Tinted pentagon summary field pointing into rationale** · Vasta p.3 · `tipo/outros/vasta_p3_tinted-pentagon-summary-field-pointing-into-rationale_1.jpg`
+  - Pale pink freeform covers the left 60 percent and ends in a shallow chevron nose; facts and thesis sit centred on it, while Entry, Exit and Risks sit on white to the right as diamond-bulleted rows of small cards.
+- ★ **Halo-icon exhibit heads over a floating takeaway tray** · Vasta p.24 · `tipo/outros/vasta_p24_halo-icon-exhibit-heads-over-a-floating-takeaway-tray_10.jpg`
+  - Each column headed by a line icon in a pale tinted disc plus bold coloured title and italic sub; bottom white rounded tray with a soft shadow holding one text block and three pairs of big halo icon plus coloured stat; icons all one line weight and colour.
+- ★ **Composição do múltiplo de entrada** · Vasta p.34 · `tipo/outros/Vasta_p034_q5.jpg` · slide: `slides/Vasta_p034.jpg`
+  - Entry Multiple
+- ★ **One-of-seven seat outcome with signature row** · Vasta p.35 · `tipo/outros/vasta_p35_one-of-seven-seat-outcome-with-signature-row_25.jpg`
+  - Illustration of a meeting at left, note card at right, small chevron down to a pale tile with 1 of 7 in huge bold; below, five handwritten signatures on thin rules with italic names. A term sheet card with Roman-numbered clauses sits alongside.
+- ★ **Deal ellipses on a threshold chart** · Vibra p.25 · `tipo/outros/vibra_p25_deal-ellipses-on-a-threshold-chart_17.jpg`
+  - Scatter with background split into two color bands by the limit (grey 'Threshold Violation', green 'Target Leverage Range'); paired dots as short vertical ranges; thin dashed ellipses around each offer with an italic label; the proposed deal in a heavier, brighter dashed circle with bold label.
+- **Ilustração de tipos de plataforma** · 3R Petroleum p.4 · `tipo/outros/3RPetroleum_p004_q1.jpg` · slide: `slides/3RPetroleum_p004.jpg`
+  - OnShore / OffShore
+- **Conselho ao redor da mesa com origens** · 3R Petroleum p.18 · `tipo/outros/3RPetroleum_p018_q2.jpg` · slide: `slides/3RPetroleum_p018.jpg`
+  - An Even More Experienced Board
+- **Two-tone tick on titles and subheads** · 3R Petroleum p.33 · `tipo/outros/3r-petroleum_p33_two-tone-tick-on-titles-and-subheads_20.jpg`
+  - Short vertical bar left of the heading, split dark on top and lighter accent at the bottom where the grey caption sits; same device at title scale and subhead scale.
+- **Logo wall as portfolio evidence** · AB InBev p.22 · `tipo/outros/ab-inbev_p22_logo-wall-as-portfolio-evidence_32.jpg`
+  - Dashed rectangle packed with 30-odd logos in 4 tight rows and no gaps; the bottom row uses filled colour tiles to change the texture.
+- **KPI satellite dots on a faint orbit** · AB InBev p.32 · `tipo/outros/ab-inbev_p32_kpi-satellite-dots-on-a-faint-orbit_5.jpg`
+  - Pale grey central disc with logo; very pale wide ring around it; five solid brand-colour dots on the ring with caps text outside; on the left, a large coloured name is linked to the disc by a hook line.
+- **Nested TAM circles with tabbed leaders** · AB InBev p.46 · `tipo/outros/ab-inbev_p46_nested-tam-circles-with-tabbed-leaders_1.jpg`
+  - Two circles sharing a bottom tangent in pale and stronger yellow, value inside each near its top; horizontal leaders run to labels with a short vertical colour tab.
+- **Fotos de líderes em losangos** · AB InBev p.74 · `tipo/outros/ABInBev_p074_q1.jpg` · slide: `slides/ABInBev_p074.jpg`
+- **Fotos de líderes em losangos** · AB InBev p.75 · `tipo/outros/ABInBev_p075_q1.jpg` · slide: `slides/ABInBev_p075.jpg`
+- **Código usado para coletar dados** · AB InBev p.125 · `tipo/outros/ABInBev_p125_q1.jpg` · slide: `slides/ABInBev_p125.jpg`
+- **Blueprint backdrop** · Alupar p.2 · `tipo/outros/alupar_p2_blueprint-backdrop_21.jpg`
+  - Near-black navy page with faint grid lines, small plus marks scattered and a low wireframe mesh wave rising from the base, all under 15% contrast. Pair with thin blue hairlines ending in diamond dots.
+- **Logos as series end labels** · Arezzo&Co p.4 · `tipo/outros/arezzo-co_p4_logos-as-series-end-labels_19.jpg`
+  - Line chart with small value tags at right ends, company logos stacked in same order right after them; call-outs on the plot with light or dark hard-shadow boxes.
+- **Faixa de classes por concorrente** · Arezzo&Co p.4 · `tipo/outros/ArezzoCo_p004_q1.jpg` · slide: `slides/ArezzoCo_p004.jpg`
+  - Classification of customers per player
+- **Logo pentagon constellation around a business unit** · BTG Pactual p.43 · `tipo/outros/btg-pactual_p43_logo-pentagon-constellation-around-a-business-unit_4.jpg`
+  - Thin blue pentagon outline with caps text in the centre; a logo at each vertex, knocked over the line with the panel colour; above it, an old logo arrows into the new one to record the rebrand.
+- **Icon metaphor with hand-drawn arrow** · BTG Pactual p.56 · `tipo/outros/btg-pactual_p56_icon-metaphor-with-hand-drawn-arrow_2.jpg`
+  - Pale panel; small and large cake line icons linked by a loose sketched arrow; second line outside the panel, with a slice icon in a contrasting colour, completing the sentence.
+- **Aquisições por ano com justificativa** · CSN - ArcelorMittal p.23 · `tipo/outros/CSN-ArcelorMittal_p023_q1.jpg` · slide: `slides/CSN-ArcelorMittal_p023.jpg`
+  - CapEx Brazil (2021-2025): USD 3,643 mn
+- **Ghost delta bar with I-beam note** · CSN - ArcelorMittal p.24 · `tipo/outros/csn-arcelormittal_p24_ghost-delta-bar-with-i-beam-note_21.jpg`
+  - Two solid gradient bars; middle one is pale tint with dashed outline floating at the delta; capped stem drops to a dashed note box.
+- **Chapter phase tabs** · CSN Liability p.4 · `tipo/outros/csn-liability_p4_chapter-phase-tabs_17.jpg`
+  - Three adjoining dark tabs at the top of the body (Restructuring, Aggressive Growth, Financial Distress); active is lit blue, the others dim, and the charts below change. Low-res crop.
+- **Avião com chamadas de componentes** · ChallengeB p.5 · `tipo/outros/ChallengeB_p005_q2.jpg` · slide: `slides/ChallengeB_p005.jpg`
+  - A Proven Aerospace Supplier
+- **Ilustração da aeronave com anotações** · ChallengeB p.6 · `tipo/outros/ChallengeB_p006_q1.jpg` · slide: `slides/ChallengeB_p006.jpg`
+  - Eve turns Embraer's know-how into an air taxi...
+- **Boxed dossier column beside a chart grid** · Cosan p.3 · `tipo/outros/cosan_p3_boxed-dossier-column-beside-a-chart-grid_12.jpg`
+  - Tall left card, grey or white with hard dark offset shadow: logo, paragraph, shareholder logo row with converging tree, key-financials T-table; to the right two rows of exhibits with a bold head and grey sub; same skeleton on Cury p3 with an embedded treemap and on Rede D'Or p8.
+- **Dashed logo tether on seat plan** · Cosan p.6 · `tipo/outros/cosan_p6_dashed-logo-tether-on-seat-plan_24.jpg`
+  - Shareholder logos beside the seat, joined by dashed line; seat recoloured in a contrasting tone; pale zone with caption New Board Members groups them.
+- **Insights ligados à tabela por setas** · Cosan p.11 · `tipo/outros/Cosan_p011_q3.jpg` · slide: `slides/Cosan_p011.jpg`
+  - Key Insights:
+- **Tall-tile tonal treemap inside a side panel** · Cury p.3 · `tipo/outros/cury_p3_tall-tile-tonal-treemap-inside-a-side-panel_13.jpg`
+  - Six rectangles in navy-to-sky tonal blues with thin white gaps; % at top left and ticker at bottom of each; tickers forced onto two lines in the small tiles; the largest cell kept nearly black with a single label.
+- **Mesa de liderança com família destacada** · Cury p.21 · `tipo/outros/CuryConstrutora_p021_q2.jpg` · slide: `slides/CuryConstrutora_p021.jpg`
+  - Cargos de Liderança da Cury
+- **Store-visit photo strip** · Intelbras p.8 · `tipo/outros/intelbras_p8_store-visit-photo-strip_39.jpg`
+  - Four same-size portrait photos in a row with small gutters, no captions, directly under the argument that they support, and next to the survey chart and a reseller quote.
+- **Icon-tile spine** · Intelbras p.24 · `tipo/outros/intelbras_p24_icon-tile-spine_23.jpg`
+  - Square dark-green tiles with white icons stacked on a short vertical stem below a grey intro plate with heavy base rule. Key figures bold green.
+- **Executivos em fotos de losango** · Intelbras p.32 · `tipo/outros/Intelbras_p032_q1.jpg` · slide: `slides/Intelbras_p032.jpg`
+  - A professionalized management team...
+- **Treemap acionário com conselho e selos** · Intelbras p.32 · `tipo/outros/Intelbras_p032_q2.jpg` · slide: `slides/Intelbras_p032.jpg`
+  - ...backed by shareholder-aligned governance
+- **Fotos de fábricas com regimes** · Intelbras p.52 · `tipo/outros/Intelbras_p052_q3.jpg` · slide: `slides/Intelbras_p052.jpg`
+  - The geographic moat
+- **Lista de ícones com chamada lateral** · Intelbras p.62 · `tipo/outros/Intelbras_p062_q3.jpg` · slide: `slides/Intelbras_p062.jpg`
+  - The Invisible Competitor: White-Label Imports
+- **Evidence bracket into takeaway box** · Kering - Moncler p.7 · `tipo/outros/kering-moncler_p7_evidence-bracket-into-takeaway-box_26.jpg`
+  - Thin gold dashed bracket spanning the content's width; short dashed drop with a tiny solid triangle; sentence; pale box with gold dashed outline holding the implication.
+- **Greyscale treemap with a gold-dashed side note** · Kering - Moncler p.11 · `tipo/outros/kering-moncler_p11_greyscale-treemap-with-a-gold-dashed-side-note_15.jpg`
+  - Four grey tiles from charcoal to light grey with white gaps and small labels bottom-left; to the right, a short dashed gold arrow into a pale gold dashed rectangle with a short paragraph; no percentages on tiles.
+- **Segmented C-wheel with icon wedges around a title disc** · Meliuz p.13 · `tipo/outros/meliuz_p13_segmented-c-wheel-with-icon-wedges-around-a-title-disc_10.jpg`
+  - Thick grey ring with an italic title inside; around its right side, four ring segments going from grey to saturated red, each with a line icon; the dark panel to the right has numbered red 01-04 stories.
+- **Cartões de riscos com faixa diagonal** · Meliuz p.61 · `tipo/outros/Meliuz_p061_q2.jpg` · slide: `slides/Meliuz_p061.jpg`
+  - Riscos Internos / Riscos Externos
+- **Cartão de benefícios para usuários** · Meliuz p.79 · `tipo/outros/Meliuz_p079_q1.jpg` · slide: `slides/Meliuz_p079.jpg`
+  - Usuários
+- **Cartão de benefícios para parceiros** · Meliuz p.79 · `tipo/outros/Meliuz_p079_q3.jpg` · slide: `slides/Meliuz_p079.jpg`
+  - Empresas parceiras
+- **Value ball on a rounded track with average divider** · Meliuz p.115 · `tipo/outros/meliuz_p115_value-ball-on-a-rounded-track-with-average-divider_13.jpg`
+  - Equal pale vertical capsules; a thin stem in each brand's colour with a ball at the value; number on top of the track; logo at the foot; a dashed vertical between the below-average and above-average groups with 'Média' on top.
+- **Twin dotted-orbit hubs on a dark band** · Meliuz p.125 · `tipo/outros/meliuz_p125_twin-dotted-orbit-hubs-on-a-dark-band_8.jpg`
+  - Full-width charcoal band; in each half two concentric dotted white circles, central logo on a white disc, six solid white discs sitting on the outer orbit, each with a short white rule ending in a dot and an italic coloured label; duplicate the group exactly and only swap the logo; stacked-share chart underneath on white.
+- **Icon tray tapering into a persona** · Nubank p.2 · `tipo/outros/nubank_p2_icon-tray-tapering-into-a-persona_6.jpg`
+  - Pale rounded rectangle holding three line icons with two-line captions; its lower edge fades through a soft trapezoid gradient to transparent, narrowing onto a single people icon sitting centred below.
+- **Lista de pilares culturais** · Nubank p.8 · `tipo/outros/Nubank_p008_q1.jpg` · slide: `slides/Nubank_p008.jpg`
+  - Nubank's culture
+- **Explicação do método de pagamento** · Nubank p.20 · `tipo/outros/Nubank_p020_q2.jpg` · slide: `slides/Nubank_p020.jpg`
+  - NuPay unlocks better underwriting through data
+- **Tese com ícone em hexágono** · RD Saúde p.6 · `tipo/outros/RDSaude_p006_q1.jpg` · slide: `slides/RDSaude_p006.jpg`
+  - Sector in excellent growth conditions
+- **Tese com ícone em hexágono** · RD Saúde p.6 · `tipo/outros/RDSaude_p006_q2.jpg` · slide: `slides/RDSaude_p006.jpg`
+  - RD Saúde business: the power of Scale
+- **Tese com ícone em hexágono** · RD Saúde p.6 · `tipo/outros/RDSaude_p006_q3.jpg` · slide: `slides/RDSaude_p006.jpg`
+  - Good business, but well-priced
+- **Slashed title accent** · RD Saúde p.29 · `tipo/outros/rd-saude_p29_slashed-title-accent_24.jpg`
+  - Vertical bar left of the title and subtitle, cut by a diagonal white slash into solid top and pale gradient bottom; a smaller version marks each subheading. Vasta and Restaurant Brands use a similar slashed bar; Vasta has a rounded pill with two slashes.
+- **Premissas e resultados da simulação** · RD Saúde p.55 · `tipo/outros/RDSaude_p055_q2.jpg` · slide: `slides/RDSaude_p055.jpg`
+  - Premissas
+- **Três cartões de riscos por categoria** · RD Saúde p.58 · `tipo/outros/RDSaude_p058_q2.jpg` · slide: `slides/RDSaude_p058.jpg`
+  - Expansion Risks
+- **Celular com mensagem e caso** · RD Saúde p.69 · `tipo/outros/RDSaude_p069_q1.jpg` · slide: `slides/RDSaude_p069.jpg`
+- **Painel de tipos de publicidade** · RD Saúde p.69 · `tipo/outros/RDSaude_p069_q2.jpg` · slide: `slides/RDSaude_p069.jpg`
+  - There are two types of advertising
+- **Linking sentence band between charts** · Rede D'Or p.5 · `tipo/outros/rede-d-or_p5_linking-sentence-band-between-charts_30.jpg`
+  - Full-width solid band with white centred sentence between two chart rows; a thin arrow enters from a dashed bar above and leaves toward the chart below.
+- **Roman-numbered three-by-two chart grid** · Rede D'Or p.6 · `tipo/outros/rede-d-or_p6_roman-numbered-three-by-two-chart-grid_5.jpg`
+  - Three equal columns; each opens with 'I.', 'II.', 'III.' plus a short claim in the accent colour over a thin rule; two rows of charts below, each with a small grey title and only one highlight colour; one dashed window as the single annotation.
+- **Tese numerada em hexágono** · Rede D'Or p.11 · `tipo/outros/RedeDOr_p011_q1.jpg` · slide: `slides/RedeDOr_p011.jpg`
+  - Rede D'Or is By Far The Best Player in the Healthcare Sector
+- **Tese numerada em hexágono** · Rede D'Or p.11 · `tipo/outros/RedeDOr_p011_q2.jpg` · slide: `slides/RedeDOr_p011.jpg`
+  - Strong Revenue Growth
+- **Tese numerada em hexágono** · Rede D'Or p.11 · `tipo/outros/RedeDOr_p011_q3.jpg` · slide: `slides/RedeDOr_p011.jpg`
+  - DCF Valuation reveals a Hold position
+- **Zig-zag executive strips** · Rede D'Or p.20 · `tipo/outros/rede-d-or_p20_zig-zag-executive-strips_28.jpg`
+  - Full-width pale strips stacked; a small waist-up cut-out alternates left and right, with text aligned to the photo side (bold name and title, regular tenure line).
+- **Executivos em faixas com foto alternada** · Rede D'Or p.20 · `tipo/outros/RedeDOr_p020_q1.jpg` · slide: `slides/RedeDOr_p020.jpg`
+  - I. Sul América's Long Date Executives
+- **Field-visit selfie strip** · Restaurant Brands p.18 · `tipo/outros/restaurant-brands_p18_field-visit-selfie-strip_46.jpg`
+  - Tightly tiled selfies with no gaps, in decreasing width left to right, ending in small stacked tiles; a red rule on left and base; under it a sentence with the count in bold (10 kitchens, 28 employees) and three Roman-numeral findings.
+- **Python badge as method stamp** · Restaurant Brands p.38 · `tipo/outros/restaurant-brands_p38_python-badge-as-method-stamp_25.jpg`
+  - Python logo perched on the upper-left corner of a rounded criteria card, card title sitting in a gap in the top border, Roman-number tiles on the criteria list. Cury Construtora p.13 does it as a small blue pill Python Script at the corner of a chart.
+- **Critérios de medição em lista** · Restaurant Brands p.38 · `tipo/outros/RestaurantBrandsInternational_p038_q1.jpg` · slide: `slides/RestaurantBrandsInternational_p038.jpg`
+  - Criteria
+- **Tese em círculo com ícone** · Sabesp p.4 · `tipo/outros/Sabesp_p004_q1.jpg` · slide: `slides/Sabesp_p004.jpg`
+  - A binding framework that turns obligation into opportunity
+- **Tese em círculo com ícone** · Sabesp p.4 · `tipo/outros/Sabesp_p004_q2.jpg` · slide: `slides/Sabesp_p004.jpg`
+  - Operational efficiency unlocked by privatization
+- **Tese em círculo com ícone** · Sabesp p.4 · `tipo/outros/Sabesp_p004_q3.jpg` · slide: `slides/Sabesp_p004.jpg`
+  - Smart capital allocation and untapped growth levers
+- **Três caixas de regras em funil** · Sabesp p.7 · `tipo/outros/Sabesp_p007_q1.jpg` · slide: `slides/Sabesp_p007.jpg`
+  - Now, market incentives accelerate universalization
+- **Lista de penalidades em faixas** · Sabesp p.11 · `tipo/outros/Sabesp_p011_q3.jpg` · slide: `slides/Sabesp_p011.jpg`
+  - ...and strict penalties for underdelivery
+- **Blocos 3D de categorias de risco** · Sabesp p.36 · `tipo/outros/Sabesp_p036_q2.jpg` · slide: `slides/Sabesp_p036.jpg`
+- **Cartão de tese com bullets** · Sabesp p.37 · `tipo/outros/Sabesp_p037_q1.jpg` · slide: `slides/Sabesp_p037.jpg`
+  - Regulatory Edge
+- **Cartão de tese com bullets** · Sabesp p.37 · `tipo/outros/Sabesp_p037_q2.jpg` · slide: `slides/Sabesp_p037.jpg`
+  - Operational Efficiency
+- **Cartão de tese com bullets** · Sabesp p.37 · `tipo/outros/Sabesp_p037_q3.jpg` · slide: `slides/Sabesp_p037.jpg`
+  - Capital deployment
+- **Incident photo log** · Sabesp p.61 · `tipo/outros/sabesp_p61_incident-photo-log_48.jpg`
+  - Four pairs of news photos in a 2x2 layout, each with a bold event headline above and month tag beside it. Page 62 then dims it behind a band asking what the company is doing about it. Low-res crop from the contact sheet.
+- **Acronym spoke hub around a pictogram** · Senior Sistemas p.4 · `tipo/outros/senior-sistemas_p4_acronym-spoke-hub-around-a-pictogram_1.jpg`
+  - Central building pictogram; eight bold 18pt acronyms in a circle with a one-line grey gloss under each; hairline spokes stop short of both the picture and the label; no boxes at all.
+- **Três pilares com ícones ampliados** · Senior Sistemas p.20 · `tipo/outros/SeniorSistemas_p020_q2.jpg` · slide: `slides/SeniorSistemas_p020.jpg`
+- **Corner number tag on card** · Senior Sistemas p.23 · `tipo/outros/senior-sistemas_p23_corner-number-tag-on-card_33.jpg`
+  - Grey card with soft bottom-right shadow; small solid square with white bold italic numeral straddling the top-right edge; bold coloured lead-in followed by regular text.
+- **Icon disc straddling pill row** · Senior Sistemas p.38 · `tipo/outros/senior-sistemas_p38_icon-disc-straddling-pill-row_34.jpg`
+  - Pale rounded pills stacked with even gaps; a small dark gradient disc with white line icon overlaps each pill's left edge; text indented to clear it.
+- **Reasons column closing in a synthesis card** · Senior Sistemas p.40 · `tipo/outros/senior-sistemas_p40_reasons-column-closing-in-a-synthesis-card_35.jpg`
+  - Pale rounded cards with a thick coloured left edge bending around the corners and '01 Title' in bold; the last card is solid brand colour with logo, 'Sintese' and white text, about 1.5x taller.
+- **Faixas de riscos por categoria** · Senior Sistemas p.60 · `tipo/outros/SeniorSistemas_p060_q2.jpg` · slide: `slides/SeniorSistemas_p060.jpg`
+- **Cinco cartões escalonados sobre rosca** · Vasta p.6 · `tipo/outros/Vasta_p006_q1.jpg` · slide: `slides/Vasta_p006.jpg`
+  - Core Education
+- **Illustration hanging over a card edge** · Vibra p.29 · `tipo/outros/vibra_p29_illustration-hanging-over-a-card-edge_26.jpg`
+  - Transparent line drawing (fuel nozzle, dripping) placed to break the title band and the right border of the card; only one per slide.
+- **Executivos com treemap de acionistas** · 3R Petroleum p.18 · `tipo/outros/3RPetroleum_p018_q1.jpg` · slide: `slides/3RPetroleum_p018.jpg`
+  - New executives, new decisions
+- **Lista de premissas com títulos** · 3R Petroleum p.28 · `tipo/outros/3RPetroleum_p028_q1.jpg` · slide: `slides/3RPetroleum_p028.jpg`
+  - Finally, Production.
+- **Lista de riscos em cartões** · 3R Petroleum p.44 · `tipo/outros/3RPetroleum_p044_q2.jpg` · slide: `slides/3RPetroleum_p044.jpg`
+- **Lista de riscos em cartões destacados** · 3R Petroleum p.45 · `tipo/outros/3RPetroleum_p045_q2.jpg` · slide: `slides/3RPetroleum_p045.jpg`
+- **Lista de riscos em cartões** · 3R Petroleum p.46 · `tipo/outros/3RPetroleum_p046_q2.jpg` · slide: `slides/3RPetroleum_p046.jpg`
+- **Perfil do autor com comparação de abordagens** · AB InBev p.6 · `tipo/outros/ABInBev_p006_q1.jpg` · slide: `slides/ABInBev_p006.jpg`
+- **Lista numerada de riscos** · AB InBev p.56 · `tipo/outros/ABInBev_p056_q2.jpg` · slide: `slides/ABInBev_p056.jpg`
+- **Escolas e biografia dos executivos** · AB InBev p.74 · `tipo/outros/ABInBev_p074_q2.jpg` · slide: `slides/ABInBev_p074.jpg`
+  - Schools:
+- **Perfis de líderes e formação** · AB InBev p.75 · `tipo/outros/ABInBev_p075_q2.jpg` · slide: `slides/ABInBev_p075.jpg`
+  - Schools:
+- **Pilar ESG em coluna colorida** · AB InBev p.121 · `tipo/outros/ABInBev_p121_q1.jpg` · slide: `slides/ABInBev_p121.jpg`
+  - Environment
+- **Pilar ESG em coluna colorida** · AB InBev p.121 · `tipo/outros/ABInBev_p121_q2.jpg` · slide: `slides/ABInBev_p121.jpg`
+  - Social
+- **Pilar ESG em coluna colorida** · AB InBev p.121 · `tipo/outros/ABInBev_p121_q3.jpg` · slide: `slides/ABInBev_p121.jpg`
+  - Governance
+- **Código de coleta em Python** · AB InBev p.124 · `tipo/outros/ABInBev_p124_q1.jpg` · slide: `slides/ABInBev_p124.jpg`
+- **Racional em tópicos com recorte de notícia** · CSN - ArcelorMittal p.23 · `tipo/outros/CSN-ArcelorMittal_p023_q3.jpg` · slide: `slides/CSN-ArcelorMittal_p023.jpg`
+  - Acquisitions Rationale
+- **Três cartões sobre fundo cinza** · ChallengeB p.6 · `tipo/outros/ChallengeB_p006_q3.jpg` · slide: `slides/ChallengeB_p006.jpg`
+- **Caixa de pressões macro em tópicos** · Intelbras p.59 · `tipo/outros/Intelbras_p059_q1.jpg` · slide: `slides/Intelbras_p059.jpg`
+  - Macro pressure hits through demand and margins
+- **Bloco de código ao lado do texto** · Meliuz p.40 · `tipo/outros/Meliuz_p040_q2.jpg` · slide: `slides/Meliuz_p040.jpg`
+  - Código feito em Python
+- **Código de classificação de tweets** · Meliuz p.47 · `tipo/outros/Meliuz_p047_q1.jpg` · slide: `slides/Meliuz_p047.jpg`
+- **Pilar de tese numerado** · Meliuz p.62 · `tipo/outros/Meliuz_p062_q1.jpg` · slide: `slides/Meliuz_p062.jpg`
+  - O Capital Humano é um Forte Diferencial
+- **Pilar de tese numerado** · Meliuz p.62 · `tipo/outros/Meliuz_p062_q2.jpg` · slide: `slides/Meliuz_p062.jpg`
+  - Expansão para Serviços Financeiros favorecida por drivers
+- **Pilar de tese numerado** · Meliuz p.62 · `tipo/outros/Meliuz_p062_q3.jpg` · slide: `slides/Meliuz_p062.jpg`
+  - Ecossistema: União entre Marketplace e Serviços Financeiros
+- **Avenida de crescimento em destaque** · Meliuz p.82 · `tipo/outros/Meliuz_p082_q1.jpg` · slide: `slides/Meliuz_p082.jpg`
+  - Expansão para Serviços Financeiros em um aplicativo integrado
+- **Avenida de crescimento em destaque** · Meliuz p.82 · `tipo/outros/Meliuz_p082_q2.jpg` · slide: `slides/Meliuz_p082.jpg`
+  - Introdução de novas verticais e M&As
+- **Avenida de crescimento em destaque** · Meliuz p.82 · `tipo/outros/Meliuz_p082_q3.jpg` · slide: `slides/Meliuz_p082.jpg`
+  - Internacionalização
+- **Racional em caixas com preço e upside** · Meliuz p.147 · `tipo/outros/Meliuz_p147_q2.jpg` · slide: `slides/Meliuz_p147.jpg`
+  - Simulações, Racional e Insights:
+- **Argumento de tese com ícone** · Nubank p.4 · `tipo/outros/Nubank_p004_q1.jpg` · slide: `slides/Nubank_p004.jpg`
+- **Argumento de tese com ícone** · Nubank p.4 · `tipo/outros/Nubank_p004_q2.jpg` · slide: `slides/Nubank_p004.jpg`
+- **Argumento de tese com ícone** · Nubank p.4 · `tipo/outros/Nubank_p004_q3.jpg` · slide: `slides/Nubank_p004.jpg`
+- **Comparação de comportamento local e regra** · Nubank p.25 · `tipo/outros/Nubank_p025_q2.jpg` · slide: `slides/Nubank_p025.jpg`
+  - Due to regulatory dependency on the U.S. financial system
+- **Lista de riscos por categoria** · Rede D'Or p.42 · `tipo/outros/RedeDOr_p042_q2.jpg` · slide: `slides/RedeDOr_p042.jpg`
+- **Numbered disc inside the title** · Restaurant Brands p.30 · `tipo/outros/restaurant-brands_p30_numbered-disc-inside-the-title_24.jpg`
+  - Red disc with white number and a pale ring, placed just before the title text at cap height; number matches the columns of the opening slide of the chapter.
+- **Caixa tracejada com contas de entrada** · Senior Sistemas p.33 · `tipo/outros/SeniorSistemas_p033_q4.jpg` · slide: `slides/SeniorSistemas_p033.jpg`
+  - Entry Check
+- **Caixa tracejada com contas de saída** · Senior Sistemas p.33 · `tipo/outros/SeniorSistemas_p033_q5.jpg` · slide: `slides/SeniorSistemas_p033.jpg`
+  - Exit Expectations
+- **Ilustração de mesa de conselho** · Senior Sistemas p.33 · `tipo/outros/SeniorSistemas_p033_q6.jpg` · slide: `slides/SeniorSistemas_p033.jpg`
+  - Conselho pós Deal
+- **Justificativas do aporte primário** · Vasta p.34 · `tipo/outros/Vasta_p034_q4.jpg` · slide: `slides/Vasta_p034.jpg`
+  - Why Primary Capital Injection?
+- **Slanted two-tone How-it-works band** · Vibra p.30 · `tipo/outros/vibra_p30_slanted-two-tone-how-it-works-band_3.jpg`
+  - Full-width thin band; left 55 percent in mint, ending in a slanted edge, with bold question and two lines; right part pale grey with a dashed vertical and italic assumptions.

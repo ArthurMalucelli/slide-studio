@@ -1,0 +1,63 @@
+# Cosan: páginas (35)
+
+- ★ **Mesa de conselho com assentos nomeados** · Cosan p.6 · `slides/Cosan_p006.jpg`
+  - Board drawn as a 3D boardroom table with named seats and independent/member roles, plus meeting photos with an executive quote next to a G&A bar chart with headcount line.
+- ★ **Mapa em gradiente com linhas para rótulos** · Cosan p.8 · `slides/Cosan_p008.jpg`
+  - Red-tinted Brazil map with concession logos and volume labels pointing to each state, flanked by a key-financials table and stacked consumer-class bars.
+- ★ **Faixa de números sobre tabela e insights** · Cosan p.11 · `slides/Cosan_p011.jpg`
+  - Four giant KPI numbers in a row under an Offer Overview header, then a pre/post-offer ownership table with red key-insight callouts connected by lines on the right.
+- ★ **Football field com mapa de sensibilidade** · Cosan p.13 · `slides/Cosan_p013.jpg`
+  - Football field on the left with min/max labels at each bar end and an average line, a red-scale heatmap of equity value vs growth and fulfillment on the right, and a boxed comparison of implied vs IPO price underneath.
+- ★ **Antes e depois societário com passos** · Cosan p.20 · `slides/Cosan_p020.jpg`
+  - Before and after structure charts side by side (arrow in between) with shareholder logo boxes, ownership % on the lines, and a two-column Step 1/Step 2 overview with value-impact (+/-) bullets underneath.
+- **Capa escura com triângulos em gradiente** · Cosan p.1 · `slides/Cosan_p001.jpg`
+  - Dark black-to-red gradient with centered logo, a thin horizontal rule and a one-line thesis subtitle; team credits anchored bottom-left in small type.
+- **Agenda em faixas com gradiente** · Cosan p.2 · `slides/Cosan_p002.jpg`
+  - Five full-width dark-red bars with roman numerals and a diamond-ended hairline, evenly stacked on the gradient background.
+- **Coluna de perfil com três painéis** · Cosan p.3 · `slides/Cosan_p003.jpg`
+  - At-a-glance in three zones: text box with key-financials table (left), holding tree with ownership % per subsidiary logo (center), and stacked dividend-source bars plus a share-price line annotated with event callouts below.
+- **Linha com janela sombreada e cascata** · Cosan p.4 · `slides/Cosan_p004.jpg`
+  - Price line with shaded entry-to-exit band, a loss-breakdown waterfall in a green-outlined box below, and interest vs dividends bars with a Selic line overlay on the right.
+- **Linhas, citação e cascata de dívida** · Cosan p.5 · `slides/Cosan_p005.jpg`
+  - Two-panel dashboard (line charts with dual axis, net-debt waterfall) with a pull-quote box and a horizontal-bar strip showing interest/dividends ratio 136%, 128%, 117%.
+- **Mesa de conselho e cascata de desconto** · Cosan p.7 · `slides/Cosan_p007.jpg`
+  - SOTP-style waterfall of asset values that steps down to net debt and then NAV, with the implied discount bracketed against market cap.
+- **Área em gradiente com chamada emoldurada** · Cosan p.9 · `slides/Cosan_p009.jpg`
+  - Large area chart of production vs reinjection with a red callout box quantifying the 50% rejected, paired with small-multiple bars for connections per country.
+- **Tabela, réguas de faixa e colunas** · Cosan p.10 · `slides/Cosan_p010.jpg`
+  - Before/after regulatory table by dimension next to dumbbell scales for ResCom penetration, opex/customer and margin, comparing Comgas 2012 vs 2025 and the comparable peer.
+- **Colunas com nota sobreposta e faixa-preço** · Cosan p.12 · `slides/Cosan_p012.jpg`
+  - Annual IPO count bars with a red-bracketed drought period and annotated explanations, plus a final bar showing price range with the chosen price circled at the low end.
+- **Tabela, cascata em gradiente e colunas** · Cosan p.14 · `slides/Cosan_p014.jpg`
+  - Holdco debt table with pre/post-IPO columns and the expected net debt circled, a waterfall from gross debt to adjusted net debt, and paired bars with coverage-ratio tags.
+- **Duas teses de texto em degrau** · Cosan p.15 · `slides/Cosan_p015.jpg`
+  - Two numbered statements on a dark slide; the build highlights one step while the other dims, reused across multiple slides as a progress divider.
+- **Degrau com primeira tese acesa** · Cosan p.16 · `slides/Cosan_p016.jpg`
+- **Tabela e acordo ao lado de organograma** · Cosan p.17 · `slides/Cosan_p017.jpg`
+  - Debt-structure table with a highlighted row on the left and a Step 1/Step 2 conversion flow of shareholder logos with ownership % on the right, with a shareholder agreement box below.
+- **Sensibilidade em calor ao lado de organograma** · Cosan p.18 · `slides/Cosan_p018.jpg`
+  - Red-gradient heatmap of conversion premium vs Compass equity value next to the Step 2 flowchart, with the debt table's post-conversion column circled.
+- **Degrau com segunda tese acesa** · Cosan p.19 · `slides/Cosan_p019.jpg`
+- **Barras de participação ligadas a organograma** · Cosan p.21 · `slides/Cosan_p021.jpg`
+- **Termos e barras ao lado de organograma** · Cosan p.22 · `slides/Cosan_p022.jpg`
+  - Offer terms box with conditions and a small build-up bar chart of the offer size, next to the structure chart with the sale path flagged by a dashed arrow.
+- **Cascata ao lado de organograma esmaecido** · Cosan p.23 · `slides/Cosan_p023.jpg`
+  - Waterfall of net debt to zero with the final bar shaded in a gradient and a text-box explaining the cash allocation, paired with the structure chart.
+- **Tabela de capital com organograma final** · Cosan p.24 · `slides/Cosan_p024.jpg`
+  - Cap table with Delta column outlined in dashed red and the BTG row highlighted, next to the pro-forma structure chart and a three-step strip at the bottom.
+- **Duas teses de texto em degrau** · Cosan p.25 · `slides/Cosan_p025.jpg`
+- **Degrau com primeira tese acesa** · Cosan p.26 · `slides/Cosan_p026.jpg`
+- **Regressão anotada com sensibilidade em calor** · Cosan p.27 · `slides/Cosan_p027.jpg`
+  - Scatter of holding discount vs dividends ratio with fitted line and circled 2022/2025 clusters, a formula table, and stacked-bar value creation with a MOIC heatmap (discount vs offer discount).
+- **Regressão anotada com sensibilidade em calor** · Cosan p.28 · `slides/Cosan_p028.jpg`
+  - Same template as the average scenario page for direct comparison, with a title banner (scenario name, equity value, MOIC) over a boxed bar chart and heatmap with the base cell outlined.
+- **Degrau com segunda tese acesa** · Cosan p.29 · `slides/Cosan_p029.jpg`
+- **Colunas de retorno, trilha de logotipos** · Cosan p.30 · `slides/Cosan_p030.jpg`
+  - Timeline of deal milestones above a waterfall from invested capital to total equity with a circled MOIC badge, next to a logo constellation of BTG's infra portfolio on a time axis and a quote with photo.
+- **Números progressivos ao lado de organograma** · Cosan p.31 · `slides/Cosan_p031.jpg`
+  - Three stacked KPI strips with four big numbers each, where the active stage is highlighted and the others dimmed, synced with the structure chart on the right.
+- **Números progressivos ao lado de organograma** · Cosan p.32 · `slides/Cosan_p032.jpg`
+- **Números progressivos ao lado de organograma** · Cosan p.33 · `slides/Cosan_p033.jpg`
+- **Antes e depois com nota síntese** · Cosan p.34 · `slides/Cosan_p034.jpg`
+  - Current vs pro forma structure charts side by side with a chevron between them and a closing red-keyword summary box below.
+- **Encerramento escuro de perguntas** · Cosan p.35 · `slides/Cosan_p035.jpg`

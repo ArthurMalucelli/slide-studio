@@ -1,0 +1,68 @@
+# CSN Liability: páginas (36)
+
+- ★ **Colunas de etapas em trilho horizontal** · CSN Liability p.9 · `slides/CSNLiabilityManagement_p009.jpg`
+  - Horizontal four-step rail with tick markers; each column stacks a title, three dashed-box rationale chips and three bottom KPIs (R$ amount, % of gross debt, EBITDA).
+- ★ **Football field com árvore de decisão** · CSN Liability p.21 · `slides/CSNLiabilityManagement_p021.jpg`
+  - Football field with a shaded vertical band for the purchase price on the left and a yes/no decision tree on the right where each branch ends in a quantified NPV.
+- ★ **Diagrama de deal antes e depois** · CSN Liability p.22 · `slides/CSNLiabilityManagement_p022.jpg`
+  - Before/after ownership boxes (stakes in CEEE-G, CMIN) joined by a large arrow, with a bridge-loan repayment grid and transaction mechanism text on the dark navy background.
+- ★ **Mapa logístico com rótulos em leque** · CSN Liability p.24 · `slides/CSNLiabilityManagement_p024.jpg`
+  - Brazil map at center with numbered asset pins and leader lines out to callout labels on each side, plus a two-column KPI header for MRS and TECON.
+- **Capa escura com ondas e logo central** · CSN Liability p.1 · `slides/CSNLiabilityManagement_p001.jpg`
+  - Black field with a flowing cobalt-blue ribbon image, centered white client logo and a small team/partners credit block anchored bottom-right.
+- **Agenda em lista com linhas finas** · CSN Liability p.2 · `slides/CSNLiabilityManagement_p002.jpg`
+- **Ficha lateral com barras e bolhas** · CSN Liability p.3 · `slides/CSNLiabilityManagement_p003.jpg`
+  - Boxed left column holds logo, short history, shareholder mini-chart and a key-financials table, freeing the right two-thirds for three stacked segment charts (revenue stack, EBITDA 100% bars, share bubbles).
+- **Abas de fase com combo e ponte** · CSN Liability p.4 · `slides/CSNLiabilityManagement_p004.jpg`
+  - Three-phase tab strip (Restructuring / Aggressive Growth / Financial Distress) at top with the current phase highlighted, repeated on p5-6 so the story reads as a chronological narrative with a navigation cue.
+- **Dispersão com logos, ponte e combo** · CSN Liability p.5 · `slides/CSNLiabilityManagement_p005.jpg`
+  - Scatter plots acquisition logos against shaded sector-range bands so the overpayment is visible at a glance, paired with a debt-funded capital allocation waterfall below.
+- **Abas de fase com quatro painéis** · CSN Liability p.6 · `slides/CSNLiabilityManagement_p006.jpg`
+  - Reported versus adjusted leverage lines on one chart, plus a stacked maturity ladder with a boxed callout naming the maturity wall total.
+- **Diagrama de deal ao lado de cronograma** · CSN Liability p.7 · `slides/CSNLiabilityManagement_p007.jpg`
+  - Dashed-line flow diagram (banks, SPV, holding, guarantees, proceeds allocation) on the left beside a bonds/debentures/loans maturity heat-grid on the right.
+- **Soma das partes em cascata degradê** · CSN Liability p.8 · `slides/CSNLiabilityManagement_p008.jpg`
+  - Segment-value waterfall (mining to equity value) annotated with each segment's percent of EV above the bar and a small input table (market cap, net debt, discount) top-left.
+- **Colunas de etapas com ativa acesa** · CSN Liability p.10 · `slides/CSNLiabilityManagement_p010.jpg`
+- **Mapa recortado com rótulos e gráficos** · CSN Liability p.11 · `slides/CSNLiabilityManagement_p011.jpg`
+  - Regional map with highlighted plants and capacity callouts on the left, two comparative charts on the right (EBITDA/t and margin versus ArcelorMittal Europe).
+- **Gráficos à esquerda, comparáveis e football field** · CSN Liability p.12 · `slides/CSNLiabilityManagement_p012.jpg`
+  - Annotated energy-price area chart (event labels on peaks) and a gross margin versus energy scenario curve, with a transaction-benchmark table and a football field on the bottom right.
+- **Quatro painéis com matriz de sensibilidade** · CSN Liability p.13 · `slides/CSNLiabilityManagement_p013.jpg`
+  - Sensitivity grid with the base case boxed and a thin blue banner below stating the synergy takeaway; a cash-flow table with an IRR/NPV strip sits above it.
+- **Tabela com logos e duas financeiras** · CSN Liability p.14 · `slides/CSNLiabilityManagement_p014.jpg`
+  - Buyer table keyed by logo (strategy, AuM/market cap) on the left and a pro-forma P&L bridge (CSN, EU assets, pro forma) on the right with a boxed leverage result.
+- **Colunas de etapas com ativa acesa** · CSN Liability p.15 · `slides/CSNLiabilityManagement_p015.jpg`
+  - The same step-rail slide reused as a tracker, dimming the other three steps so only the current step is lit, working as a section divider carrying key numbers.
+- **Mapa com cards ao lado de dispersão** · CSN Liability p.16 · `slides/CSNLiabilityManagement_p016.jpg`
+  - Brazil map with asset-type markers and a three-icon production-chain strip (raw materials, clinker, grinding) under it, plus a scatter of market share versus EBITDA margin by acquisition.
+- **Organograma escuro ao lado de barras** · CSN Liability p.17 · `slides/CSNLiabilityManagement_p017.jpg`
+  - Ownership flowchart with percent stakes per energy asset on the left and horizontal bars of installed capacity next to a big-number footer (156 MWm, 187 MWm, ~100%).
+- **Matriz de candidatos sobre dois gráficos** · CSN Liability p.20 · `slides/CSNLiabilityManagement_p020.jpg`
+  - Vertical 'Acquirers' label tab on a logo-headed comparison table (why, strengths, weaknesses), with a financing-spread scatter and acquisition-volume bars below.
+- **Colunas de etapas com ativa acesa** · CSN Liability p.23 · `slides/CSNLiabilityManagement_p023.jpg`
+- **Divisor com tópicos em círculo** · CSN Liability p.25 · `slides/CSNLiabilityManagement_p025.jpg`
+  - Numbered-circle (I / II) list on the title background, with the inactive item dimmed across repeated dividers p25/26/29 to act as a progress tracker.
+- **Divisor com primeiro tópico aceso** · CSN Liability p.26 · `slides/CSNLiabilityManagement_p026.jpg`
+- **Ficha, mapa com corredores e tabela** · CSN Liability p.27 · `slides/CSNLiabilityManagement_p027.jpg`
+  - Slide takes the MRS brand color in the header logo with a route map flanked by callout labels per corridor, a shareholder table and a governance highlights box.
+- **Divisor com segundo tópico aceso** · CSN Liability p.29 · `slides/CSNLiabilityManagement_p029.jpg`
+- **Ficha lateral com colunas em vermelho** · CSN Liability p.30 · `slides/CSNLiabilityManagement_p030.jpg`
+  - Red-toned brand variant of the at-a-glance template: sidebar fact box on the left, stacked revenue mix bars and a utilization line versus peers on the right.
+- **Dispersão com logos e bolhas de trajetória** · CSN Liability p.32 · `slides/CSNLiabilityManagement_p032.jpg`
+  - Stacked gross-debt reduction by asset sale (Europe, cement, logistics) over a pre/post-plan leverage line, with a peer scatter placing 'CSN Ex-InFinance' against 'CSN InFinance'.
+- **Colunas de etapas com ativa acesa** · CSN Liability p.33 · `slides/CSNLiabilityManagement_p033.jpg`
+- **Texto lateral, preço e ponte** · CSN Liability p.36 · `slides/CSNLiabilityManagement_p036.jpg`
+  - Price-history line with a light shaded 'upside' band beside a waterfall of target-price contribution by step (European assets, cement, logistics, tender), with step-by-step text in a left sidebar.
+- **Barras e linha com tabela destacada** · CSN Liability p.18 · `slides/CSNLiabilityManagement_p018.jpg`
+  - Paired bars (contract vs market price) against a self-sufficiency percent line, with a NPV callout box and a cash capitalization chart annotated by driver.
+- **Linhas e tabela com barras em lista** · CSN Liability p.19 · `slides/CSNLiabilityManagement_p019.jpg`
+  - Margin line with and without slag contract plus a boxed numbered chain of how value accrues (secures supply, sells below market, upfront capitalization) next to the bars.
+- **Barras, diagrama, football field e comparação** · CSN Liability p.28 · `slides/CSNLiabilityManagement_p028.jpg`
+  - Slide recolored to the asset's brand (yellow for MRS) so the section is instantly identifiable; football field plus a before/after leverage bar and a boxed structure sketch.
+- **Matriz, combo, football field e diagrama** · CSN Liability p.31 · `slides/CSNLiabilityManagement_p031.jpg`
+  - Acquirer logo table with vertical 'Acquirers' tab on the left, football field top right, and a transaction structure flow plus key conditions box beneath it.
+- **Linhas, bolhas, tabela e faixas** · CSN Liability p.34 · `slides/CSNLiabilityManagement_p034.jpg`
+  - Price-history lines, a bubble scatter of each bond (coupon vs price) circled around the tender targets, and a recovery football field in one four-panel grid.
+- **Tabela, diagrama, termos e sensibilidade** · CSN Liability p.35 · `slides/CSNLiabilityManagement_p035.jpg`
+  - Dark-blue heatmap of net debt reduction against early-bird participation and tender consideration, base case boxed, with before/after leverage bars beside it.

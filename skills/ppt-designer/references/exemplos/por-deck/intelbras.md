@@ -1,0 +1,148 @@
+# Intelbras: páginas (95)
+
+- ★ **Arco orbital com três pilares e veredito** · Intelbras p.4 · `slides/Intelbras_p004.jpg`
+  - Section divider that doubles as thesis map: three circular-icon pillars on an arc around the logo, the active pillar bold and the others faded, with a BUY stamp.
+- ★ **Casa isométrica anotada com fluxo e tabela** · Intelbras p.7 · `slides/Intelbras_p007.jpg`
+  - Cross-sell matrix as a green heatmap table (product x product % of clients) next to an illustrative scene image with labelled callouts.
+- ★ **Mapas de calor em painel com volume** · Intelbras p.9 · `slides/Intelbras_p009.jpg`
+  - Zoom-in map pair (region then city) with a Google heat map overlay and dashed callouts carrying the two headline KPIs.
+- ★ **Dispersão com logotipos e equação visual** · Intelbras p.13 · `slides/Intelbras_p013.jpg`
+  - Left: formula box (capillarity + installer + support = trust); right: scatter of Reclame Aqui score vs resolution rate with logos as markers.
+- ★ **Barras alternadas com pirâmide e mapa** · Intelbras p.17 · `slides/Intelbras_p017.jpg`
+  - Pyramid of segment pressure (enterprise to DIY) with price-sensitivity labels, plus a Sao Paulo state map with price-dispersion sigma.
+- ★ **Retratos em lista com treemap societário** · Intelbras p.32 · `slides/Intelbras_p032.jpg`
+  - Diamond-cropped executive portraits with name, role and tenure, beside a treemap of shareholder structure and rating badges.
+- ★ **Linha do tempo com círculos e notas** · Intelbras p.38 · `slides/Intelbras_p038.jpg`
+  - Dense horizontal timeline with circle decade markers on the axis, events alternating above and below, grouped by period.
+- ★ **Barras ligadas em explosão com citação** · Intelbras p.44 · `slides/Intelbras_p044.jpg`
+  - Quantified risk exposure: stacked 71%/29% bar flowing into funnel breakdown, with protected vs exposed bars across peers.
+- ★ **Pirâmide de camadas com cascata e fotos** · Intelbras p.52 · `slides/Intelbras_p052.jpg`
+  - Pyramid of four tax regimes labelled with their expiry, statutory vs actual tax burden as two bars with a gap callout, plant-location photos by region.
+- ★ **Seta vertical com camadas de proteção** · Intelbras p.59 · `slides/Intelbras_p059.jpg`
+  - Vertical chevron stack Intelbras / Distributors / Resellers / End customers, each row with a 'buffer' definition box.
+- ★ **Matriz de logotipos em cunha lateral** · Intelbras p.62 · `slides/Intelbras_p062.jpg`
+  - Category-to-logo map (Networks, Optical, Cables, USB, Wifi, Software) with a grey Chinese-share callout bubble.
+- **Capa verde com logotipo e arcos** · Intelbras p.1 · `slides/Intelbras_p001.jpg`
+  - Full-bleed brand-green gradient with translucent angled facets and a giant white logotype; title underlined by a thin rule, authors bottom-right.
+- **Três colunas com mapa e barras** · Intelbras p.2 · `slides/Intelbras_p002.jpg`
+  - Three-column at-a-glance: dashed-outline callout with bold key numbers, Brazil map with TAC tiers, revenue columns with margin line and CAGR bubble, BU mix stacked bars.
+- **Quatro painéis com barras, cards e linhas** · Intelbras p.3 · `slides/Intelbras_p003.jpg`
+  - 2x2 grid: each quadrant has a bold headline + italic grey chart descriptor; bottom row has three bordered mini-cards with a diamond bullet and one bold stat each.
+- **Divisor orbital com pilar em destaque** · Intelbras p.5 · `slides/Intelbras_p005.jpg`
+- **Rosca e citação sobre cadeia em setas** · Intelbras p.6 · `slides/Intelbras_p006.jpg`
+  - Bottom row is a five-step value-chain strip with icons and dark green vertical separators; expert quote card with headshot in grey box adds primary evidence.
+- **Pesquisa de campo com fotos e citação** · Intelbras p.8 · `slides/Intelbras_p008.jpg`
+  - Primary research shown inline: survey bar chart with n-callout, photo strip of resellers, and a quote box with portrait and name.
+- **Caso análogo em quatro painéis comparativos** · Intelbras p.10 · `slides/Intelbras_p010.jpg`
+  - Analogy slide: left shows the Coca-Cola bottler flow with logos and arrows, right shows the same playbook applied to Intelbras with line charts and icon rows.
+- **Linhas empilhadas com anéis e citação** · Intelbras p.11 · `slides/Intelbras_p011.jpg`
+  - Peer comparison as grouped bars (Intelbras vs Dahua vs Hikvision) in three colors, repeated for CCC and DSO with a program callout and a CFO quote portrait.
+- **Barras horizontais com cards e linhas** · Intelbras p.12 · `slides/Intelbras_p012.jpg`
+- **Divisor orbital com pilar em destaque** · Intelbras p.14 · `slides/Intelbras_p014.jpg`
+- **Gráficos com print de marketplace e dispersão** · Intelbras p.15 · `slides/Intelbras_p015.jpg`
+  - Marketplace screenshot as evidence next to market-share donut and a scatter of price vs post-sale level.
+- **Curva de adoção com barras divergentes** · Intelbras p.16 · `slides/Intelbras_p016.jpg`
+  - Technology adoption bell curve with white label vs Intelbras positioned on it, plus a small cross-price elasticity bar chart.
+- **Três gráficos com ícones e citação** · Intelbras p.18 · `slides/Intelbras_p018.jpg`
+  - Mix shift stacked bars with an icon strip of four pivot drivers beneath, ending in a CEO quote box.
+- **Gráficos com destaque e print de chamada** · Intelbras p.19 · `slides/Intelbras_p019.jpg`
+  - Dashed rounded highlight box on the latest year across the line chart, with a pivot-year marker; two-by-two grid with a one-line caption below each chart.
+- **Quatro gráficos com período destacado** · Intelbras p.20 · `slides/Intelbras_p020.jpg`
+  - Curved green arrow connecting capex trough to FCF recovery, annotating the story across two charts.
+- **Duas linhas com rosca inserida** · Intelbras p.21 · `slides/Intelbras_p021.jpg`
+  - ROIC vs WACC line with spread KPI boxes (13.8% vs 11.6%, +2.2pp) and WACC composition donut.
+- **Divisor orbital com pilar em destaque** · Intelbras p.22 · `slides/Intelbras_p022.jpg`
+- **Ícones de dados, lista, barras e rosca** · Intelbras p.23 · `slides/Intelbras_p023.jpg`
+  - Key information panel with three big icons over one number each, plus numbered claims.
+- **Coluna de fatos com ícones e barras** · Intelbras p.24 · `slides/Intelbras_p024.jpg`
+  - Vertical icon list in dark green squares with one fact each, beside a growth chart and a dashed-box 'what if at Intelbras scale' ARR comparison (R$140mn vs R$370mn).
+- **Fluxo de caixas com mapa de calor** · Intelbras p.25 · `slides/Intelbras_p025.jpg`
+  - With AI vs without AI comparison box and a color-scaled demand sensitivity table (price vs potential demand).
+- **Fluxo de eventos com círculos concêntricos** · Intelbras p.26 · `slides/Intelbras_p026.jpg`
+  - Mini timeline of regulatory events with arrows, plus a nested concentric-circle TAM visual for the market sizing.
+- **Barras com citação e fluxo de transição** · Intelbras p.27 · `slides/Intelbras_p027.jpg`
+  - Market-size column chart with CAGR bubble and exec quote card; below, a three-row icon-circle list of segment shifts.
+- **Dois gráficos sobre faixa de fluxo** · Intelbras p.28 · `slides/Intelbras_p028.jpg`
+  - Horizontal stacked bars (regional vs big ISPs) and a three-input policy box with arrows to quantified financing savings.
+- **Antes e depois com seta central** · Intelbras p.29 · `slides/Intelbras_p029.jpg`
+  - Before/after anti-dumping price comparison (US$/m) in two dashed boxes joined by a big green arrow, with gap callouts and a bordered 'why Brazil was a target' bullet box.
+- **Rosca, ícones, barras e arcos em faixas** · Intelbras p.30 · `slides/Intelbras_p030.jpg`
+  - Cross-sell visual: house icon to building icon, equals sign, with stacked horizontal 'multiple revenue streams' bars.
+- **Matriz de riscos com cards por família** · Intelbras p.34 · `slides/Intelbras_p034.jpg`
+  - Impact x probability scatter with coded squares (M1, C2, B3) colored by risk family, legend as three colored boxes on the right. Not quantified.
+- **Três colunas com texto sobre gráfico** · Intelbras p.39 · `slides/Intelbras_p039.jpg`
+  - Three-column layout with a dark-outlined key-information box at top and a bar chart below per column, keeping identical structure.
+- **Quatro combos de barras e linha** · Intelbras p.40 · `slides/Intelbras_p040.jpg`
+- **Diagnóstico à esquerda, solução em ícones** · Intelbras p.41 · `slides/Intelbras_p041.jpg`
+  - Case study: vertical icon stack of five delivered modules with bold title and one-line spec, triangle funnel of problems at bottom.
+- **Fluxo vertical com gráfico e cards** · Intelbras p.42 · `slides/Intelbras_p042.jpg`
+  - Left to right causal story: problem box, chart showing the hit, upside, linked by a down-arrow; quote with executive portrait.
+- **Selos, barras e citação de livro** · Intelbras p.43 · `slides/Intelbras_p043.jpg`
+- **Regras e barras com cascata anotada** · Intelbras p.45 · `slides/Intelbras_p045.jpg`
+  - Dividends bars with payout line, next to a stacked FCO allocation chart (dividends, capex, M&A, retained) with a green curved arrow marking the inflection.
+- **Linha vertical com losangos e gráfico** · Intelbras p.46 · `slides/Intelbras_p046.jpg`
+  - Diamond-icon capex timeline with dated bullet descriptions on the left, funding chart on the right and a boxed IPO/debenture takeaways list.
+- **Linha anotada com lista de logotipos** · Intelbras p.47 · `slides/Intelbras_p047.jpg`
+  - Logo lineup of acquired companies with one-line stats each (ARR, revenue, acquired year), next to a revenue line annotated with acquisition markers.
+- **Roscas com balão de ampliação explicativo** · Intelbras p.49 · `slides/Intelbras_p049.jpg`
+- **Três gráficos com caixa de conclusão** · Intelbras p.53 · `slides/Intelbras_p053.jpg`
+  - Three-signal confirmation box ('inflection is ahead') under a quarterly DIO and gross margin chart with FX exposure lines.
+- **Barras com área destacada e citação** · Intelbras p.54 · `slides/Intelbras_p054.jpg`
+  - Dashed rectangle around the peak-to-decline revenue bars with a hand-drawn style annotation; line chart of Selic vs system price on the right.
+- **Barras empilhadas sob ícones e linha** · Intelbras p.55 · `slides/Intelbras_p055.jpg`
+  - Icon row for four energy segments atop a stacked mix chart for 2022 vs 2025, and a capex-per-revenue line.
+- **Rosca radial grande com logotipos** · Intelbras p.56 · `slides/Intelbras_p056.jpg`
+  - Donut with company logo legend listing players, three footer KPI chips with flag icons.
+- **Barras com área destacada e barras agrupadas** · Intelbras p.57 · `slides/Intelbras_p057.jpg`
+- **Comparativo de produtos com lista lateral** · Intelbras p.58 · `slides/Intelbras_p058.jpg`
+  - Product-by-product price comparison cards: product photo of competitor vs Intelbras with price tags, bullet list of why channel cannot be copied.
+- **Grade de logotipos com gráficos e fluxo** · Intelbras p.61 · `slides/Intelbras_p061.jpg`
+  - Logo grid grouped by product category (CCTV, FDAS, Alarms, Access control) with dashed risk boxes for supplier dependence.
+- **Barras de múltiplos com balões de desconto** · Intelbras p.63 · `slides/Intelbras_p063.jpg`
+  - Left: single-metric peer bars with 'discount to median' callout; right: grouped bars across four multiples with discount pct. labels above each Intelbras bar.
+- **Três linhas suavizadas em gráfico único** · Intelbras p.79 · `slides/Intelbras_p079.jpg`
+  - DuPont decomposition as three curved lines (ROIC, NOPAT margin, capital turnover) with data labels in colored pills.
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.31 · `slides/Intelbras_p031.jpg`
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.33 · `slides/Intelbras_p033.jpg`
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.35 · `slides/Intelbras_p035.jpg`
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.36 · `slides/Intelbras_p036.jpg`
+- **Índice de apêndice em colunas de links** · Intelbras p.37 · `slides/Intelbras_p037.jpg`
+- **Barras e linha com comparação setorial** · Intelbras p.48 · `slides/Intelbras_p048.jpg`
+  - Net debt vs EBITDA bars with leverage line, and a peer-comparison bar chart with a dashed reference line.
+- **Caixas de texto com moldura verde** · Intelbras p.50 · `slides/Intelbras_p050.jpg`
+- **Caixa única de texto centralizada** · Intelbras p.51 · `slides/Intelbras_p051.jpg`
+- **Ícones e linha com barras altas** · Intelbras p.60 · `slides/Intelbras_p060.jpg`
+- **Planilha com cálculo em texto lateral** · Intelbras p.64 · `slides/Intelbras_p064.jpg`
+- **Tabela crua de respostas de formulário** · Intelbras p.65 · `slides/Intelbras_p065.jpg`
+- **Tabela crua de respostas de formulário** · Intelbras p.66 · `slides/Intelbras_p066.jpg`
+- **Três tabelas empilhadas de planilha** · Intelbras p.67 · `slides/Intelbras_p067.jpg`
+- **Planilha crua com linhas marcadas** · Intelbras p.68 · `slides/Intelbras_p068.jpg`
+- **Planilha crua com linhas marcadas** · Intelbras p.69 · `slides/Intelbras_p069.jpg`
+- **Planilha crua com linhas marcadas** · Intelbras p.70 · `slides/Intelbras_p070.jpg`
+- **Três tabelas soltas com nota** · Intelbras p.71 · `slides/Intelbras_p071.jpg`
+- **Três tabelas empilhadas de planilha** · Intelbras p.72 · `slides/Intelbras_p072.jpg`
+- **Tabelas pequenas soltas de planilha** · Intelbras p.73 · `slides/Intelbras_p073.jpg`
+- **Tabelas encadeadas com fórmula em print** · Intelbras p.74 · `slides/Intelbras_p074.jpg`
+- **Tabela única de planilha centralizada** · Intelbras p.75 · `slides/Intelbras_p075.jpg`
+- **Tabela única de planilha centralizada** · Intelbras p.76 · `slides/Intelbras_p076.jpg`
+- **Tabela única com linha marcada** · Intelbras p.77 · `slides/Intelbras_p077.jpg`
+- **Tabela única com célula destacada** · Intelbras p.78 · `slides/Intelbras_p078.jpg`
+- **Planilha larga com seções sombreadas** · Intelbras p.80 · `slides/Intelbras_p080.jpg`
+- **Tabelas encadeadas por seta** · Intelbras p.81 · `slides/Intelbras_p081.jpg`
+- **Tabela larga com fórmula em print** · Intelbras p.82 · `slides/Intelbras_p082.jpg`
+- **Tabelas densas com fórmula e setas** · Intelbras p.83 · `slides/Intelbras_p083.jpg`
+- **Fórmula em print sobre tabela larga** · Intelbras p.84 · `slides/Intelbras_p084.jpg`
+  - Formula card in black box above a yearly table with the result column highlighted in yellow.
+- **Tabelas encadeadas com fórmula ao pé** · Intelbras p.85 · `slides/Intelbras_p085.jpg`
+- **Tabela mínima com notas de premissas** · Intelbras p.86 · `slides/Intelbras_p086.jpg`
+- **Tabelas de premissas empilhadas** · Intelbras p.87 · `slides/Intelbras_p087.jpg`
+  - Pessimistic/conservative/optimistic table with a yellow premises header block.
+- **Tabelas pequenas de premissas empilhadas** · Intelbras p.88 · `slides/Intelbras_p088.jpg`
+- **Mapa de calor sobre três cenários** · Intelbras p.89 · `slides/Intelbras_p089.jpg`
+  - Red-to-green sensitivity grid (price x reseller base) beside three scenario calculation tables colored by case.
+- **Tabelas pequenas encadeadas por seta** · Intelbras p.90 · `slides/Intelbras_p090.jpg`
+- **Tabela de projeção com fórmula lateral** · Intelbras p.91 · `slides/Intelbras_p091.jpg`
+- **Tabela única com fórmula em seta** · Intelbras p.92 · `slides/Intelbras_p092.jpg`
+- **Tabelas soltas com caixa de notas** · Intelbras p.93 · `slides/Intelbras_p093.jpg`
+- **Cálculo passo a passo em caixas** · Intelbras p.94 · `slides/Intelbras_p094.jpg`
+- **Tabela de projeção com fórmula lateral** · Intelbras p.95 · `slides/Intelbras_p095.jpg`

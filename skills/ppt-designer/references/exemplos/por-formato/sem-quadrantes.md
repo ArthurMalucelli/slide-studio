@@ -1,0 +1,471 @@
+# Sem quadrantes (398)
+
+- ★ **Conclusão em faixas de seta** · BTG Pactual p.80 · `slides/BTGPactual_p080.jpg`
+  - Dark closing slide with three stacked, right-pointing arrow banners in decreasing blue tones and a large italic 'Yes!' as the punchline.
+- ★ **Arco orbital com três pilares e veredito** · Intelbras p.4 · `slides/Intelbras_p004.jpg`
+  - Section divider that doubles as thesis map: three circular-icon pillars on an arc around the logo, the active pillar bold and the others faded, with a BUY stamp.
+- ★ **Capa em caixa de papelão com etiqueta** · Mercado Libre p.1 · `slides/MercadoLibre_p001.jpg`
+  - Cover borrows the company's own packaging metaphor (cardboard texture + shipping label holding rec/TP/upside) so the key numbers sit in a label card instead of a generic box.
+- ★ **Veredito com preço-alvo sobre foto** · Restaurant Brands p.3 · `slides/RestaurantBrandsInternational_p003.jpg`
+  - Giant BUY! word on a translucent dark-red band over a darkened photo, with price / upside / target on one horizontal line connected by thin rules.
+- **Capa com facetas geométricas em gradiente** · 3R Petroleum p.1 · `slides/3RPetroleum_p001.jpg`
+  - Full-bleed dark-green gradient with angular translucent shards, centered title and dual logo lockup, names bottom-left.
+- **Divisor em faixa sobre slide esmaecido** · 3R Petroleum p.3 · `slides/3RPetroleum_p003.jpg`
+- **Divisor em faixa sobre slide esmaecido** · 3R Petroleum p.10 · `slides/3RPetroleum_p010.jpg`
+- **Divisor em faixa sobre slide esmaecido** · 3R Petroleum p.14 · `slides/3RPetroleum_p014.jpg`
+- **Foto de plataforma com texto central** · 3R Petroleum p.47 · `slides/3RPetroleum_p047.jpg`
+- **Capa com triângulos amarelos diagonais** · AB InBev p.1 · `slides/ABInBev_p001.jpg`
+  - Big diagonal yellow/charcoal wedge over a desaturated company-HQ photo with the logo in the yellow zone and team names bottom-left; the same wedge motif reused on every divider.
+- **Resumo de tese com linhas e recomendação** · AB InBev p.2 · `slides/ABInBev_p002.jpg`
+  - Dark slide with a giant yellow BUY centred, price/target and IRR/FCFE as thin bracket-lines on the right, three pillar labels with connector dots on the left.
+- **Três pilares numerados sobre fundo escuro** · AB InBev p.3 · `slides/ABInBev_p003.jpg`
+  - Numbered I/II/III yellow dots with a thin leader line and a left bar bolding the claim; the same slide returns as a divider with the active pillar lit yellow and the others greyed.
+- **Pilares com destaque do item ativo** · AB InBev p.8 · `slides/ABInBev_p008.jpg`
+- **Pilares com destaque do item ativo** · AB InBev p.21 · `slides/ABInBev_p021.jpg`
+- **Pilares com destaque do item ativo** · AB InBev p.31 · `slides/ABInBev_p031.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.52 · `slides/ABInBev_p052.jpg`
+- **Encerramento com triângulos amarelos** · AB InBev p.58 · `slides/ABInBev_p058.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.62 · `slides/ABInBev_p062.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.72 · `slides/ABInBev_p072.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.78 · `slides/ABInBev_p078.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.84 · `slides/ABInBev_p084.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.91 · `slides/ABInBev_p091.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.103 · `slides/ABInBev_p103.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.108 · `slides/ABInBev_p108.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.115 · `slides/ABInBev_p115.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.123 · `slides/ABInBev_p123.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.126 · `slides/ABInBev_p126.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.132 · `slides/ABInBev_p132.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.145 · `slides/ABInBev_p145.jpg`
+- **Divisor escuro com triângulos diagonais** · AB InBev p.154 · `slides/ABInBev_p154.jpg`
+- **Capa escura com torre aramada** · Alupar p.1 · `slides/Alupar_p001.jpg`
+  - Fundo azul-noite com ilustração de linha da torre de transmissão (tema do setor) ocupando metade direita; título + logos empilhados à esquerda, autores no rodapé.
+- **Pilares em escada com numerais circulares** · Alupar p.4 · `slides/Alupar_p004.jpg`
+  - Divisor com 3 linhas numeradas em círculos (I, II, III) sobre fundo escuro; o pilar ativo fica em azul brilhante e os outros esmaecidos, repetido nas páginas seguintes como navegador (idem p5, p8, p16).
+- **Divisor em escada com item aceso** · Alupar p.8 · `slides/Alupar_p008.jpg`
+- **Divisor em escada com item aceso** · Alupar p.16 · `slides/Alupar_p016.jpg`
+- **Encerramento escuro com torres aramadas** · Alupar p.27 · `slides/Alupar_p027.jpg`
+- **Capa com foto em recorte curvo** · Arezzo&Co p.1 · `slides/ArezzoCo_p001.jpg`
+  - Left dark panel with big bold white title and a diagonal cyan swoosh over a full-bleed store photo; company logo bottom-right, team names bottom-left.
+- **Capa escura com foto e faixa** · BTG Pactual p.1 · `slides/BTGPactual_p001.jpg`
+  - Dark navy full-bleed photo with a translucent dark band behind the title block and team names letter-spaced at the bottom; co-branding logos bottom-right.
+- **Divisor escuro com ícones de teses** · BTG Pactual p.4 · `slides/BTGPactual_p004.jpg`
+  - Section divider with a vertical icon rail (one icon per thesis) where the active thesis is highlighted by a translucent box over the photo and the others are dimmed.
+- **Divisor escuro com ícones de teses** · BTG Pactual p.20 · `slides/BTGPactual_p020.jpg`
+- **Divisor escuro com ícones de teses** · BTG Pactual p.49 · `slides/BTGPactual_p049.jpg`
+- **Divisor escuro com ícones de teses** · BTG Pactual p.65 · `slides/BTGPactual_p065.jpg`
+- **Divisor escuro com ícones de teses** · BTG Pactual p.68 · `slides/BTGPactual_p068.jpg`
+- **Encerramento escuro com foto** · BTG Pactual p.81 · `slides/BTGPactual_p081.jpg`
+- **Capa escura com feixes de linhas** · CSN - ArcelorMittal p.1 · `slides/CSN-ArcelorMittal_p001.jpg`
+  - Black cover with blue-to-red light-streak art and dual logos centered; team names bottom-left in tiny type
+- **Agenda em faixas com numeral circulado** · CSN - ArcelorMittal p.2 · `slides/CSN-ArcelorMittal_p002.jpg`
+  - Roman-numeral circled rows separated by thin rules on dark navy; same numerals reused in footer breadcrumb
+- **Divisor de tese com tópicos numerados** · CSN - ArcelorMittal p.9 · `slides/CSN-ArcelorMittal_p009.jpg`
+  - Section-divider that repeats the same pillar list on each divider and dims inactive items to show progress
+- **Divisor com tópico ativo e outro apagado** · CSN - ArcelorMittal p.10 · `slides/CSN-ArcelorMittal_p010.jpg`
+- **Divisor em cor de seção alternada** · CSN - ArcelorMittal p.18 · `slides/CSN-ArcelorMittal_p018.jpg`
+- **Divisor com subtópicos em destaque gradual** · CSN - ArcelorMittal p.21 · `slides/CSN-ArcelorMittal_p021.jpg`
+- **Divisor com subtópico ativo em vermelho** · CSN - ArcelorMittal p.25 · `slides/CSN-ArcelorMittal_p025.jpg`
+  - Red-themed divider showing three numbered thesis items with progressive dimming
+- **Encerramento escuro com feixes vermelhos** · CSN - ArcelorMittal p.38 · `slides/CSN-ArcelorMittal_p038.jpg`
+- **Capa escura com ondas e logo central** · CSN Liability p.1 · `slides/CSNLiabilityManagement_p001.jpg`
+  - Black field with a flowing cobalt-blue ribbon image, centered white client logo and a small team/partners credit block anchored bottom-right.
+- **Agenda em lista com linhas finas** · CSN Liability p.2 · `slides/CSNLiabilityManagement_p002.jpg`
+- **Divisor com tópicos em círculo** · CSN Liability p.25 · `slides/CSNLiabilityManagement_p025.jpg`
+  - Numbered-circle (I / II) list on the title background, with the inactive item dimmed across repeated dividers p25/26/29 to act as a progress tracker.
+- **Divisor com segundo tópico aceso** · CSN Liability p.29 · `slides/CSNLiabilityManagement_p029.jpg`
+- **Capa escura com trama azul** · ChallengeB p.1 · `slides/ChallengeB_p001.jpg`
+  - Dark full-bleed cover with company and group marks, team names at the bottom.
+- **Capa escura com triângulos em gradiente** · Cosan p.1 · `slides/Cosan_p001.jpg`
+  - Dark black-to-red gradient with centered logo, a thin horizontal rule and a one-line thesis subtitle; team credits anchored bottom-left in small type.
+- **Agenda em faixas com gradiente** · Cosan p.2 · `slides/Cosan_p002.jpg`
+  - Five full-width dark-red bars with roman numerals and a diamond-ended hairline, evenly stacked on the gradient background.
+- **Capa dividida com ondas digitais** · Cury p.1 · `slides/CuryConstrutora_p001.jpg`
+  - Fundo azul-marinho com textura de ondas e bloco de texto alinhado a esquerda; logos co-branded no topo, equipe em rodape.
+- **Divisor de teses em faixas escalonadas** · Cury p.5 · `slides/CuryConstrutora_p005.jpg`
+  - Divisor escuro com 3 titulos de tese em faixas translucidas escalonadas; destaque de uma tese por vez ao longo do deck (tese ativa em branco, demais apagadas).
+- **Divisor com segunda tese acesa** · Cury p.12 · `slides/CuryConstrutora_p012.jpg`
+- **Divisor com terceira tese acesa** · Cury p.20 · `slides/CuryConstrutora_p020.jpg`
+- **Divisor de teses antes dos números** · Cury p.25 · `slides/CuryConstrutora_p025.jpg`
+  - Repete o divisor de teses para marcar a transicao operacao -> numeros, mantendo a mesma grade visual da pagina de teses.
+- **Índice de apêndice em colunas numeradas** · Cury p.36 · `slides/CuryConstrutora_p036.jpg`
+- **Capa verde com logotipo e arcos** · Intelbras p.1 · `slides/Intelbras_p001.jpg`
+  - Full-bleed brand-green gradient with translucent angled facets and a giant white logotype; title underlined by a thin rule, authors bottom-right.
+- **Divisor orbital com pilar em destaque** · Intelbras p.5 · `slides/Intelbras_p005.jpg`
+- **Divisor orbital com pilar em destaque** · Intelbras p.14 · `slides/Intelbras_p014.jpg`
+- **Divisor orbital com pilar em destaque** · Intelbras p.22 · `slides/Intelbras_p022.jpg`
+- **Capa com foto de montanha e logos** · Kering - Moncler p.1 · `slides/Kering-Moncler_p001.jpg`
+  - Full-bleed alpine mountain photo with both brand logos floating over the sky and tiny deck-type tag bottom-right; photo metaphor ties to Moncler's outerwear origin.
+- **Capa com seta e celular em círculo** · Meliuz p.1 · `slides/Meliuz_p001.jpg`
+  - Fundo grafite com logo da empresa em seta branca à esquerda e celular real do app dentro de círculo rosa à direita; chevrons rosa como assinatura.
+- **Fechamento com seta e celular em círculo** · Meliuz p.63 · `slides/Meliuz_p063.jpg`
+- **Sumário imitando página de site** · Meliuz p.64 · `slides/Meliuz_p064.jpg`
+- **Sumário de anexos imitando site** · Meliuz p.65 · `slides/Meliuz_p065.jpg`
+  - Índice em quatro colunas numeradas com estilo de barra de site, usado como mapa do apêndice.
+- **Divisor com cartão e lista vertical** · Mercado Libre p.5 · `slides/MercadoLibre_p005.jpg`
+  - Recurring divider card: vertical dot-line of pillars where the active one is dark and the others fade, with ticker/BUY header and upside/IRR footer, repeated before each section.
+- **Divisor com item destacado em trilha** · Mercado Libre p.12 · `slides/MercadoLibre_p012.jpg`
+- **Pergunta sobreposta em faixa branca** · Mercado Libre p.16 · `slides/MercadoLibre_p016.jpg`
+- **Divisor com item destacado em trilha** · Mercado Libre p.23 · `slides/MercadoLibre_p023.jpg`
+- **Pergunta sobreposta em faixa branca** · Mercado Libre p.31 · `slides/MercadoLibre_p031.jpg`
+- **Divisor com cartão e lista vertical** · Mercado Libre p.37 · `slides/MercadoLibre_p037.jpg`
+- **Encerramento em papelão com faixas pontilhadas** · Mercado Libre p.38 · `slides/MercadoLibre_p038.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.43 · `slides/MercadoLibre_p043.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.58 · `slides/MercadoLibre_p058.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.67 · `slides/MercadoLibre_p067.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.83 · `slides/MercadoLibre_p083.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.89 · `slides/MercadoLibre_p089.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.97 · `slides/MercadoLibre_p097.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.124 · `slides/MercadoLibre_p124.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.128 · `slides/MercadoLibre_p128.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.136 · `slides/MercadoLibre_p136.jpg`
+- **Divisor de seção em papelão** · Mercado Libre p.146 · `slides/MercadoLibre_p146.jpg`
+- **Capa com foto e curva translúcida** · Nubank p.1 · `slides/Nubank_p001.jpg`
+  - Brand-colour diagonal overlay over a full-bleed building photo with the giant 'nu' logo visible, centred title and underlined subtitle.
+- **Divisor diagonal com pilar ativo aceso** · Nubank p.5 · `slides/Nubank_p005.jpg`
+  - Same divider template re-used at each section start with the active pillar highlighted (bold) and others dimmed, acting as a progress marker.
+- **Divisor diagonal com pilar ativo aceso** · Nubank p.12 · `slides/Nubank_p012.jpg`
+- **Divisor diagonal com pilar ativo aceso** · Nubank p.22 · `slides/Nubank_p022.jpg`
+  - Divider with the third thesis pillar active on the diagonal dashed path and icon coins.
+- **Modal de pergunta sobre slide esmaecido** · Nubank p.31 · `slides/Nubank_p031.jpg`
+- **Divisor diagonal com título grande** · Nubank p.34 · `slides/Nubank_p034.jpg`
+- **Divisor diagonal com título grande** · Nubank p.36 · `slides/Nubank_p036.jpg`
+- **Encerramento diagonal de perguntas** · Nubank p.38 · `slides/Nubank_p038.jpg`
+- **Capa com foto verde e ondas** · RD Saúde p.1 · `slides/RDSaude_p001.jpg`
+  - Tint the company's own storefront photo in the brand green (duotone) and overlay a wavy darker-green swoosh on the left to hold the white title block, so the cover is on-brand without a logo wall.
+- **Slide final com foto verde** · RD Saúde p.64 · `slides/RDSaude_p064.jpg`
+- **Capa com foto em sangria** · Rede D'Or p.1 · `slides/RedeDOr_p001.jpg`
+  - Full-bleed surgical photo with navy duotone overlay, logo bottom-left and team credits in small type; title is just the logo lockup.
+- **Divisor com foto e título grande** · Rede D'Or p.49 · `slides/RedeDOr_p049.jpg`
+  - Reuses the cover photo with a huge Q&A title, bookending the deck.
+- **Capa com foto e cunha vermelha** · Restaurant Brands p.1 · `slides/RestaurantBrandsInternational_p001.jpg`
+  - Full-bleed photo of the brand signage under a diagonal red wedge carrying the team name, so the cover is branded without any logo wall.
+- **Divisor com faixa vermelha sobre foto** · Restaurant Brands p.41 · `slides/RestaurantBrandsInternational_p041.jpg`
+  - Photo band with the cover imagery tinted dark red and centered white title plus italic question as subtitle.
+- **Capa com foto em faixas diagonais** · Sabesp p.1 · `slides/Sabesp_p001.jpg`
+  - Diagonal cyan wedge cuts the full-bleed industry photo, logo lockup and names sit on flat color so text never fights the image.
+- **Divisor orbital com pilar aceso** · Sabesp p.5 · `slides/Sabesp_p005.jpg`
+  - Reuse one master graphic as section divider and fade inactive pillars (opacity) so the reader tracks position in the thesis.
+- **Faixa-pergunta sobre slide esmaecido** · Sabesp p.10 · `slides/Sabesp_p010.jpg`
+  - Fade the prior slide to ~15% and lay a solid cyan band with one rhetorical question - a cheap narrative hinge between sections.
+- **Divisor orbital com pilar aceso** · Sabesp p.15 · `slides/Sabesp_p015.jpg`
+  - Same orbit master with a different pillar bold per divider.
+- **Divisor orbital com pilar aceso** · Sabesp p.26 · `slides/Sabesp_p026.jpg`
+- **Faixa-pergunta sobre slide esmaecido** · Sabesp p.29 · `slides/Sabesp_p029.jpg`
+- **Divisor orbital com palavra grande** · Sabesp p.35 · `slides/Sabesp_p035.jpg`
+- **Encerramento orbital de perguntas** · Sabesp p.38 · `slides/Sabesp_p038.jpg`
+- **Faixa-pergunta sobre slide esmaecido** · Sabesp p.62 · `slides/Sabesp_p062.jpg`
+- **Capa com foto de fachada e faixa** · Senior Sistemas p.1 · `slides/SeniorSistemas_p001.jpg`
+  - Foto da sede em full-bleed com polígono verde diagonal sobreposto carregando logo e título em branco.
+- **Agenda com ornamento linear e diagonal** · Senior Sistemas p.2 · `slides/SeniorSistemas_p002.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.12 · `slides/SeniorSistemas_p012.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.24 · `slides/SeniorSistemas_p024.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.28 · `slides/SeniorSistemas_p028.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.37 · `slides/SeniorSistemas_p037.jpg`
+- **Divisor de apêndice sobre foto** · Senior Sistemas p.41 · `slides/SeniorSistemas_p041.jpg`
+- **Agenda com ornamento linear e diagonal** · Senior Sistemas p.42 · `slides/SeniorSistemas_p042.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.45 · `slides/SeniorSistemas_p045.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.52 · `slides/SeniorSistemas_p052.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.54 · `slides/SeniorSistemas_p054.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.56 · `slides/SeniorSistemas_p056.jpg`
+- **Divisor de seção com ornamento linear** · Senior Sistemas p.59 · `slides/SeniorSistemas_p059.jpg`
+- **Capa escura com ondas de linhas** · Vasta p.1 · `slides/Vasta_p001.jpg`
+  - Dark full-bleed generative wave art with logo top-left and team credits in small bold bottom-left; the same wave motif is reused on dividers and Q&A.
+- **Divisor com numeral grande e ondas** · Vasta p.4 · `slides/Vasta_p004.jpg`
+  - Giant ghosted pale-pink section number behind a bold title, italic subtitle and a six-item section tracker with the current one underlined; the footer nav on content slides repeats the same sections as a progress bar.
+- **Divisor com numeral grande e ondas** · Vasta p.7 · `slides/Vasta_p007.jpg`
+- **Divisor com numeral grande e ondas** · Vasta p.11 · `slides/Vasta_p011.jpg`
+  - Same divider template repeated per thesis with the slogan as subtitle so each section announces its claim before the evidence.
+- **Divisor com numeral grande e ondas** · Vasta p.16 · `slides/Vasta_p016.jpg`
+- **Divisor com numeral grande e ondas** · Vasta p.20 · `slides/Vasta_p020.jpg`
+- **Divisor com numeral grande e ondas** · Vasta p.26 · `slides/Vasta_p026.jpg`
+- **Divisor com numeral grande e ondas** · Vasta p.30 · `slides/Vasta_p030.jpg`
+- **Divisor com numeral grande e ondas** · Vasta p.33 · `slides/Vasta_p033.jpg`
+- **Divisor com numeral grande e ondas** · Vasta p.39 · `slides/Vasta_p039.jpg`
+- **Encerramento escuro com ondas de linhas** · Vasta p.41 · `slides/Vasta_p041.jpg`
+- **Capa verde escura com letra gigante** · Vibra p.1 · `slides/Vibra_p001.jpg`
+  - Full-bleed black-to-green gradient with giant translucent brand glyph as background, small centered title block and team/partners footer
+- **Encerramento verde com letra gigante** · Vibra p.41 · `slides/Vibra_p041.jpg`
+- **Tese em três itens com revelação progressiva** · 3R Petroleum p.7 · `slides/3RPetroleum_p007.jpg`
+  - Dark divider with oval motif and three thesis lines; the active pillar is lit in white while the others are dimmed, repeated as a progress divider before each section.
+- **Tese em três itens com revelação progressiva** · 3R Petroleum p.17 · `slides/3RPetroleum_p017.jpg`
+- **Tese em três itens com revelação progressiva** · 3R Petroleum p.25 · `slides/3RPetroleum_p025.jpg`
+- **Sumário em duas colunas sobre foto** · 3R Petroleum p.48 · `slides/3RPetroleum_p048.jpg`
+- **Sumário de apêndice sobre foto** · 3R Petroleum p.49 · `slides/3RPetroleum_p049.jpg`
+  - Two-column hyperlinked index over a tinted full-bleed photo for appendix navigation.
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.50 · `slides/3RPetroleum_p050.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.52 · `slides/3RPetroleum_p052.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.54 · `slides/3RPetroleum_p054.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.57 · `slides/3RPetroleum_p057.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.59 · `slides/3RPetroleum_p059.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.66 · `slides/3RPetroleum_p066.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.69 · `slides/3RPetroleum_p069.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.72 · `slides/3RPetroleum_p072.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.75 · `slides/3RPetroleum_p075.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.76 · `slides/3RPetroleum_p076.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.77 · `slides/3RPetroleum_p077.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.78 · `slides/3RPetroleum_p078.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.79 · `slides/3RPetroleum_p079.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.80 · `slides/3RPetroleum_p080.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.81 · `slides/3RPetroleum_p081.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.82 · `slides/3RPetroleum_p082.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.83 · `slides/3RPetroleum_p083.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.84 · `slides/3RPetroleum_p084.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.85 · `slides/3RPetroleum_p085.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.86 · `slides/3RPetroleum_p086.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.87 · `slides/3RPetroleum_p087.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.88 · `slides/3RPetroleum_p088.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.89 · `slides/3RPetroleum_p089.jpg`
+- **Planilha crua de apêndice empilhada** · 3R Petroleum p.90 · `slides/3RPetroleum_p090.jpg`
+- **Planilha crua de apêndice** · 3R Petroleum p.91 · `slides/3RPetroleum_p091.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.92 · `slides/3RPetroleum_p092.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.94 · `slides/3RPetroleum_p094.jpg`
+- **Planilha crua de premissas** · 3R Petroleum p.95 · `slides/3RPetroleum_p095.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.96 · `slides/3RPetroleum_p096.jpg`
+- **Bloco de código em página branca** · 3R Petroleum p.97 · `slides/3RPetroleum_p097.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.98 · `slides/3RPetroleum_p098.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.102 · `slides/3RPetroleum_p102.jpg`
+- **Divisor verde liso com título sublinhado** · 3R Petroleum p.108 · `slides/3RPetroleum_p108.jpg`
+- **Print de código em página branca** · 3R Petroleum p.109 · `slides/3RPetroleum_p109.jpg`
+- **Índice em colunas sobre fundo escuro** · AB InBev p.59 · `slides/ABInBev_p059.jpg`
+  - Dark slide with four columns of underlined links, thesis headers in yellow.
+- **Índice de apêndice em colunas** · AB InBev p.60 · `slides/ABInBev_p060.jpg`
+- **Índice de apêndice em colunas** · AB InBev p.61 · `slides/ABInBev_p061.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.157 · `slides/ABInBev_p157.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.158 · `slides/ABInBev_p158.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.159 · `slides/ABInBev_p159.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.161 · `slides/ABInBev_p161.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.162 · `slides/ABInBev_p162.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.164 · `slides/ABInBev_p164.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.165 · `slides/ABInBev_p165.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.166 · `slides/ABInBev_p166.jpg`
+- **Tabela de modelo financeiro em miniatura** · AB InBev p.167 · `slides/ABInBev_p167.jpg`
+- **Índice em colunas sobre fundo escuro** · BTG Pactual p.82 · `slides/BTGPactual_p082.jpg`
+- **Índice de apêndice em três colunas** · BTG Pactual p.83 · `slides/BTGPactual_p083.jpg`
+- **Encerramento escuro de perguntas** · Cosan p.35 · `slides/Cosan_p035.jpg`
+- **Slide de perguntas quase vazio** · Cury p.35 · `slides/CuryConstrutora_p035.jpg`
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.31 · `slides/Intelbras_p031.jpg`
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.33 · `slides/Intelbras_p033.jpg`
+- **Divisor com faixas geométricas no rodapé** · Intelbras p.35 · `slides/Intelbras_p035.jpg`
+- **Índice de apêndice em colunas de links** · Intelbras p.37 · `slides/Intelbras_p037.jpg`
+- **Caixa única de texto centralizada** · Intelbras p.51 · `slides/Intelbras_p051.jpg`
+- **Tabela crua de respostas de formulário** · Intelbras p.65 · `slides/Intelbras_p065.jpg`
+- **Tabela crua de respostas de formulário** · Intelbras p.66 · `slides/Intelbras_p066.jpg`
+- **Três tabelas empilhadas de planilha** · Intelbras p.67 · `slides/Intelbras_p067.jpg`
+- **Planilha crua com linhas marcadas** · Intelbras p.68 · `slides/Intelbras_p068.jpg`
+- **Planilha crua com linhas marcadas** · Intelbras p.69 · `slides/Intelbras_p069.jpg`
+- **Planilha crua com linhas marcadas** · Intelbras p.70 · `slides/Intelbras_p070.jpg`
+- **Três tabelas soltas com nota** · Intelbras p.71 · `slides/Intelbras_p071.jpg`
+- **Três tabelas empilhadas de planilha** · Intelbras p.72 · `slides/Intelbras_p072.jpg`
+- **Tabelas pequenas soltas de planilha** · Intelbras p.73 · `slides/Intelbras_p073.jpg`
+- **Tabelas encadeadas com fórmula em print** · Intelbras p.74 · `slides/Intelbras_p074.jpg`
+- **Tabela única de planilha centralizada** · Intelbras p.75 · `slides/Intelbras_p075.jpg`
+- **Tabela única de planilha centralizada** · Intelbras p.76 · `slides/Intelbras_p076.jpg`
+- **Tabela única com linha marcada** · Intelbras p.77 · `slides/Intelbras_p077.jpg`
+- **Tabela única com célula destacada** · Intelbras p.78 · `slides/Intelbras_p078.jpg`
+- **Planilha larga com seções sombreadas** · Intelbras p.80 · `slides/Intelbras_p080.jpg`
+- **Tabelas encadeadas por seta** · Intelbras p.81 · `slides/Intelbras_p081.jpg`
+- **Tabela larga com fórmula em print** · Intelbras p.82 · `slides/Intelbras_p082.jpg`
+- **Tabelas densas com fórmula e setas** · Intelbras p.83 · `slides/Intelbras_p083.jpg`
+- **Fórmula em print sobre tabela larga** · Intelbras p.84 · `slides/Intelbras_p084.jpg`
+  - Formula card in black box above a yearly table with the result column highlighted in yellow.
+- **Tabelas encadeadas com fórmula ao pé** · Intelbras p.85 · `slides/Intelbras_p085.jpg`
+- **Tabela mínima com notas de premissas** · Intelbras p.86 · `slides/Intelbras_p086.jpg`
+- **Tabelas de premissas empilhadas** · Intelbras p.87 · `slides/Intelbras_p087.jpg`
+  - Pessimistic/conservative/optimistic table with a yellow premises header block.
+- **Tabelas pequenas de premissas empilhadas** · Intelbras p.88 · `slides/Intelbras_p088.jpg`
+- **Tabelas pequenas encadeadas por seta** · Intelbras p.90 · `slides/Intelbras_p090.jpg`
+- **Tabela de projeção com fórmula lateral** · Intelbras p.91 · `slides/Intelbras_p091.jpg`
+- **Tabela única com fórmula em seta** · Intelbras p.92 · `slides/Intelbras_p092.jpg`
+- **Tabelas soltas com caixa de notas** · Intelbras p.93 · `slides/Intelbras_p093.jpg`
+- **Tabela de projeção com fórmula lateral** · Intelbras p.95 · `slides/Intelbras_p095.jpg`
+- **Sumário com linhas pontilhadas** · Kering - Moncler p.2 · `slides/Kering-Moncler_p002.jpg`
+  - Gold left accent bar on each entry and dotted leaders to right-aligned page numbers; the same section list is repeated as a footer breadcrumb with the current section highlighted in gold on every content slide.
+- **Resumo executivo em linhas rotuladas** · Kering - Moncler p.3 · `slides/Kering-Moncler_p003.jpg`
+  - Exec summary as 6 label/text rows (Proposed Transaction, Price/Premium, Rationale, Synergies, Valuation, Recommendation) separated by hairlines, small-caps labels in left column, zero charts.
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.4 · `slides/Kering-Moncler_p004.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.9 · `slides/Kering-Moncler_p009.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.13 · `slides/Kering-Moncler_p013.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.18 · `slides/Kering-Moncler_p018.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.24 · `slides/Kering-Moncler_p024.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.27 · `slides/Kering-Moncler_p027.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.29 · `slides/Kering-Moncler_p029.jpg`
+- **Retratos circulares da equipe** · Kering - Moncler p.31 · `slides/Kering-Moncler_p031.jpg`
+- **Aviso legal em texto corrido** · Kering - Moncler p.32 · `slides/Kering-Moncler_p032.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.91 · `slides/Meliuz_p091.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.92 · `slides/Meliuz_p092.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.93 · `slides/Meliuz_p093.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.94 · `slides/Meliuz_p094.jpg`
+- **Planilha de DCF colada** · Meliuz p.126 · `slides/Meliuz_p126.jpg`
+  - Modelo Excel colado inteiro com faixa vermelha de título, útil como exemplo de anexo de modelo.
+- **Planilha de build-up colada** · Meliuz p.128 · `slides/Meliuz_p128.jpg`
+- **Planilha de build-up colada** · Meliuz p.129 · `slides/Meliuz_p129.jpg`
+- **Planilha de build-up colada** · Meliuz p.130 · `slides/Meliuz_p130.jpg`
+- **Planilha de build-up colada** · Meliuz p.131 · `slides/Meliuz_p131.jpg`
+- **Planilha de build-up colada** · Meliuz p.132 · `slides/Meliuz_p132.jpg`
+- **Planilha de DRE colada** · Meliuz p.133 · `slides/Meliuz_p133.jpg`
+- **Planilha de DRE colada** · Meliuz p.134 · `slides/Meliuz_p134.jpg`
+- **Planilha de múltiplos com dispersão** · Meliuz p.135 · `slides/Meliuz_p135.jpg`
+- **Planilha de balanço colada** · Meliuz p.136 · `slides/Meliuz_p136.jpg`
+- **Planilha de balanço colada** · Meliuz p.137 · `slides/Meliuz_p137.jpg`
+- **Planilha de fluxo de caixa colada** · Meliuz p.138 · `slides/Meliuz_p138.jpg`
+- **Planilha de ativos com cascata de depreciação** · Meliuz p.139 · `slides/Meliuz_p139.jpg`
+- **Planilha de intangíveis com cascata de depreciação** · Meliuz p.140 · `slides/Meliuz_p140.jpg`
+- **Planilha de capital de giro colada** · Meliuz p.141 · `slides/Meliuz_p141.jpg`
+- **Índice em papelão em duas colunas** · Mercado Libre p.39 · `slides/MercadoLibre_p039.jpg`
+  - Two-column index on branded kraft background with chapters in bold underlined and slide titles listed with page numbers.
+- **Índice de apêndice em papelão** · Mercado Libre p.40 · `slides/MercadoLibre_p040.jpg`
+- **Índice de apêndice em papelão** · Mercado Libre p.41 · `slides/MercadoLibre_p041.jpg`
+- **Índice de apêndice em papelão** · Mercado Libre p.42 · `slides/MercadoLibre_p042.jpg`
+- **Apêndice de DCF em planilha** · Mercado Libre p.98 · `slides/MercadoLibre_p098.jpg`
+  - Compact DCF with projected years in a red/pink header and a present-values matrix by discount rate below, base row bolded.
+- **Apêndice de DCF em planilha** · Mercado Libre p.99 · `slides/MercadoLibre_p099.jpg`
+  - Same template as bull/bear for easy comparison with base-case cell highlighted in yellow and blue.
+- **Apêndice de múltiplos em planilha** · Mercado Libre p.101 · `slides/MercadoLibre_p101.jpg`
+- **Apêndice de sensibilidade em planilha** · Mercado Libre p.103 · `slides/MercadoLibre_p103.jpg`
+  - Plain Ke x perpetual growth grid; useful as a minimal example of a sensitivity page.
+- **Apêndice de KPIs em planilha** · Mercado Libre p.104 · `slides/MercadoLibre_p104.jpg`
+- **Apêndice de DCF reverso em planilha** · Mercado Libre p.106 · `slides/MercadoLibre_p106.jpg`
+- **Apêndice de múltiplos comparáveis** · Mercado Libre p.107 · `slides/MercadoLibre_p107.jpg`
+  - Three-block comps table (EV/Revenue, EV/EBIT, P/E; Today vs NTM) split into Commerce and Fintech groups with Average and Premium/Discount rows for Meli.
+- **Apêndice de soma das partes** · Mercado Libre p.108 · `slides/MercadoLibre_p108.jpg`
+  - Three column layout: SOTP for commerce and fintech by EV/EBIT and EV/Revenue, consolidated bridge to price per share, and a P/E commerce peers cross-check.
+- **Apêndice de projeção em planilha** · Mercado Libre p.109 · `slides/MercadoLibre_p109.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.110 · `slides/MercadoLibre_p110.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.111 · `slides/MercadoLibre_p111.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.112 · `slides/MercadoLibre_p112.jpg`
+- **Apêndice de projeção em planilha** · Mercado Libre p.113 · `slides/MercadoLibre_p113.jpg`
+- **Apêndice de balanço em planilha** · Mercado Libre p.114 · `slides/MercadoLibre_p114.jpg`
+- **Apêndice de balanço em planilha** · Mercado Libre p.115 · `slides/MercadoLibre_p115.jpg`
+- **Apêndice de balanço em planilha** · Mercado Libre p.116 · `slides/MercadoLibre_p116.jpg`
+- **Índice de links em colunas** · Nubank p.39 · `slides/Nubank_p039.jpg`
+  - Dark-purple index page with three columns of section headers and underlined slide titles.
+- **Índice de apêndice em colunas** · Nubank p.40 · `slides/Nubank_p040.jpg`
+- **Tabela crua com fórmula abaixo** · Nubank p.56 · `slides/Nubank_p056.jpg`
+  - Compact table of CAPM inputs per year with highlighted Ke column and the formula typeset below.
+- **Tabela crua com linhas destacadas** · Nubank p.57 · `slides/Nubank_p057.jpg`
+- **Tabela de decomposição com faixas coloridas** · Nubank p.58 · `slides/Nubank_p058.jpg`
+- **Tabela crua com linhas destacadas** · Nubank p.60 · `slides/Nubank_p060.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.61 · `slides/Nubank_p061.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.62 · `slides/Nubank_p062.jpg`
+- **Tabelas cruas com taxa destacada** · Nubank p.65 · `slides/Nubank_p065.jpg`
+- **Tabela de coorte em escada** · Nubank p.66 · `slides/Nubank_p066.jpg`
+  - Triangular cohort matrix (vintage x years as client) showing how base builds up.
+- **Tabela crua com última linha destacada** · Nubank p.68 · `slides/Nubank_p068.jpg`
+  - Assumption table with the final effective-ARPAC row highlighted in purple band; same template repeated for base and bull.
+- **Tabela crua com última linha destacada** · Nubank p.69 · `slides/Nubank_p069.jpg`
+- **Tabela crua com última linha destacada** · Nubank p.70 · `slides/Nubank_p070.jpg`
+- **Pergunta em caixa sobre slide esmaecido** · RD Saúde p.17 · `slides/RDSaude_p017.jpg`
+- **Pergunta em caixa sobre slide esmaecido** · RD Saúde p.21 · `slides/RDSaude_p021.jpg`
+- **Pergunta em caixa sobre slide esmaecido** · RD Saúde p.33 · `slides/RDSaude_p033.jpg`
+- **Divisor de apêndice com índice** · RD Saúde p.65 · `slides/RDSaude_p065.jpg`
+  - Two-column table of contents on a dark green full bleed with numbered section codes (1.1, 2.3...) mirrored in the page footers, to navigate a 125-page deck.
+- **Divisor de valuation com índice** · RD Saúde p.66 · `slides/RDSaude_p066.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.83 · `slides/RDSaude_p083.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.84 · `slides/RDSaude_p084.jpg`
+- **Texto corrido em duas colunas** · RD Saúde p.85 · `slides/RDSaude_p085.jpg`
+- **Texto corrido em duas colunas** · RD Saúde p.86 · `slides/RDSaude_p086.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.87 · `slides/RDSaude_p087.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.88 · `slides/RDSaude_p088.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.89 · `slides/RDSaude_p089.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.90 · `slides/RDSaude_p090.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.91 · `slides/RDSaude_p091.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.92 · `slides/RDSaude_p092.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.93 · `slides/RDSaude_p093.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.94 · `slides/RDSaude_p094.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.95 · `slides/RDSaude_p095.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.96 · `slides/RDSaude_p096.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.97 · `slides/RDSaude_p097.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.98 · `slides/RDSaude_p098.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.99 · `slides/RDSaude_p099.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.100 · `slides/RDSaude_p100.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.101 · `slides/RDSaude_p101.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.102 · `slides/RDSaude_p102.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.103 · `slides/RDSaude_p103.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.104 · `slides/RDSaude_p104.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.105 · `slides/RDSaude_p105.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.106 · `slides/RDSaude_p106.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.107 · `slides/RDSaude_p107.jpg`
+  - Green gradient heatmap with WACC on rows and g on columns; the darker the cell, the larger the upside, using one hue for readability.
+- **Apêndice de tabela crua** · RD Saúde p.108 · `slides/RDSaude_p108.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.109 · `slides/RDSaude_p109.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.110 · `slides/RDSaude_p110.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.111 · `slides/RDSaude_p111.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.112 · `slides/RDSaude_p112.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.113 · `slides/RDSaude_p113.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.114 · `slides/RDSaude_p114.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.115 · `slides/RDSaude_p115.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.116 · `slides/RDSaude_p116.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.117 · `slides/RDSaude_p117.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.118 · `slides/RDSaude_p118.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.119 · `slides/RDSaude_p119.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.120 · `slides/RDSaude_p120.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.121 · `slides/RDSaude_p121.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.122 · `slides/RDSaude_p122.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.123 · `slides/RDSaude_p123.jpg`
+- **Apêndice de tabela crua** · RD Saúde p.124 · `slides/RDSaude_p124.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.67 · `slides/RedeDOr_p067.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.68 · `slides/RedeDOr_p068.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.69 · `slides/RedeDOr_p069.jpg`
+- **Duas tabelas cruas empilhadas** · Rede D'Or p.70 · `slides/RedeDOr_p070.jpg`
+- **Tabela de safras com área sombreada** · Rede D'Or p.71 · `slides/RedeDOr_p071.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.74 · `slides/RedeDOr_p074.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.75 · `slides/RedeDOr_p075.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.76 · `slides/RedeDOr_p076.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.77 · `slides/RedeDOr_p077.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.78 · `slides/RedeDOr_p078.jpg`
+- **Tabela crua com cronograma esparso** · Rede D'Or p.79 · `slides/RedeDOr_p079.jpg`
+- **Tabela crua com cronograma esparso** · Rede D'Or p.80 · `slides/RedeDOr_p080.jpg`
+- **Tabela de safras com área sombreada** · Rede D'Or p.83 · `slides/RedeDOr_p083.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.84 · `slides/RedeDOr_p084.jpg`
+- **Tabela crua colada do modelo** · Rede D'Or p.85 · `slides/RedeDOr_p085.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.86 · `slides/RedeDOr_p086.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.87 · `slides/RedeDOr_p087.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.88 · `slides/RedeDOr_p088.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.89 · `slides/RedeDOr_p089.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.90 · `slides/RedeDOr_p090.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.91 · `slides/RedeDOr_p091.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.92 · `slides/RedeDOr_p092.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.93 · `slides/RedeDOr_p093.jpg`
+- **Demonstrativo cru colado do modelo** · Rede D'Or p.94 · `slides/RedeDOr_p094.jpg`
+- **Memória de cálculo crua com inputs** · Rede D'Or p.95 · `slides/RedeDOr_p095.jpg`
+- **Fluxo descontado em tabela crua** · Rede D'Or p.96 · `slides/RedeDOr_p096.jpg`
+- **Fluxo descontado em tabela crua** · Rede D'Or p.97 · `slides/RedeDOr_p097.jpg`
+- **Tabela crua com sensibilidades em calor** · Rede D'Or p.98 · `slides/RedeDOr_p098.jpg`
+- **Múltiplos em tabela crua sombreada** · Rede D'Or p.99 · `slides/RedeDOr_p099.jpg`
+- **Tabela crua com sensibilidade em calor** · Rede D'Or p.100 · `slides/RedeDOr_p100.jpg`
+- **Retorno sobre capital em tabela crua** · Rede D'Or p.101 · `slides/RedeDOr_p101.jpg`
+- **Índice em duas colunas de links** · Sabesp p.39 · `slides/Sabesp_p039.jpg`
+  - Two-column hyperlinked index grouped by pillar, so a 100-page deck stays navigable.
+- **Índice de apêndice em colunas** · Sabesp p.40 · `slides/Sabesp_p040.jpg`
+- **Saída crua em colunas densas** · Sabesp p.72 · `slides/Sabesp_p072.jpg`
+- **Tabela crua com colunas amarelas** · Sabesp p.77 · `slides/Sabesp_p077.jpg`
+- **Planilha de metodologia colada** · Sabesp p.80 · `slides/Sabesp_p080.jpg`
+- **Tabela longa com linhas coloridas** · Sabesp p.81 · `slides/Sabesp_p081.jpg`
+- **Tabela longa com linhas coloridas** · Sabesp p.82 · `slides/Sabesp_p082.jpg`
+- **Planilhas ligadas por seta** · Sabesp p.83 · `slides/Sabesp_p083.jpg`
+- **Lista de valores com faixas seccionais** · Sabesp p.85 · `slides/Sabesp_p085.jpg`
+- **Planilha crua em largura total** · Sabesp p.86 · `slides/Sabesp_p086.jpg`
+- **Planilhas de premissas em duas colunas** · Sabesp p.88 · `slides/Sabesp_p088.jpg`
+- **Tabela crua com faixas cinza** · Sabesp p.89 · `slides/Sabesp_p089.jpg`
+- **Tabela crua com total marcado** · Sabesp p.90 · `slides/Sabesp_p090.jpg`
+- **Tabela crua com colunas tingidas** · Sabesp p.91 · `slides/Sabesp_p091.jpg`
+- **Tabela crua sobre fórmula escura** · Sabesp p.92 · `slides/Sabesp_p092.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.93 · `slides/Sabesp_p093.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.94 · `slides/Sabesp_p094.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.95 · `slides/Sabesp_p095.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.96 · `slides/Sabesp_p096.jpg`
+- **Planilha miúda em duas colunas** · Sabesp p.97 · `slides/Sabesp_p097.jpg`
+- **Tabela crua de estrutura de capital** · Sabesp p.98 · `slides/Sabesp_p098.jpg`
+- **Tabela crua sobre fórmula escura** · Sabesp p.99 · `slides/Sabesp_p099.jpg`
+  - Spreadsheet table with the WACC formula in a black box beneath; plain but traceable.
+- **Tabela regulatória com células escuras** · Sabesp p.100 · `slides/Sabesp_p100.jpg`
+- **Tabela de dívida com seções** · Sabesp p.101 · `slides/Sabesp_p101.jpg`
+- **Tabela de dívida com seções** · Sabesp p.102 · `slides/Sabesp_p102.jpg`
+- **Tabela de dívida com seções** · Sabesp p.103 · `slides/Sabesp_p103.jpg`
+- **Índice em colunas sobre fundo magenta** · Vasta p.42 · `slides/Vasta_p042.jpg`
+  - Full-bleed magenta index slide in three columns of underlined hyperlinks with section starts in bold, enabling navigation across a 40-slide deck.
+- **Índice em colunas sobre fundo magenta** · Vasta p.43 · `slides/Vasta_p043.jpg`
+- **Índice em linhas sobre fundo escuro** · Vibra p.2 · `slides/Vibra_p002.jpg`
+  - Roman-numeral agenda lines separated by thin green hairlines over the glyph background
+- **Sumário em duas colunas de texto** · Vibra p.42 · `slides/Vibra_p042.jpg`

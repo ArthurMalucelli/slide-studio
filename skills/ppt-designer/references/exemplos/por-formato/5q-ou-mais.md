@@ -1,0 +1,35 @@
+# 5q ou mais (17)
+
+- ★ **Donuts antes e depois com entrada central** · Vasta p.34 · `slides/Vasta_p034.jpg`
+  - Pre- and post-money shareholder donuts bracket a central entry box with the building image, and below a horizontal multiple scale (trading comps, tender offer, entry, transaction comps) positions the 8.1x entry.
+- **Grade de regiões com garrafas de marcas** · AB InBev p.80 · `slides/ABInBev_p080.jpg`
+  - Six cells of bottle/can product shots under yellow-bar region labels.
+- **Seis painéis de barras empilhadas regionais** · AB InBev p.110 · `slides/ABInBev_p110.jpg`
+- **Matriz de impacto com quatro gráficos** · Arezzo&Co p.10 · `slides/ArezzoCo_p010.jpg`
+  - Risk matrix with impact vs probability grid and named cells placed in the grid, paired on the right with evidence charts for each risk (SELIC line, Shein users, ICMS bars).
+- **Fluxo vertical com gráfico e cards** · Intelbras p.42 · `slides/Intelbras_p042.jpg`
+  - Left to right causal story: problem box, chart showing the hit, upside, linked by a down-arrow; quote with executive portrait.
+- **Três colunas com pares de gráficos** · Rede D'Or p.2 · `slides/RedeDOr_p002.jpg`
+  - Six-panel grid under three numbered roman-numeral headers (I/II/III), each header with a thin blue rule and a grey chart subtitle; big-number box with dashed connector tree to sector segments.
+- **Grade com treemap, pizza e combos** · Rede D'Or p.6 · `slides/RedeDOr_p006.jpg`
+  - Three columns I/II/III each with a different chart type (donut, treemap of market share, combo bars+line) under one consistent header style; COVID callout on the line.
+- **Treemap com zoom e grade analítica** · Rede D'Or p.7 · `slides/RedeDOr_p007.jpg`
+  - Treemap of listed hospital companies' market share with dashed callout 'The 3 largest players have only 10% of the market' and HHI box.
+- **Mosaico de perfil com fita cronológica** · Rede D'Or p.8 · `slides/RedeDOr_p008.jpg`
+  - Blue 'About the company' tab with icon+short facts at top left, Brazil map with operating states highlighted, curved wave timeline across the bottom and donut/column charts in grey right panel.
+- **Mosaico de perfil com fita cronológica** · Rede D'Or p.9 · `slides/RedeDOr_p009.jpg`
+  - Same template as the company slide (tab + map + curved milestone ribbon timeline) reused for the acquired company, making the two profiles directly comparable.
+- **Print, citação e gráfico em mosaico** · Rede D'Or p.51 · `slides/RedeDOr_p051.jpg`
+  - Headline screenshot + dashed 'R$13 Billion / 63% of SULA 2021 revenue' stat boxes + analyst quote card, followed by a ROIC before/after line.
+- **Três gráficos sobre rosca e notas** · Sabesp p.27 · `slides/Sabesp_p027.jpg`
+  - Three-panel peer comparison (cost of debt bars, stacked debt mix by instrument, DFI exposure horizontal bars) with a dashed-border takeaway strip at the bottom.
+- **Estrutura societária em roscas, entrada e saída** · Senior Sistemas p.33 · `slides/SeniorSistemas_p033.jpg`
+  - Dois donuts de estrutura societária (pré e pós deal) com seta de LMF Entry no meio e caixas tracejadas Entry Check vs Exit Expectations.
+- **Mosaico de cartões, mapa e entrevista** · Alupar p.18 · `slides/Alupar_p018.jpg`
+  - Fluxo numerado 1-2-3 no topo; abaixo, foto do entrevistado com aspas grandes à esquerda e cartões de emissão com bordas finas e logo do parceiro à direita
+- **Coluna de cadeia com gráficos densos** · Arezzo&Co p.2 · `slides/ArezzoCo_p002.jpg`
+  - Left callout box with a value-chain icon stack (design, manufacturing, distribution) beside 4 compact charts, each with a one-line bold takeaway above it.
+- **Mapa de calor sobre três cenários** · Intelbras p.89 · `slides/Intelbras_p089.jpg`
+  - Red-to-green sensitivity grid (price x reseller base) beside three scenario calculation tables colored by case.
+- **Fileira de retratos circulares da equipe** · Vasta p.2 · `slides/Vasta_p002.jpg`
+  - Five circular portrait photos with magenta ring borders in an evenly spaced row, with name bold and role/course/semester stacked under each.

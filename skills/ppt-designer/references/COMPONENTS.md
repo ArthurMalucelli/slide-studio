@@ -70,7 +70,7 @@ Guia: `references/catalogo/INDEX.md`. Exemplo: `references/exemplo_profundidade.
 
 ## Padrões do catálogo e como montá-los
 
-| Padrão (`references/exemplos/por-visual/`) | Como montar |
+| Padrão (`references/exemplos/por-tipo/`) | Como montar |
 |---|---|
 | comps-barras | `BAR_CLUSTERED` + `color_points` + `labels` |
 | colunas+linha | `COLUMN_CLUSTERED` + `combo_line` |

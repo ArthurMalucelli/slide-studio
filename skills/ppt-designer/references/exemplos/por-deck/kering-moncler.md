@@ -1,0 +1,57 @@
+# Kering - Moncler: páginas (32)
+
+- **Capa com foto de montanha e logos** · Kering - Moncler p.1 · `slides/Kering-Moncler_p001.jpg`
+  - Full-bleed alpine mountain photo with both brand logos floating over the sky and tiny deck-type tag bottom-right; photo metaphor ties to Moncler's outerwear origin.
+- **Barras com tendência e linha do tempo** · Kering - Moncler p.5 · `slides/Kering-Moncler_p005.jpg`
+  - Column series segmented by dashed vertical dividers labelled with market phases (Crisis, Chinese acceleration, Covid...) plus CAGR arrow, paired with an event timeline and 3 big-number stat strips below.
+- **Séries de ações sobre tabela de retornos** · Kering - Moncler p.6 · `slides/Kering-Moncler_p006.jpg`
+  - Indexed share-price line chart over a logo-header returns table (L1M to 5Y) with peer logos as column headers and green/red coloured numbers.
+- **Barras positivas e negativas ao lado de lista** · Kering - Moncler p.7 · `slides/Kering-Moncler_p007.jpg`
+  - Bar chart with green 'Specialists' and red 'Generalists' shaded zones, next to a wordmark-logo list showing outgoing to incoming creative director with dotted arrows.
+- **Barras de crescimento, mapa-múndi e categorias** · Kering - Moncler p.8 · `slides/Kering-Moncler_p008.jpg`
+  - Four-panel dashboard: two small bar charts, bubble-on-map with % growth, and category bars with Moncler core category and Kering main exposure highlighted in gold boxes.
+- **Mapa de receita, treemap e linhas de ROI** · Kering - Moncler p.11 · `slides/Kering-Moncler_p011.jpg`
+  - Regional bubble map plus a treemap of revenue by category with a gold call-out box beside it, and Gucci vs group ROI bars with overlaid line.
+- **Linha do tempo sobre barras de reinício** · Kering - Moncler p.12 · `slides/Kering-Moncler_p012.jpg`
+  - Horizontal milestone timeline with labels alternating above and below the axis, over a bar comparison of prior brand turnarounds with a gold conclusion box.
+- **Mapas com bolhas e barras comparativas** · Kering - Moncler p.15 · `slides/Kering-Moncler_p015.jpg`
+  - Two world maps with bubble sizes per region (Moncler, Stone Island) beside paired 2024/2025 bars per peer, with the Moncler column framed in gold.
+- **Mapa de posicionamento com logos e lista** · Kering - Moncler p.16 · `slides/Kering-Moncler_p016.jpg`
+  - Positioning map with brand logos placed on an accessible-to-ultra-luxury axis and fashion-to-specialist axis, Moncler/Stone Island/Canada Goose alone in the empty corner, with a bold callout and 5 benefit bullets on the right.
+- **Linhas de margem, caixa e fluxo em barras** · Kering - Moncler p.17 · `slides/Kering-Moncler_p017.jpg`
+  - Left line chart of peer EBIT margins with Moncler highlighted; right stack of cash/debt back-to-back bars and FCF bars, 3 panels with section headers and rule lines.
+- **Tabela de fraquezas com semáforo** · Kering - Moncler p.19 · `slides/Kering-Moncler_p019.jpg`
+  - Weakness-to-solution table with red/amber traffic-light circle icons in the first column and a dark header row; columns Why it matters, Moncler solution, Strategic implication.
+- **Football field com tabela e faixa de prêmio** · Kering - Moncler p.20 · `slides/Kering-Moncler_p020.jpg`
+  - Football field integrated into a table: each row has method name, floating bar with low/high labels, implied FV low/high and a comment column, with a shaded vertical band for the offer range.
+- **Ponte de valor e barras com linha de acréscimo** · Kering - Moncler p.21 · `slides/Kering-Moncler_p021.jpg`
+  - Price build-up bars (share price, standalone upside, fair price, strategic premium boxed, target price) next to paired EPS Kering vs pro forma bars with accretion line.
+- **Donuts pró-forma, barras e tabela financeira** · Kering - Moncler p.23 · `slides/Kering-Moncler_p023.jpg`
+  - Before/after donuts with arrow showing brand mix shift, small multiples bars for revenue/margins/FCF, and a pro-forma bridge table with columns Kering, Moncler, adjustments, pro forma.
+- **Mesa de conselho ilustrada e estrutura societária** · Kering - Moncler p.25 · `slides/Kering-Moncler_p025.jpg`
+  - Boardroom drawn as a round table with chair icons around it labelled per director, next to an ownership org chart (Kering to Moncler to Stone Island) and pre/post-deal shareholder table.
+- **Matriz de bolhas e tabela de mitigação** · Kering - Moncler p.28 · `slides/Kering-Moncler_p028.jpg`
+  - Probability x impact heat grid with numbered coloured bubbles (red, amber, green) and a shaded 'pre-closing' zone, matched by a numbered table of risk, probability, impact, mitigation and residual risk.
+- **Três razões encadeadas e condições** · Kering - Moncler p.30 · `slides/Kering-Moncler_p030.jpg`
+  - Three stacked boxes linked by a vertical connector on the left (strategic, financial, timing) plus a dark callout box, and a numbered conditions list on the right with gold titles.
+- **Sumário com linhas pontilhadas** · Kering - Moncler p.2 · `slides/Kering-Moncler_p002.jpg`
+  - Gold left accent bar on each entry and dotted leaders to right-aligned page numbers; the same section list is repeated as a footer breadcrumb with the current section highlighted in gold on every content slide.
+- **Resumo executivo em linhas rotuladas** · Kering - Moncler p.3 · `slides/Kering-Moncler_p003.jpg`
+  - Exec summary as 6 label/text rows (Proposed Transaction, Price/Premium, Rationale, Synergies, Valuation, Recommendation) separated by hairlines, small-caps labels in left column, zero charts.
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.4 · `slides/Kering-Moncler_p004.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.9 · `slides/Kering-Moncler_p009.jpg`
+- **Ficha, logos e barras de receita por marca** · Kering - Moncler p.10 · `slides/Kering-Moncler_p010.jpg`
+  - Dense at-a-glance page: description + shareholder tree, brand logo grid, board/management table, key financials table with the EBIT margin row boxed in a coloured frame, and revenue-by-brand bars.
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.13 · `slides/Kering-Moncler_p013.jpg`
+- **Ficha, logos de marcas e barras de receita** · Kering - Moncler p.14 · `slides/Kering-Moncler_p014.jpg`
+  - Same 3-column business overview template as the Kering page, so target and acquirer read as a matched pair; key-financials EBIT margin row highlighted in green frame.
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.18 · `slides/Kering-Moncler_p018.jpg`
+- **Duas séries de sinergia com tabelas** · Kering - Moncler p.22 · `slides/Kering-Moncler_p022.jpg`
+  - Mirrored twin panels (revenue vs cost synergies), each with annual bars, accumulated line, a gold assumption box and a mini-table of standalone vs post-synergy figures underneath.
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.24 · `slides/Kering-Moncler_p024.jpg`
+- **Tabelas de fontes e usos com perfil de crédito** · Kering - Moncler p.26 · `slides/Kering-Moncler_p026.jpg`
+  - Sources and Uses ledger on the left and a credit profile table plus area chart of ND/EBITDA with a gold dashed S&P threshold line on the right.
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.27 · `slides/Kering-Moncler_p027.jpg`
+- **Divisor minimalista com filete dourado** · Kering - Moncler p.29 · `slides/Kering-Moncler_p029.jpg`
+- **Retratos circulares da equipe** · Kering - Moncler p.31 · `slides/Kering-Moncler_p031.jpg`
+- **Aviso legal em texto corrido** · Kering - Moncler p.32 · `slides/Kering-Moncler_p032.jpg`

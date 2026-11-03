@@ -1,0 +1,71 @@
+# CSN - ArcelorMittal: páginas (38)
+
+- ★ **Cadeia isométrica ao lado de barras empilhadas** · CSN - ArcelorMittal p.3 · `slides/CSN-ArcelorMittal_p003.jpg`
+  - Isometric 3D illustration of the value chain with numbered nodes (1-4) paired with a 100% stacked column of consumption by sector
+- ★ **Colunas de etapas ligadas por setas** · CSN - ArcelorMittal p.17 · `slides/CSN-ArcelorMittal_p017.jpg`
+  - Three glass-like vertical cards joined by chevrons from a large CSN logo, each with a hero number (EV or stake value)
+- ★ **Mapa central entre aquisições e racional** · CSN - ArcelorMittal p.23 · `slides/CSN-ArcelorMittal_p023.jpg`
+  - Left vertical timeline of acquisitions with logos and arrows, Brazil map with plant dots, rationale text on the right
+- ★ **Mapa regional com setas e barras** · CSN - ArcelorMittal p.26 · `slides/CSN-ArcelorMittal_p026.jpg`
+  - Three-asset tab bar highlighted by dashed outline for the active asset, Europe map with plants, and an arrow-based before/after utilization bar
+- ★ **Árvore de tranches com KPIs e cronograma** · CSN - ArcelorMittal p.32 · `slides/CSN-ArcelorMittal_p032.jpg`
+  - Flow diagram of tranches with signature stamps at bottom, hero KPIs (rate, size, cost) and an amortization Gantt bar
+- **Capa escura com feixes de linhas** · CSN - ArcelorMittal p.1 · `slides/CSN-ArcelorMittal_p001.jpg`
+  - Black cover with blue-to-red light-streak art and dual logos centered; team names bottom-left in tiny type
+- **Agenda em faixas com numeral circulado** · CSN - ArcelorMittal p.2 · `slides/CSN-ArcelorMittal_p002.jpg`
+  - Roman-numeral circled rows separated by thin rules on dark navy; same numerals reused in footer breadcrumb
+- **Ficha lateral com estrutura, treemap e barras** · CSN - ArcelorMittal p.5 · `slides/CSN-ArcelorMittal_p005.jpg`
+  - Left bordered at-a-glance card (description, shareholder mini-chart, key financials table) beside a network graphic and a revenue treemap
+- **Mapa anotado com cards e barras** · CSN - ArcelorMittal p.6 · `slides/CSN-ArcelorMittal_p006.jpg`
+  - Brazil map with plant pins and capacity callouts, three business cards underneath, and a 100% stacked EBITDA mix chart on the right
+- **Barras com linha e dois gráficos empilhados** · CSN - ArcelorMittal p.7 · `slides/CSN-ArcelorMittal_p007.jpg`
+  - EBITDA by segment columns with a margin line, plus FCF stacked bars and a leverage area chart; a callout box annotates the 2025 anomaly
+- **Gráfico único com faixas de evento anotadas** · CSN - ArcelorMittal p.8 · `slides/CSN-ArcelorMittal_p008.jpg`
+  - Iron ore area, margin line and dashed average, with three grey shaded vertical bands labeled with macro-cause callouts
+- **Divisor de tese com tópicos numerados** · CSN - ArcelorMittal p.9 · `slides/CSN-ArcelorMittal_p009.jpg`
+  - Section-divider that repeats the same pillar list on each divider and dims inactive items to show progress
+- **Divisor com tópico ativo e outro apagado** · CSN - ArcelorMittal p.10 · `slides/CSN-ArcelorMittal_p010.jpg`
+- **Barras com janela destacada e tabela** · CSN - ArcelorMittal p.12 · `slides/CSN-ArcelorMittal_p012.jpg`
+  - Prepayment columns with a %-of-gross-debt line, highlighted band over 2023-25 and a contract table of foregone revenue
+- **Barras com nota e print de notícia** · CSN - ArcelorMittal p.14 · `slides/CSN-ArcelorMittal_p014.jpg`
+  - Window-style press headline clipping (Valor) embedded as evidence next to an amortization stack with a shaded 2026-28 band
+- **Football field com área entre linhas** · CSN - ArcelorMittal p.15 · `slides/CSN-ArcelorMittal_p015.jpg`
+  - Floating-bar football field with methodologies, EV range labels and an implied-multiple dashed callout, paired with a leverage area chart
+- **Divisor em cor de seção alternada** · CSN - ArcelorMittal p.18 · `slides/CSN-ArcelorMittal_p018.jpg`
+- **Ficha lateral com mapa-múndi, treemap e barras** · CSN - ArcelorMittal p.19 · `slides/CSN-ArcelorMittal_p019.jpg`
+  - Same at-a-glance card template as the target (CSN) page recolored red, with world map and revenue treemap
+- **Preço anotado com barras e notícia** · CSN - ArcelorMittal p.20 · `slides/CSN-ArcelorMittal_p020.jpg`
+  - Long stock price line annotated with event labels (COVID, supercycle peak, import pressure) and a Valor news clip as a catalyst box
+- **Divisor com subtópicos em destaque gradual** · CSN - ArcelorMittal p.21 · `slides/CSN-ArcelorMittal_p021.jpg`
+- **Treemap e linhas com área de diferença** · CSN - ArcelorMittal p.22 · `slides/CSN-ArcelorMittal_p022.jpg`
+  - Market share treemap plus EBITDA margin and EBITDA/t lines for CSN, AM and Usiminas with the gap shaded
+- **Diagrama de deal, ponte e linha realçada** · CSN - ArcelorMittal p.24 · `slides/CSN-ArcelorMittal_p024.jpg`
+  - Ownership box (Vale/DX/POSCO) top-left, pre/post EBITDA bridge with a dashed synergy block, and a utilization line with the post-deal window shaded
+- **Divisor com subtópico ativo em vermelho** · CSN - ArcelorMittal p.25 · `slides/CSN-ArcelorMittal_p025.jpg`
+  - Red-themed divider showing three numbered thesis items with progressive dimming
+- **Tabela de fluxo, hexágonos e duas sensibilidades** · CSN - ArcelorMittal p.27 · `slides/CSN-ArcelorMittal_p027.jpg`
+  - Hexagonal KPI badges (NPV, IRRs) next to dense DCF tables and utilization x COGS sensitivity grids with base-case cell outlined
+- **Fluxo de cadeia com tabela e sensibilidade** · CSN - ArcelorMittal p.28 · `slides/CSN-ArcelorMittal_p028.jpg`
+  - Process flow diagram, plant capacity table with excess highlighted in red, and a red-shaded NPV sensitivity grid
+- **Football field ao lado de fluxo descontado** · CSN - ArcelorMittal p.29 · `slides/CSN-ArcelorMittal_p029.jpg`
+  - Football field with offer line, plus pre-deal vs post-deal cash flow tables ending in a dark NPV/IRR banner
+- **Mapa de concessão com fluxo e sensibilidade** · CSN - ArcelorMittal p.30 · `slides/CSN-ArcelorMittal_p030.jpg`
+  - Map of MRS rail network, DCF table with PV FCFF row boxed, and savings sensitivity grid highlighted at the base case
+- **Diagrama societário ao lado de tabela** · CSN - ArcelorMittal p.31 · `slides/CSN-ArcelorMittal_p031.jpg`
+  - Ownership flow chart with logos and percentage arrows, pre-deal versus pro forma cap table, and a quote strip at the bottom
+- **Árvore com ramo ativo e detalhe** · CSN - ArcelorMittal p.33 · `slides/CSN-ArcelorMittal_p033.jpg`
+- **Árvore com ramo ativo e detalhe** · CSN - ArcelorMittal p.34 · `slides/CSN-ArcelorMittal_p034.jpg`
+- **Árvore com ramo ativo e detalhe** · CSN - ArcelorMittal p.35 · `slides/CSN-ArcelorMittal_p035.jpg`
+- **Tabela de fluxo ao lado de ponte** · CSN - ArcelorMittal p.36 · `slides/CSN-ArcelorMittal_p036.jpg`
+  - FCFE table with NPV rows boxed on the left and an EV-to-equity bridge on the right, ending in two big-number boxes
+- **Linha de preço com resumo lateral** · CSN - ArcelorMittal p.37 · `slides/CSN-ArcelorMittal_p037.jpg`
+  - Share price line chart with 52-week high callout, transaction step summary and a key stats box on a red gradient background
+- **Encerramento escuro com feixes vermelhos** · CSN - ArcelorMittal p.38 · `slides/CSN-ArcelorMittal_p038.jpg`
+- **Barras horizontais com linha e tabela** · CSN - ArcelorMittal p.4 · `slides/CSN-ArcelorMittal_p004.jpg`
+  - Four-panel slide: stacked horizontal bars, import-penetration line, and a peer table with the CSN row boxed in a dashed highlight
+- **Barras empilhadas com ponte e área** · CSN - ArcelorMittal p.11 · `slides/CSN-ArcelorMittal_p011.jpg`
+  - Capex/acquisitions/dividends stacked bars with a bridge from gross debt to adjusted debt (74.7bn) and a reported vs adjusted leverage area
+- **Combo barras e linha com período realçado** · CSN - ArcelorMittal p.13 · `slides/CSN-ArcelorMittal_p013.jpg`
+  - Large volatile FCF bars + conversion line next to two smaller stacked panels, with a blue shaded band on the stress years
+- **Barras empilhadas com área entre linhas** · CSN - ArcelorMittal p.16 · `slides/CSN-ArcelorMittal_p016.jpg`
+  - Stacked amortization columns by lender type beside DSCR with and without cement (range as filled area)

@@ -1,0 +1,50 @@
+# Dispersão e bolhas (24)
+
+- ★ **Matriz de risco com cubos** · 3R Petroleum p.44 · `tipo/dispersao-bolhas/3RPetroleum_p044_q1.jpg` · slide: `slides/3RPetroleum_p044.jpg`
+  - Risk Matrix
+- ★ **Glossy token with rim** · Alupar p.10 · `tipo/dispersao-bolhas/alupar_p10_glossy-token-with-rim_7.jpg`
+  - Vector, no images on p10. 51pt circle stack, back to front: (1) navy disc #001A5E; (2) slightly smaller disc offset about 1.5pt up-left, white 1pt stroke, filled with linear gradient at 45 degrees: #0572C1 top-left to #002B7A bottom-right. Navy crescent remains visible on the bottom-right as a rim. Text in 2 lines white: italic name above, regular region below. Group them inside a nested dashed ov
+- ★ **Dispersão com bolhas e zona destacada** · Alupar p.10 · `tipo/dispersao-bolhas/Alupar_p010_q1.jpg` · slide: `slides/Alupar_p010.jpg`
+  - TIR dos Projetos Vs. Custo da Dívida dos seus Financiamentos [%]
+- ★ **Dispersão de logos por nota** · Intelbras p.13 · `tipo/dispersao-bolhas/Intelbras_p013_q3.jpg` · slide: `slides/Intelbras_p013.jpg`
+  - ...and no competitor can match
+- ★ **Matriz de risco com bolhas coloridas** · Kering - Moncler p.28 · `tipo/dispersao-bolhas/Kering-Moncler_p028_q1.jpg` · slide: `slides/Kering-Moncler_p028.jpg`
+  - PROBABILITY
+- ★ **Numbered market columns with tangent-linked circles** · Restaurant Brands p.28 · `tipo/dispersao-bolhas/restaurant-brands_p28_numbered-market-columns-with-tangent-linked-circles_3.jpg`
+  - Three grey rounded column cards with numbered red discs and bold titles; a solid red circle of increasing size in the same row, hairlines joining their tops and bottoms across the gutter; a red label chip at each foot holds the company share.
+- ★ **Sized bubbles as a scope selector** · Restaurant Brands p.28 · `tipo/dispersao-bolhas/restaurant-brands_p28_sized-bubbles-as-a-scope-selector_10.jpg`
+  - Three pale rounded columns, each with numbered red disc, market name, circle sized to the value, red share tag at the base; two thin grey lines tie the bubbles together like a growing cone. Later slides fade the unused columns.
+- ★ **Matriz de risco com códigos em caixas** · Senior Sistemas p.60 · `tipo/dispersao-bolhas/SeniorSistemas_p060_q1.jpg` · slide: `slides/SeniorSistemas_p060.jpg`
+  - Competição e Macro concentram os maiores impactos potenciais.
+- ★ **Dispersão com logos e linha de tendência** · Vibra p.5 · `tipo/dispersao-bolhas/Vibra_p005_q1.jpg` · slide: `slides/Vibra_p005.jpg`
+  - Petrobras Supply Share vs Logistics Infrastructure [#, %]
+- **Matriz de risco com cubos 3D** · 3R Petroleum p.45 · `tipo/dispersao-bolhas/3RPetroleum_p045_q1.jpg` · slide: `slides/3RPetroleum_p045.jpg`
+  - Risk Matrix
+- **Dispersão com curva de tendência** · AB InBev p.6 · `tipo/dispersao-bolhas/ABInBev_p006_q3.jpg` · slide: `slides/ABInBev_p006.jpg`
+  - Beer Industry Minimum Viable Market Share
+- **Perception map with attribute vectors** · AB InBev p.28 · `tipo/dispersao-bolhas/ab-inbev_p28_perception-map-with-attribute-vectors_30.jpg`
+  - Grey panel with heavy cross axes (HEAVY/LIGHT, BUDGET/PREMIUM); thin grey arrows radiating from the centre to italic attribute words; accent dots with brand names; accent title tab at the top-left corner and short accent ticks on the panel's bottom edge.
+- **Breakeven diagonal with a gradient cost zone and one lone bubble** · Alupar p.13 · `tipo/dispersao-bolhas/alupar_p13_breakeven-diagonal-with-a-gradient-cost-zone-and-one-lone-bu_17.jpg`
+  - Square-ish scatter with white gridlines; field filled with a diagonal blue gradient from strong at bottom left to almost white at top right; dotted 45-degree line fading out; single dark glossy circle with a white ring and project label inside; companion slide p10 shows the full bubble set.
+- **Dispersão de retorno contra custo da dívida** · Alupar p.13 · `tipo/dispersao-bolhas/Alupar_p013_q3.jpg` · slide: `slides/Alupar_p013.jpg`
+  - TIR do Projeto Vs. Custo da Dívida do seu Financiamento [%]
+- **Action zone in a risk matrix** · Kering - Moncler p.28 · `tipo/dispersao-bolhas/kering-moncler_p28_action-zone-in-a-risk-matrix_28.jpg`
+  - Pale grey dashed box around the top-right cell labelled 'PRE-CLOSING' in small spaced caps; gold axis bands LOW/MID/HIGH on both axes; numbered dots match a right-hand ledger with mitigation and residual risk columns. Glow dots already catalogued; this entry is the zone and the residual column.
+- **Soft glow dots on a risk matrix** · Kering - Moncler p.28 · `tipo/dispersao-bolhas/kering-moncler_p28_soft-glow-dots-on-a-risk-matrix_100.jpg`
+  - Probably raster with soft mask. Build with oval d≈36 and radial gradient: solid to 70% then alpha 0 at 100% of a d≈52 oval behind it. Red #FF0000, amber #FFC000, green #00B050. Sits on flat grid plus a grey #E6E6E6 dashed gold highlight box.
+- **Logos as scatter points** · Meliuz p.15 · `tipo/dispersao-bolhas/meliuz_p15_logos-as-scatter-points_37.jpg`
+  - Small dark dot plus adjacent logo in place of a text label, dotted trendline, R-squared in corner, subject has an oversized colour dot and larger logo.
+- **Multiples as beads on a track** · Meliuz p.143 · `tipo/dispersao-bolhas/meliuz_p143_multiples-as-beads-on-a-track_36.jpg`
+  - Thick grey rounded track, evenly spaced brand-colour dots in rank order, value above, logo under; dashed metric label at left. Ordinal not to scale.
+- **Quadrant name chips inside a scatter** · Mercado Libre p.152 · `tipo/dispersao-bolhas/mercado-libre_p152_quadrant-name-chips-inside-a-scatter_7.jpg`
+  - Plot with no gridlines; four to six pale grey rectangles with bold italic two-line text in the zone's colour placed in empty plot space; point labels use the same colour as their zone; repeated names mark split zones.
+- **Logo scatter** · Mercado Libre p.153 · `tipo/dispersao-bolhas/mercado-libre_p153_logo-scatter_39.jpg`
+  - Plain scatter, tiny navy dots, each logo floating right above its dot. Keep gridlines off. ML p152 varies this with tinted quadrant labels and country names.
+- **Before and after circles with growth text in the gap** · Rede D'Or p.2 · `tipo/dispersao-bolhas/rede-d-or_p2_before-and-after-circles-with-growth-text-in-the-gap_2.jpg`
+  - Two circles with year above in black: smaller navy, larger teal; value inside each in white; bold '+500 Million' centred in the gap; hairlines tangent to both circles form an open cone, with no arrow.
+- **Matriz de risco com blocos** · Rede D'Or p.42 · `tipo/dispersao-bolhas/RedeDOr_p042_q1.jpg` · slide: `slides/RedeDOr_p042.jpg`
+  - Those are the risks that should be Rede D'Or's main concerns
+- **Dispersão de cobertura com estudo de caso** · Sabesp p.7 · `tipo/dispersao-bolhas/Sabesp_p007_q4.jpg` · slide: `slides/Sabesp_p007.jpg`
+  - ...which enables cross-subsidies to deficitary municipalities
+- **Dispersão de ticket com logos de empresas** · Vasta p.6 · `tipo/dispersao-bolhas/Vasta_p006_q2.jpg` · slide: `slides/Vasta_p006.jpg`
+  - Two players, two strategies

@@ -1,0 +1,208 @@
+# Barra e coluna (104)
+
+- ★ **Stepped lifecycle silhouette with numbered phase key** · 3R Petroleum p.5 · `tipo/barra-coluna/3r-petroleum_p5_stepped-lifecycle-silhouette-with-numbered-phase-key_2.jpg`
+  - Stepped polygon around a cash-flow axis, with phase digits inside each block and two colours for the two owners; headers 'Incumbent focus' and 'Niche focus' above; a 2-by-3 grid of dark rounded tiles lists the numbered phase names.
+- ★ **Notas de app em sliders** · AB InBev p.43 · `tipo/barra-coluna/ABInBev_p043_q1.jpg` · slide: `slides/ABInBev_p043.jpg`
+  - App Store´s score (0 to 5)
+- ★ **Partial-fill square rating** · AB InBev p.50 · `tipo/barra-coluna/ab-inbev_p50_partial-fill-square-rating_5.jpg`
+  - Five squares in a row, the last filled proportionally (4.1 = four solid plus a 10% sliver over pale grey), score at the right; each row led by the survey question with accent keywords; a dashed elbow with a tick links to an italic field note on a pale plate.
+- ★ **Bar segments continued into captions** · BTG Pactual p.18 · `tipo/barra-coluna/btg-pactual_p18_bar-segments-continued-into-captions_1.jpg`
+  - Last column of the stacked bar touches a block of pale rows of equal heights to its segments, tinted to match; each row has a title and a reading; from one row, a thin line and diamond run right to a detail panel, where a curved thick arrow carries 74% between two TAM numbers.
+- ★ **Colunas com destaque ampliado** · ChallengeB p.9 · `tipo/barra-coluna/ChallengeB_p009_q1.jpg` · slide: `slides/ChallengeB_p009.jpg`
+  - More than double the pre-pandemic level
+- ★ **Political-era dividers over a bar chart** · Cury p.8 · `tipo/barra-coluna/cury_p8_political-era-dividers-over-a-bar-chart_6.jpg`
+  - Evenly spaced bars; dashed vertical lines rising above the bars at each regime change; right-aligned grey caption hugging each line at the top, naming the period and what it did.
+- ★ **Survey source chip** · Mercado Libre / Intelbras p.13 · `tipo/barra-coluna/mercado-libre-intelbras_p13_survey-source-chip_21.jpg`
+  - Google Forms purple icon overlapping a grey rounded plate with "467 answers". Place it beside the chart next to a dashed box enclosing the bars that matter; those bars switch to the accent colour. Intelbras adds an outlined bubble: "59+ responses from active resellers".
+- ★ **Colunas crescentes com CAGR** · Nubank p.15 · `tipo/barra-coluna/Nubank_p015_q2.jpg` · slide: `slides/Nubank_p015.jpg`
+  - Long-tenured clients increase their spending over time
+- ★ **Icon-disc legend column with growth arrows between paired stacks** · RD Saúde p.3 · `tipo/barra-coluna/rd-saude_p3_icon-disc-legend-column-with-growth-arrows-between-paired-st_7.jpg`
+  - Two 100% stacked columns far apart; between them per band one thin arrow in the band colour with +% in the middle; left: icon in a disc with label below, colour-matched and vertically centred with its band; small tag above each column for the tiny top segment.
+- ★ **Age pyramids as paired solid vase silhouettes** · RD Saúde p.9 · `tipo/barra-coluna/rd-saude_p9_age-pyramids-as-paired-solid-vase-silhouettes_5.jpg`
+  - Back-to-back age bars with no gap and no axis, in a single green, with stepped ends left visible; two side by side labelled by year, with age bands listed only at the left of each.
+- ★ **Receita por grupo em colunas empilhadas** · RD Saúde p.38 · `tipo/barra-coluna/RDSaude_p038_q1.jpg` · slide: `slides/RDSaude_p038.jpg`
+  - Drugstores still being more representative
+- ★ **Solid beam from one stacked-bar segment to a detail card** · RD Saúde p.39 · `tipo/barra-coluna/rd-saude_p39_solid-beam-from-one-stacked-bar-segment-to-a-detail-card_36.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Better variant of the zoom beam. Exact quad (497,188),(498,261),(590,497),(590,96) #0FA9B2 alpha 0.86, no gradient. Narrow end height 73 equals the teal segment of the last bar, wide end height 401 equals the card edge. Card x590-960, y96-497, #F2F2F2 with 1.5pt teal stroke. Bars: grey #D9D9D9 base and cap with teal middle segment; each bar has a b
+- ★ **Colunas empilhadas de receita por ano** · RD Saúde p.39 · `tipo/barra-coluna/RDSaude_p039_q1.jpg` · slide: `slides/RDSaude_p039.jpg`
+- ★ **Colunas empilhadas com destaque de fatia** · RD Saúde p.40 · `tipo/barra-coluna/RDSaude_p040_q1.jpg` · slide: `slides/RDSaude_p040.jpg`
+  - 4Bio will become more representative in the revenue to the top of 10%
+- ★ **Charts as operands in a visual equation** · RD Saúde p.49 · `tipo/barra-coluna/rd-saude_p49_charts-as-operands-in-a-visual-equation_8.jpg`
+  - Grey band with a folded green tab title; three charts in a row with the same bar style and label pills; big black X and = sit in the gutters between the plots; the last term is a line chart in the result colour.
+- ★ **Histograma de simulação Monte Carlo** · RD Saúde p.55 · `tipo/barra-coluna/RDSaude_p055_q1.jpg` · slide: `slides/RDSaude_p055.jpg`
+- ★ **Dim-all modal with hard plate** · Rede D'Or p.27 · `tipo/barra-coluna/rede-d-or_p27_dim-all-modal-with-hard-plate_40.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. MEASURED p27. Previous slide unchanged. Grey wash over it (render reads about #D9D9D9 as page color, so a black or grey rect at roughly 15-25% alpha; p65 uses a white wash at about 60%; overlay alpha is estimated, not extracted). Plate (174,125)-(774,428) #004185, offset -6,+7 from card. Card (180,118)-(780,422) #F2F2F2. Plate shows as an 
+- ★ **Colunas de receita com linha de margem** · Sabesp p.2 · `tipo/barra-coluna/Sabesp_p002_q3.jpg` · slide: `slides/Sabesp_p002.jpg`
+  - Scaling with margin expansion
+- ★ **Before and after ownership treemap pair** · Sabesp p.16 · `tipo/barra-coluna/sabesp_p16_before-and-after-ownership-treemap-pair_16.jpg`
+  - Two equal-size rectangles divided with thin white gaps and a clear gutter, no arrow; consistent holder colour across both (cyan = state, navy = free float, purple = new strategic); % top-left bold in white, holder name bottom-left; a tinted note band with mini logos for governance rights beneath.
+- ★ **Sorted bars with colour break and dashed average brackets** · Sabesp p.79 · `tipo/barra-coluna/sabesp_p79_sorted-bars-with-colour-break-and-dashed-average-brackets_4.jpg`
+  - Ascending columns per percentile: grey to the break, then cyan deepening to navy; dashed elbow brackets rise from the zone edges to outlined average chips at different heights; a pale tinted note with a side rule fills the empty upper left.
+- ★ **Pentagon arrow cards stepping down a sheet edge** · Senior Sistemas p.21 · `tipo/barra-coluna/senior-sistemas_p21_pentagon-arrow-cards-stepping-down-a-sheet-edge_51.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Three left-pointing pentagons, each about 313pt wide by 80pt tall at an 80pt vertical step, tip 42pt deep: (520,219),(563,179),(876,179),(876,260),(563,260), repeating with y+80. Right edge is flush with the sheet's right side, tips stick out into the chart area. Fill tone darkens with depth: #01826D, #1F3A4D, #112235. Each lower card slig
+- ★ **Mapa com ranking de notas** · Vasta p.23 · `tipo/barra-coluna/Vasta_p023_q1.jpg` · slide: `slides/Vasta_p023.jpg`
+  - Capital attractiveness ranking
+- **Reservas 1P 2P 3P em colunas** · 3R Petroleum p.4 · `tipo/barra-coluna/3RPetroleum_p004_q2.jpg` · slide: `slides/3RPetroleum_p004.jpg`
+  - Brazil's Oil Reserves / Gas Reserves
+- **Colunas de fluxo descontado decrescente** · 3R Petroleum p.40 · `tipo/barra-coluna/3RPetroleum_p040_q1.jpg` · slide: `slides/3RPetroleum_p040.jpg`
+  - FCFF at Present Value
+- **Comb bracket of reason boxes in a bar chart's empty corner** · Alupar p.6 · `tipo/barra-coluna/alupar_p6_comb-bracket-of-reason-boxes-in-a-bar-chart-s-empty-corner_16.jpg`
+  - Bold navy label centred on top; a thin elbow bracket drops to three outlined white boxes with a blue-to-transparent lower edge; boxes occupy the unused top left of the ascending chart; no connectors to specific bars.
+- **Four-quadrant exhibit grid with bold head and one-line reason** · Alupar p.6 · `tipo/barra-coluna/alupar_p6_four-quadrant-exhibit-grid-with-bold-head-and-one-line-reaso_11.jpg`
+  - Four equal cells with no borders or fills; head in bold black with unit in brackets, one-line reason beneath; exhibit fills the rest; all column bars use the same navy vertical gradient; the fourth cell is a logo table with a gradient header; left edge has a thin decorative blue strip.
+- **Colunas separadas Brasil versus internacional** · Alupar p.10 · `tipo/barra-coluna/Alupar_p010_q3.jpg` · slide: `slides/Alupar_p010.jpg`
+  - Tempo de Payback dos Projetos da Alupar [Anos]
+- **Colunas empilhadas 100% por setor** · CSN - ArcelorMittal p.3 · `tipo/barra-coluna/CSN-ArcelorMittal_p003_q2.jpg` · slide: `slides/CSN-ArcelorMittal_p003.jpg`
+  - Steel Consumption [%]
+- **Duas colunas antes e depois** · CSN - ArcelorMittal p.26 · `tipo/barra-coluna/CSN-ArcelorMittal_p026_q3.jpg` · slide: `slides/CSN-ArcelorMittal_p026.jpg`
+  - Lusosider: 21pp Utilization Uplift Under AM's Platform
+- **Colunas com margem em etiquetas** · ChallengeB p.2 · `tipo/barra-coluna/ChallengeB_p002_q2.jpg` · slide: `slides/ChallengeB_p002.jpg`
+  - Revenue & adjusted EBIT margin (2020–2026E)
+- **Colunas agrupadas com rótulos** · ChallengeB p.3 · `tipo/barra-coluna/ChallengeB_p003_q1.jpg` · slide: `slides/ChallengeB_p003.jpg`
+  - Aging fleets trigger a replacement wave
+- **Colunas duplas com linha em etiquetas** · ChallengeB p.3 · `tipo/barra-coluna/ChallengeB_p003_q2.jpg` · slide: `slides/ChallengeB_p003.jpg`
+  - And traffic growth adds incremental demand
+- **Barras horizontais em degradê** · ChallengeB p.4 · `tipo/barra-coluna/ChallengeB_p004_q2.jpg` · slide: `slides/ChallengeB_p004.jpg`
+  - Aircraft Certification Timeline Comparison
+- **Pirulitos com taxas por família** · ChallengeB p.4 · `tipo/barra-coluna/ChallengeB_p004_q3.jpg` · slide: `slides/ChallengeB_p004.jpg`
+  - Historical Fatal Hull-Loss Rates by Aircraft Family
+- **Colunas pareadas com balão explicativo** · ChallengeB p.5 · `tipo/barra-coluna/ChallengeB_p005_q3.jpg` · slide: `slides/ChallengeB_p005.jpg`
+  - Same customer, two choices
+- **Colunas duplas com linha de caixa** · ChallengeB p.6 · `tipo/barra-coluna/ChallengeB_p006_q4.jpg` · slide: `slides/ChallengeB_p006.jpg`
+  - ...but shows commitment: already burns cash every quarter
+- **Colunas empilhadas com zona tracejada** · ChallengeB p.7 · `tipo/barra-coluna/ChallengeB_p007_q1.jpg` · slide: `slides/ChallengeB_p007.jpg`
+  - ...so who pays the bill until then?
+- **Barras horizontais por tipo de operador** · ChallengeB p.8 · `tipo/barra-coluna/ChallengeB_p008_q1.jpg` · slide: `slides/ChallengeB_p008.jpg`
+  - Fractional operators are the core customer
+- **Colunas com linha de margem** · ChallengeB p.8 · `tipo/barra-coluna/ChallengeB_p008_q3.jpg` · slide: `slides/ChallengeB_p008.jpg`
+  - Revenue keeps climbing while margins hold steady
+- **Barras horizontais agrupadas por segmento** · ChallengeB p.9 · `tipo/barra-coluna/ChallengeB_p009_q4.jpg` · slide: `slides/ChallengeB_p009.jpg`
+  - Phenom 300 remains the most delivered model
+- **Barras horizontais de margem em cartão** · ChallengeB p.10 · `tipo/barra-coluna/ChallengeB_p010_q1.jpg` · slide: `slides/ChallengeB_p010.jpg`
+  - Most engine and avionics makers out-earn Embraer
+- **Barras horizontais com chave de concentração** · ChallengeB p.10 · `tipo/barra-coluna/ChallengeB_p010_q3.jpg` · slide: `slides/ChallengeB_p010.jpg`
+  - On the buyer side, a few airlines hold most orders
+- **Colunas com linha de participação** · ChallengeB p.10 · `tipo/barra-coluna/ChallengeB_p010_q4.jpg` · slide: `slides/ChallengeB_p010.jpg`
+  - ...while exports shrank Brazil's weight in defense
+- **Barras empilhadas por fabricante** · ChallengeB p.14 · `tipo/barra-coluna/ChallengeB_p014_q1.jpg` · slide: `slides/ChallengeB_p014.jpg`
+  - Airbus and Boeing own the large-jet market...
+- **Colunas com linha combinada** · Cosan p.6 · `tipo/barra-coluna/Cosan_p006_q3.jpg` · slide: `slides/Cosan_p006.jpg`
+  - Holdco G&A Expense and Headcount Evolution [BRL mm, %]
+- **Colunas de EBITDA e dividendos** · Cosan p.8 · `tipo/barra-coluna/Cosan_p008_q3.jpg` · slide: `slides/Cosan_p008.jpg`
+  - Compass EBITDA, Dividends Paid and EBITDA Mg.
+- **Boxed axis range with a stem into a note** · Cosan p.10 · `tipo/barra-coluna/cosan_p10_boxed-axis-range-with-a-stem-into-a-note_20.jpg`
+  - Thin red rectangle around the 2025A to 2027E axis labels; a thin black vertical rising from it, passing between bars into a grey box with red border and short thick red tab at its base; italic justified text with red keywords in the box.
+- **Forecast divider with its own note zone** · Cosan p.14 · `tipo/barra-coluna/cosan_p14_forecast-divider-with-its-own-note-zone_23.jpg`
+  - Dark vertical line between years with a small rightward arrow at the top; light grey zone covers the estimate years, italic note at its top; ratio series as filled tags over the bars.
+- **Swoosh arrow overlapping a bracketed panel** · Intelbras p.8 · `tipo/barra-coluna/intelbras_p8_swoosh-arrow-overlapping-a-bracketed-panel_98.jpg`
+  - Curved block arrow freeform: tail tapers to a point at (437,354), widens up to about 22pt at the neck, head about 45pt, tip at (522,281), overlapping the panel's corner. Panel: #F5F5F5 with offset green L-brackets (known), with the arrow head in front of both. Small ramp wedge before the next title in the same green.
+- **Colunas com benchmark e seta** · Intelbras p.13 · `tipo/barra-coluna/Intelbras_p013_q2.jpg` · slide: `slides/Intelbras_p013.jpg`
+  - Loyalty that compounds over time
+- **Receita anual em colunas com CAGR** · Intelbras p.17 · `tipo/barra-coluna/Intelbras_p017_q1.jpg` · slide: `slides/Intelbras_p017.jpg`
+  - Revenue grows despite share loss...
+- **Receita anual em colunas com CAGR** · Intelbras p.17 · `tipo/barra-coluna/Intelbras_p017_q3.jpg` · slide: `slides/Intelbras_p017.jpg`
+  - ICT revenue and share fall together
+- **Colunas agrupadas de exposição** · Intelbras p.44 · `tipo/barra-coluna/Intelbras_p044_q2.jpg` · slide: `slides/Intelbras_p044.jpg`
+  - ...while competitors carry a higher exposure
+- **Bars fading to black at the base** · Kering - Moncler p.5 · `tipo/barra-coluna/kering-moncler_p5_bars-fading-to-black-at-the-base_99.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Native bar fill, vertical gradient #595959 from top down to about 40%, then to #0D0D0D at baseline. Thin gridline-like dashed verticals run in front, a thin gold trend arrow crosses bars on top.
+- **Named zones over a bar chart** · Kering - Moncler p.7 · `tipo/barra-coluna/kering-moncler_p7_named-zones-over-a-bar-chart_27.jpg`
+  - Green and pink tinted dashed rectangles behind the positive and negative extremes, with gold uppercase labels outside the frame; dark gradient bars stay neutral and the zone colour carries the meaning.
+- **Colunas com linhas de retorno** · Kering - Moncler p.11 · `tipo/barra-coluna/Kering-Moncler_p011_q3.jpg` · slide: `slides/Kering-Moncler_p011.jpg`
+  - GUCCI VS. GROUP ROI
+- **Colunas pareadas com linha de acréscimo** · Kering - Moncler p.21 · `tipo/barra-coluna/Kering-Moncler_p021_q2.jpg` · slide: `slides/Kering-Moncler_p021.jpg`
+  - ACCRETION / DILUTION
+- **Funcionários e percentual de sócios** · Meliuz p.16 · `tipo/barra-coluna/Meliuz_p016_q2.jpg` · slide: `slides/Meliuz_p016.jpg`
+  - Número de Funcionários
+- **Logo-labelled slider rows** · Meliuz p.49 · `tipo/barra-coluna/meliuz_p49_logo-labelled-slider-rows_35.jpg`
+  - Thin grey track, brand-colour fill, dark knob at the value, logo at left, score at right, on a card.
+- **Barra empilhada de composição do valor** · Meliuz p.59 · `tipo/barra-coluna/Meliuz_p059_q2.jpg` · slide: `slides/Meliuz_p059.jpg`
+  - Breakdown do Fair Value
+- **Offset year staircase of paired actual and consensus bars** · Mercado Libre p.10 · `tipo/barra-coluna/mercado-libre_p10_offset-year-staircase-of-paired-actual-and-consensus-bars_10.jpg`
+  - Paired horizontal bars, navy over yellow, all ending at the right axis; each lower year is shorter, producing a staircase on the left edge; year labels at far right and a dashed italic takeaway in the empty lower left.
+- **Comparação de preço com upside** · Mercado Libre p.30 · `tipo/barra-coluna/MercadoLibre_p030_q2.jpg` · slide: `slides/MercadoLibre_p030.jpg`
+  - Share price with hypothetical Ads expansion today
+- **Colunas de reclamações por banco** · Nubank p.8 · `tipo/barra-coluna/Nubank_p008_q3.jpg` · slide: `slides/Nubank_p008.jpg`
+  - Valid complaints - 3Q25'
+- **Dashed speech frame with a dashed tether down to the last bar** · Nubank p.13 · `tipo/barra-coluna/nubank_p13_dashed-speech-frame-with-a-dashed-tether-down-to-the-last-ba_15.jpg`
+  - Rounded dashed brand-coloured rectangle in the empty upper right of a declining bar chart; from its right edge a dashed vertical drops straight down and closes into a dashed rounded box around the last bar's value pill.
+- **Colunas decrescentes com balão explicativo** · Nubank p.13 · `tipo/barra-coluna/Nubank_p013_q1.jpg` · slide: `slides/Nubank_p013.jpg`
+  - Unbanked's rate follows Nu's growth
+- **Acesso a crédito por ano** · Nubank p.20 · `tipo/barra-coluna/Nubank_p020_q3.jpg` · slide: `slides/Nubank_p020.jpg`
+  - Weak underwriting limits credit access
+- **Scenario animals inside bar bases** · Nubank p.26 · `tipo/barra-coluna/nubank_p26_scenario-animals-inside-bar-bases_9.jpg`
+  - Three wide bars in different brand tones with value chip on top; white outline bear or bull icon near the foot, white bold case name below it; a thick vertical rule at left with heading and a tinted chip acting as chart intro; comparison reference in a shadow chip at top right.
+- **Group capsules linked by a dashed elbow with a multiple** · RD Saúde p.9 · `tipo/barra-coluna/rd-saude_p9_group-capsules-linked-by-a-dashed-elbow-with-a-multiple_6.jpg`
+  - Horizontal bars in a green-outlined panel; two rounded dashed tinted capsules around the chosen rows; dashed elbow from upper capsule, down the right side and back with an arrowhead to the lower; bold '4x more!' knocks through the line.
+- **Faded previous slide as modal backdrop** · RD Saúde p.10 · `tipo/barra-coluna/rd-saude_p10_faded-previous-slide-as-modal-backdrop_118.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Same slide kept beneath, then a full-slide rect #F2F2F2 or light grey alpha ~0.7-0.8 and a modal plate with shadow on top; title of the slide still ghosted, modal gets a new heading. Modal rect offset 100/80 from slide edges, with shadow (+4,+4) blur 8, black alpha .35. No slide transition, simply duplicates of the slide.
+- **Dois pares de colunas com linha tracejada** · RD Saúde p.25 · `tipo/barra-coluna/RDSaude_p025_q2.jpg` · slide: `slides/RDSaude_p025.jpg`
+  - Close to everyone
+- **Colunas de maturação das lojas** · RD Saúde p.38 · `tipo/barra-coluna/RDSaude_p038_q2.jpg` · slide: `slides/RDSaude_p038.jpg`
+  - Stores by age group
+- **Vendas anuais por loja em colunas** · RD Saúde p.38 · `tipo/barra-coluna/RDSaude_p038_q3.jpg` · slide: `slides/RDSaude_p038.jpg`
+  - Annual sales per store
+- **Painel ampliado de e-commerce com mapa** · RD Saúde p.39 · `tipo/barra-coluna/RDSaude_p039_q2.jpg` · slide: `slides/RDSaude_p039.jpg`
+  - E-commerce Revenue
+- **Double lens: circular window in the veil plus gradientless beam** · RD Saúde p.50 · `tipo/barra-coluna/rd-saude_p50_double-lens-circular-window-in-the-veil-plus-gradientless-be_115.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Veil over page. Big white ellipse roughly x690-930, y30-310 cut on the veil so that the right chart end stays lit; both ellipse top and bottom are clipped into arcs. Teal beam #0FA9B2 approx (475,240),(566,379),(667,197),(710,274), measured from render, plus or minus 5, and not found as a separate vector. Grey card x48-565, y240-465 with teal strok
+- **Floating block build-ups for cost of capital** · RD Saúde p.51 · `tipo/barra-coluna/rd-saude_p51_floating-block-build-ups-for-cost-of-capital_9.jpg`
+  - Wide flat blocks with a dark-green rim and hard side shadow, placed at cumulative height; a negative term is a small dark block near the top; value inside the block top and name under the baseline.
+- **Dois gráficos de colunas em moldura** · RD Saúde p.69 · `tipo/barra-coluna/RDSaude_p069_q3.jpg` · slide: `slides/RDSaude_p069.jpg`
+  - Number of pharmacies with RD Ads Screens
+- **Colunas de base com notícia em destaque** · Rede D'Or p.14 · `tipo/barra-coluna/RedeDOr_p014_q1.jpg` · slide: `slides/RedeDOr_p014.jpg`
+  - I. Beneficiaries Base of Healthcare Insurances (2017-2019)
+- **Anos para maturação em colunas** · Rede D'Or p.17 · `tipo/barra-coluna/RedeDOr_p017_q3.jpg` · slide: `slides/RedeDOr_p017.jpg`
+  - II. Years to Achieve Maturation
+- **Colunas empilhadas de composição de remuneração** · Rede D'Or p.20 · `tipo/barra-coluna/RedeDOr_p020_q2.jpg` · slide: `slides/RedeDOr_p020.jpg`
+  - II. Historical Executives Income Composition
+- **Colunas de fluxo de caixa descontado** · Rede D'Or p.39 · `tipo/barra-coluna/RedeDOr_p039_q2.jpg` · slide: `slides/RedeDOr_p039.jpg`
+  - FCFF in Present Value
+- **Colunas de margem com ano destacado** · Rede D'Or p.58 · `tipo/barra-coluna/RedeDOr_p058_q1.jpg` · slide: `slides/RedeDOr_p058.jpg`
+  - EBITDA Margin is the same, but it was supposed to be higher
+- **Dashed tinted delta chips** · Rede D'Or p.64 · `tipo/barra-coluna/rede-d-or_p64_dashed-tinted-delta-chips_31.jpg`
+  - Muted blue semi-opaque rectangle with white bold text and a dark dashed outline, placed in the open space above each bar pair ('+43,9%'), or as a sentence box inside a chart area ('Cancer represents ~9% of the claims').
+- **Dashed rounded bracket with a verdict on its edge** · Restaurant Brands p.30 · `tipo/barra-coluna/restaurant-brands_p30_dashed-rounded-bracket-with-a-verdict-on-its-edge_34.jpg`
+  - Grey dashed rounded rectangle around selected bars, passing below the axis; bold statement seated inside the top, with number in red, often breaking the dashes; bars outside stay grey.
+- **Colunas pareadas com CAGR** · Sabesp p.3 · `tipo/barra-coluna/Sabesp_p003_q2.jpg` · slide: `slides/Sabesp_p003.jpg`
+  - ...driven by capex far below developed countries
+- **Colunas de capex com destaque** · Sabesp p.11 · `tipo/barra-coluna/Sabesp_p011_q2.jpg` · slide: `slides/Sabesp_p011.jpg`
+  - With high CAPEX obligations...
+- **Slice treemap with % on top and label at the foot** · Sabesp p.18 · `tipo/barra-coluna/sabesp_p18_slice-treemap-with-on-top-and-label-at-the-foot_17.jpg`
+  - Rectangle cut vertically into four widths proportional to value, last column split horizontally in two; white gaps; bold % at top left and regular label bottom aligned; fills alternate tones so neighbours separate without borders.
+- **Colunas com ano destacado por moldura** · Sabesp p.19 · `tipo/barra-coluna/Sabesp_p019_q3.jpg` · slide: `slides/Sabesp_p019.jpg`
+  - And it's not a scale effect, its efficiency per unit served
+- **Colunas pareadas com linha de perdas** · Sabesp p.41 · `tipo/barra-coluna/Sabesp_p041_q2.jpg` · slide: `slides/Sabesp_p041.jpg`
+  - Sabesp bills what it measures, not what it produces
+- **Pill data labels** · Sabesp / Intelbras p.2 · `tipo/barra-coluna/sabesp-intelbras_p2_pill-data-labels_35.jpg`
+  - Rounded rectangles with white text: pale cyan centred on bars and navy on line points, sitting on the mark instead of above it. Intelbras caps each bar top with the pill. Applied to every chart throughout the deck.
+- **Tinted dashed window over bars** · Sabesp / Mercado Libre p.11 · `tipo/barra-coluna/sabesp-mercado-libre_p11_tinted-dashed-window-over-bars_36.jpg`
+  - Rounded rectangle with pale tint at about 15% and dashed blue outline placed behind or over two to four bars; a small tinted note sits at its corner, overlapping the edge.
+- **Bracket to result chip** · Senior Sistemas p.55 · `tipo/barra-coluna/senior-sistemas_p55_bracket-to-result-chip_38.jpg`
+  - A black square bracket spans the bars; a dashed line runs from the bracket to a shadowed chip with a bold accent result ('g = 4,17%').
+- **Colunas de fluxo de caixa com perpetuidade** · Senior Sistemas p.55 · `tipo/barra-coluna/SeniorSistemas_p055_q3.jpg` · slide: `slides/SeniorSistemas_p055.jpg`
+  - Evolução da Geração de Caixa
+- **Logo-topped count capsules above a chart** · Vasta p.5 · `tipo/barra-coluna/vasta_p5_logo-topped-count-capsules-above-a-chart_12.jpg`
+  - Five logos evenly spaced in a row; below each a white rounded rectangle with a magenta outline (lighter for lesser brands), bold count and unit in two lines; chart immediately below using overlapped-label bars and a pale line with chip labels.
+- **Ghost next row** · Vasta p.8 · `tipo/barra-coluna/vasta_p8_ghost-next-row_138.jpg`
+  - All coordinates in PDF points on a 960x540 slide. Top card full opacity; second row of chart and card in the same position at alpha ~8%, no animation, suggesting what's coming. Rounded cards r~22, white with 1pt grey stroke and soft shadow (+2,+3) on pale background.
+- **Stepped ladder on a colour-fading stem** · Vasta p.17 · `tipo/barra-coluna/vasta_p17_stepped-ladder-on-a-colour-fading-stem_50.jpg`
+  - Thin vertical line with one dot per row in a fading tint; name and italic tier at left; short rounded bar and bold value at right in the same tint. Header icon of stairs.
+- **Column lit by segment gradients** · Vibra p.3 · `tipo/barra-coluna/vibra_p3_column-lit-by-segment-gradients_145.jpg`
+  - All coordinates in PDF pt on a 960x540 slide unless noted. Native stacked bar with each series a gradient fill. Tones step from #002800 at base to #22DD22 on top; within each segment vertical gradient darker at bottom edge. Adjacent segments therefore have a visible dark seam. Same on p10 as single bars #00C000 at top to #004D00 at bottom.
+- **Colunas empilhadas com meta tracejada** · Vibra p.3 · `tipo/barra-coluna/Vibra_p003_q1.jpg` · slide: `slides/Vibra_p003.jpg`
+  - Brazil Fuel Sales by Product [mn m³]
+- **Colunas 100% empilhadas de participação** · Vibra p.3 · `tipo/barra-coluna/Vibra_p003_q3.jpg` · slide: `slides/Vibra_p003.jpg`
+  - Fuel Distributors Market Share [%]
+- **Colunas de peso com cartões de alavancagem** · Vibra p.10 · `tipo/barra-coluna/Vibra_p010_q2.jpg` · slide: `slides/Vibra_p010.jpg`
+  - Comerc's Debt Weight in Vibra's Total vs EBITDA Performance [2025, %]
+- **Curva de produção em colunas finas** · 3R Petroleum p.29 · `tipo/barra-coluna/3RPetroleum_p029_q1.jpg` · slide: `slides/3RPetroleum_p029.jpg`
+  - The 2P extraction curve
+- **Colunas empilhadas de canais com texto** · Arezzo&Co p.4 · `tipo/barra-coluna/ArezzoCo_p004_q2.jpg` · slide: `slides/ArezzoCo_p004.jpg`
+  - Sales channel representation in total revenue (%)
+- **Barras horizontais com chave de g** · Senior Sistemas p.55 · `tipo/barra-coluna/SeniorSistemas_p055_q4.jpg` · slide: `slides/SeniorSistemas_p055.jpg`
+  - Premissa de Crescimento Terminal
+- **Colunas simples em degradê** · Vibra p.5 · `tipo/barra-coluna/Vibra_p005_q2.jpg` · slide: `slides/Vibra_p005.jpg`
+  - Comparable Profitability in the Big 3 [EBITDA/m³]
+- **Axis-break mark in a bar gap** · Vibra p.29 · `tipo/barra-coluna/vibra_p29_axis-break-mark-in-a-bar-gap_40.jpg`
+  - Vertical light grey rule between bars interrupted by a pair of slanted short strokes; same double-slash splits horizontal rules on p31.

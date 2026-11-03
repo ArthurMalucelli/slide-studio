@@ -1,6 +1,6 @@
 ---
 name: ppt-designer
-description: Turns a slide script (roteiro.md, usually from /ppt-researcher) into a finished equity-research .pptx on ANY master/template, using a recipe drawn from the best decks and a reference catalog of 22 competition decks, then validates it in a PowerPoint-exported PDF with a design-critic subagent. Accepts follow-ups like "ajusta X" that reuse the same script. Use when the user wants a slide built, redesigned or adjusted from a script or data ("/ppt-designer mestre.pptx roteiro.md", "monta o slide", "ajusta o slide").
+description: Turns a slide script (roteiro.md, usually from /ppt-researcher) into a finished equity-research .pptx on ANY master/template, using a recipe drawn from the best decks and a reference catalog of 1,647 competition slides and 980 pieces, then validates it in a PowerPoint-exported PDF with a design-critic subagent. Accepts follow-ups like "ajusta X" that reuse the same script. Use when the user wants a slide built, redesigned or adjusted from a script or data ("/ppt-designer mestre.pptx roteiro.md", "monta o slide", "ajusta o slide").
 argument-hint: <mestre.pptx> <roteiro.md>  |  ajusta "<pedido>"
 ---
 
@@ -80,7 +80,7 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
 
 Não copie slide nenhum. Siga `references/RECEITA.md`, passo a passo: argumento encadeado → uma prova por frase → grade → ligação → imagem real → cor → anotação → peso. Cada passo deixa uma linha em `plan.md`.
 
-Veja antes as imagens de `references/reprovados/` e, em `references/gabarito.md`, 3 a 5 prints de propósito parecido, para ver a técnica. `scripts/medir_slide.py <pdf> <página>` serve para entender as medidas de uma peça.
+Veja antes as imagens de `references/reprovados/` e `references/aprovados/`. Depois, abra `references/exemplos/INDEX.md`: em `por-tipo/` estão as peças por tipo, com `★` primeiro, e em `por-formato/`, os slides por número de quadrantes. Veja 3 a 5 parecidos com o seu, e `gabarito.md` para os decks preferidos do dono. Olhe as imagens. `catalogo.json` filtra por deck, nota e página; só parte das contagens de quadrantes foi conferida à mão (`quadrantes_conferido`). `scripts/medir_slide.py <pdf> <página>` serve para entender as medidas de uma peça.
 
 **Conteúdo qualitativo:** se uma frase não tem prova numérica boa, dispare o agente de criatividade antes de desenhar (Agent tool, `subagent_type: general-purpose`, com `references/criatividade_prompt.md`). Ele devolve 3 representações. Escolha uma pelos testes da receita e registre em `plan.md` as três e o motivo. Se nenhuma passar, deixe simples e avise. Slide só de dados não precisa dele.
 

@@ -1,0 +1,75 @@
+# Timeline (38)
+
+- ★ **Interlocking S-shaped ribbon timeline** · 3R Petroleum p.2 · `tipo/timeline/3r-petroleum_p2_interlocking-s-shaped-ribbon-timeline_4.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Measured vector. Each period has two freeforms of 219x94 at the same y (589-683): coloured S-parallelogram (121-340) with flared lower-left foot and rounded top-right, and a grey #D9D9D9 mirrored twin (228-446) with flared lower-right foot. They overlap by ~112 so coloured bends over g
+- ★ **Spine timeline with alternating notched banners** · 3R Petroleum p.24 · `tipo/timeline/3r-petroleum_p24_spine-timeline-with-alternating-notched-banners_3.jpg`
+  - Dark vertical line in a pale grey panel; dark, then one light, swallowtail banners holding the date, leaving the line left or right; bold amount and label beneath each banner; a tinted header pill sits on the panel top.
+- ★ **Stacked overlapping arrows with a beam to two overlapping callout cards** · 3R Petroleum p.103 · `tipo/timeline/3r-petroleum_p103_stacked-overlapping-arrows-with-a-beam-to-two-overlapping-ca_3.jpg`
+  - Coordinates are px on a 1467x825 canvas (110 dpi render of 960x540pt): divide by 1467/825 to get slide fractions. Vector. Page dimmed about 35% black (white becomes ~#A0A0A0). Row of 5 notched rounded block arrows at y 545-780, each ~250w, pitch ~240, so tip and next tail overlap ~35px; inactive arrows at ~55% alpha, so the overlaps visibly darken, reading as glass plates. Active arrow 100% alpha 
+- ★ **Phase columns over a benefit area and effort curve** · AB InBev p.81 · `tipo/timeline/ab-inbev_p81_phase-columns-over-a-benefit-area-and-effort-curve_4.jpg`
+  - Four dark header boxes spanning the width with a double arrow and duration under each; one yellow freeform area climbing across them with an S-curved black line crossing it and a triangular kickoff marker; bullets in columns aligned below.
+- ★ **Logo timeline by decade** · Arezzo&Co p.5 · `tipo/timeline/arezzo-co_p5_logo-timeline-by-decade_7.jpg`
+  - Horizontal arrow with dot at start and bold decade labels beneath; three logos stacked above each decade; a bracket from the arrow's end feeds two call-outs, one with the survivor rate and one with the exceptions as logos.
+- ★ **Serpentine era timeline with diamonds** · BTG Pactual p.112 · `tipo/timeline/btg-pactual_p112_serpentine-era-timeline-with-diamonds_6.jpg`
+  - One thick line going left to right, then a round U-turn to run right to left, ending in an arrowhead on the last date; outlined diamonds at each era with a large pale decade label and two-colour caption; the line fades from pale at the start to saturated at the end.
+- ★ **Hatched maturity strip with texture legend** · CSN - ArcelorMittal p.32 · `tipo/timeline/csn-arcelormittal_p32_hatched-maturity-strip-with-texture-legend_9.jpg`
+  - One row per tranche, one rounded cell per year under a year header. Cells filled with diagonal hatch pattern; final year is a dark gradient cell with red outline. Small key underneath.
+- ★ **Step columns hanging from a ticked rail** · CSN Liability p.9 · `tipo/timeline/csn-liability_p9_step-columns-hanging-from-a-ticked-rail_9.jpg`
+  - A thin line crosses the slide; a cross tick marks each of four columns with 'Nth Step' beside it; each column is a faint outlined panel with an italic title, two dashed chips and three stacked KPI lines. Reused later with three columns dimmed.
+- ★ **Linha do tempo em fitas alternadas** · ChallengeB p.2 · `tipo/timeline/ChallengeB_p002_q4.jpg` · slide: `slides/ChallengeB_p002.jpg`
+- ★ **Linha do tempo com fitas e chamadas** · ChallengeB p.4 · `tipo/timeline/ChallengeB_p004_q1.jpg` · slide: `slides/ChallengeB_p004.jpg`
+  - ITA: the talent engine behind Embraer
+- ★ **Linha do tempo em curva com marcos** · ChallengeB p.5 · `tipo/timeline/ChallengeB_p005_q1.jpg` · slide: `slides/ChallengeB_p005.jpg`
+  - Mitsubishi SpaceJet: From Launch to Cancellation
+- ★ **Mirrored career timelines meeting at a handover** · Cury p.21 · `tipo/timeline/cury_p21_mirrored-career-timelines-meeting-at-a-handover_10.jpg`
+  - Outlined hexagon nodes on a thin line with year above and role beneath; upper line runs left to right from the outgoing CEO's photo side, lower runs right to left from the successor's; the 2026 nodes filled blue and stacked at centre; below, name plates with a central explanation box linked by bracket lines.
+- ★ **Sucessão de CEO com linha do tempo** · Cury p.21 · `tipo/timeline/CuryConstrutora_p021_q1.jpg` · slide: `slides/CuryConstrutora_p021.jpg`
+  - Transição de Gestores
+- ★ **Serpentine rail threaded through hexagon photos with year tabs** · RD Saúde p.67 · `tipo/timeline/rd-saude_p67_serpentine-rail-threaded-through-hexagon-photos-with-year-ta_9.jpg`
+  - Thick brand-green line entering from the left edge and leaving on the right, with quarter-circle turns between rows; hexagon-clipped photos with a green outline sitting on the line; green year tab overlapping each hexagon's lower edge; centred caption with key word bolded below; logos in plain white hexagons where no photo exists.
+- ★ **ECG spike timeline in a dashed frame** · RD Saúde p.72 · `tipo/timeline/rd-saude_p72_ecg-spike-timeline-in-a-dashed-frame_10.jpg`
+  - Single green polyline running flat, spiking up, down, flat, up, down, ending in an arrowhead; solid year chip at each extreme, caption and an icon disc beyond it; the line enters from off-slide through a dashed-border grey panel; final point lands on the thesis.
+- ★ **Three exhibit cards above an anchoring history footer** · Sabesp p.2 · `tipo/timeline/sabesp_p2_three-exhibit-cards-above-an-anchoring-history-footer_7.jpg`
+  - Three equal grey cards with hard grey offset shadows, tied by a paler horizontal band running behind them; each card one headline, one italic sub, one exhibit (mini table, map with two chips, combo chart); the bottom third is a single full-width timeline; same skeleton on Rede D'Or p8 with roman-numbered exhibits.
+- ★ **Folded ribbon timeline (S-curve slabs)** · Sabesp p.2 · `tipo/timeline/sabesp_p2_folded-ribbon-timeline-s-curve-slabs_44.jpg`
+  - All pt on 960x540; measured from the PDF vectors, p2. Each node = 2 freeforms, 137.8 wide x 52.5 tall, pitch about 118-120. COLOURED FACE, vertices relative to its bbox: (137.8,0) (58.8,0) (53,1.2) (47.4,3.6) (42.4,7.3) (38,12.6) (23.4,39.2) (20.6,43.3) (17.3,46.7) (13,49.3) (7.3,51.2) (0,52.5) (79,52.5) (86.3,51.2) (92,49.3) (96.3,46.7) (99.6,43.3) (102.4,39.2) (117,12.6) (121.3,7.3) (126.4,3.6) 
+- ★ **Linha do tempo em faixa ondulada** · Sabesp p.2 · `tipo/timeline/Sabesp_p002_q4.jpg` · slide: `slides/Sabesp_p002.jpg`
+- ★ **Deadline columns ending in a darkening slanted band** · Sabesp p.11 · `tipo/timeline/sabesp_p11_deadline-columns-ending-in-a-darkening-slanted-band_8.jpg`
+  - Six grey-topped cards with a bold date and two short notes; below, one continuous row of colour blocks going from pale to navy, each with a white headline and a slanted top edge so the row climbs to the right.
+- ★ **Folded tab cards on a stepped base bar** · Sabesp p.11 · `tipo/timeline/sabesp_p11_folded-tab-cards-on-a-stepped-base-bar_46.jpg`
+  - Measured p11. BASE: 6 contiguous rects y225.06-283.05, x edges 63.7 210.8 352.6 495.2 633.1 779.5 917.8, fills #E3F6FD #12D0FF #00C4E9 #0393DD #0057A8 #003087. CARDS: 113.6 wide x about 88 tall, #F2F2F2, bottoms on the base line, x 76.4 217.7 361.1 503.5 645.9 788.2. FOLD: right triangle at each card's right edge, vertices (x,205) (x,226) (x+19.7,226), x about the card's right edge, right angle at
+- ★ **Linha do tempo de obrigações em setas** · Sabesp p.11 · `tipo/timeline/Sabesp_p011_q1.jpg` · slide: `slides/Sabesp_p011.jpg`
+  - Every obligation has a deadline. Every deadline has a price
+- ★ **Ellipsis exhibit headers reading as one sentence** · Sabesp p.17 · `tipo/timeline/sabesp_p17_ellipsis-exhibit-headers-reading-as-one-sentence_6.jpg`
+  - Sentence broken in three: first header ends in '...', next ones start with '...driving' and '...and replicating', with the key verb bolded in the deck colour; exhibits placed in reading order under each fragment; same pattern on Nubank p33 and BTG p50.
+- ★ **Quotes bookending a timeline** · Sabesp p.17 · `tipo/timeline/sabesp_p17_quotes-bookending-a-timeline_9.jpg`
+  - Ribbon timeline in the centre. Left end: cut-out portrait of one CEO with quote plate; right end: the other CEO, mirrored. Final node recoloured from purple to the subject colour, with its label in matching bold, so it reads as the next case in the series.
+- ★ **Linha do tempo de aquisições com citações** · Sabesp p.17 · `tipo/timeline/Sabesp_p017_q1.jpg` · slide: `slides/Sabesp_p017.jpg`
+  - Equatorial has spent 20 years acquiring and turning around
+- ★ **Dashed year-logo ticker** · Senior Sistemas p.23 · `tipo/timeline/senior-sistemas_p23_dashed-year-logo-ticker_22.jpg`
+  - Full-width solid band with a darker title block at left; thin dashed white frames each holding a bold white year above a logo on a translucent backing; several deals share one wider frame; p51 reuses the band for ownership milestones.
+- ★ **Faixa de CEOs e cartões de aquisições** · Vibra p.6 · `tipo/timeline/Vibra_p006_q1.jpg` · slide: `slides/Vibra_p006.jpg`
+  - Share Price Performance Through Strategic Decisions [BRL]
+- **Linha do tempo em faixa ondulada** · 3R Petroleum p.19 · `tipo/timeline/3RPetroleum_p019_q3.jpg` · slide: `slides/3RPetroleum_p019.jpg`
+- **Logo-stem M&A timeline** · AB InBev p.79 · `tipo/timeline/ab-inbev_p79_logo-stem-m-a-timeline_31.jpg`
+  - Thick accent timeline with black dots; black stems alternate above and below with logos stacked at the ends, year labels hugging the line; merged-entity logos sit directly on the line where they form.
+- **Year stepper header** · Alupar p.22 · `tipo/timeline/alupar_p22_year-stepper-header_15.jpg`
+  - Four small boxes in a row across the top, linked by thin arrows. Past or active years use blue italics on navy; future ones white-outlined grey. Below it, a one-line navy strip states what happens at that date.
+- **Descending drop-line timeline from a root box** · BTG Pactual p.50 · `tipo/timeline/btg-pactual_p50_descending-drop-line-timeline-from-a-root-box_11.jpg`
+  - Dark root box with icon and description; horizontal hairline under it; five thin verticals of increasing length; date plus two-tone label at the foot of each; framed by a sentence that opens above ('What started...') and closes below ('...became').
+- **Linha do tempo em escada ramificada** · BTG Pactual p.52 · `tipo/timeline/BTGPactual_p052_q1.jpg` · slide: `slides/BTGPactual_p052.jpg`
+  - What started as a small proprietary desk in 1983
+- **Segmented year column with wedge-linked bands and an exception exit** · BTG Pactual p.108 · `tipo/timeline/btg-pactual_p108_segmented-year-column-with-wedge-linked-bands-and-an-excepti_12.jpg`
+  - Narrow vertical column alternating navy and grey blocks with years; from each grey block a darker bevel wedge widens into a light grey name band; bottom navy block carries a blue diamond and hairline out to a large blue statement and logo instead of a band.
+- **Cronograma de amortização por emissão** · CSN - ArcelorMittal p.32 · `tipo/timeline/CSN-ArcelorMittal_p032_q3.jpg` · slide: `slides/CSN-ArcelorMittal_p032.jpg`
+  - Debt Amortization Schedule
+- **Glass columns over a dark gradient, crossed by a timeline** · CSN Liability p.9 · `tipo/timeline/csn-liability_p9_glass-columns-over-a-dark-gradient-crossed-by-a-timeline_82.jpg`
+  - Slide bg: linear gradient black (top-left) to #00305F. 4 column rects about 171x382pt, fill white at about 4-6% alpha, 0.75pt border white at about 25% alpha, positions staggered +/-2pt vertically. White 1pt horizontal line runs edge to edge passing through them at step-label height, interrupted by the labels with short vertical ticks either side. Inner boxes: dashed 0.75pt #0B5CAD with fill a bit
+- **Marcos de certificação em blocos 3D** · ChallengeB p.6 · `tipo/timeline/ChallengeB_p006_q2.jpg` · slide: `slides/ChallengeB_p006.jpg`
+  - ...that is still a prototype in testing...
+- **Event timeline stacked over analog-case bars** · Kering - Moncler p.12 · `tipo/timeline/kering-moncler_p12_event-timeline-stacked-over-analog-case-bars_7.jpg`
+  - Upper band: arrowed axis with small tan ring nodes and arrow-capped stems alternating up and down to centred captions. Lower band: under a caps header and rule, four grey bars with brand and year labels, closed by a dashed vertical and a pale tan note.
+- **Logo milestones timeline** · Mercado Libre p.7 · `tipo/timeline/mercado-libre_p7_logo-milestones-timeline_44.jpg`
+  - Thick navy line with ticks, years above, sub-brand logos below; text labels only where no logo exists.
+- **Count beads on a year rail** · Senior Sistemas p.36 · `tipo/timeline/senior-sistemas_p36_count-beads-on-a-year-rail_1.jpg`
+  - Horizontal hairline running off the slide edge; five equal grey outlined circles with a large digit; year labels in bold teal alternate above and below the beads.

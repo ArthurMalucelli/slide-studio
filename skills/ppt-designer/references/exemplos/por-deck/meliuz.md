@@ -1,0 +1,240 @@
+# Meliuz: páginas (149)
+
+- ★ **Pirâmide inclinada ao lado de barras e linha** · Meliuz p.16 · `slides/Meliuz_p016.jpg`
+  - Pirâmide 3D rosa em degradê (carta, resultados, cliff e vesting) à esquerda e colunas de funcionários com linha de % sócios à direita.
+- ★ **Curvas cruzadas com código e tabelas** · Meliuz p.40 · `slides/Meliuz_p040.jpg`
+  - Gráfico de linhas em X (cashback caindo, serviços financeiros subindo) com tabelas de frequência de palavras por trimestre e trecho de código Python como prova de método.
+- ★ **Código, celular com tweets e rosca** · Meliuz p.47 · `slides/Meliuz_p047.jpg`
+  - Código em painel escuro e mockup de celular com tweets ao lado de um donut com ícone do Twitter, mostrando o método junto do resultado.
+- ★ **Pop-up com Venn e ícones em órbita** · Meliuz p.52 · `slides/Meliuz_p052.jpg`
+  - Dois círculos grandes (Marketplace rosa claro, Serviços Financeiros cinza) com sobreposição '+20 mi de contas' e ícones de produtos em volta, aberto como popup branco sobre o slide.
+- ★ **Cascata de DCF e cenários de upside** · Meliuz p.59 · `slides/Meliuz_p059.jpg`
+  - Cascata do WACC (risk-free + prêmios), barra horizontal de breakdown do fair value (4%/14%/82% perpetuidade) e tabela Bear/Base/Bull com premissas e upside.
+- ★ **Matriz de risco com fitas laterais** · Meliuz p.61 · `slides/Meliuz_p061.jpg`
+  - Matriz 3x3 impacto x probabilidade com células rosa para internos e cinza para externos (RI/RE numerados) e legenda ao lado em fitas diagonais Riscos Internos/Externos.
+- ★ **Camadas isométricas ligadas a três pilares** · Meliuz p.62 · `slides/Meliuz_p062.jpg`
+  - Bloco 3D rosa à esquerda com três números ligados por linhas tracejadas a três parágrafos de tese numerados, fechando o deck.
+- ★ **SWOT com fitas e logo central** · Meliuz p.71 · `slides/Meliuz_p071.jpg`
+  - Quatro cartões cinza com fitas diagonais rosa/cinza (Forças, Fraquezas, Ameaças, Oportunidades) e logo M circular no centro como pivô.
+- ★ **Radar pentagonal com notas explicativas** · Meliuz p.74 · `slides/Meliuz_p074.jpg`
+  - Pentágono radar de camadas rosa com cinco etiquetas e caixas tracejadas ligadas por setas curvas, seguido de slides de tabela de critérios com notas.
+- ★ **Ciclo central com painéis de trocas** · Meliuz p.79 · `slides/Meliuz_p079.jpg`
+  - Dois painéis rosa (Usuários, Empresas parceiras) com ícones e números (+3 mi, +900) conectados ao logo central por setas contornadas de ida e volta.
+- ★ **Blocos 3D de alturas ligados a textos** · Meliuz p.82 · `slides/Meliuz_p082.jpg`
+  - Três blocos 3D de alturas e cores diferentes (rosa, grafite, cinza) à esquerda alinhados com três títulos de avenida à direita.
+- ★ **Sliders verticais coloridos de NPS** · Meliuz p.115 · `slides/Meliuz_p115.jpg`
+  - Barras verticais finas tipo slider na cor de cada marca com logo e nota acima, uma linha pontilhada marcando a média.
+- ★ **Mapa de calor de sensibilidade com cenários** · Meliuz p.127 · `slides/Meliuz_p127.jpg`
+  - Matriz WACC x g em verde-vermelho com tabela Bear/Base/Bull de preço-alvo e upside na lateral direita.
+- ★ **Simulação de trajetórias com racional em balões** · Meliuz p.147 · `slides/Meliuz_p147.jpg`
+  - Gráfico denso de trajetórias coloridas com três caixas tracejadas de racional e resultado em dois cards (preço e upside) como remate.
+- ★ **Três estágios de crescimento com retrato e citação** · Meliuz p.149 · `slides/Meliuz_p149.jpg`
+  - Três mini-gráficos de fases com cards numerados de CAGR (40%, 20%, 8%) e foto do autor com citação como âncora de autoridade.
+- **Capa com seta e celular em círculo** · Meliuz p.1 · `slides/Meliuz_p001.jpg`
+  - Fundo grafite com logo da empresa em seta branca à esquerda e celular real do app dentro de círculo rosa à direita; chevrons rosa como assinatura.
+- **Gráfico de preço com card de recomendação** · Meliuz p.2 · `slides/Meliuz_p002.jpg`
+  - Gráfico de preço histórico com linha tracejada horizontal no preço-alvo e card branco à direita com preço atual, fair value, upside e TIR em tipografia grande.
+- **Linha do tempo sobre gráficos e destaques** · Meliuz p.3 · `slides/Meliuz_p003.jpg`
+  - Timeline 2011-2021 no topo, dois gráficos (área de contas e colunas de receita por segmento) embaixo e caixa tracejada HIGHLIGHTS com market cap, EBITDA, GMV, TPV.
+- **Três colunas de produto com revelação progressiva** · Meliuz p.4 · `slides/Meliuz_p004.jpg`
+- **Três colunas de produto com revelação progressiva** · Meliuz p.5 · `slides/Meliuz_p005.jpg`
+- **Três colunas de produto com revelação progressiva** · Meliuz p.6 · `slides/Meliuz_p006.jpg`
+- **Três colunas de produto com revelação progressiva** · Meliuz p.7 · `slides/Meliuz_p007.jpg`
+  - Três cartões numerados 01/02/03 com mini-visual diferente (barras, mapa do Brasil, venn do cartão); nas páginas 4-6 o mesmo slide revela um cartão por vez (build progressivo).
+- **Arco com três pilares e cartão** · Meliuz p.8 · `slides/Meliuz_p008.jpg`
+  - Divisor escuro recorrente com arco ligando 3 itens e logo M; o pilar da seção fica em destaque rosa e os outros esmaecidos, com cartão e celular ao fundo.
+- **Arco com três pilares e cartão** · Meliuz p.9 · `slides/Meliuz_p009.jpg`
+- **Retratos de fundadores com rosca acionária** · Meliuz p.10 · `slides/Meliuz_p010.jpg`
+  - Fotos recortadas dos fundadores grandes à esquerda com legenda de cargo, donut acionário à direita e fila de fotos pequenas da diretoria embaixo.
+- **Retratos de fundadores com conselho** · Meliuz p.12 · `slides/Meliuz_p012.jpg`
+  - Faixa grafite com retratos do conselho sobreposta ao slide anterior mantendo os fundadores, mudando só o bloco da direita.
+- **Roda segmentada ao lado de texto numerado** · Meliuz p.13 · `slides/Meliuz_p013.jpg`
+  - Círculo semicolorido com ícones à esquerda e quatro blocos numerados 01-04 em caixa grafite à direita contando casos concretos.
+- **Fotos de entrevistas com resultado de pesquisa** · Meliuz p.14 · `slides/Meliuz_p014.jpg`
+  - Números grandes rosa (2/6/29) abrindo a coluna esquerda, prints de videochamadas com nome e cargo, barra sim/não 63/37 e citação em caixa.
+- **Depoimentos, livro e dispersão de notas** · Meliuz p.15 · `slides/Meliuz_p015.jpg`
+  - Scatter de satisfação x nota Glassdoor com logos dos peers como pontos e Méliuz destacado em rosa, ao lado de citações com foto de ex e atual funcionário.
+- **Linha com marcos ao lado de barras** · Meliuz p.17 · `slides/Meliuz_p017.jpg`
+  - Dois painéis lado a lado ligados por setas vermelhas na margem; o da esquerda usa linha de crescimento com logos das aquisições anotados.
+- **Barras com logos e barras empilhadas** · Meliuz p.18 · `slides/Meliuz_p018.jpg`
+  - Colunas na cor de cada fintech (Nubank roxo, Inter laranja, C6 preto) com Méliuz em rosa e círculo-anotação para tempo médio de casa.
+- **Linha de preço com eventos anotados** · Meliuz p.19 · `slides/Meliuz_p019.jpg`
+  - Linha de preço da ação com marcadores tracejados verticais apontando compras e vendas de insiders, cada um com callout de valor.
+- **Arco com três pilares e cartão** · Meliuz p.20 · `slides/Meliuz_p020.jpg`
+- **Diagrama de fluxo ao lado de barras** · Meliuz p.21 · `slides/Meliuz_p021.jpg`
+  - Esquema de fluxo empresa > take rate > cashback > usuário com ilhas de players nacionais e internacionais, lado a lado com colunas de variação de GMV.
+- **Barras empilhadas e ranking horizontal** · Meliuz p.22 · `slides/Meliuz_p022.jpg`
+  - Colunas de GMV com seta de crescimento curva e % de participação, e à direita barras horizontais de CAGR por país com o Brasil destacado em rosa.
+- **Barras empilhadas e barras comparativas** · Meliuz p.23 · `slides/Meliuz_p023.jpg`
+  - Colunas por país com linha tracejada de oportunidade acima do Brasil (rosa) e série de usuários em colunas empilhadas ao lado.
+- **Premissas em chips ao lado de sensibilidade** · Meliuz p.24 · `slides/Meliuz_p024.jpg`
+  - Três premissas em números grandes inclinados (10%, 5%, 4,4%) levam a uma matriz de penetração x participação em heatmap vermelho-verde.
+- **Seletor de razões com barras e tabela** · Meliuz p.25 · `slides/Meliuz_p025.jpg`
+  - Três etiquetas (Redutor de CAC, ROI garantido, Agregador de demanda) onde só a ativa fica nítida; o slide se repete trocando a ativa (págs. 25-27).
+- **Seletor de razões com barras e tabela** · Meliuz p.26 · `slides/Meliuz_p026.jpg`
+  - Duas colunas comparando custo via Méliuz x via Ads com tabela de apoio de participação, GMV, take rate e cashback e caixa tracejada de explicação.
+- **Seletor de razões com dois gráficos de barras** · Meliuz p.27 · `slides/Meliuz_p027.jpg`
+  - Colunas agrupadas rosa x grafite por ano comparando frequência de compra do usuário Méliuz com a média do marketplace.
+- **Barras com logos ao lado de diagrama** · Meliuz p.28 · `slides/Meliuz_p028.jpg`
+  - Colunas de lojas parceiras com % de cashback e à direita nuvem de logos em círculos ligados por setas mostrando migração de marketplace para serviços financeiros.
+- **Barras em caixa tracejada com citação em foto** · Meliuz p.29 · `slides/Meliuz_p029.jpg`
+  - Colunas de CAC com caixa tracejada destacando o grupo de fintechs e seta curva, mais equação visual Méliuz + cartão = oferta completa e foto de especialista com citação.
+- **Barras duplas ao lado de linhas** · Meliuz p.30 · `slides/Meliuz_p030.jpg`
+- **Barras duplas ao lado de linha e diagrama** · Meliuz p.31 · `slides/Meliuz_p031.jpg`
+  - Colunas pareadas faturamento e-commerce x lucro bancário, e diagrama escuro cliente-banco com setas de juros antes e depois do Open Banking.
+- **Barras com seta ao lado de empilhadas** · Meliuz p.32 · `slides/Meliuz_p032.jpg`
+  - Colunas com seta curva de CAGR à esquerda e 100% empilhadas por fintech (NII vs taxas) à direita, rosa para crédito.
+- **Tela de app com barras, revelação progressiva** · Meliuz p.33 · `slides/Meliuz_p033.jpg`
+- **Barras de crescimento e tabela, revelação progressiva** · Meliuz p.34 · `slides/Meliuz_p034.jpg`
+  - Colunas crescentes em grafite com callout tracejado e etiqueta de CAGR; slide se repete 34-37 adicionando blocos à direita.
+- **Barras de crescimento ao lado de cartão e tabelas** · Meliuz p.35 · `slides/Meliuz_p035.jpg`
+  - Mesmo gráfico do slide anterior reduzido à esquerda e tabela de take rate/cashback por faixa de fatura com colunas de receita líquida à direita.
+- **Barras, tela de app e log de reclamações** · Meliuz p.36 · `slides/Meliuz_p036.jpg`
+  - Mockup de celular ao lado de lista cronológica de ligações com horário e problema encontrado, transformando o teste de campo em evidência.
+- **Barras de crescimento ao lado de cartões** · Meliuz p.37 · `slides/Meliuz_p037.jpg`
+- **Órbita de parceiros ao lado de pilha** · Meliuz p.38 · `slides/Meliuz_p038.jpg`
+  - Logo Méliuz central com satélites das aquisições à esquerda; à direita bloco empilhado de camadas (know-how, software, operação) da Captalys fechando em barra azul-escura.
+- **Órbita de parceiros ao lado de pilha** · Meliuz p.39 · `slides/Meliuz_p039.jpg`
+- **Arco com três pilares e cartão** · Meliuz p.41 · `slides/Meliuz_p041.jpg`
+- **Ciclo em círculo ao lado de barras espelhadas** · Meliuz p.42 · `slides/Meliuz_p042.jpg`
+  - Gráfico espelhado: ARPU em colunas para cima (grafite) e MAU em colunas para baixo (rosa) com logos no eixo central, mais mini-diagrama circular de alavancas.
+- **Linhas com citação ao lado de hub radial** · Meliuz p.43 · `slides/Meliuz_p043.jpg`
+  - Linhas de DAU/MAU vs % de clientes totais com seta de tendência, diagrama circular de produtos do Tinkoff e foto do CEO com citação ancorando a tese.
+- **Pop-up de tabelas de código sobre fundo escurecido** · Meliuz p.44 · `slides/Meliuz_p044.jpg`
+- **Barras com seta ao lado de áreas empilhadas** · Meliuz p.45 · `slides/Meliuz_p045.jpg`
+  - Colunas mensais de downloads com seta curva e CAGR, ao lado de área empilhada em degradê rosa por coorte (safra).
+- **Dois gráficos de barras com equação** · Meliuz p.46 · `slides/Meliuz_p046.jpg`
+  - Dois gráficos de colunas (sessões/mês e tempo por sessão) com caixa tracejada convertendo 10,3 min em 11 acessos de 53 seg.
+- **Escala de UX e barras de notas** · Meliuz p.48 · `slides/Meliuz_p048.jpg`
+- **Escala de UX com barras e sliders** · Meliuz p.49 · `slides/Meliuz_p049.jpg`
+  - Escala 0-4 com logos posicionados e barras horizontais tipo slider por empresa na cor da marca; à direita sliders verticais de dias de entrega do cartão.
+- **Celular e painel de problemas do app atual** · Meliuz p.50 · `slides/Meliuz_p050.jpg`
+- **App atual, alvo e novo app com interrogação** · Meliuz p.51 · `slides/Meliuz_p051.jpg`
+  - Painel escuro com mockup do app atual e três falhas numeradas, ao lado de alvo e mockup com '?' para o novo app, sugerindo a oportunidade.
+- **Arco com três pilares e cartão** · Meliuz p.53 · `slides/Meliuz_p053.jpg`
+- **Arco com três pilares e faixa de transição** · Meliuz p.54 · `slides/Meliuz_p054.jpg`
+  - Mesmo divisor escuro de tese reaproveitado como abertura do bloco de valuation, com faixa rosa inferior de pergunta.
+- **Cálculo em cards ao lado de barras** · Meliuz p.55 · `slides/Meliuz_p055.jpg`
+  - Três números grandes em barras cinzas à esquerda alimentam colunas de usuários reportados vs ajustados com linha de % ajustado e caixa tracejada de conclusão.
+- **Barras empilhadas com seta e gráfico inserido** · Meliuz p.56 · `slides/Meliuz_p056.jpg`
+  - Colunas empilhadas marketplace x serviços financeiros com seta curva de CAGR e painel rosa claro ao lado fazendo zoom na base de cartões; slide 57 troca o zoom para premissas de crédito.
+- **Barras empilhadas com seta e premissas** · Meliuz p.57 · `slides/Meliuz_p057.jpg`
+- **Barras com linha ao lado de empilhadas** · Meliuz p.58 · `slides/Meliuz_p058.jpg`
+  - Colunas de GMV com linha descendente de take rate, e à direita colunas empilhadas de ARPU com legenda lateral de mix (rotativo, parcelado, interchange).
+- **Regressão de múltiplos e escala de comparáveis** · Meliuz p.60 · `slides/Meliuz_p060.jpg`
+  - Scatter com reta de regressão e Méliuz destacado, ao lado de régua de múltiplos com logos e tabela de excesso de retorno e TIR.
+- **Fechamento com seta e celular em círculo** · Meliuz p.63 · `slides/Meliuz_p063.jpg`
+- **Sumário imitando página de site** · Meliuz p.64 · `slides/Meliuz_p064.jpg`
+- **Sumário de anexos imitando site** · Meliuz p.65 · `slides/Meliuz_p065.jpg`
+  - Índice em quatro colunas numeradas com estilo de barra de site, usado como mapa do apêndice.
+- **Barras ao lado de barras com seta** · Meliuz p.66 · `slides/Meliuz_p066.jpg`
+- **Áreas empilhadas de coortes em dois painéis** · Meliuz p.67 · `slides/Meliuz_p067.jpg`
+  - Dois gráficos de área empilhada em degradê rosa por safra, com cabeçalhos grafite carregando a leitura de cada um.
+- **Três telas de app em sequência** · Meliuz p.68 · `slides/Meliuz_p068.jpg`
+  - Três celulares em sequência com setas mostrando o fluxo Méliuz > ofertas > site da Amazon, com régua de chamada no topo.
+- **Duas roscas com ícones** · Meliuz p.72 · `slides/Meliuz_p072.jpg`
+  - Donut com logos de varejistas colocados ao lado das fatias coloridas, versão Méliuz vs Brasil.
+- **Duas roscas comparativas em molduras** · Meliuz p.73 · `slides/Meliuz_p073.jpg`
+  - Dois donuts lado a lado em caixas tracejadas (Méliuz rosa x Brasil grafite), moldura rosa deslocada atrás e frase de conclusão embaixo.
+- **Gantt de parcerias com logos** · Meliuz p.80 · `slides/Meliuz_p080.jpg`
+  - Gantt de barras grafite por parceiro com logos à esquerda, mostrando ano de início e permanência.
+- **Prints de plug-in com anotações** · Meliuz p.81 · `slides/Meliuz_p081.jpg`
+  - Screenshots reais do plug-in em lojas parceiras com legenda de momento (entra no site, busca no Google) e dados em ícones +600k usuários.
+- **Barras crescentes ao lado de cards de aquisições** · Meliuz p.83 · `slides/Meliuz_p083.jpg`
+  - Colunas mensais de headcount com lista à direita de cartões por aquisição (logo, descrição, números).
+- **Celular com KPIs conectados por linha** · Meliuz p.84 · `slides/Meliuz_p084.jpg`
+  - Faixa de logo da adquirida no topo, quatro métricas em linhas com losango rosa conectadas a mockup do site; mesmo template para Melhor Plano, Alter, Picodi, Acesso Bank (págs. 85-89).
+- **Faixa de logo com KPIs e laptop** · Meliuz p.85 · `slides/Meliuz_p085.jpg`
+- **Faixa de logo com KPIs e celular** · Meliuz p.86 · `slides/Meliuz_p086.jpg`
+- **Faixa de logo com KPIs e laptop** · Meliuz p.87 · `slides/Meliuz_p087.jpg`
+- **Mapa-múndi com países destacados** · Meliuz p.88 · `slides/Meliuz_p088.jpg`
+  - Mapa-múndi com países coloridos em laranja da marca da adquirida e três números grandes (44, 19, 9) no canto inferior.
+- **Faixa de logo com KPIs e retrato** · Meliuz p.89 · `slides/Meliuz_p089.jpg`
+  - Faixa de logo da adquirida, métricas em losangos com tipografia colorida da marca e foto recortada do fundador com citação.
+- **Texto com logos ao lado de barras** · Meliuz p.90 · `slides/Meliuz_p090.jpg`
+  - Logos Captalys e Méliuz à esquerda com texto da estrutura, colunas de cartões pedidos embaixo e balão arredondado de conclusão.
+- **Três letras ESG em arco lateral** · Meliuz p.95 · `slides/Meliuz_p095.jpg`
+  - Arco com letras E, S e G em círculos e três blocos de texto rosa à direita, com a cor do rótulo marcando o nível de iniciativa.
+- **Linha suave com ano destacado** · Meliuz p.96 · `slides/Meliuz_p096.jpg`
+  - Linha curva com pontos numerados e coluna 2021 sombreada em rosa claro como destaque do ano atual.
+- **Fases verticais ao lado de diagrama e citação** · Meliuz p.104 · `slides/Meliuz_p104.jpg`
+- **Mapa com escala de cinza e tabela escura** · Meliuz p.106 · `slides/Meliuz_p106.jpg`
+  - Mapa do Brasil em escala de cinza por % de agências e tabela grafite de distribuição por banco e região, dados quantitativos sem cor de acento.
+- **Mapa com escala de cinza e painel escuro** · Meliuz p.107 · `slides/Meliuz_p107.jpg`
+- **Barras decrescentes e painel escuro** · Meliuz p.108 · `slides/Meliuz_p108.jpg`
+- **Pares de logos, gráfico e cards de benefício** · Meliuz p.110 · `slides/Meliuz_p110.jpg`
+- **Dois casos de parceria com múltiplos** · Meliuz p.114 · `slides/Meliuz_p114.jpg`
+  - Dois blocos com logos conectados por '+' e métricas (USD 4 bn, 40x) abaixo, caixa cinza de explicação à direita.
+- **Celular com prints e balão de conclusões** · Meliuz p.116 · `slides/Meliuz_p116.jpg`
+- **Ciclo central entre dois colunas de empresas** · Meliuz p.117 · `slides/Meliuz_p117.jpg`
+  - Dois lados (Pan e Mosaico) listando ativos, unidos por ciclo circular com Banking no centro e números 12 mi + 22 mi = 34 mi.
+- **Dois cabeçalhos de empresa com exhibits** · Meliuz p.119 · `slides/Meliuz_p119.jpg`
+  - Dois cabeçalhos cinza com logo (Tinkoff, Kaspi) e blocos de dados e gráfico embaixo, citação do CEO ancorando.
+- **Matriz de ecossistemas com pontos coloridos** · Meliuz p.120 · `slides/Meliuz_p120.jpg`
+  - Matriz de pontos na cor de cada marca em vez de checks, com linha de total na base e logos no cabeçalho.
+- **Recorte de notícia ao lado de painel escuro** · Meliuz p.121 · `slides/Meliuz_p121.jpg`
+- **Cartões de concorrentes ao lado de barras com seta** · Meliuz p.122 · `slides/Meliuz_p122.jpg`
+- **Rosca com logos ao lado de tabela** · Meliuz p.123 · `slides/Meliuz_p123.jpg`
+  - Donut grande com logo de cada player em volta e centro com 10,06 mi de visitas, mais tabela de share ao lado.
+- **Conversas de clientes com assuntos em ícones** · Meliuz p.124 · `slides/Meliuz_p124.jpg`
+  - Balões de conversa reais com avatar e ícones de assuntos mais mencionados embaixo, evidência qualitativa em estilo de mensagens.
+- **Hubs radiais acima de barras empilhadas** · Meliuz p.125 · `slides/Meliuz_p125.jpg`
+  - Dois diagramas radiais (Tinkoff, Sber) em fundo escuro e colunas 100% empilhadas de share de cartão por ano embaixo.
+- **Réguas de múltiplos com logos** · Meliuz p.143 · `slides/Meliuz_p143.jpg`
+  - Duas réguas horizontais com pontos coloridos e logo abaixo de cada empresa com o múltiplo acima, ordenadas do menor ao maior.
+- **Tabela ao lado de barras divergentes** · Meliuz p.144 · `slides/Meliuz_p144.jpg`
+  - Tabela de market cap/cliente e ARPU à esquerda e colunas espelhadas (Mkt Cap/cliente para cima, ARPU para baixo) com caixas tracejadas rosa.
+- **Tabela de premissas ao lado de mapas de calor** · Meliuz p.145 · `slides/Meliuz_p145.jpg`
+  - Tabela de TAM à esquerda e dois heatmaps empilhados à direita (penetração x afiliados e take rate x afiliados) com célula base circulada.
+- **Simulação de trajetórias com script de código** · Meliuz p.148 · `slides/Meliuz_p148.jpg`
+- **Foto de evento em moldura com depoimento** · Meliuz p.11 · `slides/Meliuz_p011.jpg`
+- **Barras com linha de percentual** · Meliuz p.69 · `slides/Meliuz_p069.jpg`
+  - Colunas de despesa por trimestre com linha rosa de % da receita e etiqueta de CAGR no canto.
+- **Barras ao lado de linha com seta** · Meliuz p.70 · `slides/Meliuz_p070.jpg`
+- **Tabela de critérios com notas** · Meliuz p.75 · `slides/Meliuz_p075.jpg`
+- **Duas tabelas de critérios empilhadas** · Meliuz p.76 · `slides/Meliuz_p076.jpg`
+- **Tabela de critérios com notas** · Meliuz p.77 · `slides/Meliuz_p077.jpg`
+- **Tabela de critérios com notas** · Meliuz p.78 · `slides/Meliuz_p078.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.91 · `slides/Meliuz_p091.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.92 · `slides/Meliuz_p092.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.93 · `slides/Meliuz_p093.jpg`
+- **Tabela crua de ex-funcionários** · Meliuz p.94 · `slides/Meliuz_p094.jpg`
+- **Quatro gráficos operacionais em grade** · Meliuz p.97 · `slides/Meliuz_p097.jpg`
+  - Quatro mini-gráficos em grade 2x2 com bullets em seta rosa explicando cada um, último período em rosa.
+- **Dois gráficos de barras com linha** · Meliuz p.98 · `slides/Meliuz_p098.jpg`
+- **Linhas comparativas ao lado de barras** · Meliuz p.99 · `slides/Meliuz_p099.jpg`
+  - Duas linhas ROE Brasil x média global à esquerda e colunas de concentração por país com Brasil à esquerda em rosa.
+- **Dispersão com regressão ao lado de barras** · Meliuz p.100 · `slides/Meliuz_p100.jpg`
+  - Scatter de penetração de cartão x bancarização com R² e países rotulados, ao lado de colunas com bandeiras no eixo.
+- **Barras com seta ao lado de ranking** · Meliuz p.101 · `slides/Meliuz_p101.jpg`
+- **Dois rankings de barras com destaque** · Meliuz p.102 · `slides/Meliuz_p102.jpg`
+- **Barras em painel cinza com nota** · Meliuz p.103 · `slides/Meliuz_p103.jpg`
+- **Barras duplas ao lado de linhas e tabela** · Meliuz p.105 · `slides/Meliuz_p105.jpg`
+- **Barras 100% empilhadas e barras com seta** · Meliuz p.109 · `slides/Meliuz_p109.jpg`
+- **Barras empilhadas com linha de total** · Meliuz p.111 · `slides/Meliuz_p111.jpg`
+  - Colunas empilhadas em tons de cinza por segmento com linha preta de total e rótulo de valor acima.
+- **Matriz de produtos com checks** · Meliuz p.112 · `slides/Meliuz_p112.jpg`
+  - Matriz de check marks por empresa x produto com linhas alternadas cinza, formato enxuto de leitura rápida de lacunas.
+- **Linhas de tendência com nota lateral** · Meliuz p.113 · `slides/Meliuz_p113.jpg`
+  - Duas linhas (cashback rosa, e-commerce grafite) com caixa tracejada lateral e logo Google Trends na fonte.
+- **Linhas de buscas comparativas** · Meliuz p.118 · `slides/Meliuz_p118.jpg`
+- **Planilha de DCF colada** · Meliuz p.126 · `slides/Meliuz_p126.jpg`
+  - Modelo Excel colado inteiro com faixa vermelha de título, útil como exemplo de anexo de modelo.
+- **Planilha de build-up colada** · Meliuz p.128 · `slides/Meliuz_p128.jpg`
+- **Planilha de build-up colada** · Meliuz p.129 · `slides/Meliuz_p129.jpg`
+- **Planilha de build-up colada** · Meliuz p.130 · `slides/Meliuz_p130.jpg`
+- **Planilha de build-up colada** · Meliuz p.131 · `slides/Meliuz_p131.jpg`
+- **Planilha de build-up colada** · Meliuz p.132 · `slides/Meliuz_p132.jpg`
+- **Planilha de DRE colada** · Meliuz p.133 · `slides/Meliuz_p133.jpg`
+- **Planilha de DRE colada** · Meliuz p.134 · `slides/Meliuz_p134.jpg`
+- **Planilha de múltiplos com dispersão** · Meliuz p.135 · `slides/Meliuz_p135.jpg`
+- **Planilha de balanço colada** · Meliuz p.136 · `slides/Meliuz_p136.jpg`
+- **Planilha de balanço colada** · Meliuz p.137 · `slides/Meliuz_p137.jpg`
+- **Planilha de fluxo de caixa colada** · Meliuz p.138 · `slides/Meliuz_p138.jpg`
+- **Planilha de ativos com cascata de depreciação** · Meliuz p.139 · `slides/Meliuz_p139.jpg`
+- **Planilha de intangíveis com cascata de depreciação** · Meliuz p.140 · `slides/Meliuz_p140.jpg`
+- **Planilha de capital de giro colada** · Meliuz p.141 · `slides/Meliuz_p141.jpg`
+- **Soma das partes em planilha** · Meliuz p.142 · `slides/Meliuz_p142.jpg`
+  - Quadro SOTP com faixas de seção (Parts, NPV, Outputs) e células amarelas de premissa editável.
+- **Duas linhas de múltiplo ao longo do tempo** · Meliuz p.146 · `slides/Meliuz_p146.jpg`
+  - Duas linhas históricas (Méliuz rosa e peer grafite) com eixo diário e legenda de método.
