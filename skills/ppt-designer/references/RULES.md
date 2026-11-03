@@ -10,7 +10,7 @@ Toda peça de profundidade precisa passar nos 4 testes. Se falhar em um, ela sai
 
 | Teste | Passa | Reprovado |
 |---|---|---|
-| **Origem** | Sai de um elemento de dado real: colada nele, na mesma cor, com a ponta da altura exata dele | Sai do espaço em branco, do vão entre barras, da borda do gráfico ou do meio de um grupo |
+| **Origem** | Sai de um elemento de dado real: colada nele, no tom claro da cor dele, com a ponta da altura exata dele | Sai do espaço em branco, do vão entre barras, da borda do gráfico ou do meio de um grupo |
 | **Destino** | Abre em algo que expande a origem: subgráfico, tabela, divisão, mapa, com 2 ou mais dados. O leitor aprende o que há dentro | Abre numa frase. Uma frase sobre o dado é rótulo ou colchete em cima do dado, sem feixe nem cartão |
 | **Forma = conteúdo** | O sólido é o próprio conteúdo: camadas com nome, 3 ou mais etapas com texto dentro | Sólido ao lado de um gráfico, ou desenhando só 2 valores |
 | **Função** | Tirar a peça muda o que o leitor entende | Parede, faixa ou cantoneira de cor em volta de um gráfico que já se lê sozinho. Tirar não muda nada. Painel cinza quase branco, igual em todo o slide, é permitido (ChallengeB p.2, p.7) |
@@ -45,7 +45,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: um slide com
 | **Painel só de frases soltas,** com fio vertical e muito ar em volta | Frase sem dado não vira painel: entra junto do gráfico que ela explica ou sai |
 | **Tabela de texto** com linhas e muito ar, ligada por fios a outro painel | Choice e efeito viram cards, cadeia ou diagrama. Tabela só para números |
 | **Quadrante inteiro para pouco dado:** dois valores ocupando um quarto do slide, com ou sem seta | Dois valores viram uma linha dentro de outro painel, ou saem. Área do painel é proporcional ao dado que ele tem |
-| **Cor mudando entre painéis:** a mesma série em cores diferentes, ou pares em cinza num gráfico e rosa no outro | Uma cor por significado no slide inteiro: foco, comparação e pares não mudam de um painel para outro. Data label segue a cor da série |
+| **Cor mudando entre painéis:** a mesma série em cores diferentes, ou pares em cinza num gráfico e rosa no outro | Uma cor por significado no slide inteiro: foco, comparação e pares não mudam de um painel para outro |
 | **Qualitativo demais:** painel de frases, ícones ou cards onde o gabarito teria número | Todo painel prova com dado. Texto é apoio de um gráfico, não o painel. Se o roteiro só tem frases, avise antes de montar |
 | **Slide sem graça:** limpo, correto e vazio | Densidade do gabarito: vários números, mais de um exhibit por slide, anotação no gráfico |
 | **Poluído:** chips de número soltos, painel dentro de painel, cabeçalho em duas linhas | Fora de gráfico, número é texto em negrito (`checar_slide.py` barra mais de 4 chips). No máximo 4 exibits, contando tabela e mapa, sem exibit dentro de exibit |
@@ -114,7 +114,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: um slide com
 |---|---|
 | `FOCUS` | empresa-foco, série principal |
 | `FOCUS_TINT` | empresa-foco fora de destaque, "restante", regiões não destacadas |
-| `ACCENT` | **único** destaque: 2ª série, linha, anotação, colchete; nunca fundo de data label |
+| `ACCENT` | **único** destaque: anotação, colchete ou o ponto que importa. Segunda série usa `FOCUS_DARK` ou `FOCUS_TINT`; nunca fundo de data label |
 | `PEER` / `PEER_DARK` | terceiros e concorrentes, mercado total; **nunca** a empresa-foco |
 | `NEG` | só valor negativo ou alerta |
 | `FG` / `FG2` / `MUTED` / `AXIS` | texto principal / descrição / secundário / eixos e fios |
@@ -130,7 +130,7 @@ A fonte é a do tema do mestre ou a de `deck_prefs.font`.
 |---|---|
 | Título | o do placeholder do mestre |
 | Subtítulo | o do placeholder (≈14pt) |
-| Cabeçalho de painel | 14pt regular, FG |
+| Cabeçalho de painel | 14pt, FG, com 1 ou 2 palavras-chave em negrito (`**assim**` em `ss.panel_header`) |
 | Itálico do painel | 11pt itálico, MUTED |
 | Data labels e pills | 9pt bold branco sobre fundo escuro (7.5 em mapa) |
 | Legendas e descrições | 8–9pt, FG2 |

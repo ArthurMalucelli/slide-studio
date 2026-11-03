@@ -36,7 +36,7 @@ Escolha no banco de provas do roteiro. Use a tabela abaixo como ponto de partida
 | 3 | Três colunas com uma faixa embaixo, ou um painel largo em cima e dois embaixo | ChallengeB p.2, p.5 |
 | 4 | 2×2 com painéis iguais | ChallengeB p.3, p.9; Sabesp p.18 |
 
-Nunca mais que 4. Uma prova por painel, com tabela e mapa contando como prova. Os blocos ficam alinhados, e nada entra "onde sobrou espaço".
+Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grade continua alinhada. Nunca mais que 4. Uma prova por painel, com tabela e mapa contando como prova. Os blocos ficam alinhados, e nada entra "onde sobrou espaço".
 
 ## 4. Agora procure a ligação (profundidade)
 
@@ -45,7 +45,7 @@ Olhe as frases do passo 1: alguma abre um número de outra? Se sim, desenhe **um
 | Peça | Como é feita | Exemplo |
 |---|---|---|
 | Cunha do dado para o detalhe | Sai colada na última barra, curta, e abre na composição daquele mesmo número | ChallengeB p.9: barra de 3Q26 (35.7) → pizza do backlog |
-| Dobra entre painéis | Dois painéis cinza muito claros (`F4F5F7`) com faixa estreita de 0.37 pol em cinza (`D3D5DA`) | ChallengeB p.7, p.10 |
+| Dobra entre painéis | Dois painéis cinza quase brancos (`ss.CARD`) com faixa estreita de 0.37 pol em cinza claro | ChallengeB p.7, p.10 |
 | Cunha da imagem para o que ela contém | Sai do objeto e abre em 3 itens | ChallengeB p.6 |
 | Fio tracejado | Liga um item a outro painel | ChallengeB p.13; Sabesp p.13 |
 | Sólidos | Só quando o sólido é o conteúdo: etapas ou degraus, com texto dentro | ChallengeB p.6 (etapas), p.8 (degraus com jato em cima) |
