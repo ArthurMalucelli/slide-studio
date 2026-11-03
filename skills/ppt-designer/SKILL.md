@@ -84,7 +84,8 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
    - composição → rosca ou barra 100%;
    - geografia → `region_map`;
    - sequência → timeline/funil.
-5. **Escreva em 3–5 linhas o plano do layout** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
+5. **Procure onde cabe profundidade:** se o conteúdo tem camadas, segmentos, conclusão ou zoom em um dado, abra `references/PROFUNDIDADE.md`. Peça sólida só com o que o roteiro já diz.
+6. **Escreva em 3–5 linhas o plano do layout** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
 
 ## 4. Build
 
@@ -93,7 +94,8 @@ Crie `<pasta>/slides/build_<tema>_v1.py`:
 - importar `slide_style as ss` e usar `ss.new_deck(mestre, prefs="deck_prefs.json", profile_dir="_master")`;
 - usar a grade com `ss.cols(n)`, `ss.rows(n)` e `ss.panel_header(...)`; nunca coordenadas soltas;
 - cores só pelos papéis (`ss.FOCUS`, `ss.ACCENT`, `ss.PEER`…), nunca hex solto;
-- `ss.footer(s, "Sources: …", "notas")` sempre.
+- `ss.footer(s, "Sources: …", notes="…")` sempre: as notas do roteiro vão para as notas do apresentador.
+- um cabeçalho e um itálico por visual; se um bloco do roteiro tem dois gráficos, separe em dois painéis e registre os novos cabeçalhos no roteiro.
 
 Gere o arquivo: `python3 build_<tema>_v1.py <mestre> slides/<Empresa>_<Tema>_v1.pptx`.
 

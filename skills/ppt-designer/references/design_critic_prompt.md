@@ -8,13 +8,16 @@ problemas de layout e de regra.
 - Roteiro: `{caminho do roteiro.md}`, que traz a mensagem principal e os números exatos
 - Preferências do deck: `{caminho do deck_prefs.json}`
 - Regras e checklist: `{SKILL_DIR}/references/RULES.md`
+- Guia de profundidade: `{SKILL_DIR}/references/PROFUNDIDADE.md`
 - 1–2 prints de referência do mesmo propósito: `{prints}`
 
 ## Verifique, nesta ordem
 1. **Mensagem:** dá para entender a mensagem principal do roteiro em 5 segundos? Todo painel a sustenta?
 2. **Regras fixas.** Itens de RULES.md:
    - texto grande ou número gigante sem permissão;
-   - título com número ou em 2 linhas;
+   - número ou período no título ou em cabeçalho de painel; título em 2 linhas;
+   - terceiro nível de texto sobre um gráfico; bloco de notas na face do slide; colunas de texto ao lado do gráfico;
+   - data labels em mais de um estilo, ou com fundo claro;
    - cor fora do papel (empresa-foco em PEER, terceiros em FOCUS, dois destaques);
    - fonte ausente.
 3. **Fidelidade:** algum número no slide difere do roteiro, foi repetido ou foi inventado?

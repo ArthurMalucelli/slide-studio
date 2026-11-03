@@ -16,7 +16,7 @@
 ## Blocos de conteúdo (2 a 4)
 
 ### Bloco 1
-- **Claim (cabeçalho):** {frase-conclusão curta}
+- **Claim (cabeçalho):** {frase-conclusão curta, sem número nem período}
 - **O que o dado mostra (itálico):** {métrica, unidade, período; ex.: "Deliveries, units, 2018–2025"}
 - **Relação do dado:** comparação | evolução | composição | geografia | sequência | qualitativo
 - **Dados:**
@@ -31,7 +31,7 @@
 ### Bloco 2
 (…mesmo formato…)
 
-## Notas (rodapé)
+## Notas (apresentador, fora da face do slide)
 1. {definição / ressalva / premissa}
 
 ## Fontes (rodapé)
@@ -44,5 +44,6 @@
 ## Checagens
 - [ ] Nenhum número aparece em dois blocos
 - [ ] Todo número tem fonte e data
-- [ ] Título sem número, ≤ ~55 caracteres
+- [ ] Título sem número, ≤ ~55 caracteres; claims sem número nem período
+- [ ] Cada bloco corresponde a um visual
 - [ ] Não diz qual gráfico usar
