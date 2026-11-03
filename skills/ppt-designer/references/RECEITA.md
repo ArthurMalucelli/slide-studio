@@ -51,7 +51,7 @@ Nunca invente uma relação de número que não existe: a cunha exige número do
 | Peça | Como é feita | Exemplo |
 |---|---|---|
 | Cunha do dado para o detalhe | Sai colada na última barra, curta, e abre na composição daquele mesmo número | ChallengeB p.9: barra de 3Q26 (35.7) → pizza do backlog |
-| Dobra entre painéis | Dois painéis cinza quase brancos (`ss.CARD`) com faixa estreita de 0.37 pol em cinza claro | ChallengeB p.7, p.10 |
+| Dobra entre painéis | Dois painéis cinza quase brancos (`ss.CARD`) com faixa estreita de 0.37 pol em cinza claro. **Cabeçalho e itálico ficam dentro do painel:** o volume inclui título, subtítulo e gráfico | ChallengeB p.10 |
 | Cunha da imagem para o que ela contém | Sai do objeto e abre em 3 itens | ChallengeB p.6 |
 | Fio tracejado | Liga um item a outro painel | ChallengeB p.13; Sabesp p.13 |
 | Sólidos | Só quando o sólido é o conteúdo: etapas ou degraus, com texto dentro | ChallengeB p.6 (etapas), p.8 (degraus com jato em cima) |

@@ -59,6 +59,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Foto do nada:** foto real de uma loja colada ao lado de um gráfico que não fala dela | Imagem é parte da prova, ou sai (`RECEITA.md`, passo 5) |
 | **Itálico com resultado:** "Per-warehouse share: 73.8% FY19–26", empurrando a unidade para a legenda | Itálico diz métrica, unidade e período. O resultado está no gráfico |
 | **Cunha solta:** vão entre a barra e a cunha, ou ponta passando do eixo | Encosta na barra, com a altura exata dela (`RECEITA.md`, passo 4) |
+| **3D só em volta do gráfico:** dobra ou painel que começa abaixo do cabeçalho, deixando título e subtítulo fora | O volume incorpora cabeçalho e itálico: eles ficam dentro do painel |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |
 | **Frase de conclusão solta** embaixo do slide, em faixa escura, caixa com sombra ou com marcador | A conclusão está no título e no subtítulo. Tire |
 | **Rótulos no lugar do dado:** painel com a geometria do gabarito, mas caixas de texto onde ele tinha gráfico | Sem o dado, troque de slide do gabarito (passo 5 da transposição) |
@@ -75,7 +76,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 
 **Cunha que sai da barra empilhada e abre em cartões com dado:** cada segmento da última barra abre, na cor dele e colado nele, num cartão com a altura proporcional, com os valores do segmento dentro (`beam_from_mark`). O dono gostou: um número abrindo no que há dentro dele.
 
-**Dobra (Sabesp p.13, ChallengeB p.7):** dois painéis cinza em planos diferentes, ligados por uma faixa ou trapézio (`dobra`). O 3D foi aprovado; o conteúdo só de rótulos foi reprovado. Dentro, tem de haver dado. Ao tirá-la de um slide, ele foi reprovado: "tirou a profundidade, ficou meio sem sal".
+**Dobra (Sabesp p.13, ChallengeB p.7):** dois painéis cinza em planos diferentes, ligados por uma faixa ou trapézio (`dobra`). O 3D foi aprovado; o conteúdo só de rótulos foi reprovado. Dentro ficam o cabeçalho, o itálico e o dado. Ao tirá-la de um slide, ele foi reprovado: "tirou a profundidade, ficou meio sem sal".
 
 **Ideias aprovadas, sem execução aprovada até agora:** barra de decomposição abrindo em painéis e diagrama fornecedor → empresa → cliente. Cada uma já tomou duas reprovações na execução; não as use como protagonista sem pedido.
 

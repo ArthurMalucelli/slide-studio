@@ -156,7 +156,7 @@ def beam_from_mark(s, right, y0, y1, card_x, card_top, card_bottom, color=F, alp
 
 
 def dobra(s, x, y0, w, top_h, y1, fold=0.18, inset=0.19, upper=None, lower=None, edge=None):
-    """Dois painéis em planos diferentes, ligados por um trapézio (Sabesp p.13). Dentro deles, dado: gráfico ou tabela.
+    """Dois painéis em planos diferentes, ligados por um trapézio (Sabesp p.13). Dentro deles ficam cabeçalho, itálico e dado.
     Devolve as caixas internas (x, y, w, h) do painel de cima e do de baixo."""
     upper = upper or ss.mix(ss.PEER, ss.WHITE, .72)
     lower = lower or ss.mix(ss.PEER, ss.WHITE, .82)
