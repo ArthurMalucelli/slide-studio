@@ -88,7 +88,7 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo `references/roteiro_t
 - **Títulos:** 2 ou 3 opções em storytelling, sem número, com até ~55 caracteres. No modo expositivo, dizem o fato; no analítico, a conclusão.
 - **Argumento:** 2 a 4 frases encadeadas e curtas, cada uma respondendo à anterior ("...and traffic keeps growing..."). Se não encadearem, a pesquisa ainda não tem uma história: volte a ela.
 - **Banco de provas:** para cada frase, a prova mais forte primeiro, com alternativas se houver. **Pense no gráfico que a prova vira, mas não o prescreva:**
-  - série com 4 ou mais pontos ou categorias; se a pesquisa só tem início e fim, busque os anos do meio;
+  - série com 4 a 12 pontos ou categorias, o que cabe em um painel de 1/4 de slide: 30 anos viram anos selecionados; se a pesquisa só tem início e fim, busque os anos do meio;
   - uma métrica ou escala por tabela;
   - varie: comparação, evolução, composição e geografia rendem gráficos diferentes;
   - número isolado ou par início × fim vai para "Números soltos".

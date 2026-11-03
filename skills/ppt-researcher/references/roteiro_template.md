@@ -6,7 +6,7 @@
 - **Modo:** expositivo | analítico
 - **Ângulo (se analítico):** {conclusão defendida} · definido por: usuário | agente ({por que este ângulo})
 - **Pesquisa:** `research.md` ({N} rodadas do crítico; vãos abertos: {lista curta ou "nenhum"})
-- **Ressalvas que não podem sumir:** {ex.: "projeção da empresa, não pedido firme"; ou "nenhuma"}
+- **Ressalvas que não podem sumir:** {até 2, curtas, para o itálico. Ex.: "projeção da empresa"; ou "nenhuma". O resto vai nas notas}
 
 Todo número abaixo é fixo. Todo texto abaixo é rascunho: o designer reescreve, escolhe e corta.
 
@@ -26,7 +26,7 @@ Lidas em voz alta, dão o argumento. Cada uma responde à anterior e cabe em uma
 
 ## Banco de provas
 
-Mais prova do que cabe: o designer escolhe. Liste a mais forte primeiro, em cada frase. Traga o dado que vira gráfico: série com 4 ou mais pontos ou categorias. Não diga que gráfico usar.
+Até 2 provas por frase: o designer escolhe. Liste primeiro a que prova melhor a frase. Traga o dado que vira gráfico: série com 4 ou mais pontos ou categorias. Não diga que gráfico usar.
 
 ### Frase 1: {frase}
 

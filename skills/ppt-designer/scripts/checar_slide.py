@@ -18,6 +18,7 @@ from xml.etree import ElementTree as ET
 IN = 914400
 LIMITE_CHIPS = 4          # chips com número fora de gráfico
 MIN_NUMEROS = 15
+MAX_DADOS = 80
 
 
 def palavras_pdf(pdf, pagina=1):
@@ -204,6 +205,8 @@ def checar(pptx, pdf, profile):
     n = dados(words, grid.get("content_bottom", 7.0))
     if n < MIN_NUMEROS:
         err.append(f"Só {n} dados no slide, fora anos e rodapé (mínimo ~{MIN_NUMEROS}). Se o roteiro não tem mais, avise o usuário na entrega.")
+    if n > MAX_DADOS:
+        err.append(f"{n} dados no slide (máximo ~{MAX_DADOS}). O dono reprovou como crowded: corte provas, sem reduzir a fonte.")
     if len(graficos) < 2:
         av.append(f"{len(graficos)} gráfico nativo. O gabarito quase sempre prova com 2 ou mais exibits; mapa desenhado conta.")
     if "Sources: Company Data, Group Calculations." not in " ".join(w[4] for w in words).replace("  ", " "):

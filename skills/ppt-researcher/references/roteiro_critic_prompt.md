@@ -9,7 +9,7 @@ Procure:
 1. **Argumento:** as frases, lidas em ordem, dão um raciocínio, ou são quatro afirmações soltas? Cada uma cabe em uma linha de ~55 caracteres?
 2. **Prova que vira gráfico:** cada frase tem uma série com 4 ou mais pontos ou categorias? Tabela só com início × fim, frases, ou métricas de escalas diferentes na mesma tabela não contam.
 3. **Variedade:** as provas permitem tipos diferentes de gráfico? Se tudo é série temporal, o slide vira quatro gráficos iguais.
-4. **Excesso:** alguma frase não sustenta a mensagem? Prova que ninguém escolheria deve sair.
+4. **Excesso:** alguma frase não sustenta a mensagem? O banco pode ter até 2 provas por frase, porque o designer escolhe; mais que isso, ou prova que ninguém escolheria, sai.
 5. **Abertura:** há um número de uma prova que realmente abre em outra? Se a abertura listada é forçada, diga.
 6. **Imagem:** o assunto é uma coisa física? Há imagem real com link? Baixe mentalmente: o link parece ser de um arquivo de imagem, de fonte que permite uso?
 
