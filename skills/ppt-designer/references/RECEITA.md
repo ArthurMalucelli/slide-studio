@@ -68,7 +68,7 @@ Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovo
 **A imagem é parte da prova, ou sai.** O jato aparece porque o painel compara aquele modelo. Foto de uma loja ao lado de um gráfico que não fala dela é "foto do nada", mesmo sendo real. Assunto financeiro ou de número costuma ficar sem imagem, e tudo bem.
 
 - **Nunca monte um prédio ou uma máquina com retângulos.**
-- **Produto:** mockup gerado, sem marca real (`gerar_imagem.py --mockup`). Foto de produto recortada não entra.
+- **Produto:** mockup gerado, com o nome da marca quando o slide é sobre ela (`gerar_imagem.py --mockup --marca Nome`). Confira a grafia ampliada, e diga nas notas do apresentador que é ilustrativo. Foto de produto recortada não entra.
 - **Foto real** só de pessoa citada ou documento, com origem nas notas do apresentador.
 - **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
 - **Padronize:** todas quadradas, com o mesmo tamanho, o mesmo ângulo e a mesma escala de objeto no slide. Olhe cada uma ampliada: nada cortado, nada torto. Refaça a que destoar.

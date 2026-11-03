@@ -3,7 +3,8 @@
 
 Uso:
   gerar_imagem.py "a large warehouse retail store" saida.png        cena isométrica
-  gerar_imagem.py --mockup "a detergent bottle and tub" saida.png    produto, sem marca real
+  gerar_imagem.py --mockup "a detergent bottle and tub" saida.png    produto, sem marca
+  gerar_imagem.py --mockup --marca Kirkland "a detergent bottle" saida.png   produto com o nome da marca; é ilustrativo
   gerar_imagem.py --recortar entrada.png saida.png     só recorta o fundo de uma imagem que já existe
   gerar_imagem.py --prompt "a large warehouse retail store"   só imprime o prompt, para o usuário gerar onde quiser
 
@@ -23,9 +24,12 @@ PROMPT = ("Isometric 3D illustration, miniature diorama style of {cena}, built o
           "empty margin on all sides, nothing cropped, square 1:1 image, clean and minimalist, soft global illumination, "
           "polished materials, pure white solid background, no ground shadow outside the base, professional "
           "architectural rendering, high detail, no people, no text, no vehicles.")
-MOCKUP = ("Clean 3D product mockup of {cena}, plain packaging with no real brand, no logo and no text, centered and fully "
-          "visible with generous empty margin on all sides, nothing cropped, square 1:1 image, same front three-quarter "
-          "angle, soft studio light, polished materials, pure white solid background, no people.")
+MOCKUP = ("Clean 3D product mockup of {cena}, {rotulo}, centered and fully visible with generous empty margin on all "
+          "sides, nothing cropped, square 1:1 image, same front three-quarter angle, soft studio light, polished "
+          "materials, pure white solid background with no cast shadow, no people.")
+SEM_MARCA = "plain packaging with no brand, no logo and no text"
+COM_MARCA = ('simple clean packaging where the only text is the brand name "{marca}" printed large and correctly spelled '
+             "on every item, in a consistent label design across all items, no other text")
 PASTA = Path.home() / ".codex" / "generated_images"
 
 
@@ -40,7 +44,9 @@ def recortar(entrada, saida, tolerancia=26):
     px = im.load()
     borda = [px[x, y] for x in (0, w - 1) for y in (0, h - 1)]
     ref = tuple(sum(c[i] for c in borda) // 4 for i in range(3))
-    perto = lambda c: sum(abs(c[i] - ref[i]) for i in range(3)) <= tolerancia
+    claro = min(ref) >= 225
+    # Em fundo branco, a sombra quase branca sai junto: ela vira mancha clara em cima do painel cinza.
+    perto = lambda c: sum(abs(c[i] - ref[i]) for i in range(3)) <= tolerancia or (claro and min(c[:3]) >= 232)
     fila = deque((x, y) for x in range(w) for y in (0, h - 1))
     fila.extend((x, y) for y in range(h) for x in (0, w - 1))
     visto = set()
@@ -63,8 +69,11 @@ def gerar(cena, saida, modelo=PROMPT):
         pedido = ("Generate one image with your image generation tool, using exactly this prompt. Do not draw it with "
                   "code. End your answer with the absolute path of the image. If you have no image tool, say so and "
                   f"stop. Prompt: {modelo.format(cena=cena)}")
-        r = subprocess.run(["codex", "exec", "--skip-git-repo-check", "-C", t, pedido], capture_output=True, text=True,
-                           timeout=240)
+        try:
+            r = subprocess.run(["codex", "exec", "--skip-git-repo-check", "-C", t, pedido], capture_output=True,
+                               text=True, timeout=420)
+        except subprocess.TimeoutExpired:
+            return None
     # O caminho vem da resposta do próprio Codex: procurar a imagem mais nova pega a de outro agente em paralelo.
     achados = re.findall(re.escape(str(PASTA)) + r"[^\s)\]]+\.png", r.stdout + r.stderr)
     return Path(achados[-1]) if achados and Path(achados[-1]).exists() else None
@@ -74,8 +83,11 @@ def main():
     a = sys.argv[1:]
     modelo = PROMPT
     if a and a[0] == "--mockup":
-        modelo = MOCKUP
         a = a[1:]
+        rotulo = SEM_MARCA
+        if a and a[0] == "--marca":
+            rotulo, a = COM_MARCA.format(marca=a[1]), a[2:]
+        modelo = MOCKUP.replace("{rotulo}", rotulo)
     if len(a) == 2 and a[0] == "--prompt":
         print(modelo.format(cena=a[1]))
         return 0

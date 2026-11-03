@@ -20,6 +20,12 @@ export_once() {
   end tell" >/dev/null
 }
 
+# Arquivo inválido trava o PowerPoint para todos: recusa antes de abrir.
+if command -v python3 >/dev/null && ! python3 "$(dirname "$0")/validar_pptx.py" "$IN"; then
+  echo "Arquivo inválido: corrija antes de exportar." >&2
+  exit 4
+fi
+
 # Um PowerPoint só: vários agentes exportando juntos travam o app (erro -9074). Fila por pasta de trava.
 LOCK="/tmp/slide-studio-ppt.lock"
 n=0
@@ -39,7 +45,7 @@ trap 'rm -rf "${TMP:?}"; rmdir "$LOCK" 2>/dev/null' EXIT
 ALVO="slidestudio_export_$$.pptx"
 cp "$IN" "$TMP/$ALVO"
 if ! export_once "$TMP/$ALVO" "$TMP/saida.pdf"; then
-  echo "O PowerPoint recusou a exportação. Não repita: peça ao usuário para olhar se há uma janela aberta nele ou reiniciá-lo." >&2
+  echo "O PowerPoint recusou a exportação. Causa provável: um arquivo anterior o deixou parado em aviso de reparo. Não repita: peça ao usuário para fechar o aviso ou reiniciar o PowerPoint, e rode scripts/validar_pptx.py no arquivo." >&2
   exit 3
 fi
 mv "$TMP/saida.pdf" "$OUT"
