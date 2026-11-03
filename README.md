@@ -28,7 +28,7 @@
 Slide feito por IA costuma sair com o número certo e o visual genérico. O slide-studio separa os dois trabalhos e dá ao designer um repertório real:
 
 - **Pesquisa com crítico:** um subagente procura os vãos da pesquisa até não sobrar nenhum relevante.
-- **Catálogo de 21 decks de competição:** 973 slides por propósito e por visual, e 590 técnicas garimpadas em 1.633 páginas.
+- **Catálogo de 22 decks de competição:** 987 slides por propósito e por visual, e 590 técnicas garimpadas em 1.633 páginas.
 - **274 itens do catálogo com peça pronta:** mapas, sólidos, feixes, fitas, diagramas e elementos.
 - **Qualquer mestre:** lê grade, cores e zonas proibidas do seu .pptx. As peças assumem as cores do tema.
 - **Tudo editável:** gráficos nativos e formas do PowerPoint, sem imagem colada para simular volume.
@@ -179,7 +179,7 @@ Na primeira vez do deck, responda as preferências, que ficam em `deck_prefs.jso
 | Números grandes | não, sim | não |
 | Nível visual | rico, sóbrio | rico |
 
-No modo **rico**, slides de 2 ou mais painéis levam peça de profundidade em ao menos 2 deles.
+No modo **rico**, o designer busca um protagonista quando o conteúdo tem uma relação. Sem relação, o slide fica plano e ele avisa o que faltaria no roteiro.
 
 **3. Ajuste em português normal**
 
@@ -198,7 +198,8 @@ Vieram de decks reais e de revisões de quem apresentou. Estão em [`RULES.md`](
 - Sem bloco de notas na face do slide: as ressalvas vão para as notas do apresentador.
 - Sem colunas de texto coladas no gráfico.
 - Nunca gráfico de barras com só duas barras, nem linha com marcador nos pontos.
-- Feixe colado no dado e simétrico.
+- Nada aparece do nada: toda peça sai de um dado real, expande esse dado e muda o que o leitor entende.
+- No máximo um protagonista por slide.
 - Rodapé sempre `Sources: Company Data, Group Calculations.`
 - Data label em um único estilo.
 - Cor com significado fixo e um único destaque por painel.
@@ -220,7 +221,7 @@ skills/
         ├── PITFALLS.md      bugs do PowerPoint já resolvidos
         ├── catalogo/        590 técnicas: origem, recorte e receita
         ├── pecas_*.py       peças prontas para copiar
-        └── exemplos/        973 slides por propósito e por visual, com prints e PDFs
+        └── exemplos/        987 slides por propósito e por visual, com prints e PDFs
 ```
 
 Para ver as peças no seu mestre, sem o Claude:

@@ -1,7 +1,8 @@
-# Propósito: Capa (21 slides)
+# Propósito: Capa (22 slides)
 
 Ordenado por qualidade, alternando decks. Abra 2–4 prints ★★★/★★ antes de desenhar; copie o truque, não o conteúdo.
 
+- `../prints/ChallengeB_p001.jpg` (★★★) "Cover: Challenge Group B title on dark technical background." · visual: foto-capa · propósito: capa · truque: Dark full-bleed cover with company and group marks, team names at the bottom.
 - `../prints/MercadoLibre_p001.jpg` (★★★) "Cover styled as a Mercado Libre shipping box: kraft cardboard with a yellow band and a shipping-label card carrying ticker, date, BUY, target price and upside." · visual: foto-capa · propósito: capa · truque: Cover borrows the company's own packaging metaphor (cardboard texture + shipping label holding rec/TP/upside) so the key numbers sit in a label card instead of a generic box.
 - `../prints/3RPetroleum_p001.jpg` (★★) "Final Analysis RRRP3 cover with team and head names" · visual: outro:capa-gradiente-verde · propósito: capa · truque: Full-bleed dark-green gradient with angular translucent shards, centered title and dual logo lockup, names bottom-left.
 - `../prints/ABInBev_p001.jpg` (★★) "Polaris / Constellation Challenge 2022 cover for ABInBev with team names" · visual: foto-capa · propósito: capa · truque: Big diagonal yellow/charcoal wedge over a desaturated company-HQ photo with the logo in the yellow zone and team names bottom-left; the same wedge motif reused on every divider.

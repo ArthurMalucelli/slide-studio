@@ -1,9 +1,7 @@
-# Catálogo de referência: 21 decks de competição de equity research
+# Catálogo de referência: 22 decks de competição de equity research
 
-973 slides catalogados por **propósito** (o que o slide faz no deck) e por **padrão visual** (como ele mostra).
-★★★ = referência a copiar (105 slides, ~10% de cada deck) · ★★ = bom (565) · ★ = exemplo do propósito (303).
-
-Elementos, mapas, profundidade e peças prontas: `references/catalogo/INDEX.md`.
+987 slides catalogados por **propósito** (o que o slide faz no deck) e por **padrão visual** (como ele mostra).
+★★★ = referência a copiar (119 slides, ~10% de cada deck) · ★★ = bom (565) · ★ = exemplo do propósito (303).
 
 ## Como usar (designer)
 
@@ -17,15 +15,15 @@ Elementos, mapas, profundidade e peças prontas: `references/catalogo/INDEX.md`.
 |---|---|---|---|
 | Recomendação / executive summary | 19 | `por-proposito/recomendacao-exec-summary.md` | `3RPetroleum_p006`, `ABInBev_p002`, `BTGPactual_p002` |
 | Tese em pilares / divisor de seção | 31 | `por-proposito/tese-pilares-divisor.md` | `ABInBev_p003`, `CSN-ArcelorMittal_p017`, `Intelbras_p004` |
-| Business overview (at a glance / in a nutshell) | 42 | `por-proposito/business-overview.md` | `3RPetroleum_p002`, `ABInBev_p080`, `BTGPactual_p003` |
+| Business overview (at a glance / in a nutshell) | 44 | `por-proposito/business-overview.md` | `3RPetroleum_p002`, `ABInBev_p080`, `BTGPactual_p003` |
 | Histórico da empresa | 28 | `por-proposito/historico-empresa.md` | `ABInBev_p079`, `Cosan_p004`, `RDSaude_p067` |
-| Industry overview | 58 | `por-proposito/industry-overview.md` | `CSN-ArcelorMittal_p003`, `RedeDOr_p003`, `CSN-ArcelorMittal_p008` |
+| Industry overview | 59 | `por-proposito/industry-overview.md` | `CSN-ArcelorMittal_p003`, `ChallengeB_p003`, `RedeDOr_p003` |
 | Mercado / TAM e demanda | 81 | `por-proposito/mercado-tam-demanda.md` | `Meliuz_p024`, `RestaurantBrandsInternational_p028`, `Vasta_p023` |
-| Posicionamento competitivo | 117 | `por-proposito/posicionamento-competitivo.md` | `3RPetroleum_p015`, `ABInBev_p006`, `BTGPactual_p032` |
-| Modelo de negócio / unit economics | 103 | `por-proposito/modelo-negocio-unit-economics.md` | `ABInBev_p150`, `Alupar_p013`, `Meliuz_p079` |
-| KPIs operacionais | 44 | `por-proposito/kpis-operacionais.md` | `CuryConstrutora_p015`, `MercadoLibre_p017`, `ABInBev_p034` |
+| Posicionamento competitivo | 123 | `por-proposito/posicionamento-competitivo.md` | `3RPetroleum_p015`, `ABInBev_p006`, `BTGPactual_p032` |
+| Modelo de negócio / unit economics | 104 | `por-proposito/modelo-negocio-unit-economics.md` | `ABInBev_p150`, `Alupar_p013`, `ChallengeB_p013` |
+| KPIs operacionais | 46 | `por-proposito/kpis-operacionais.md` | `ChallengeB_p008`, `CuryConstrutora_p015`, `MercadoLibre_p017` |
 | Financials históricos | 29 | `por-proposito/financials-historicos.md` | `3RPetroleum_p024`, `ABInBev_p146`, `BTGPactual_p077` |
-| Premissas e projeções | 61 | `por-proposito/premissas-projecoes.md` | `Meliuz_p056`, `MercadoLibre_p118`, `3RPetroleum_p023` |
+| Premissas e projeções | 62 | `por-proposito/premissas-projecoes.md` | `ChallengeB_p007`, `Meliuz_p056`, `MercadoLibre_p118` |
 | Valuation: DCF | 37 | `por-proposito/valuation-dcf.md` | `Meliuz_p059`, `RedeDOr_p039`, `SeniorSistemas_p035` |
 | Valuation: múltiplos | 49 | `por-proposito/valuation-multiplos.md` | `Alupar_p010`, `BTGPactual_p078`, `CuryConstrutora_p031` |
 | Football field | 9 | `por-proposito/football-field.md` | `CSNLiabilityManagement_p021`, `Cosan_p013`, `CuryConstrutora_p032` |
@@ -37,7 +35,7 @@ Elementos, mapas, profundidade e peças prontas: `references/catalogo/INDEX.md`.
 | Management, governança e estrutura societária | 39 | `por-proposito/management-governanca-estrutura.md` | `Nubank_p008`, `3RPetroleum_p018`, `ABInBev_p073` |
 | Pesquisa primária | 42 | `por-proposito/pesquisa-primaria.md` | `BTGPactual_p026`, `Intelbras_p008`, `3RPetroleum_p051` |
 | Recap / fechamento | 11 | `por-proposito/recap.md` | `Sabesp_p037`, `BTGPactual_p080`, `Cosan_p031` |
-| Capa | 21 | `por-proposito/capa.md` | `MercadoLibre_p001`, `3RPetroleum_p001`, `ABInBev_p001` |
+| Capa | 22 | `por-proposito/capa.md` | `ChallengeB_p001`, `MercadoLibre_p001`, `3RPetroleum_p001` |
 | Apêndice | 20 | `por-proposito/apendice.md` | `Meliuz_p084`, `Meliuz_p088`, `Meliuz_p089` |
 | novo:agenda | 1 | `por-proposito/novo-agenda.md` | `CSN-ArcelorMittal_p002` |
 | novo:app-antes-depois | 2 | `por-proposito/novo-app-antes-depois.md` | `Meliuz_p051`, `Meliuz_p052` |
@@ -49,37 +47,38 @@ Elementos, mapas, profundidade e peças prontas: `references/catalogo/INDEX.md`.
 
 | Padrão | Quando usar | Slides | Arquivo | Melhores exemplos |
 |---|---|---|---|---|
-| colunas | evolução de uma métrica no tempo | 291 | `por-visual/colunas.md` | `3RPetroleum_p042`, `Alupar_p010`, `ArezzoCo_p010` |
+| colunas | evolução de uma métrica no tempo | 295 | `por-visual/colunas.md` | `3RPetroleum_p042`, `Alupar_p010`, `ArezzoCo_p010` |
 | colunas-empilhadas | evolução + composição | 76 | `por-visual/colunas-empilhadas.md` | `CSN-ArcelorMittal_p003`, `Intelbras_p002`, `Meliuz_p056` |
 | barra-100 | composição/mix comparando grupos | 32 | `por-visual/barra-100.md` | `BTGPactual_p032`, `Cosan_p008`, `Intelbras_p044` |
-| barras-horizontais | ranking ou rótulos longos | 55 | `por-visual/barras-horizontais.md` | `RestaurantBrandsInternational_p028`, `Vasta_p017`, `Vasta_p023` |
+| barras-horizontais | ranking ou rótulos longos | 60 | `por-visual/barras-horizontais.md` | `ChallengeB_p004`, `RestaurantBrandsInternational_p028`, `Vasta_p017` |
 | comps-barras | empresa-foco vs pares numa métrica | 21 | `por-visual/comps-barras.md` | `3RPetroleum_p015`, `ABInBev_p016`, `Intelbras_p063` |
-| colunas+linha | nível (colunas) + taxa/margem (linha) | 75 | `por-visual/colunas+linha.md` | `Cosan_p004`, `Intelbras_p002`, `MercadoLibre_p015` |
-| linha | tendência contínua, várias séries | 233 | `por-visual/linha.md` | `3RPetroleum_p006`, `Alupar_p010`, `ArezzoCo_p010` |
+| colunas+linha | nível (colunas) + taxa/margem (linha) | 80 | `por-visual/colunas+linha.md` | `ChallengeB_p002`, `Cosan_p004`, `Intelbras_p002` |
+| linha | tendência contínua, várias séries | 236 | `por-visual/linha.md` | `3RPetroleum_p006`, `Alupar_p010`, `ArezzoCo_p010` |
 | area | volume acumulado / participação no tempo | 41 | `por-visual/area.md` | `CSN-ArcelorMittal_p008`, `CuryConstrutora_p031`, `3RPetroleum_p011` |
 | scatter-bolhas | duas métricas cruzadas (ex.: crescimento × margem, múltiplo × ROE) | 45 | `por-visual/scatter-bolhas.md` | `ABInBev_p006`, `Alupar_p010`, `BTGPactual_p067` |
 | bridge-cascata | decompor a variação entre dois totais | 38 | `por-visual/bridge-cascata.md` | `BTGPactual_p078`, `Cosan_p004`, `CuryConstrutora_p031` |
 | football-field | faixas de valor por método vs preço atual | 12 | `por-visual/football-field.md` | `CSNLiabilityManagement_p021`, `Cosan_p013`, `CuryConstrutora_p032` |
 | heatmap-sensibilidade | preço-alvo em duas premissas (WACC × g) | 49 | `por-visual/heatmap-sensibilidade.md` | `BTGPactual_p147`, `Cosan_p013`, `CuryConstrutora_p031` |
 | matriz-riscos | riscos por probabilidade × impacto | 22 | `por-visual/matriz-riscos.md` | `3RPetroleum_p044`, `ABInBev_p056`, `ArezzoCo_p010` |
-| donut | composição de um total (≤5 fatias) | 69 | `por-visual/donut.md` | `3RPetroleum_p002`, `ABInBev_p150`, `Nubank_p002` |
+| donut | composição de um total (≤5 fatias) | 71 | `por-visual/donut.md` | `3RPetroleum_p002`, `ABInBev_p150`, `ChallengeB_p002` |
 | tabela | muitas métricas exatas lado a lado | 170 | `por-visual/tabela.md` | `CuryConstrutora_p032`, `Kering-Moncler_p020`, `Meliuz_p059` |
-| timeline | eventos, catalisadores ou histórico datados | 44 | `por-visual/timeline.md` | `3RPetroleum_p002`, `ABInBev_p079`, `RDSaude_p067` |
-| mapa | distribuição geográfica, presença de ativos | 68 | `por-visual/mapa.md` | `3RPetroleum_p002`, `Alupar_p013`, `BTGPactual_p087` |
+| timeline | eventos, catalisadores ou histórico datados | 47 | `por-visual/timeline.md` | `3RPetroleum_p002`, `ABInBev_p079`, `ChallengeB_p002` |
+| mapa | distribuição geográfica, presença de ativos | 69 | `por-visual/mapa.md` | `3RPetroleum_p002`, `Alupar_p013`, `BTGPactual_p087` |
 | lineup-imagens | produtos, marcas, frota: qualitativo com dado curto | 59 | `por-visual/lineup-imagens.md` | `ABInBev_p079`, `Intelbras_p008`, `Meliuz_p143` |
-| icones+dado-curto | visão geral com 3–6 fatos curtos | 85 | `por-visual/icones+dado-curto.md` | `Intelbras_p004`, `Meliuz_p079`, `RestaurantBrandsInternational_p038` |
+| icones+dado-curto | visão geral com 3–6 fatos curtos | 87 | `por-visual/icones+dado-curto.md` | `ChallengeB_p006`, `Intelbras_p004`, `Meliuz_p079` |
 | kpi-numeros-grandes | poucos números-chave em destaque (só se o deck permitir) | 98 | `por-visual/kpi-numeros-grandes.md` | `3RPetroleum_p006`, `ABInBev_p002`, `Alupar_p013` |
 | pilares | tese em 2–4 razões | 69 | `por-visual/pilares.md` | `3RPetroleum_p002`, `ABInBev_p002`, `BTGPactual_p002` |
 | organograma | estrutura societária, holding, management | 33 | `por-visual/organograma.md` | `3RPetroleum_p060`, `BTGPactual_p057`, `CSN-ArcelorMittal_p024` |
 | funil-piramide | TAM→SAM→SOM, segmentação | 11 | `por-visual/funil-piramide.md` | `ABInBev_p039`, `BTGPactual_p122`, `Intelbras_p017` |
 | fluxo-processo | cadeia de valor, modelo de negócio, passo a passo | 68 | `por-visual/fluxo-processo.md` | `BTGPactual_p003`, `CSN-ArcelorMittal_p017`, `CSNLiabilityManagement_p009` |
 | flywheel-ciclo | efeito de rede / ciclo que se reforça | 11 | `por-visual/flywheel-ciclo.md` | `Meliuz_p079`, `BTGPactual_p048`, `Meliuz_p038` |
-| citacao-foto | pesquisa primária: entrevista com foto e citação | 77 | `por-visual/citacao-foto.md` | `ABInBev_p006`, `Intelbras_p008`, `RestaurantBrandsInternational_p013` |
+| citacao-foto | pesquisa primária: entrevista com foto e citação | 78 | `por-visual/citacao-foto.md` | `ABInBev_p006`, `ChallengeB_p004`, `Intelbras_p008` |
 | screenshot-produto | mostrar o produto/app real | 39 | `por-visual/screenshot-produto.md` | `BTGPactual_p026`, `Nubank_p008`, `Vasta_p017` |
-| 3d-isometrico | ilustração de escala/posicionamento | 7 | `por-visual/3d-isometrico.md` | `CSN-ArcelorMittal_p003`, `3RPetroleum_p028`, `Intelbras_p007` |
+| 3d-isometrico | ilustração de escala/posicionamento | 9 | `por-visual/3d-isometrico.md` | `CSN-ArcelorMittal_p003`, `ChallengeB_p006`, `ChallengeB_p008` |
 | texto-bullets | evitar; só como exemplo do propósito | 117 | `por-visual/texto-bullets.md` | `ABInBev_p016`, `Kering-Moncler_p016`, `Meliuz_p061` |
-| foto-capa | capa e divisores | 28 | `por-visual/foto-capa.md` | `MercadoLibre_p001`, `Nubank_p004`, `RestaurantBrandsInternational_p003` |
-| outro (variados) |  | 58 | `por-visual/outro-variados.md` | `CSNLiabilityManagement_p021`, `Kering-Moncler_p016`, `Meliuz_p143` |
+| foto-capa | capa e divisores | 29 | `por-visual/foto-capa.md` | `ChallengeB_p001`, `MercadoLibre_p001`, `Nubank_p004` |
+| outro (variados) |  | 61 | `por-visual/outro-variados.md` | `CSNLiabilityManagement_p021`, `ChallengeB_p003`, `Kering-Moncler_p016` |
+| outro:cards-produto |  | 3 | `por-visual/outro-cards-produto.md` | `ChallengeB_p011`, `ChallengeB_p012`, `ChallengeB_p014` |
 | outro:formula-anotada |  | 4 | `por-visual/outro-formula-anotada.md` | `MercadoLibre_p094`, `Sabesp_p019`, `Sabesp_p020` |
 | outro:formula-visual |  | 4 | `por-visual/outro-formula-visual.md` | `RDSaude_p048`, `RDSaude_p049`, `RDSaude_p051` |
 | outro:radar |  | 3 | `por-visual/outro-radar.md` | `3RPetroleum_p101`, `RDSaude_p020`, `Meliuz_p074` |
@@ -97,6 +96,7 @@ Elementos, mapas, profundidade e peças prontas: `references/catalogo/INDEX.md`.
 | BTGPactual | `pdf/BTG Pactual.pdf` |
 | CSN-ArcelorMittal | `pdf/CSN - ArcelorMittal.pdf` |
 | CSNLiabilityManagement | `pdf/CSN (Liability Management).pdf` |
+| ChallengeB | `pdf/ChallengeB.pdf` |
 | Cosan | `pdf/Cosan.pdf` |
 | CuryConstrutora | `pdf/Cury Construtora.pdf` |
 | Intelbras | `pdf/Intelbras.pdf` |

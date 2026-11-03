@@ -2,11 +2,15 @@
 
 ## 0.4.2
 
-- Nunca gráfico de barras com só duas barras; nova peça `two_values_stairs`.
-- Linha sem marcador nos pontos.
-- Feixe alinhado e simétrico; novo helper `beam_to_card`.
-- Rodapé sempre `Sources: Company Data, Group Calculations.`; fontes detalhadas nas notas do apresentador.
-- No modo rico, ao menos 2 painéis com peça de profundidade visível; uma peça pequena não basta.
+- Nova `references/RECEITA.md`: como montar um bom slide, em 9 passos, tirada de Sabesp, Nubank e ChallengeB. O designer não copia slides.
+- O roteiro vira argumento encadeado + banco de provas. Mensagem, números e ressalvas são fixos; o designer escolhe as provas, o formato e o texto.
+- Novo crítico de roteiro: lê só o roteiro e pergunta se ele dá um bom slide.
+- Sai a cota de peças. Toda peça passa em 4 testes (origem, destino, forma = conteúdo, função), com no máximo uma por slide.
+- Novo `scripts/checar_slide.py`: trava para colisão de texto, título, logo, chips soltos, gráficos com 1 ou 2 categorias, linha com 2 pontos e pouco dado.
+- Exportação em fila entre agentes, e por cópia própria: nunca mais exporta nem fecha outro deck que esteja aberto.
+- `references/reprovados/` e `references/gabarito.md`; ChallengeB entra no catálogo (22 decks, 987 slides).
+- Nunca gráfico de barras com só duas barras; linha sem marcador nos pontos; rodapé sempre `Sources: Company Data, Group Calculations.`
+- `panel_header` aceita **palavra-chave**; novos `beam_from_mark` e `dobra`.
 
 ## 0.4.1
 

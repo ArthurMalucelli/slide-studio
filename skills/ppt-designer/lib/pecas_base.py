@@ -147,11 +147,25 @@ def gallery(prs, layout, slides, source_note):
         ss.footer(s, source_note)
 
 
-def beam_to_card(s, edge, y0, y1, card_x, pad, end_tone=0.55, color=F):
-    """Feixe alinhado: sai colado no dado (borda x=edge, de y0 a y1) e abre igual em cima e embaixo até card_x.
-    Devolve (y do topo, altura) do cartão, que fica centrado no dado."""
-    grad(ss.poly(s, [(edge, y0), (edge, y1), (card_x, y1 + pad), (card_x, y0 - pad)], color), ((0, color), (1, light(color, end_tone))), 0)
-    return y0 - pad, y1 - y0 + 2 * pad
+def beam_from_mark(s, right, y0, y1, card_x, card_top, card_bottom, color=F, alpha=86):
+    """Feixe que nasce num dado: a ponta estreita é a borda direita da barra (x=right, de y0 a y1), na cor dela,
+    e a larga é a borda inteira do cartão. Sem gradiente, para fundir com a barra. RD Saúde p.39."""
+    sp = ss.poly(s, [(right, y0), (right, y1), (card_x, card_bottom), (card_x, card_top)], color)
+    ss.set_alpha(sp, alpha)
+    return sp
+
+
+def dobra(s, x, y0, w, top_h, y1, fold=0.18, inset=0.19, upper=None, lower=None, edge=None):
+    """Dois painéis em planos diferentes, ligados por um trapézio (Sabesp p.13). Dentro deles, dado: gráfico ou tabela.
+    Devolve as caixas internas (x, y, w, h) do painel de cima e do de baixo."""
+    upper = upper or ss.mix(ss.PEER, ss.WHITE, .72)
+    lower = lower or ss.mix(ss.PEER, ss.WHITE, .82)
+    edge = edge or ss.PEER
+    yf = y0 + top_h
+    ss.rect(s, x, y0, w, top_h, upper)
+    ss.poly(s, [(x, yf), (x + w, yf), (x + w - inset, yf + fold), (x + inset, yf + fold)], edge)
+    ss.rect(s, x + inset, yf + fold, w - 2 * inset, y1 - yf - fold, lower)
+    return (x, y0, w, top_h), (x + inset, yf + fold, w - 2 * inset, y1 - yf - fold)
 
 
 # ---------- Mapas ----------

@@ -1,14 +1,14 @@
 ---
 name: ppt-designer
-description: Turns a slide script (roteiro.md, usually from /ppt-researcher) into a finished equity-research .pptx on ANY master/template, using a reference catalog of 21 competition decks, then validates it in a PowerPoint-exported PDF with a design-critic subagent. Accepts follow-ups like "ajusta X" that reuse the same script. Use when the user wants a slide built, redesigned or adjusted from a script or data ("/ppt-designer mestre.pptx roteiro.md", "monta o slide", "ajusta o slide").
+description: Turns a slide script (roteiro.md, usually from /ppt-researcher) into a finished equity-research .pptx on ANY master/template, using a recipe drawn from the best decks and a reference catalog of 22 competition decks, then validates it in a PowerPoint-exported PDF with a design-critic subagent. Accepts follow-ups like "ajusta X" that reuse the same script. Use when the user wants a slide built, redesigned or adjusted from a script or data ("/ppt-designer mestre.pptx roteiro.md", "monta o slide", "ajusta o slide").
 argument-hint: <mestre.pptx> <roteiro.md>  |  ajusta "<pedido>"
 ---
 
 # ppt-designer
 
-Você é o **designer**. Você cuida só do layout. Números, textos e títulos vêm do roteiro e **não se alteram**.
-Se algo não couber, siga a ordem de corte do roteiro; se ela não resolver, proponha o corte ao usuário em vez de
-reescrever o conteúdo.
+Você é o **designer**. O roteiro traz o argumento e um banco de provas maior do que cabe. **Fixos:** a mensagem principal, os números e as ressalvas. **Decisão sua:** quais provas entram, em qual formato, quantos painéis, e o texto de títulos e cabeçalhos. Registre em `plan.md` o que escolheu e o que deixou de fora; o que sair e importar vai para as notas do apresentador.
+
+Roteiro antigo, com blocos e ordem de corte, também serve: trate os blocos como banco de provas.
 
 `SKILL_DIR` = a pasta deste SKILL.md. Tudo o que o designer usa mora nela:
 - a biblioteca, em `SKILL_DIR/lib`;
@@ -16,6 +16,7 @@ reescrever o conteúdo.
 - o exemplo de montagem, em `SKILL_DIR/references/exemplo_componentes.py`. Ele mostra os mesmos painéis em duas grades diferentes; a grade sai do slide, não do exemplo.
 
 Leia antes do primeiro slide da sessão:
+- `references/RECEITA.md`: como montar um bom slide;
 - `references/RULES.md`: regras e preferências;
 - `references/COMPONENTS.md`: o que a biblioteca desenha e como;
 - `references/PITFALLS.md`: bugs do PowerPoint já resolvidos.
@@ -48,8 +49,8 @@ Se a pasta de trabalho já tem `deck_prefs.json`, use-o e só confirme numa linh
    - "Não (padrão)";
    - "Sim, quando fizer sentido".
 6. **Nível visual:**
-   - "Rico (padrão)": todo slide leva peça do catálogo;
-   - "Sóbrio": peça do catálogo só quando o usuário pedir.
+   - "Rico (padrão)": busca um protagonista quando o conteúdo tem relação;
+   - "Sóbrio": sem protagonista, salvo pedido.
 
 Grave em `deck_prefs.json`, na pasta de trabalho, junto com qualquer override de paleta ou fonte que o usuário pedir:
 ```json
@@ -73,23 +74,15 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
   - `palette.FOCUS`: a cor da empresa-foco. Se o mestre não traz a cor da empresa, pergunte ou use a cor da marca.
 - **Escolha o layout** com título + subtítulo e a estrutura mais próxima do que vai desenhar. Os placeholders de conteúdo vazios são removidos pelo `setup()`.
 
-## 3. Escolha do visual (antes de escrever código)
+## 3. Receita (antes de escrever código)
 
-1. **Leia o roteiro:** a mensagem principal, os blocos e a relação do dado.
-2. **Abra a referência:**
-   - abra `references/exemplos/INDEX.md`;
-   - ache o **propósito** do slide (riscos, industry overview, business overview…);
-   - abra `references/exemplos/por-proposito/<propósito>.md`.
-3. **Abra 2–4 prints ★★★** dessa lista (`references/exemplos/prints/…jpg`) e veja como os melhores decks resolvem esse tipo de slide. Se já tem um visual em mente, abra também `por-visual/<padrão>.md`.
-4. **Decida, para cada bloco, o visual que melhor prova o claim.** "Nem tudo é gráfico":
-   - conteúdo qualitativo, lineup ou posicionamento → imagem/ícone + dado curto, diagrama ou desenho;
-   - comparação → barras com o foco destacado;
-   - evolução → colunas ou linha;
-   - composição → rosca ou barra 100%;
-   - geografia → `region_map`;
-   - sequência → timeline/funil.
-5. **Abra `references/catalogo/INDEX.md` e escolha as peças do slide.** Obrigatório, salvo `visual = "sóbrio"`: em slide de 2 ou mais painéis, ao menos 2 painéis levam peça de profundidade visível, grande o bastante para mudar a cara do slide (sólido, parede, placas, feixe até um cartão, mapa). Um cartãozinho no canto de um slide de gráficos planos está reprovado. Nunca use gráfico de barras com só duas barras nem linha com marcador. Se o conteúdo é só dado, ligue o dado à conclusão com feixe e cartão, ou marque-o com anotação. Considere ao menos 3 candidatas por slide, veja os recortes e escolha pelo claim, sem repetir a mesma peça em slides vizinhos. As peças prontas estão em `references/pecas_*.py`. Compare a peça montada com o recorte de origem, lado a lado. Se a peça pede material real, peça ao usuário; nunca invente.
-6. **Escreva em 3–5 linhas o plano do layout, nomeando cada peça, sua função em `pecas_*.py` e o recorte de origem** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
+Não copie slide nenhum. Siga `references/RECEITA.md`, passo a passo: argumento encadeado → uma prova por frase → grade → ligação → imagem real → cor → anotação → peso. Cada passo deixa uma linha em `plan.md`.
+
+Veja antes as imagens de `references/reprovados/` e, em `references/gabarito.md`, 3 a 5 prints de propósito parecido, para ver a técnica. `scripts/medir_slide.py <pdf> <página>` serve para entender as medidas de uma peça.
+
+**Falta conteúdo?** Não invente, não decore e não troque gráfico por caixa de texto. Diga ao usuário o que falta no roteiro: a pergunta do passo 1 é a que mais revela roteiro fraco.
+
+Peças prontas de `references/pecas_*.py` e `references/catalogo/INDEX.md` servem de apoio para desenhar um elemento, nunca para enfeitar.
 
 ## 4. Build
 
@@ -108,13 +101,17 @@ Gere o arquivo: `python3 build_<tema>_v1.py <mestre> slides/<Empresa>_<Tema>_v1.
 ```bash
 SKILL_DIR/scripts/export_pdf.sh slides/<arquivo>.pptx        # Mac (abre o PowerPoint se precisar)
 pdftoppm -r 110 -png -singlefile slides/<arquivo>.pdf slides/<arquivo>
+python3 SKILL_DIR/scripts/checar_slide.py slides/<arquivo>.pptx --profile _master/profile.json
 ```
 
+- **O `checar_slide.py` é uma trava:** todo ERRO se corrige antes de seguir, e o que restar por decisão sua vai na entrega, sem chamar de pronto. Passar nele não quer dizer que o slide está bom.
+- **Exportação falhou duas vezes:** pare e avise o usuário. Não fique repetindo: `export_pdf.sh` já tenta o que dá, e já exporta um por vez entre agentes.
 - Abra o PNG e faça a sua checagem pelo checklist de `references/RULES.md`. Corrija e regenere.
+- Ponha o PNG ao lado de 2 prints do gabarito, no mesmo tamanho. Se ele parece de outro campeonato, volte ao passo da receita que falhou.
 - Depois dispare o **crítico de design**:
   - Agent tool, `subagent_type: general-purpose`;
-  - prompt de `references/design_critic_prompt.md`, com o PNG, o roteiro e o `deck_prefs.json`.
-  - Corrija o que ele marcar como ALTA/MÉDIA; no máximo 2 rodadas.
+  - prompt de `references/design_critic_prompt.md`, com o PNG, o roteiro, o `deck_prefs.json` e 2 prints do gabarito. Não passe sua justificativa do slide: ele precisa olhar sem contexto.
+  - Corrija o que ele marcar como ALTA/MÉDIA; no máximo 2 rodadas. Se sobrar ALTA, diga isso ao usuário na entrega, sem chamar de pronto.
 - **Sem PowerPoint:** exporte com LibreOffice (`soffice --headless --convert-to pdf`) e **avise o usuário** que gráficos nativos podem renderizar diferente.
 
 ## 6. Entrega
@@ -122,4 +119,4 @@ pdftoppm -r 110 -png -singlefile slides/<arquivo>.pdf slides/<arquivo>
 - Mande o .pdf e o .pptx (links) numa mensagem curta: o que foi feito e o problema visual mais grave que ainda resta, se houver.
 - Ofereça o ajuste: "quer ajustar algo? (`ajusta …`)".
 - Cada iteração vira uma versão nova (`_v2`, `_v3`…). A escolhida pelo usuário vira `_aprovada`.
-- Se o usuário ensinar uma regra nova ("não quero X"), grave em `deck_prefs.json` → `"rules": [...]` e aplique dali em diante.
+- Se o usuário ensinar uma regra nova ("não quero X"), grave em `deck_prefs.json` → `"rules": [...]` e aplique dali em diante. Se ele reprovar uma peça, proponha levar a regra para `RULES.md` e um exemplo com dados fictícios para `references/reprovados/`; não publique o slide real dele.

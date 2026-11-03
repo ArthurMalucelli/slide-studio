@@ -1,0 +1,177 @@
+[
+{
+"deck": "ChallengeB",
+"page": 1,
+"purpose": "capa",
+"message": "Cover: Challenge Group B title on dark technical background.",
+"visual": [
+"foto-capa"
+],
+"layout_trick": "Dark full-bleed cover with company and group marks, team names at the bottom.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 2,
+"purpose": "business-overview",
+"message": "Embraer at a glance: diversified operations, growth and global reach.",
+"visual": [
+"donut",
+"colunas+linha",
+"mapa",
+"timeline"
+],
+"layout_trick": "Three equal grey panels (small donut, bars with margin line, choropleth) above a full-width ribbon timeline.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 3,
+"purpose": "industry-overview",
+"message": "Aging fleets and rising traffic sustain aircraft demand.",
+"visual": [
+"colunas",
+"colunas+linha",
+"linha",
+"outro:cadeia-isometrica"
+],
+"layout_trick": "2x2 with four different proofs; the value chain is a row of good isometric illustrations; delta marked at the end of the line.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 4,
+"purpose": "posicionamento-competitivo",
+"message": "Decades of expertise and certification record reinforce the moat.",
+"visual": [
+"timeline",
+"barras-horizontais",
+"citacao-foto"
+],
+"layout_trick": "2x2 mixing ribbon timeline, ranked bars, lollipop chart and real portrait with sourced quote.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 5,
+"purpose": "posicionamento-competitivo",
+"message": "Mitsubishi SpaceJet shows how an entry attempt failed.",
+"visual": [
+"timeline",
+"colunas"
+],
+"layout_trick": "Competitor gets its own colour and master; wide curve timeline with real aircraft photo on top, annotated aircraft photo and committed-vs-delivered bars below.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 6,
+"purpose": "business-overview",
+"message": "Eve at a glance: air taxi built on Embraer's know-how, still in testing and burning cash.",
+"visual": [
+"3d-isometrico",
+"colunas+linha",
+"icones+dado-curto"
+],
+"layout_trick": "Headers chained with ellipses; wedge opens from the aircraft image into three items; roadmap as isometric steps with text inside.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 7,
+"purpose": "premissas-projecoes",
+"message": "Eve is a funded bet: its liquidity and Embraer's cash flow can carry the burn.",
+"visual": [
+"colunas",
+"linha"
+],
+"layout_trick": "Two wide pale panels linked by a narrow grey fold; dashed box over the uses; two anchored callouts with the ratio.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 8,
+"purpose": "kpis-operacionais",
+"message": "Executive jets are a fleet-driven growth engine with a lean lineup.",
+"visual": [
+"barras-horizontais",
+"colunas+linha",
+"3d-isometrico"
+],
+"layout_trick": "Product ladder: rising dark steps with real jet photos on top and specs below, next to bars and a combo chart.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 9,
+"purpose": "kpis-operacionais",
+"message": "Record backlog meets a faster delivery pace.",
+"visual": [
+"colunas",
+"linha",
+"pizza",
+"barras-horizontais"
+],
+"layout_trick": "Clean 2x2; short wedge from the last column opens into the composition of that same number, in a dashed box.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 10,
+"purpose": "posicionamento-competitivo",
+"message": "Critical suppliers and a few airlines hold leverage.",
+"visual": [
+"barras-horizontais",
+"colunas+linha"
+],
+"layout_trick": "2x2 with pale panels and fold in the top row; bracket sums top customers with a short anchored label; annotated jet photo.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 11,
+"purpose": "posicionamento-competitivo",
+"message": "The E175 is the only 70-90 seat jet for sale in the West.",
+"visual": [
+"outro:cards-produto"
+],
+"layout_trick": "Three stepped product cards with real photos, spec bullets and an 'edge' strip; the focus card is dark.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 12,
+"purpose": "posicionamento-competitivo",
+"message": "Small narrowbody jets: Embraer vs Airbus side by side.",
+"visual": [
+"outro:cards-produto"
+],
+"layout_trick": "Two columns of product cards with fold between stacked planes; dark for the focus company, pale for the rival.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 13,
+"purpose": "modelo-negocio-unit-economics",
+"message": "Scope clauses protect the E175 and cap growth.",
+"visual": [
+"icones+dado-curto",
+"outro:documento"
+],
+"layout_trick": "Spine of icon rows ending in a dashed link to a compliant vs above-scope card pair and a real material-fact excerpt.",
+"quality": 3
+},
+{
+"deck": "ChallengeB",
+"page": 14,
+"purpose": "posicionamento-competitivo",
+"message": "Few rivals, mostly larger: Embraer leads its niches.",
+"visual": [
+"barras-horizontais",
+"donut",
+"outro:cards-produto"
+],
+"layout_trick": "Chained headers; stacked bars and small donut on the left; four 'vs' cards with real photos on the right.",
+"quality": 3
+}
+]

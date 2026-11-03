@@ -12,6 +12,20 @@ problemas de layout e de regra.
 - Se o slide usa peça do catálogo, o recorte de origem dela, para comparar
 - 1–2 prints de referência do mesmo propósito: `{prints}`
 
+- Exemplos reprovados pelo dono do deck: todas as imagens de `{SKILL_DIR}/references/reprovados/` e o `README.md` de lá
+- Print de origem da composição: `{print}`
+
+Você não conhece a justificativa de quem montou. Olhe como um juiz exigente que vê o slide pela primeira vez.
+
+## Verifique primeiro
+**Algo aparece do nada?** Para cada peça de profundidade, marque ALTA se falhar em um teste:
+- **Origem:** de onde ela sai? Tem de sair colada num dado real, na mesma cor, com a ponta da altura dele.
+- **Destino:** o que há dentro? Tem de expandir o dado. Uma frase num cartão reprova.
+- **Forma = conteúdo:** sólido sem conteúdo dentro, ou com só 2 valores, reprova.
+- **Função:** tape a peça com a mão. Mudou o que se entende? Se não, reprova.
+
+Rode antes `python3 {SKILL_DIR}/scripts/checar_slide.py <pptx> --profile <profile.json>`: todo ERRO dele é ALTA. Marque ALTA para qualquer item de "Reprovado pelo dono do deck" em `RULES.md`. Marque ALTA também se houver mais de um protagonista. E marque ALTA se o slide parecer uma pilha de gráficos iguais, ou claramente abaixo do print de origem lado a lado; nesse caso diga o que falta no conteúdo, se a causa for o roteiro. **Não peça mais peças para resolver sem sal.** Peça composição melhor ou dado melhor.
+
 ## Verifique, nesta ordem
 1. **Mensagem:** dá para entender a mensagem principal do roteiro em 5 segundos? Todo painel a sustenta?
 2. **Regras fixas.** Itens de RULES.md:
@@ -20,9 +34,8 @@ problemas de layout e de regra.
    - terceiro nível de texto sobre um gráfico; bloco de notas na face do slide; colunas de texto ao lado do gráfico;
    - data labels em mais de um estilo, ou com fundo claro;
    - molde com rótulo cinza, ou evidência sem origem real;
-   - menos de 2 painéis com peça de profundidade visível, salvo `visual = "sóbrio"`: marque ALTA e sugira 2 peças de `catalogo/INDEX.md`. O slide parece um dashboard de gráficos planos? Isso é ALTA;
    - gráfico de barras com só duas barras; linha com marcador nos pontos;
-   - feixe solto do dado ou assimétrico; rodapé diferente de `Sources: Company Data, Group Calculations.`;
+   - rodapé diferente de `Sources: Company Data, Group Calculations.`;
    - cor fora do papel (empresa-foco em PEER, terceiros em FOCUS, dois destaques);
    - fonte ausente.
 3. **Fidelidade:** algum número no slide difere do roteiro, foi repetido ou foi inventado?

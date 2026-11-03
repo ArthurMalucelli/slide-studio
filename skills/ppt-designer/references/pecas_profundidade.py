@@ -11,22 +11,6 @@ from pecas_base import dark, light  # noqa: E402
 
 # ---------- Sólidos ----------
 
-def two_values_stairs(s, x, y, w, h, lo=("FY25", ">27"), hi=("FY26", ">33")):
-    """Dois valores sem gráfico de duas barras: degrau no valor antigo e seta no novo. As abas têm o mesmo tamanho, para não parecerem barras. Técnica de 3R p.28."""
-    m = M((400, 92, 1422, 700), (x, y, w, h))
-    poly(s, m, ((1379, 622), (1379, 351), (1365, 359), (1312, 331), (1312, 659)), dark(F, .3))
-    poly(s, m, ((1320, 92), (1265, 122), (1365, 359), (1422, 328)), dark(F, .3))
-    poly(s, m, ((1312, 659), (1312, 331), (1365, 359), (1265, 122), (1137, 242), (1188, 268), (1188, 596)), F)
-    for x0, y0, x1, y1, c, (per, val) in ((508, 300, 1180, 412, F, hi), (440, 420, 1112, 532, D, lo)):
-        R(s, m, x0, y0, x1, y1, c)
-        tm(s, m, x0 + 28, y0, x0 + 170, y1, per, size=11, color=W, bold=True, align=PP_ALIGN.LEFT)
-        pb = m.box(x1 - 150, y0 + 24, x1 - 30, y1 - 24)
-        rr(s, *pb, W, .3); tx(s, *pb, val, size=10, bold=True, color=c)
-    poly(s, m, ((1312, 659), (1312, 431), (1245, 468), (1245, 696)), dark(D, .3))
-    poly(s, m, ((1245, 696), (1245, 468), (1120, 405), (1120, 633)), D)
-    poly(s, m, ((1312, 431), (1188, 367), (1120, 405), (1245, 468)), light(D, .18))
-
-
 def iso_plates(s, x, y, w, h):
     m = M((197, 253, 680, 567), (x, y, w, h))
     for k, c, t in ((2, light(F, .85), "Base layer"), (1, light(F, .45), "Middle layer"), (0, F, "Top layer")):

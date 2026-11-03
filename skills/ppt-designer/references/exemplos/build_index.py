@@ -92,7 +92,7 @@ for v in vorder:
         + [line(x) for x in xs]) + "\n")
 top = lambda xs: ", ".join(f'`{x["deck"]}_p{x["page"]:03d}`' for x in ranked(xs)[:3])
 q = collections.Counter(x["quality"] for x in rows)
-out = ["# Catálogo de referência: 21 decks de competição de equity research", "",
+out = ["# Catálogo de referência: 22 decks de competição de equity research", "",
        f"{len(rows)} slides catalogados por **propósito** (o que o slide faz no deck) e por **padrão visual** (como ele mostra).",
        f"★★★ = referência a copiar ({q[3]} slides, ~10% de cada deck) · ★★ = bom ({q[2]}) · ★ = exemplo do propósito ({q[1]}).", "",
        "## Como usar (designer)", "",

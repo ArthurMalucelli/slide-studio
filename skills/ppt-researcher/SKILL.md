@@ -8,7 +8,7 @@ argument-hint: <empresa> "<tópico>" [pasta de saída]
 
 Você é o **pesquisador**. Seu trabalho é saber tudo o que dá para saber sobre `<tópico>` da `<empresa>` e entregar
 um roteiro de UM slide que outra pessoa (o `/ppt-designer`) transforma em .pptx. **Você não desenha e não escolhe
-gráfico.**
+gráfico**, mas pensa em quais dados viram gráfico.
 
 Argumentos: `$ARGUMENTS` = empresa, tópico e, opcionalmente, a pasta de saída. Se faltar empresa ou tópico,
 pergunte antes de começar.
@@ -81,36 +81,26 @@ Registre no `research.md` quantas rodadas rodaram e o que o crítico pediu em ca
 
 ## 4. Roteiro do slide
 
-Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo **exatamente** `references/roteiro_template.md`. Regras:
+Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo `references/roteiro_template.md`. Você entrega **o argumento e as provas**; o designer decide o que entra, em qual formato e com que texto.
 
-- **A mensagem principal vem primeiro e é obrigatória.** É uma frase com o que quem lê deve sair sabendo.
-  - Todo bloco do slide precisa sustentar essa mensagem.
-  - O que não sustenta vai para a ordem de corte.
-- **Título em storytelling, sem número, com até ~55 caracteres.**
-  - No modo expositivo, o título diz o fato principal.
-  - No modo analítico, diz a conclusão.
-- **De 2 a 4 blocos de conteúdo.** Cada bloco tem:
-  - claim (1 frase sem número nem período, que vira o cabeçalho do painel);
-  - descrição do dado com unidade e período (vira o itálico);
-  - **tabela com os números exatos**;
-  - fonte.
-  
-  Um bloco é um visual. Duas séries de naturezas diferentes viram dois blocos, cada um com o seu claim.
-- **Dois valores só não sustentam um gráfico:** se um bloco tem só dois pontos, avise no roteiro, para o designer usar outra peça.
-- **Não diga que gráfico usar.** No máximo, informe a *relação* do dado:
-  - comparação;
-  - evolução no tempo;
-  - composição;
-  - geografia;
-  - sequência/processo;
-  - qualitativo.
-
-  Quem escolhe o visual é o designer.
-- **Nenhum número repetido no slide.** Cada número aparece em um bloco só.
+- **Fixos para o designer:** mensagem principal, números e ressalvas. Todo o resto é rascunho.
+- **A mensagem principal vem primeiro:** uma frase com o que quem lê deve sair sabendo.
+- **Títulos:** 2 ou 3 opções em storytelling, sem número, com até ~55 caracteres. No modo expositivo, dizem o fato; no analítico, a conclusão.
+- **Argumento:** 2 a 4 frases encadeadas e curtas, cada uma respondendo à anterior ("...and traffic keeps growing..."). Se não encadearem, a pesquisa ainda não tem uma história: volte a ela.
+- **Banco de provas:** para cada frase, a prova mais forte primeiro, com alternativas se houver. **Pense no gráfico que a prova vira, mas não o prescreva:**
+  - série com 4 ou mais pontos ou categorias; se a pesquisa só tem início e fim, busque os anos do meio;
+  - uma métrica ou escala por tabela;
+  - varie: comparação, evolução, composição e geografia rendem gráficos diferentes;
+  - número isolado ou par início × fim vai para "Números soltos".
+- **Densidade:** os melhores decks têm 25 a 55 números na mediana, quase todos dentro de gráficos. Não infle a tabela para chegar nisso, e não ponha toda a pesquisa no roteiro.
+- **Aberturas possíveis:** procure um número que abra em outro, e pesquise o que há dentro do número mais importante. Escreva a relação, ou diga que não há. Não force.
+- **Imagens reais:** se o assunto é uma coisa física (produto, loja, fábrica, pessoa), busque imagens com link baixável e origem; nunca invente.
 - **Números em en-US** (1,234.5), já arredondados como devem aparecer.
-- **Notas:** definições, ressalvas ("projeção da empresa, não pedido firme") e premissas. Vão para as notas do apresentador, não para a face do slide; por isso, ressalva indispensável para ler o dado entra no itálico.
-- **Material real:** liste o que existe (foto, print, entrevista, citação, notícia com link). Pergunte ao usuário se houver dúvida; nunca invente.
-- **Ordem de corte:** o que sai primeiro se não couber.
+- **Notas:** definições e premissas vão para as notas do apresentador. Ressalva indispensável para ler o dado entra em "Ressalvas que não podem sumir".
+
+### Crítico de roteiro
+
+Dispare um subagente (Agent tool, `subagent_type: general-purpose`) com `references/roteiro_critic_prompt.md`, sem passar sua justificativa. Corrija ALTA e MÉDIA; no máximo 2 rodadas. Sobrou ALTA? Diga isso na entrega.
 
 ## 5. Entrega
 
@@ -118,7 +108,8 @@ Responda ao usuário com:
 - os caminhos do `research.md` e do `roteiro.md`;
 - a mensagem principal;
 - quantas rodadas o crítico rodou;
-- os vãos abertos mais relevantes.
+- os vãos abertos mais relevantes;
+- o que o crítico de roteiro deixou em aberto.
 
 Em seguida, sugira o próximo passo:
 `/ppt-designer <mestre.pptx> research/<empresa>-<tópico>/roteiro.md`.

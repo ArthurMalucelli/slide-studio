@@ -249,10 +249,14 @@ def tracker(slide, items, active, x, y, size=14):
 
 
 def panel_header(slide, x, y, w, head, sub):
-    """Cabeçalho desenhado: frase-conclusão 14pt + itálico 11pt (o que o gráfico mostra, unidade, período).
+    """Cabeçalho desenhado: frase-conclusão 14pt (marque 1 ou 2 palavras-chave com **assim**) + itálico 11pt.
     Devolve o y onde o visual começa. Um cabeçalho para um visual: dois gráficos pedem dois painéis."""
     _check_no_digits("cabeçalho de painel", head)
-    hd = text(slide, x, y, w, 0.28, [[(head, {"color": FG, "size": 14})]], anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
+    # **palavra-chave** sai em negrito na cor de destaque da série principal
+    partes = [t for t in head.split("**")]
+    runs = [(t, {"color": FOCUS, "size": 14, "bold": True} if i % 2 else {"color": FG, "size": 14})
+            for i, t in enumerate(partes) if t]
+    hd = text(slide, x, y, w, 0.28, [runs], anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
     hd.text_frame.word_wrap = False
     text(slide, x, y + 0.28, w, 0.23, [[(sub, {"italic": True, "color": MUTED, "size": 11})]],
          anchor=MSO_ANCHOR.MIDDLE, margin=0.0)

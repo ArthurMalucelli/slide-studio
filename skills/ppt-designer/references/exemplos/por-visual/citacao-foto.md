@@ -1,8 +1,9 @@
-# Padrão visual: citacao-foto (77 slides)
+# Padrão visual: citacao-foto (78 slides)
 
 Quando usar: pesquisa primária: entrevista com foto e citação.
 
 - `../prints/ABInBev_p006.jpg` (★★★) "Moat measured with Greenwald MVMS: 8.3% / 0.5% = 16.6 years of moat" · visual: kpi-numeros-grandes, scatter-bolhas, citacao-foto · propósito: posicionamento-competitivo · truque: Expert photo with pull-quote, then a big yellow equation 8.3% ÷ 0.5% = 16.6 in a dashed box, scatter with a fitted curve alongside.
+- `../prints/ChallengeB_p004.jpg` (★★★) "Decades of expertise and certification record reinforce the moat." · visual: timeline, barras-horizontais, citacao-foto · propósito: posicionamento-competitivo · truque: 2x2 mixing ribbon timeline, ranked bars, lollipop chart and real portrait with sourced quote.
 - `../prints/Intelbras_p008.jpg` (★★★) "Reseller loyalty is sustained by incentive and training programs, proven by a reseller field survey." · visual: colunas, lineup-imagens, citacao-foto · propósito: pesquisa-primaria · truque: Primary research shown inline: survey bar chart with n-callout, photo strip of resellers, and a quote box with portrait and name.
 - `../prints/RestaurantBrandsInternational_p013.jpg` (★★★) "Greenwald EPV vs asset value shows RBI's moat (EPV 27.8bn vs AV 7.8bn)" · visual: bridge-cascata, citacao-foto · propósito: posicionamento-competitivo · truque: Waterfall of asset value build-up with grey bars for components, orange for franchise gap, red for EPV; academic expert photo with title bar.
 - `../prints/Intelbras_p044.jpg` (★★★) "71% of Intelbras Security revenue is protected from white label; only R$791mn is exposed." · visual: barra-100, colunas, citacao-foto · propósito: riscos · truque: Quantified risk exposure: stacked 71%/29% bar flowing into funnel breakdown, with protected vs exposed bars across peers.
