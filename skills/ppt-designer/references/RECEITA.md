@@ -26,17 +26,19 @@ Escolha no banco de provas do roteiro. Use a tabela abaixo como ponto de partida
 | Como funciona ou a sequência | Diagrama de etapas, cadeia com ícones, timeline com datas reais |
 | O que é o produto | Foto real recortada + poucos dados |
 
-**Varie os tipos.** Um slide de 4 painéis tem 3 ou 4 tipos diferentes: barras, colunas + linha, cadeia ilustrada e área (ChallengeB p.3); colunas, linhas, pizza e barras (ChallengeB p.9). Até um painel pode não ser gráfico, se os outros provarem com dado.
+**Varie os tipos.** Dois gráficos do mesmo tipo já pesam: barras, colunas + linha e área, mais a cadeia ilustrada, formam um bom slide (ChallengeB p.3).
 
 ## 3. A grade sai do número de provas
 
 | Provas | Grade | Exemplo |
 |---|---|---|
 | 2 | Dois painéis largos, altura inteira | ChallengeB p.7 |
-| 3 | Três colunas com uma faixa embaixo, ou um painel largo em cima e dois embaixo | ChallengeB p.2, p.5 |
-| 4 | 2×2 com painéis iguais | ChallengeB p.3, p.9; Sabesp p.18 |
+| 3 | Um grande e dois pequenos, ou três colunas com uma faixa embaixo | ChallengeB p.2, p.5 |
+| 3 + 1 diferente | 2×2 com 3 gráficos e o quarto de outra natureza | ChallengeB p.3, p.4, p.10 |
 
-Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grade continua alinhada. Nunca mais que 4. Uma prova por painel, com tabela e mapa contando como prova. Os blocos ficam alinhados, e nada entra "onde sobrou espaço".
+**No máximo 3 gráficos por slide.** Quatro gráficos em quadrantes é demais, segundo o dono. O quarto quadrante, quando existe, é outra coisa: ilustração, cadeia de valor, timeline, citação ou diagrama, ou texto curto preso a um dado. Painel só de frases soltas continua reprovado.
+
+Painéis podem ter altura diferente quando uma prova tem muito mais dado; a grade continua alinhada. Uma prova por painel, com tabela e mapa contando como prova. Os blocos ficam alinhados, e nada entra "onde sobrou espaço".
 
 ## 4. Dê profundidade ao slide, com uma peça
 
@@ -110,7 +112,7 @@ Onde cortar primeiro:
 - **Subtítulo:** uma ideia, sem lista de números.
 - **Tabela:** menos colunas; tabela de palavras nunca.
 
-Quatro painéis cabem em 90 palavras (ChallengeB p.3 e p.9): o problema nunca é o número de painéis, é o que se escreve em volta deles.
+Quatro painéis cabem em 90 palavras (ChallengeB p.3): o texto em volta pesa tanto quanto o número de gráficos.
 
 ## 9. Compare e corrija
 

@@ -210,6 +210,9 @@ def checar(pptx, pdf, profile):
     if len(grandes) < 2 and not cunha_grande:
         err.append("Slide sem profundidade: faltam painéis com volume (`painel_volume`, `ponte_volume`) ou dobra.")
 
+    if len(graficos) > 3:
+        err.append(f"{len(graficos)} gráficos no slide (máximo 3). O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama.")
+
     # Gráficos: duas barras, dois pontos, marcador
     for g in graficos:
         ch = g.chart
@@ -238,8 +241,8 @@ def checar(pptx, pdf, profile):
         err.append(f"{pal} palavras no slide (máximo ~{MAX_PALAVRAS}; os melhores têm 85 a 130). Corte texto: itálicos, anotações, legendas longas.")
     elif pal > ALVO_PALAVRAS:
         av.append(f"{pal} palavras no slide; os melhores têm 85 a 130.")
-    if len(graficos) < 2:
-        av.append(f"{len(graficos)} gráfico nativo. O gabarito quase sempre prova com 2 ou mais exibits; mapa desenhado conta.")
+    if not graficos:
+        av.append("Nenhum gráfico nativo: confira se o slide prova com dado.")
     if "Sources: Company Data, Group Calculations." not in " ".join(w[4] for w in words).replace("  ", " "):
         av.append("Rodapé diferente de `Sources: Company Data, Group Calculations.`")
 
