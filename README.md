@@ -107,6 +107,8 @@ Se o Claude não reconhecer `/ppt-researcher`, use o nome com prefixo: `/slide-s
 | `skills/ppt-designer/` | Instruções do designer, regras, componentes, armadilhas, prompt do crítico de design |
 | `skills/ppt-designer/references/exemplos/` | Catálogo: `INDEX.md`, `por-proposito/`, `por-visual/`, `prints/` (973 slides) e os 21 PDFs |
 | `skills/ppt-designer/lib/slide_style.py` | Biblioteca de componentes: gráficos nativos com pills, combo coluna+linha, rosca, mapa por região, 3D isométrico, legendas, rodapé |
+| `skills/ppt-designer/references/catalogo/` | Catálogo com mais de 500 mapas, peças de profundidade, diagramas e elementos: origem, recorte e receita |
+| `skills/ppt-designer/references/pecas_*.py` | Cerca de 270 peças prontas em formas editáveis, que se adaptam às cores de qualquer mestre |
 | `skills/ppt-designer/lib/master_profile.py` | Lê qualquer mestre e gera `profile.json`: grade, título/subtítulo, rodapé, zonas proibidas, paleta do tema |
 | `skills/ppt-designer/references/exemplo_componentes.py` | Exemplo de montagem (dados fictícios): os mesmos painéis em 2 grades diferentes, com qualquer mestre |
 | `skills/ppt-designer/scripts/export_pdf.sh` / `.ps1` | Exportam .pptx → PDF pelo PowerPoint (Mac / Windows) |

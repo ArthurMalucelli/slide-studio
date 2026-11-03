@@ -17,6 +17,7 @@ São regras aprendidas em decks reais de equity research, com feedback de quem a
 | **Tudo alinhado à grade do mestre** (`ss.cols`, `ss.rows`, `profile.json`) | Cabeçalhos dos painéis vizinhos na mesma altura, margens iguais |
 | **Nada encosta nas zonas proibidas do mestre** (`grid.forbidden`: logos, curvas, faixas) | O mestre cobre essa área |
 | **Cor com significado fixo** (tabela abaixo) | Quem lê aprende o código uma vez e o reaproveita no deck inteiro |
+| **Evidência só com material real.** Foto, print, entrevista, citação e notícia nunca são inventados; o molde com rótulo cinza não vai para a entrega | A banca cobra a origem, e prova falsa derruba o deck |
 | **Fonte em todo slide** (`ss.footer`) | Padrão universal nos decks de referência |
 | **Números exatamente como no roteiro**, texto fixo en-US nos rótulos (`texts=`) | O designer não altera dado; formatação regional do PowerPoint quebra números |
 | **Validar no PDF exportado pelo Microsoft PowerPoint** | LibreOffice e Keynote renderizam gráficos de outro jeito e escondem bugs |
@@ -29,7 +30,7 @@ São regras aprendidas em decks reais de equity research, com feedback de quem a
 |---|---|---|
 | Fundo | branco / do mestre / escuro | branco |
 | Barras e blocos de dados | planos / 3D isométrico | planos |
-| 3D | só ilustração / também dado / nunca | só ilustração (peças e limites em `PROFUNDIDADE.md`) |
+| 3D | só ilustração / também dado / nunca | só ilustração (peças e limites em `catalogo/INDEX.md`) |
 | Números grandes / key takeaways | não / sim | **não** |
 
 ## Papéis de cor (`ss.FOCUS`…; hex vem do tema do mestre ou de `deck_prefs.palette`)

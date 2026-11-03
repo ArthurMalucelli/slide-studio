@@ -1,0 +1,1785 @@
+[
+ {
+  "element": "Before/Now gradient tiles over conversion rows",
+  "category": "comparison",
+  "deck": "Senior Sistemas",
+  "pages": [
+   3
+  ],
+  "crop": "d_before-now-gradient-tiles-over-conversion-rows.png",
+  "quality": 2,
+  "what_it_does": "Shows a model shift as two gradient tiles of what the product covered, above rows that convert each old term into its new one.",
+  "how_built": "Two equal dark-to-teal gradient rectangles titled Antes/Hoje with diamond-bullet lists; below, two icon headers and two rows of hard-shadow outlined chips joined by short arrows (Licenciamento to SaaS, Infraestrutura to PaaS).",
+  "use_for": "Business model transitions, on-prem to cloud, licence to subscription.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Acronym spoke hub around a pictogram",
+  "category": "flow-cycle",
+  "deck": "Senior Sistemas",
+  "pages": [
+   4
+  ],
+  "crop": "d_acronym-spoke-hub-around-a-pictogram.png",
+  "quality": 2,
+  "what_it_does": "Defines a product suite by putting the buyer in the middle and eight acronyms on thin spokes around it.",
+  "how_built": "Central building pictogram; eight bold 18pt acronyms in a circle with a one-line grey gloss under each; hairline spokes stop short of both the picture and the label; no boxes at all.",
+  "use_for": "Module maps, product portfolio, segments served by one platform.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Core and Near Core twin rings with fanned product notes",
+  "category": "pillars",
+  "deck": "Senior Sistemas",
+  "pages": [
+   14
+  ],
+  "crop": "d_core-and-near-core-twin-rings-with-fanned-produc.png",
+  "quality": 3,
+  "what_it_does": "Sorts products into two tiers by giving each tier a ringed object with fan lines out to its products on both sides.",
+  "how_built": "Two rings stacked vertically, each with a cube icon and a label above (Core, Near Core); from each ring, two or four thin angled lines fan left and right to small text blocks with a green product title.",
+  "use_for": "Core versus adjacent portfolio, business lines with different maturity.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Count beads on a year rail",
+  "category": "timeline",
+  "deck": "Senior Sistemas",
+  "pages": [
+   36
+  ],
+  "crop": "d_count-beads-on-a-year-rail.png",
+  "quality": 2,
+  "what_it_does": "Turns an M&A plan into a rail of circled deal counts with years alternating above and below.",
+  "how_built": "Horizontal hairline running off the slide edge; five equal grey outlined circles with a large digit; year labels in bold teal alternate above and below the beads.",
+  "use_for": "Planned deals per year, roll-out counts, store openings by year.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Tinted pentagon summary field pointing into rationale",
+  "category": "composition",
+  "deck": "Vasta",
+  "pages": [
+   3
+  ],
+  "crop": "d_tinted-pentagon-summary-field-pointing-into-rati.png",
+  "quality": 3,
+  "what_it_does": "Splits a one-page investment summary into a tinted facts zone whose right edge points at the white reasoning zone.",
+  "how_built": "Pale pink freeform covers the left 60 percent and ends in a shallow chevron nose; facts and thesis sit centred on it, while Entry, Exit and Risks sit on white to the right as diamond-bulleted rows of small cards.",
+  "use_for": "Investment summary, one-page memo, IC-style overview.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Diamond return rail from IRR to MOIC",
+  "category": "timeline",
+  "deck": "Vasta",
+  "pages": [
+   3
+  ],
+  "crop": "d_diamond-return-rail-from-irr-to-moic.png",
+  "quality": 2,
+  "what_it_does": "Draws the holding period as a vertical line whose two ends carry the two return numbers.",
+  "how_built": "Thin vertical magenta line with a diamond at each end; IRR above the top diamond, MOIC under the bottom one, and 'In 6 years' interrupting the line at mid-height.",
+  "use_for": "Return summary for a private deal or a holding-period thesis.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Capsule columns with icon disc and logo stack",
+  "category": "pillars",
+  "deck": "Vasta",
+  "pages": [
+   12
+  ],
+  "crop": "d_capsule-columns-with-icon-disc-and-logo-stack.png",
+  "quality": 3,
+  "what_it_does": "Presents portfolio segments as tall rounded capsules where the stacked brands under each label prove the claim.",
+  "how_built": "Five tall stadium outlines in tints of the brand colour; a filled icon disc sits at the top of each, then a bold label, a small italic descriptor, a short rule and three or four monochrome logos stacked in the lower half.",
+  "use_for": "Brand portfolios, segment architecture, ecosystem of products.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Option chain with fading pills and cards",
+  "category": "flow-cycle",
+  "deck": "Vasta",
+  "pages": [
+   25
+  ],
+  "crop": "d_option-chain-with-fading-pills-and-cards.png",
+  "quality": 3,
+  "what_it_does": "Shows staged real options left to right with colour strength falling as each option gets more conditional.",
+  "how_built": "Row of four pills (Now, If X validates, Separate option) over four rounded outline cards with a filled value chip at the base; the fill goes magenta, tint, teal, grey to encode rising conditionality.",
+  "use_for": "Expansion plans, staged capex, optionality slices of value.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "J-curve with asset illustration pinned at breakeven",
+  "category": "chart-styling",
+  "deck": "Vasta",
+  "pages": [
+   25
+  ],
+  "crop": "d_j-curve-with-asset-illustration-pinned-at-breake.png",
+  "quality": 2,
+  "what_it_does": "Annotates the cash curve with its trough and payoff and parks a picture of the asset where it crosses zero.",
+  "how_built": "Dotted line with round markers over a thin zero axis; rounded tinted callouts for Max risk and Upside on hook leaders; a vertical bar flag marks the payback year; an isometric building overlaps the curve on the right.",
+  "use_for": "Single-project payback, new-unit economics, greenfield capex.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Numbered chain header driving one row per step",
+  "category": "flow-cycle",
+  "deck": "Vibra",
+  "pages": [
+   20
+  ],
+  "crop": "d_numbered-chain-header-driving-one-row-per-step.png",
+  "quality": 2,
+  "what_it_does": "Uses a thin numbered chain as a header and hangs one sentence and one logo set from each step.",
+  "how_built": "Four small dashed numbered tiles on a dashed line with step names under them; below, four outlined rows numbered 1 to 4, each with a sentence on the left and an icon or logo cell on the right.",
+  "use_for": "Supply chain with players at each stage.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "KPI bubble cluster with loose droplets",
+  "category": "mosaic",
+  "deck": "Vibra",
+  "pages": [
+   27
+  ],
+  "crop": "d_kpi-bubble-cluster-with-loose-droplets.png",
+  "quality": 2,
+  "what_it_does": "Replaces a KPI row with a loose cluster of soft circles of different sizes, with small empty droplets as texture.",
+  "how_built": "Three or four pale green circles of varied size holding a number and caption, overlapping nothing; six to ten small empty circles of the same tint scattered around them in free positions.",
+  "use_for": "Footprint or scale KPIs where a table would feel flat.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Slanted two-tone How-it-works band",
+  "category": "composition",
+  "deck": "Vibra",
+  "pages": [
+   30
+  ],
+  "crop": "d_slanted-two-tone-how-it-works-band.png",
+  "quality": 1,
+  "what_it_does": "Divides a mechanism note from its assumptions with a band whose fill ends on a diagonal.",
+  "how_built": "Full-width thin band; left 55 percent in mint, ending in a slanted edge, with bold question and two lines; right part pale grey with a dashed vertical and italic assumptions.",
+  "use_for": "Mechanism plus assumptions under a structure diagram.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Staged deal columns closing on a final structure panel",
+  "category": "flow-cycle",
+  "deck": "Vibra",
+  "pages": [
+   37
+  ],
+  "crop": "d_staged-deal-columns-closing-on-a-final-structure.png",
+  "quality": 3,
+  "what_it_does": "Summarises a multi-step transaction as bordered columns with big stats, chevrons between them and the end-state org chart as the last panel.",
+  "how_built": "On dark, three neon-green-outlined columns each holding two numbered steps with a large stat per step, and thin chevrons in the gutters; a fourth wider column holds the final structure chart; assumptions run in a footer.",
+  "use_for": "Transaction summary, multi-stage deal or restructuring recap.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Logo treemap zoomed out from a sliver into a second treemap",
+  "category": "mosaic",
+  "deck": "3R Petroleum",
+  "pages": [
+   5
+  ],
+  "crop": "d_logo-treemap-zoomed-out-from-a-sliver-into-a-sec.png",
+  "quality": 3,
+  "what_it_does": "Shows the dominant player's treemap, then opens its tiny remainder into a second treemap of the niche.",
+  "how_built": "Left treemap with one giant tile filled with a ghosted logo; the narrow right tiles are joined by a grey trapezoid wall to a second treemap, whose tiles use full logos as the only labels; tile colours step from dark to light.",
+  "use_for": "Market share where the niche is invisible beside the incumbent.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Stepped lifecycle silhouette with numbered phase key",
+  "category": "chart-styling",
+  "deck": "3R Petroleum",
+  "pages": [
+   5
+  ],
+  "crop": "d_stepped-lifecycle-silhouette-with-numbered-phase.png",
+  "quality": 3,
+  "what_it_does": "Draws an asset's cash profile as a blocky silhouette split by who owns each phase, keyed to numbered tiles.",
+  "how_built": "Stepped polygon around a cash-flow axis, with phase digits inside each block and two colours for the two owners; headers 'Incumbent focus' and 'Niche focus' above; a 2-by-3 grid of dark rounded tiles lists the numbered phase names.",
+  "use_for": "Asset lifecycle, where the company plays in the life of a well, plant or product.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Spine timeline with alternating notched banners",
+  "category": "timeline",
+  "deck": "3R Petroleum",
+  "pages": [
+   24
+  ],
+  "crop": "d_spine-timeline-with-alternating-notched-banners.png",
+  "quality": 3,
+  "what_it_does": "Tells a financing history down a vertical spine with date banners flagging out to alternating sides.",
+  "how_built": "Dark vertical line in a pale grey panel; dark, then one light, swallowtail banners holding the date, leaving the line left or right; bold amount and label beneath each banner; a tinted header pill sits on the panel top.",
+  "use_for": "Debt raises, M&A history, funding rounds.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Numbered badges on radar vertices keyed to a list",
+  "category": "matrix",
+  "deck": "3R Petroleum",
+  "pages": [
+   101
+  ],
+  "crop": "d_numbered-badges-on-radar-vertices-keyed-to-a-lis.png",
+  "quality": 3,
+  "what_it_does": "Removes axis labels from a radar and uses numbered badges at the vertices that map to a scored list.",
+  "how_built": "Hairline concentric pentagons with a single coloured polygon; dark pentagon badges with a white digit float outside each vertex; the right panel repeats the same badges beside a bold force name with its score and a short paragraph.",
+  "use_for": "Porter forces, scorecards with long criterion text.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "KPI satellite dots on a faint orbit",
+  "category": "flow-cycle",
+  "deck": "AB InBev",
+  "pages": [
+   32
+  ],
+  "crop": "d_kpi-satellite-dots-on-a-faint-orbit.png",
+  "quality": 2,
+  "what_it_does": "Places claims as solid dots on a barely visible ring around the logo, each with a short caps label.",
+  "how_built": "Pale grey central disc with logo; very pale wide ring around it; five solid brand-colour dots on the ring with caps text outside; on the left, a large coloured name is linked to the disc by a hook line.",
+  "use_for": "Product-at-a-glance, attributes of one business unit.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Nested TAM circles with tabbed leaders",
+  "category": "funnel-pyramid",
+  "deck": "AB InBev",
+  "pages": [
+   46
+  ],
+  "crop": "d_nested-tam-circles-with-tabbed-leaders.png",
+  "quality": 2,
+  "what_it_does": "Nests the addressable market inside the total with circles tangent at the base, each tied to a side label.",
+  "how_built": "Two circles sharing a bottom tangent in pale and stronger yellow, value inside each near its top; horizontal leaders run to labels with a short vertical colour tab.",
+  "use_for": "TAM and SAM with a large size gap.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Off-page progress arcs keyed to a numbered list",
+  "category": "chart-styling",
+  "deck": "AB InBev",
+  "pages": [
+   51
+  ],
+  "crop": "d_off-page-progress-arcs-keyed-to-a-numbered-list.png",
+  "quality": 2,
+  "what_it_does": "Shows several progress scores as concentric partial arcs bleeding off the left edge, one per list item.",
+  "how_built": "Four concentric thick arcs cut by the slide's left margin, grey track with a yellow portion of different length; to the right, large thin numerals 01 to 04 with one line each.",
+  "use_for": "Improvement areas, scorecards of initiatives.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Phase columns over a benefit area and effort curve",
+  "category": "timeline",
+  "deck": "AB InBev",
+  "pages": [
+   81
+  ],
+  "crop": "d_phase-columns-over-a-benefit-area-and-effort-cur.png",
+  "quality": 3,
+  "what_it_does": "Aligns four programme phases to a rising benefit area and a falling effort line, with the actions under each phase.",
+  "how_built": "Four dark header boxes spanning the width with a double arrow and duration under each; one yellow freeform area climbing across them with an S-curved black line crossing it and a triangular kickoff marker; bullets in columns aligned below.",
+  "use_for": "Transformation programmes, roadmaps with a value build-up.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Long chain above short chain to show disintermediation",
+  "category": "comparison",
+  "deck": "AB InBev",
+  "pages": [
+   101
+  ],
+  "crop": "d_long-chain-above-short-chain-to-show-disintermed.png",
+  "quality": 3,
+  "what_it_does": "Stacks the traditional and direct chains on the same icon grid, so the missing steps show as empty space.",
+  "how_built": "Grey panel; upper row of six line icons with chevrons, lower row of three icons spaced across the same width with chevrons; italic row labels and a two-line note beneath each row.",
+  "use_for": "Channel disruption, removal of middlemen, direct versus indirect routes.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Acrostic drop-letter pillar cards",
+  "category": "pillars",
+  "deck": "AB InBev",
+  "pages": [
+   121
+  ],
+  "crop": "d_acrostic-drop-letter-pillar-cards.png",
+  "quality": 2,
+  "what_it_does": "Makes three tall cards spell the framework through an oversized first letter in a contrasting colour.",
+  "how_built": "Three full-height solid-colour cards with a line icon centred on top; heading with its first letter at 1.5 times size in dark, rest in white; chevron-bulleted list below.",
+  "use_for": "ESG, or any framework named by an acronym.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Twin vertical chains with check and cross verdict rows",
+  "category": "comparison",
+  "deck": "BTG Pactual",
+  "pages": [
+   35
+  ],
+  "crop": "d_twin-vertical-chains-with-check-and-cross-verdic.png",
+  "quality": 3,
+  "what_it_does": "Compares two companies by running the same three-link chain side by side, with each link's consequence as a green check or a red cross row.",
+  "how_built": "Each side has a logo plus a short incentive note, then three hard-shadow icon tiles stacked with arrows; to the right of each tile, a pale green row with a ringed check or a pale red row with a ringed cross; one chain uses double arrows, the other a broken elbow line.",
+  "use_for": "Why an incentive or model works for one player and fails for its rival.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Logo pentagon constellation around a business unit",
+  "category": "icons",
+  "deck": "BTG Pactual",
+  "pages": [
+   43
+  ],
+  "crop": "d_logo-pentagon-constellation-around-a-business-un.png",
+  "quality": 2,
+  "what_it_does": "Shows what a unit contains by setting product logos on the corners of an outlined pentagon that names the unit in the middle.",
+  "how_built": "Thin blue pentagon outline with caps text in the centre; a logo at each vertex, knocked over the line with the panel colour; above it, an old logo arrows into the new one to record the rebrand.",
+  "use_for": "Group brands, digital unit composition, sub-brands of a holding.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Two-tone arc arrows as a two-engine flywheel",
+  "category": "flow-cycle",
+  "deck": "BTG Pactual",
+  "pages": [
+   48
+  ],
+  "crop": "d_two-tone-arc-arrows-as-a-two-engine-flywheel.png",
+  "quality": 3,
+  "what_it_does": "Draws mutual reinforcement as two huge opposed arc arrows, each owned by one business, around the company logo.",
+  "how_built": "Two thick block-arc arrows, medium and dark, forming a full ring around a white logo disc with a hairline inner circle; a rectangular name tag sits on the left and right of the ring; four text blocks at the diagonals connect through hairlines with diamond ends.",
+  "use_for": "Synergy between two segments, reinforcing loops with two engines.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Triangle-pointer process axis",
+  "category": "timeline",
+  "deck": "BTG Pactual",
+  "pages": [
+   96
+  ],
+  "crop": "d_triangle-pointer-process-axis.png",
+  "quality": 2,
+  "what_it_does": "Hangs step captions over a line with grey downward triangles ending in dots, closing on a bold result statement.",
+  "how_built": "Pale grey strip; hairline axis with three solid dots; a short grey triangle drops from each caption to its dot, with the middle dot in dark colour; the last column is a bold conclusion and has no pointer.",
+  "use_for": "Customer journey or mechanism summary under a diagram.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Mirror spines under a shared question bar",
+  "category": "comparison",
+  "deck": "BTG Pactual",
+  "pages": [
+   98
+  ],
+  "crop": "d_mirror-spines-under-a-shared-question-bar.png",
+  "quality": 2,
+  "what_it_does": "Sets two parties' benefits in mirrored columns with text aligned toward outer ring-bulleted spines.",
+  "how_built": "Grey bar across the slide with a central question and a dark tab at each end naming the side; two vertical spine lines at the far left and far right; three thick ring bullets per spine; left text ragged right of its spine, right text right-aligned to its spine.",
+  "use_for": "Two-sided value exchange, partnerships, platform with two user groups.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Serpentine era timeline with diamonds",
+  "category": "timeline",
+  "deck": "BTG Pactual",
+  "pages": [
+   112
+  ],
+  "crop": "d_serpentine-era-timeline-with-diamonds.png",
+  "quality": 3,
+  "what_it_does": "Folds a timeline back on itself in one U-turn, so a long history stays large in half a slide.",
+  "how_built": "One thick line going left to right, then a round U-turn to run right to left, ending in an arrowhead on the last date; outlined diamonds at each era with a large pale decade label and two-colour caption; the line fades from pale at the start to saturated at the end.",
+  "use_for": "Industry history, eras next to a structural diagram.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Service stack with fee arrows to two clients",
+  "category": "flow-cycle",
+  "deck": "BTG Pactual",
+  "pages": [
+   112
+  ],
+  "crop": "d_service-stack-with-fee-arrows-to-two-clients.png",
+  "quality": 2,
+  "what_it_does": "Shows a two-sided business as a vertical product stack with paired flow arrows out to the two customer groups.",
+  "how_built": "Five stacked rows in shades of one blue under a dark header, framed in dark; to the right, paired arrows pointing opposite ways with service above and fee below in blue; each pair ends in an outlined pale green tile with a big icon and label.",
+  "use_for": "How a bank or intermediary earns from each side.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Stake chips into target logo with board list attached",
+  "category": "org-structure",
+  "deck": "BTG Pactual",
+  "pages": [
+   122
+  ],
+  "crop": "d_stake-chips-into-target-logo-with-board-list-att.png",
+  "quality": 2,
+  "what_it_does": "Combines ownership and control by hanging the target's board from the same diagram as its shareholders.",
+  "how_built": "Three logos or grey tags in a row with small italic percent chips on the wires dropping to a large target logo; underneath, a pale panel split by a vertical rule with 'nominated by' at left and director names at right; a double-slash mark breaks the connector.",
+  "use_for": "Joint ventures, minority stakes where board control matters.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Vertical value chain rail with icon and callout cards",
+  "category": "flow-cycle",
+  "deck": "Arezzo&Co",
+  "pages": [
+   2
+  ],
+  "crop": "d_vertical-value-chain-rail-with-icon-and-callout-.png",
+  "quality": 2,
+  "what_it_does": "Runs a value chain down a tinted side rail, so it can sit next to charts without taking their width.",
+  "how_built": "Pale blue vertical panel with a header tab; three steps alternate a line icon and a small blue-outlined text box, joined by thin elbows; the rail closes with a dark conclusion box.",
+  "use_for": "Sector primers that need a chain and charts on one page.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Wire globe with leaders to tiered activity rows",
+  "category": "org-structure",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   5
+  ],
+  "crop": "d_wire-globe-with-leaders-to-tiered-activity-rows.png",
+  "quality": 3,
+  "what_it_does": "Shows a conglomerate as one network sphere, with three leader lines from its surface to labelled business rows.",
+  "how_built": "Wireframe sphere built from lines and dots in the dark brand colour, cut by the left card; three straight leaders from three nodes pass a small bold segment label and end in a solid dot beside a one-line role description.",
+  "use_for": "Group overview, holding segments, integrated businesses.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Step columns hanging from a ticked rail",
+  "category": "flow-cycle",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   9,
+   15
+  ],
+  "crop": "d_step-columns-hanging-from-a-ticked-rail.png",
+  "quality": 3,
+  "what_it_does": "Sets out a multi-step plan as a full-width rail crossed by short ticks, each dropping a column with rationale chips and bottom KPIs.",
+  "how_built": "A thin line crosses the slide; a cross tick marks each of four columns with 'Nth Step' beside it; each column is a faint outlined panel with an italic title, two dashed chips and three stacked KPI lines. Reused later with three columns dimmed.",
+  "use_for": "Action plans, deleveraging, multi-step recommendations.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Event timeline stacked over analog-case bars",
+  "category": "timeline",
+  "deck": "Kering - Moncler",
+  "pages": [
+   12
+  ],
+  "crop": "d_event-timeline-stacked-over-analog-case-bars.png",
+  "quality": 2,
+  "what_it_does": "Pairs the current case's dated events with a bar set of prior cases to answer how long this usually takes.",
+  "how_built": "Upper band: arrowed axis with small tan ring nodes and arrow-capped stems alternating up and down to centred captions. Lower band: under a caps header and rule, four grey bars with brand and year labels, closed by a dashed vertical and a pale tan note.",
+  "use_for": "Turnarounds, recoveries, base-rate arguments.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Segmented C-wheel with icon wedges around a title disc",
+  "category": "flow-cycle",
+  "deck": "Meliuz",
+  "pages": [
+   13
+  ],
+  "crop": "d_segmented-c-wheel-with-icon-wedges-around-a-titl.png",
+  "quality": 2,
+  "what_it_does": "Holds a culture statement in a ringed disc while a graded sweep of wedges counts the episodes told in the dark list beside it.",
+  "how_built": "Thick grey ring with an italic title inside; around its right side, four ring segments going from grey to saturated red, each with a line icon; the dark panel to the right has numbered red 01-04 stories.",
+  "use_for": "Track record, episodes of execution, milestones without dates.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "SWOT cards with corner sashes around a quartered ring",
+  "category": "matrix",
+  "deck": "Meliuz",
+  "pages": [
+   71
+  ],
+  "crop": "d_swot-cards-with-corner-sashes-around-a-quartered.png",
+  "quality": 3,
+  "what_it_does": "Sets four grey cards around a logo ring, with the quadrant name as a diagonal sash on each outer corner.",
+  "how_built": "Four pale grey cards with centred text and a gap between them; a thick quartered ring with the logo overlaps the inner corners, with red, pink and grey segments; each card has a diagonal 45-degree ribbon on the outer corner in its quadrant's colour, grey for threats.",
+  "use_for": "SWOT, two-by-two lists with a clear good and bad reading.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Deadline columns ending in a darkening slanted band",
+  "category": "timeline",
+  "deck": "Sabesp",
+  "pages": [
+   11
+  ],
+  "crop": "d_deadline-columns-ending-in-a-darkening-slanted-b.png",
+  "quality": 3,
+  "what_it_does": "Lays dated obligations in columns whose feet merge into one band that darkens with time and rises in steps.",
+  "how_built": "Six grey-topped cards with a bold date and two short notes; below, one continuous row of colour blocks going from pale to navy, each with a white headline and a slanted top edge so the row climbs to the right.",
+  "use_for": "Concession milestones, covenants, regulatory calendars.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Illustrated process chain with a risk row beneath",
+  "category": "flow-cycle",
+  "deck": "Sabesp",
+  "pages": [
+   41
+  ],
+  "crop": "d_illustrated-process-chain-with-a-risk-row-beneat.png",
+  "quality": 3,
+  "what_it_does": "Draws each stage as a small 3D plant illustration in an arrowed chain, with a matched row of what can go wrong under each.",
+  "how_built": "Seven same-angle isometric illustrations with thin arrows between them; a bold step name under each; below, two rows of short coloured risk labels with an icon bullet at the left, aligned to the same columns.",
+  "use_for": "Operational chains where each stage has its own risk or cost.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Sorted bars with colour break and dashed average brackets",
+  "category": "chart-styling",
+  "deck": "Sabesp",
+  "pages": [
+   79
+  ],
+  "crop": "d_sorted-bars-with-colour-break-and-dashed-average.png",
+  "quality": 3,
+  "what_it_does": "Turns a cost curve into an argument by changing bar colour at the break point and pinning each zone's average on a dashed bracket.",
+  "how_built": "Ascending columns per percentile: grey to the break, then cyan deepening to navy; dashed elbow brackets rise from the zone edges to outlined average chips at different heights; a pale tinted note with a side rule fills the empty upper left.",
+  "use_for": "Marginal cost, cost curves, cohort or asset ranking.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Age pyramids as paired solid vase silhouettes",
+  "category": "chart-styling",
+  "deck": "RD Saude",
+  "pages": [
+   9
+  ],
+  "crop": "d_age-pyramids-as-paired-solid-vase-silhouettes.png",
+  "quality": 3,
+  "what_it_does": "Reduces two population pyramids to solid same-colour shapes, so the eye compares the silhouette and not the bars.",
+  "how_built": "Back-to-back age bars with no gap and no axis, in a single green, with stepped ends left visible; two side by side labelled by year, with age bands listed only at the left of each.",
+  "use_for": "Demographic shift, any distribution whose shape changed.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Group capsules linked by a dashed elbow with a multiple",
+  "category": "chart-styling",
+  "deck": "RD Saude",
+  "pages": [
+   9
+  ],
+  "crop": "d_group-capsules-linked-by-a-dashed-elbow-with-a-m.png",
+  "quality": 2,
+  "what_it_does": "Rings the top and bottom groups of a bar chart and links them with a dashed elbow labelled with the multiple.",
+  "how_built": "Horizontal bars in a green-outlined panel; two rounded dashed tinted capsules around the chosen rows; dashed elbow from upper capsule, down the right side and back with an arrowhead to the lower; bold '4x more!' knocks through the line.",
+  "use_for": "Top versus bottom cohort spending, concentration.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Profit pool Marimekko with share as width",
+  "category": "chart-styling",
+  "deck": "RD Saude",
+  "pages": [
+   27
+  ],
+  "crop": "d_profit-pool-marimekko-with-share-as-width.png",
+  "quality": 3,
+  "what_it_does": "Shows who earns the sector's profit, with spread as height and market share as width around a zero line.",
+  "how_built": "Adjacent blocks along a zero axis: width is share and height is spread; the leader is a long thin green block above zero, the others hang below in sky and navy with heavy widths; value labels sit in tinted chips on the block edge.",
+  "use_for": "Profit pools, value capture across players.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Charts as operands in a visual equation",
+  "category": "chart-styling",
+  "deck": "RD Saude",
+  "pages": [
+   49
+  ],
+  "crop": "d_charts-as-operands-in-a-visual-equation.png",
+  "quality": 3,
+  "what_it_does": "Writes DuPont literally by placing whole charts as terms with large operators between them.",
+  "how_built": "Grey band with a folded green tab title; three charts in a row with the same bar style and label pills; big black X and = sit in the gutters between the plots; the last term is a line chart in the result colour.",
+  "use_for": "ROIC or ROE decomposition, any product of drivers over time.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Bevelled vertical WACC column with stacked operators",
+  "category": "table",
+  "deck": "RD Saude",
+  "pages": [
+   51
+  ],
+  "crop": "d_bevelled-vertical-wacc-column-with-stacked-opera.png",
+  "quality": 2,
+  "what_it_does": "Writes a whole formula down one narrow column, so the term values read like a table and leave the page width to charts.",
+  "how_built": "Pale panel with a green bevel top and thick green base; centred large coloured result, then alternating '=', 'X', '+' lines with bold term and value below each.",
+  "use_for": "WACC, cost of capital, any multi-term formula beside a build-up chart.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Floating block build-ups for cost of capital",
+  "category": "chart-styling",
+  "deck": "RD Saude",
+  "pages": [
+   51
+  ],
+  "crop": "d_floating-block-build-ups-for-cost-of-capital.png",
+  "quality": 2,
+  "what_it_does": "Builds a rate through solid bricks that float at their running level, with no connector lines, axes or gridlines.",
+  "how_built": "Wide flat blocks with a dark-green rim and hard side shadow, placed at cumulative height; a negative term is a small dark block near the top; value inside the block top and name under the baseline.",
+  "use_for": "Cost of debt or equity build-up, short bridges.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Value box branching through a dashed bracket",
+  "category": "org-structure",
+  "deck": "Rede D'Or",
+  "pages": [
+   2
+  ],
+  "crop": "d_value-box-branching-through-a-dashed-bracket.png",
+  "quality": 2,
+  "what_it_does": "Breaks one big market size into its segments using a dashed box and a dashed comb bracket without any boxes on the leaves.",
+  "how_built": "Dashed rectangle with a value in large blue; short dashed line to a dashed vertical; four dashed horizontals to plain text labels.",
+  "use_for": "TAM composition, small breakdown in an overview card.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Before and after circles with growth text in the gap",
+  "category": "funnel-pyramid",
+  "deck": "Rede D'Or",
+  "pages": [
+   2
+  ],
+  "crop": "d_before-and-after-circles-with-growth-text-in-the.png",
+  "quality": 2,
+  "what_it_does": "Compares two years by size alone, with the delta as words between the two circles.",
+  "how_built": "Two circles with year above in black: smaller navy, larger teal; value inside each in white; bold '+500 Million' centred in the gap; hairlines tangent to both circles form an open cone, with no arrow.",
+  "use_for": "Population or market size, one-glance growth.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Dashed valuation frame with breakout header and result plates",
+  "category": "table",
+  "deck": "Rede D'Or",
+  "pages": [
+   40
+  ],
+  "crop": "d_dashed-valuation-frame-with-breakout-header-and-.png",
+  "quality": 2,
+  "what_it_does": "Holds the EV-to-equity bridge in a dashed frame, with the header and target price plates breaking the frame's top and bottom edges.",
+  "how_built": "Pale grey panel with a tinted corner tab; inside, a dashed rectangle; dark navy plate overlaps its top edge, teal plate overlaps its bottom edge; centred lines with a hairline before the total.",
+  "use_for": "Valuation result next to sensitivity tables.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Numbered market columns with tangent-linked circles",
+  "category": "funnel-pyramid",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   28
+  ],
+  "crop": "d_numbered-market-columns-with-tangent-linked-circ.png",
+  "quality": 3,
+  "what_it_does": "Compares three addressable markets by growing a circle across three cards, with fine tangent lines joining the circles.",
+  "how_built": "Three grey rounded column cards with numbered red discs and bold titles; a solid red circle of increasing size in the same row, hairlines joining their tops and bottoms across the gutter; a red label chip at each foot holds the company share.",
+  "use_for": "TAM by geography with the company's share at each level.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Lit driver tree with crosses between siblings",
+  "category": "flow-cycle",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   30,
+   31,
+   32
+  ],
+  "crop": "d_lit-driver-tree-with-crosses-between-siblings.png",
+  "quality": 3,
+  "what_it_does": "Breaks revenue into drivers and colours only the branch the slide discusses, repeating the tree as a locator.",
+  "how_built": "Red top plate with elbow connectors to two rectangles and a light X between them; a further level beneath; active boxes in red, inactive in grey with faded X; rounded corners and italic labels; reused on later slides with a different branch lit.",
+  "use_for": "KPI trees, SSS decomposition, section locator.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Offset year staircase of paired actual and consensus bars",
+  "category": "chart-styling",
+  "deck": "Mercado Libre",
+  "pages": [
+   10
+  ],
+  "crop": "d_offset-year-staircase-of-paired-actual-and-conse.png",
+  "quality": 2,
+  "what_it_does": "Stacks each year's actual and consensus as paired right-anchored bars, so the years step down like stairs.",
+  "how_built": "Paired horizontal bars, navy over yellow, all ending at the right axis; each lower year is shorter, producing a staircase on the left edge; year labels at far right and a dashed italic takeaway in the empty lower left.",
+  "use_for": "Beats versus consensus, plan versus realised.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Wave labels inside stacked area bands",
+  "category": "chart-styling",
+  "deck": "Mercado Libre",
+  "pages": [
+   26
+  ],
+  "crop": "d_wave-labels-inside-stacked-area-bands.png",
+  "quality": 2,
+  "what_it_does": "Names each layer of a stacked area as a wave in plain words on the band, so the reader does not need the legend.",
+  "how_built": "Three stacked area layers in black, navy and yellow on a grey card with a hard right wall; '1st wave', '2nd wave', '3rd wave' placed by hand at the right end of each band, at the height where it thickens.",
+  "use_for": "Technology adoption waves, successive revenue layers.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Quadrant name chips inside a scatter",
+  "category": "matrix",
+  "deck": "Mercado Libre",
+  "pages": [
+   152
+  ],
+  "crop": "d_quadrant-name-chips-inside-a-scatter.png",
+  "quality": 2,
+  "what_it_does": "Marks the zones of a scatter with grey chips in large italic, colouring each country label to match its chip.",
+  "how_built": "Plot with no gridlines; four to six pale grey rectangles with bold italic two-line text in the zone's colour placed in empty plot space; point labels use the same colour as their zone; repeated names mark split zones.",
+  "use_for": "Country or peer segmentation without drawing quadrant lines.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Cohort lines with a vertical gradient legend",
+  "category": "chart-styling",
+  "deck": "Nubank",
+  "pages": [
+   15
+  ],
+  "crop": "d_cohort-lines-with-a-vertical-gradient-legend.png",
+  "quality": 3,
+  "what_it_does": "Colours many cohort lines by age and replaces the legend with one gradient bar labelled at both ends.",
+  "how_built": "About 30 lines going from pale lilac in old cohorts to saturated purple in new; a slim vertical gradient rectangle in the empty right area, with the first and last cohort names at its ends.",
+  "use_for": "Cohort analysis, vintages, anything with too many series to label.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Value ball on a rounded track with average divider",
+  "category": "chart-styling",
+  "deck": "Meliuz",
+  "pages": [
+   115
+  ],
+  "crop": "d_value-ball-on-a-rounded-track-with-average-divid.png",
+  "quality": 2,
+  "what_it_does": "Shows a score per brand as a coloured stem and ball rising in a pale rounded track, with brand logos as labels.",
+  "how_built": "Equal pale vertical capsules; a thin stem in each brand's colour with a ball at the value; number on top of the track; logo at the foot; a dashed vertical between the below-average and above-average groups with 'Média' on top.",
+  "use_for": "NPS, ratings, any 0-100 score across many peers.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "App-icon column headers with logo row heads",
+  "category": "table",
+  "deck": "Mercado Libre",
+  "pages": [
+   154,
+   150
+  ],
+  "crop": "d_app-icon-column-headers-with-logo-row-heads.png",
+  "quality": 2,
+  "what_it_does": "Uses recognisable icons as column names and competitor logos as row names, so the table reads with almost no words.",
+  "how_built": "Navy header row where two cells hold only an app-store icon; first column is navy too, with white-boxed or reversed logos; body cells in light grey with bold centred values and thin black rules. Page 150 is the variant with grey banding and an empty corner cell.",
+  "use_for": "Peer ratings, product feature comparison.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Check table split into two opposed blocks",
+  "category": "table",
+  "deck": "Nubank",
+  "pages": [
+   55
+  ],
+  "crop": "d_check-table-split-into-two-opposed-blocks.png",
+  "quality": 2,
+  "what_it_does": "Sorts rows so one option's checks form one solid block and the other's a second block, making exclusivity visible at a glance.",
+  "how_built": "Two-tone purple header over zebra grey rows; rows sorted by owner of the data; heavy black checks in only one column per row, which produce a stepped diagonal; no crosses and no dashes.",
+  "use_for": "Data access, features unique to each model.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Status column wired from table row into a chart",
+  "category": "table",
+  "deck": "Sabesp",
+  "pages": [
+   51
+  ],
+  "crop": "d_status-column-wired-from-table-row-into-a-chart.png",
+  "quality": 2,
+  "what_it_does": "Uses a tinted condition column as a heat strip and connects the current row by a thin bracket line to the time-series windows beside it.",
+  "how_built": "Light table with hairline header; last column is a continuous block in green tints with a cyan top cell for the row at issue; a cyan elbow runs from that cell across the gutter to a line chart with dashed tinted crisis windows.",
+  "use_for": "Asset condition lists tied to a historical stress chart.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Curved brand panel over a duotone photo",
+  "category": "cover-divider",
+  "deck": "Nubank",
+  "pages": [
+   1
+  ],
+  "crop": "d_curved-brand-panel-over-a-duotone-photo.png",
+  "quality": 2,
+  "what_it_does": "Lets a large curved edge of solid brand colour take the right half of a photo, which is washed in the same hue.",
+  "how_built": "Full-bleed photo of the brand's physical asset with a semi-transparent purple overlay; a solid purple shape with a large-radius curved left edge carries title, rule and subtitle; team names bottom right; repeated for later dividers.",
+  "use_for": "Cover and matching section dividers when a real company photo exists.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Two-tone swoop cover with a tilted photo",
+  "category": "cover-divider",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   1
+  ],
+  "crop": "d_two-tone-swoop-cover-with-a-tilted-photo.png",
+  "quality": 2,
+  "what_it_does": "Cuts a tilted photo with large organic red forms, so the brand signage appears through a window between them.",
+  "how_built": "Rotated photo with a red tint; dark-red gradient blob on the left, a brighter wave across the base, both freeforms with very large radii; white title with an underline, small logos top left and authors bottom right.",
+  "use_for": "Cover for multi-brand companies, photographic section openers.",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Roman-numbered three-by-two chart grid",
+  "category": "composition",
+  "deck": "Rede D'Or",
+  "pages": [
+   6
+  ],
+  "crop": "d_roman-numbered-three-by-two-chart-grid.png",
+  "quality": 2,
+  "what_it_does": "Fills a primer page with six small charts in three strict columns, each column headed by a numbered claim over a coloured rule.",
+  "how_built": "Three equal columns; each opens with 'I.', 'II.', 'III.' plus a short claim in the accent colour over a thin rule; two rows of charts below, each with a small grey title and only one highlight colour; one dashed window as the single annotation.",
+  "use_for": "Sector overview, dense at-a-glance pages.",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Twin dotted-orbit hubs on a dark band",
+  "category": "comparison",
+  "deck": "Meliuz",
+  "pages": [
+   125
+  ],
+  "crop": "d2_twin_orbit.png",
+  "quality": 2,
+  "what_it_does": "Draws the same six-spoke ecosystem around two rival logos so the viewer sees at once that both built the identical model.",
+  "how_built": "Full-width charcoal band; in each half two concentric dotted white circles, central logo on a white disc, six solid white discs sitting on the outer orbit, each with a short white rule ending in a dot and an italic coloured label; duplicate the group exactly and only swap the logo; stacked-share chart underneath on white.",
+  "use_for": "Peer precedents, showing two companies converged on the same product set, international analogues",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Three schematic g-curves over dashed stage boxes",
+  "category": "chart-styling",
+  "deck": "Meliuz",
+  "pages": [
+   149
+  ],
+  "crop": "d2_stage_curves.png",
+  "quality": 2,
+  "what_it_does": "Explains a model choice with three hand-drawn textbook axes, each locked to a dashed box holding the number that stage uses.",
+  "how_built": "Three small arrow-headed L-axes built from lines, labelled g and t; black stepped polyline per regime; bold centred caption inside each plot; under each a dashed rectangle with stage label, large coloured % and italic note; grey field behind everything; quote strip below.",
+  "use_for": "Justifying DCF stages, model-method slides, any concept where a schematic beats real data",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Roof-top plates under persona icons with a logo sum between",
+  "category": "comparison",
+  "deck": "Mercado Libre",
+  "pages": [
+   135
+  ],
+  "crop": "d2_roof_plates.png",
+  "quality": 2,
+  "what_it_does": "Gives each side of a two-sided market its own benefit plate whose peak points up at its persona icon, with the combined products as a sum in the centre.",
+  "how_built": "Light-grey pentagon shape like a house (very shallow roof) with bullets inside; line icon centred above the peak with a bold label; thick navy arrow from one icon to the other; in the centre gutter two logos stacked with a bold plus between.",
+  "use_for": "Two-sided platforms, buyer vs seller benefits, value proposition by stakeholder",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Thick-rim icon wheel with a throat into a revenue panel",
+  "category": "icons",
+  "deck": "Nubank",
+  "pages": [
+   2
+  ],
+  "crop": "d2_wheel_throat.png",
+  "quality": 3,
+  "what_it_does": "Turns a business-line wheel into a lid that pours through a tinted throat into the donut showing what those lines earn.",
+  "how_built": "Heavy brand-coloured ring, white spoke dividers, six equal tinted wedges each with a line icon and bold label, logo on a white centre disc; pale trapezoid from the wheel's lower edge widening into a rounded lavender panel that holds the revenue donut with leader-line labels.",
+  "use_for": "Company overview, ecosystem-to-revenue mapping, business model summary",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Icon tray tapering into a persona",
+  "category": "icons",
+  "deck": "Nubank",
+  "pages": [
+   2
+  ],
+  "crop": "d2_icon_tray.png",
+  "quality": 2,
+  "what_it_does": "Reads as a visual formula: three attributes in a tray are funnelled down into the customer group they win.",
+  "how_built": "Pale rounded rectangle holding three line icons with two-line captions; its lower edge fades through a soft trapezoid gradient to transparent, narrowing onto a single people icon sitting centred below.",
+  "use_for": "Growth formula, value proposition summed up in three drivers",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Subtractive funnel of centred offset plates",
+  "category": "funnel-pyramid",
+  "deck": "Nubank",
+  "pages": [
+   13
+  ],
+  "crop": "d2_plate_funnel.png",
+  "quality": 3,
+  "what_it_does": "Walks a population down to the real TAM with signed numbers on flat plates of shrinking width, fed by a grey wedge from the map that sources it.",
+  "how_built": "Five abutting flat rectangles in one tint, each slightly narrower and centred, each with an italic thin label and a bold signed number on two lines; last plate labelled TAM; a grey-to-transparent gradient wedge joins the plates to the map on the left.",
+  "use_for": "TAM reduction, addressable-market logic, customer conversion with subtractions",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Dashed speech frame with a dashed tether down to the last bar",
+  "category": "chart-styling",
+  "deck": "Nubank",
+  "pages": [
+   13
+  ],
+  "crop": "d2_dashed_tether.png",
+  "quality": 2,
+  "what_it_does": "Ties a conditional note physically to the data point it reads from, with the same dash wrapping the label.",
+  "how_built": "Rounded dashed brand-coloured rectangle in the empty upper right of a declining bar chart; from its right edge a dashed vertical drops straight down and closes into a dashed rounded box around the last bar's value pill.",
+  "use_for": "Commenting on a final data point, setting up a 'but' that the next exhibit answers",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Twin logo fans into a colour-keyed mirrored logic column",
+  "category": "comparison",
+  "deck": "Nubank",
+  "pages": [
+   33
+  ],
+  "crop": "d2_logic_column.png",
+  "quality": 3,
+  "what_it_does": "Compares two regulatory models by giving each logo a fan and tinted card, then running both causal chains through a shared central column in their own colours.",
+  "how_built": "Logo tile on the left, gradient triangle fanning into a tinted rounded card (purple top, blue bottom); middle: one tall rounded panel with outline, upper half in purple and lower half in blue, each with bold premise, A arrow B row, consequence line and a triad split by vertical hairlines.",
+  "use_for": "Regulatory or license differences, business-model A vs B when the point is a chain of consequences",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Ellipsis exhibit headers reading as one sentence",
+  "category": "composition",
+  "deck": "Sabesp",
+  "pages": [
+   17
+  ],
+  "crop": "d2_ellipsis_heads.png",
+  "quality": 3,
+  "what_it_does": "Makes separate exhibits read as one argument by splitting a single sentence across their headers with trailing and leading dots.",
+  "how_built": "Sentence broken in three: first header ends in '...', next ones start with '...driving' and '...and replicating', with the key verb bolded in the deck colour; exhibits placed in reading order under each fragment; same pattern on Nubank p33 and BTG p50.",
+  "use_for": "Any multi-exhibit slide, turning a chart mosaic into a narrative",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Three exhibit cards above an anchoring history footer",
+  "category": "composition",
+  "deck": "Sabesp",
+  "pages": [
+   2
+  ],
+  "crop": "d2_cards_over_ribbon.png",
+  "quality": 3,
+  "what_it_does": "Fixes the at-a-glance page into a template: what it is, where it is, how it performs on top, how it got here running across the bottom.",
+  "how_built": "Three equal grey cards with hard grey offset shadows, tied by a paler horizontal band running behind them; each card one headline, one italic sub, one exhibit (mini table, map with two chips, combo chart); the bottom third is a single full-width timeline; same skeleton on Rede D'Or p8 with roman-numbered exhibits.",
+  "use_for": "Company-at-a-glance, first content slide of a deck",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Serpentine rail threaded through hexagon photos with year tabs",
+  "category": "timeline",
+  "deck": "RD Saude",
+  "pages": [
+   67
+  ],
+  "crop": "d2_hex_serpentine.png",
+  "quality": 3,
+  "what_it_does": "Tells a long corporate history in three boustrophedon rows with a real photo at each stop, so it feels like an archive rather than a list.",
+  "how_built": "Thick brand-green line entering from the left edge and leaving on the right, with quarter-circle turns between rows; hexagon-clipped photos with a green outline sitting on the line; green year tab overlapping each hexagon's lower edge; centred caption with key word bolded below; logos in plain white hexagons where no photo exists.",
+  "use_for": "Company history with 8 to 12 events, founder stories, merger narratives",
+  "needs_real_asset": true
+ },
+ {
+  "element": "ECG spike timeline in a dashed frame",
+  "category": "timeline",
+  "deck": "RD Saude",
+  "pages": [
+   72
+  ],
+  "crop": "d2_ecg_timeline.png",
+  "quality": 3,
+  "what_it_does": "Uses the sector's own metaphor: the time line is a heartbeat trace whose peaks and troughs carry the milestones.",
+  "how_built": "Single green polyline running flat, spiking up, down, flat, up, down, ending in an arrowhead; solid year chip at each extreme, caption and an icon disc beyond it; the line enters from off-slide through a dashed-border grey panel; final point lands on the thesis.",
+  "use_for": "Regulatory milestones, healthcare decks; swap the trace shape for a sector-specific pattern",
+  "needs_real_asset": false
+ },
+ {
+  "element": "X-cross brand wheel split by a tinted horizon",
+  "category": "mosaic",
+  "deck": "RD Saude",
+  "pages": [
+   77
+  ],
+  "crop": "d2_x_brand_wheel.png",
+  "quality": 2,
+  "what_it_does": "Sorts a sprawling brand portfolio in two axes at once: wedges by function, and above or below the horizon by business.",
+  "how_built": "Central dark disc with circular arrows and people icon; two diagonal hairlines forming an X; horizontal rule through the disc with a grey fill under it; row names at far left of the horizon; wedge titles in teal near the disc and logos loose in each wedge.",
+  "use_for": "Multi-brand portfolios, M&A roll-ups, classifying acquired businesses",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Descending drop-line timeline from a root box",
+  "category": "timeline",
+  "deck": "BTG Pactual",
+  "pages": [
+   50
+  ],
+  "crop": "d2_droplines.png",
+  "quality": 2,
+  "what_it_does": "Shows expansion as branches of one origin, each later step dropping lower so the eye descends in time.",
+  "how_built": "Dark root box with icon and description; horizontal hairline under it; five thin verticals of increasing length; date plus two-tone label at the foot of each; framed by a sentence that opens above ('What started...') and closes below ('...became').",
+  "use_for": "Scope expansion, product history where everything comes from one original business",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Segmented year column with wedge-linked bands and an exception exit",
+  "category": "timeline",
+  "deck": "BTG Pactual",
+  "pages": [
+   108
+  ],
+  "crop": "d2_year_column.png",
+  "quality": 2,
+  "what_it_does": "Lists who followed a trend and then visually singles out the one who did not by leaving the column on a different connector.",
+  "how_built": "Narrow vertical column alternating navy and grey blocks with years; from each grey block a darker bevel wedge widens into a light grey name band; bottom navy block carries a blue diamond and hairline out to a large blue statement and logo instead of a band.",
+  "use_for": "Precedent lists with one outlier, peer behaviour, 'everyone did X except Y'",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Proportional gradient tile pair",
+  "category": "mosaic",
+  "deck": "Vasta",
+  "pages": [
+   24
+  ],
+  "crop": "d2_prop_tiles.png",
+  "quality": 2,
+  "what_it_does": "A two-cell treemap that shows where an incremental number comes from, large enough to hold the explanation inside each cell.",
+  "how_built": "Two rounded rectangles of equal height, widths in the data ratio (80/20), each with its own diagonal gradient (slate blue fading light, deep magenta to pink); big % and caption centred in white; base label under each; related donut pill below.",
+  "use_for": "Source of growth, split of incremental revenue or capture",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Halo-icon exhibit heads over a floating takeaway tray",
+  "category": "composition",
+  "deck": "Vasta",
+  "pages": [
+   24
+  ],
+  "crop": "d2_halo_tray.png",
+  "quality": 3,
+  "what_it_does": "Makes a three-exhibit slide skim on two levels: icon heads name each exhibit and a floating tray states the conclusion with its numbers.",
+  "how_built": "Each column headed by a line icon in a pale tinted disc plus bold coloured title and italic sub; bottom white rounded tray with a soft shadow holding one text block and three pairs of big halo icon plus coloured stat; icons all one line weight and colour.",
+  "use_for": "Dense strategy slides, value-creation pages",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Giant logo triptych over brand-coloured gradient card headers",
+  "category": "comparison",
+  "deck": "Senior Sistemas",
+  "pages": [
+   39
+  ],
+  "crop": "d2_logo_triptych.png",
+  "quality": 2,
+  "what_it_does": "Presents exit candidates as three equal cases, each card inheriting the buyer's brand colour from the logo above it.",
+  "how_built": "Oversized logos (a logo tile in yellow for the one needing background) linked horizontally with dashed green lines; under each, a pill header in a gradient of that brand's colours with an icon disc overlapping its left end; grey body card with a thin deck-colour outline.",
+  "use_for": "Strategic buyers, exit routes, competitor profiles",
+  "needs_real_asset": false
+ },
+ {
+  "element": "T-cross KPI table capped with a diamond",
+  "category": "table",
+  "deck": "Senior Sistemas",
+  "pages": [
+   39
+  ],
+  "crop": "d2_t_cross.png",
+  "quality": 2,
+  "what_it_does": "Reduces a comparison to a minimal ledger of label and value split by one vertical stem, repeated under each column for fast scanning.",
+  "how_built": "Three rows only, no fill; coloured horizontal rules between rows; one vertical hairline through the centre extending above and below, topped with a small diamond; text in the rule colour.",
+  "use_for": "Three to five KPIs under a logo or card",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Receding sector-object linework cover",
+  "category": "cover-divider",
+  "deck": "Alupar",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_alupar.png",
+  "quality": 3,
+  "what_it_does": "Fills a cover with the sector's defining object in thin blueprint lines, repeated at three shrinking scales for depth.",
+  "how_built": "Midnight-navy field; pale-blue wireframe line drawing of a transmission tower at three sizes receding left with cables linking them, lower opacity on the smaller ones; stacked logo, event name and rule in the top-left, authors small at the foot.",
+  "use_for": "Infrastructure, energy and industrial covers without a good photo",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Circular photo porthole sliced by a pale arc",
+  "category": "cover-divider",
+  "deck": "Arezzo&Co",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_arezzo.png",
+  "quality": 2,
+  "what_it_does": "Shows product through a giant off-page circle while a wide arc in the brand tint crosses it, with the rest of the slide kept dark for the title.",
+  "how_built": "Charcoal base; photo clipped to a circle larger than the slide height bleeding right; thick pale-cyan arc crossing the photo from top to right edge; cyan quarter-round corner holding the company logo; large white uppercase title at left.",
+  "use_for": "Consumer and retail covers with good product photography",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Inverted-triangle photo window with a tilted product card and title band",
+  "category": "cover-divider",
+  "deck": "BTG Pactual",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_btg.png",
+  "quality": 2,
+  "what_it_does": "Layers a dim HQ photo in a downward triangle with the company's physical product tilted over the corner, behind a solid title band.",
+  "how_built": "Navy field; building photo clipped to an inverted triangle at about 40% opacity; rotated rounded rectangles for the card with logo; opaque charcoal band from the left edge ending under the triangle with title, subtitle and italic event; letter-spaced team names at the foot.",
+  "use_for": "Financials or any firm with an iconic card, device or product",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Arrowhead-clipped HQ photo on a woven teal field",
+  "category": "cover-divider",
+  "deck": "Senior Sistemas",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_senior.png",
+  "quality": 2,
+  "what_it_does": "Clips the building photo into a right-pointing arrowhead so the cover itself points at the logos and credits.",
+  "how_built": "Teal base with a very fine woven pattern texture; photo occupying the left two-thirds with diagonal upper and lower right edges meeting at a point at mid-height; logos top-right split by a vertical hairline; right-aligned team and school text at the bottom.",
+  "use_for": "Covers built around a headquarters photo",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Oversized logotype on tonal nested arcs",
+  "category": "cover-divider",
+  "deck": "Intelbras",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_intelbras.png",
+  "quality": 2,
+  "what_it_does": "Gets a confident cover with no image at all: stepped tints of the brand colour radiate like a signal behind a giant wordmark.",
+  "how_built": "Six to eight very large ellipses from dark to lighter green nested from the left, each slightly larger, bleeding off top and bottom; white logotype spanning 40% of width; rule and two-line event below it; team names small at bottom right.",
+  "use_for": "Any cover when no decent photo exists, tech and telecom in particular",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Narrow credit panel beside a generative flow field",
+  "category": "cover-divider",
+  "deck": "Cury Construtora",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_cury.png",
+  "quality": 2,
+  "what_it_does": "Splits the cover 40/60 into a sober information column and a textured art plate that adds polish without implying anything about the business.",
+  "how_built": "Left navy panel with co-branded logos on top, title in the middle and the team with emails stacked at the foot; right plate is a blue flow-field image of thousands of thin curves, generated in code or exported from an image tool.",
+  "use_for": "Formal analyst reports where a contact list must appear on the cover",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Ghost logo glyph with contour lines on a red-black gradient",
+  "category": "cover-divider",
+  "deck": "Cosan",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_cosan.png",
+  "quality": 2,
+  "what_it_does": "Uses a giant dim company glyph plus thin topographic strokes to brand a dark cover, leaving a clear centre for the lockup.",
+  "how_built": "Black to deep-red diagonal gradient; huge logo glyph on the right at low opacity in a slightly lighter red; two bundles of thin red curves entering at the top and bottom right; centred logo, hairline and thesis line.",
+  "use_for": "M&A pitches, oil and gas or energy decks",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Corner shards on a two-tone vertical gradient",
+  "category": "cover-divider",
+  "deck": "3R Petroleum",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_3r.png",
+  "quality": 1,
+  "what_it_does": "Frames a centred lockup with two translucent polygons at opposite corners, a minimal geometric cover for no-image situations.",
+  "how_built": "Dark teal to green vertical gradient; lighter-green translucent polygon with a hairline edge at top-left, another at bottom-right, thin rule continuing one edge across; centred title and logo pair; team at bottom left.",
+  "use_for": "Quick cover or backup deck",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Centred logo-rule-subtitle lockup on black with edge art",
+  "category": "cover-divider",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_csnlm.png",
+  "quality": 2,
+  "what_it_does": "A banker-style cover: everything sits on one hairline in a dark void while the art stays at the edges, with roles (partner, manager, analysts) listed at the corner.",
+  "how_built": "Black field; blue ribbon image bleeding from the corners; centred white logo, thin rule under it, one-line project name and date; bottom right team stacked by seniority with a hairline above partners; same lockup across the InFinance decks (Cosan, Vibra, CSN-ArcelorMittal).",
+  "use_for": "Credit, M&A and liability-management pitches with codename projects",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Moire line wave across charcoal",
+  "category": "cover-divider",
+  "deck": "Vasta",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_vasta.png",
+  "quality": 2,
+  "what_it_does": "Gives movement through hundreds of fine magenta lines forming a twisting wave that sets the deck's accent colour from the first frame.",
+  "how_built": "Charcoal base; line-blend wave bleeding left and right (each line a phase-shifted sine, generate with matplotlib or SVG, export PNG); logo top left, co-sponsor mark top right, credits with bold role labels at the bottom over the wave's calm area.",
+  "use_for": "Education, tech or any brand with a strong single accent",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Monochrome action photo melting into navy",
+  "category": "cover-divider",
+  "deck": "Rede D'Or",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_rede.png",
+  "quality": 2,
+  "what_it_does": "Places the viewer in the operating room, with a horizontal gradient dissolving the same-hue photo into a text area with no hard edge.",
+  "how_built": "Full-bleed photo tinted with a brand-blue colour overlay; left-to-right navy gradient from opaque to transparent over 55% of width; white logo and small title at mid-left; team at bottom left.",
+  "use_for": "Healthcare, operations or any business where the activity is more telling than the building",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Double S-lobe panel over a mono-tinted storefront",
+  "category": "cover-divider",
+  "deck": "RD Saude",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_rd.png",
+  "quality": 2,
+  "what_it_does": "Separates text from photo with two interlaced vertical S-curves in a bright and a deep green, keeping a soft pharmacy-brand feel.",
+  "how_built": "Storefront photo with green duotone on the right; dark-green left panel whose right edge is an S curve; a brighter gradient lobe weaves behind it with the opposite curve; centred title with rule, small team line, head of team at the foot.",
+  "use_for": "Retail and healthcare covers, brands with organic logos",
+  "needs_real_asset": true
+ },
+ {
+  "element": "App phone on a brand disc",
+  "category": "cover-divider",
+  "deck": "Meliuz",
+  "pages": [
+   1
+  ],
+  "crop": "d2_cov_meliuz.png",
+  "quality": 2,
+  "what_it_does": "Puts the actual product on the cover, breaking out of a solid circle so the phone feels in front of the deck.",
+  "how_built": "Graphite background; large solid pink circle right of centre with subtle dark shadow; phone mockup with a real app screenshot, taller than the circle so both ends break out; logos in corners.",
+  "use_for": "App and consumer-tech covers",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Icon rail with cross ticks and a lens plate over the cover window",
+  "category": "cover-divider",
+  "deck": "BTG Pactual",
+  "pages": [
+   4
+  ],
+  "crop": "d2_div_btg_rail.png",
+  "quality": 2,
+  "what_it_does": "Re-uses the cover art as a section opener: thesis icons sit on a vertical thread and only the active section gets a translucent name plate over the photo window.",
+  "how_built": "Cover layout kept (navy, inverted-triangle photo, tilted card); left column with a hairline thread and small x marks at its ends and between items; one line icon per thesis, active in bright white with bold title, others dimmed with letter-spaced grey text; translucent grey rectangle over the triangle holding the section name in thin wide type.",
+  "use_for": "Dividers with three or four thesis pillars, when the cover art is strong enough to repeat",
+  "needs_real_asset": true
+ },
+ {
+  "element": "Gradient-fade agenda bars on a red field",
+  "category": "cover-divider",
+  "deck": "Cosan",
+  "pages": [
+   2
+  ],
+  "crop": "d2_div_cosan_bars.png",
+  "quality": 1,
+  "what_it_does": "A simple agenda in which each section is a heavy bar fading from red to black, matching the deck's gradient cover.",
+  "how_built": "Black to red diagonal gradient background; five equal bars left aligned, stopping before the right margin, with a red to black fill, thin red outline, and bold white roman-numbered titles.",
+  "use_for": "Agenda in dark M&A decks",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Comb bracket of reason boxes in a bar chart's empty corner",
+  "category": "chart-styling",
+  "deck": "Alupar",
+  "pages": [
+   6
+  ],
+  "crop": "d2_comb_callouts.png",
+  "quality": 2,
+  "what_it_does": "Explains a rising bar series by hanging its three causes from one labelled comb in the blank space above the short bars.",
+  "how_built": "Bold navy label centred on top; a thin elbow bracket drops to three outlined white boxes with a blue-to-transparent lower edge; boxes occupy the unused top left of the ascending chart; no connectors to specific bars.",
+  "use_for": "Growth charts where the drivers should appear inside the exhibit",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Four-quadrant exhibit grid with bold head and one-line reason",
+  "category": "composition",
+  "deck": "Alupar",
+  "pages": [
+   6
+  ],
+  "crop": "d2_head_reason_grid.png",
+  "quality": 2,
+  "what_it_does": "A disciplined 2x2 where each cell is a mini-slide with its own black head and sentence, mixing area, bars and a logo table under one claim.",
+  "how_built": "Four equal cells with no borders or fills; head in bold black with unit in brackets, one-line reason beneath; exhibit fills the rest; all column bars use the same navy vertical gradient; the fourth cell is a logo table with a gradient header; left edge has a thin decorative blue strip.",
+  "use_for": "Sector problem pages that need four pieces of evidence for a single claim",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Project fact sheet on arrow-tipped cross axes",
+  "category": "table",
+  "deck": "Alupar",
+  "pages": [
+   13
+  ],
+  "crop": "d2_fact_cross.png",
+  "quality": 3,
+  "what_it_does": "Turns a term sheet into a designed card: three headline KPIs over a two-column key/value list split by a thin cross with dot ends.",
+  "how_built": "Light-blue fading rectangle, solid blue outline on three sides that fades off to the right; top row of bold KPI label and value pairs; horizontal blue line with small end dots beneath; vertical line with the same ends dropping to the bottom between two italic key/value columns; no row rules.",
+  "use_for": "Project, bond or asset fact sheets, deal terms",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Breakeven diagonal with a gradient cost zone and one lone bubble",
+  "category": "chart-styling",
+  "deck": "Alupar",
+  "pages": [
+   13
+  ],
+  "crop": "d2_breakeven_zone.png",
+  "quality": 2,
+  "what_it_does": "Shows at a glance that a project sits in the value-creating side of a Kd = IRR line, with the plot field itself saturated towards the worse corner.",
+  "how_built": "Square-ish scatter with white gridlines; field filled with a diagonal blue gradient from strong at bottom left to almost white at top right; dotted 45-degree line fading out; single dark glossy circle with a white ring and project label inside; companion slide p10 shows the full bubble set.",
+  "use_for": "IRR vs cost of debt, ROIC vs WACC, single-project reads",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Three unit columns: mini income statement, wired returns, sensitivity",
+  "category": "table",
+  "deck": "Alupar",
+  "pages": [
+   15
+  ],
+  "crop": "d2_unit_columns.png",
+  "quality": 3,
+  "what_it_does": "Stacks table, result and heatmap in repeated columns on dark, with the result row physically wired down to its IRR boxes so the comparison reads across and the logic down.",
+  "how_built": "Three identical columns on black; white heavy rules above and below a borderless table; bottom FCFE row in a white outline with a blue fading fill; elbow lines from its ends into two outlined boxes (real and nominal IRR) with a small white lightning icon between; below each a white-framed blue heatmap with Kd rows and % debt columns; short broken blue vertical dividers between columns.",
+  "use_for": "Unit economics of projects, stores or assets compared side by side",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Return chips on an elbow bus into a benchmark panel",
+  "category": "table",
+  "deck": "Alupar",
+  "pages": [
+   25
+  ],
+  "crop": "d2_return_bus.png",
+  "quality": 2,
+  "what_it_does": "Pulls the IRR out of each creditor's cash-flow table and routes every one along a thin bus into the same US Treasury benchmark box.",
+  "how_built": "Tables at left with outlined total rows; break mark (double slash) on a vertical rule next to each table; rectangular outlined chip with big value, small TIR and corner dots; thin blue elbow lines rising on two verticals into a glassy panel listing 5y, 10y, 30y yields.",
+  "use_for": "Bond tranches vs benchmark, multi-instrument returns",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Diamond-topped flagpoles with italic notes on a price area",
+  "category": "chart-styling",
+  "deck": "Cosan",
+  "pages": [
+   3
+  ],
+  "crop": "d2_flagpoles.png",
+  "quality": 2,
+  "what_it_does": "Annotates price history with long thin poles topped by diamonds whose notes float in the empty sky above the falling line.",
+  "how_built": "Pale sage area under a dark green line; thin vertical stem rising from the event date to a variable height; small diamond on top; italic green two-line note beginning right of the diamond; no boxes.",
+  "use_for": "Falling share price with discrete causes, what-went-wrong narrative",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Boxed dossier column beside a chart grid",
+  "category": "composition",
+  "deck": "Cosan",
+  "pages": [
+   3
+  ],
+  "crop": "d2_dossier_column.png",
+  "quality": 2,
+  "what_it_does": "Fixes a full-height left panel for who the company is, leaving the right two-thirds free for evidence; used as the opening page of many decks.",
+  "how_built": "Tall left card, grey or white with hard dark offset shadow: logo, paragraph, shareholder logo row with converging tree, key-financials T-table; to the right two rows of exhibits with a bold head and grey sub; same skeleton on Cury p3 with an embedded treemap and on Rede D'Or p8.",
+  "use_for": "Company or sector overview pages",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Tick ruler with triangle markers and a peer range block",
+  "category": "chart-styling",
+  "deck": "Cosan",
+  "pages": [
+   10
+  ],
+  "crop": "d2_tick_ruler.png",
+  "quality": 3,
+  "what_it_does": "Benchmarks past and current values on a real-looking graduated scale, with the peer range as a hatched grey block so progress and gap are read without a chart axis.",
+  "how_built": "Key above the rulers: light triangle = 2012, dark triangle = 2025, grey block = peer; one long thin rectangle per metric with dense vertical ticks (repeated line pattern) and arrow-like end caps; grey rectangle laid over the range; triangles standing on the ruler with value labels above; italic metric title over each.",
+  "use_for": "Turnaround progress against peers, regulatory convergence, KPI gap analysis",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Boxed axis range with a stem into a note",
+  "category": "chart-styling",
+  "deck": "Cosan",
+  "pages": [
+   10
+  ],
+  "crop": "d2_axis_range.png",
+  "quality": 2,
+  "what_it_does": "Selects a time window by framing the x-axis labels themselves and running a line up through the bars to a note, so the callout claims a period instead of a bar.",
+  "how_built": "Thin red rectangle around the 2025A to 2027E axis labels; a thin black vertical rising from it, passing between bars into a grey box with red border and short thick red tab at its base; italic justified text with red keywords in the box.",
+  "use_for": "Ramp-up periods, inflection windows on stacked bars",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Table rows wired to insight headlines with diamond leaders",
+  "category": "table",
+  "deck": "Cosan",
+  "pages": [
+   11
+  ],
+  "crop": "d2_row_leaders.png",
+  "quality": 3,
+  "what_it_does": "Connects specific rows of a cap table to the conclusions they prove, so the reader never has to match text to numbers.",
+  "how_built": "White outlined table on dark with key rows in red bold; dotted white rules grouping Pre-Offer and Post-Offer above columns, same dotted rule above Key Insights; thick red line leaving the table edge at each key row and ending in a diamond; bold red insight head at the diamond with justified white body below.",
+  "use_for": "Cap tables, financial tables with three or fewer things to say",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Tall-tile tonal treemap inside a side panel",
+  "category": "mosaic",
+  "deck": "Cury Construtora",
+  "pages": [
+   3
+  ],
+  "crop": "d2_tall_treemap.png",
+  "quality": 2,
+  "what_it_does": "Fits market-share structure into a narrow column, where one giant dark 'others' cell makes fragmentation obvious and tickers break across tile width.",
+  "how_built": "Six rectangles in navy-to-sky tonal blues with thin white gaps; % at top left and ticker at bottom of each; tickers forced onto two lines in the small tiles; the largest cell kept nearly black with a single label.",
+  "use_for": "Fragmented sectors, market share in a sidebar",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Logo-headed duel table with outlined verdict rows",
+  "category": "table",
+  "deck": "Cury Construtora",
+  "pages": [
+   17
+  ],
+  "crop": "d2_duel_table.png",
+  "quality": 2,
+  "what_it_does": "Compares two companies with only logos for column heads and saves the emphasis for the two rows that decide the argument.",
+  "how_built": "No fills or rules in body; single vertical rule between the two value columns running up into the logo row; final two rows in a pale blue fill with a solid blue outline and bold blue text, outline crossing the vertical rule.",
+  "use_for": "Head-to-head unit economics, company vs main rival",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Curves with gap fill and area anchored on the hurdle line",
+  "category": "chart-styling",
+  "deck": "Cury Construtora",
+  "pages": [
+   17,
+   23
+  ],
+  "crop": "d2_gap_curves.png",
+  "quality": 2,
+  "what_it_does": "Shades only what matters: the space between two curves, or between a return and its cost of equity rather than zero.",
+  "how_built": "Smoothed lines; a pale blue tint polygon only between the two series; second chart, ROE area with a dark-to-light vertical gradient whose floor is the Ke line drawn as a blue rule, labelled at its right end, and the real x-axis sits lower; values at each point with no y-axis.",
+  "use_for": "TSR vs price, ROE vs Ke, ROIC vs WACC",
+  "needs_real_asset": false
+ },
+ {
+  "element": "One tall chart beside two stacked",
+  "category": "composition",
+  "deck": "Cury Construtora",
+  "pages": [
+   23
+  ],
+  "crop": "d2_tall_plus_two.png",
+  "quality": 2,
+  "what_it_does": "Breaks chart-grid monotony by giving the crowded multi-series exhibit double height and the simpler ones half height.",
+  "how_built": "Left column full body height for the many-line chart; right column split into two equal cells; each cell with bold head, grey sub; all charts same smoothing, palette and light gridless style; average band in the tall one in a pale tint with dashed upper line.",
+  "use_for": "Management or financial track record with one busy exhibit and two simple ones",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Greyscale treemap with a gold-dashed side note",
+  "category": "mosaic",
+  "deck": "Kering - Moncler",
+  "pages": [
+   11
+  ],
+  "crop": "d2_mono_treemap.png",
+  "quality": 2,
+  "what_it_does": "Removes colour from the treemap so that size alone speaks, and leaves the single gold accent for the sentence interpreting it.",
+  "how_built": "Four grey tiles from charcoal to light grey with white gaps and small labels bottom-left; to the right, a short dashed gold arrow into a pale gold dashed rectangle with a short paragraph; no percentages on tiles.",
+  "use_for": "Concentration arguments, revenue by category",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Football field as a table column",
+  "category": "table",
+  "deck": "Kering - Moncler",
+  "pages": [
+   20
+  ],
+  "crop": "d2_ff_column.png",
+  "quality": 3,
+  "what_it_does": "Places each valuation range in the same row as its numbers and comment, so method, range, implied value and rationale read in a single line.",
+  "how_built": "Dark full-width header; row hairlines in pale grey; left bold grey method labels; second column holds floating horizontal bars with dark-to-light gradient and low/high labels at both ends; a pale beige vertical band and dashed gold line through all rows mark the offer and price; right columns low, high, low, high and a comment with bold range.",
+  "use_for": "Valuation summary with a reason per method, comps with commentary",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Diamond nodes on a capped rail with dashed span brackets beneath",
+  "category": "flow-cycle",
+  "deck": "Intelbras",
+  "pages": [
+   7
+  ],
+  "crop": "d2_diamond_rail.png",
+  "quality": 3,
+  "what_it_does": "Shows a three-step mechanism in very little space, with the explanation attached to the gaps between steps rather than to the steps themselves.",
+  "how_built": "Thin green horizontal line with short vertical end caps; three large green-outlined pale diamonds with a line icon; label above each; dashed green square bracket beneath spanning from node to node, with a centred two-line caption.",
+  "use_for": "Compact mechanisms in a half-slide, cross-sell logic, incentive chains",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Rotated-axis heat table with survey answer chip",
+  "category": "table",
+  "deck": "Intelbras",
+  "pages": [
+   7
+  ],
+  "crop": "d2_heat_survey.png",
+  "quality": 2,
+  "what_it_does": "Displays a primary-survey cross-tab as a single-hue heat table, credited by a form-logo chip with the sample size.",
+  "how_built": "Row-group label rotated 90 degrees in bold at far left; plain text column and row headers without rules; cells with white gaps tinted by value in brand green; chip of a Forms icon overlapping a rounded outlined pill with bold sample count above the table.",
+  "use_for": "Survey cross-tabs, product attach rates",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Before and after ownership treemap pair",
+  "category": "mosaic",
+  "deck": "Sabesp",
+  "pages": [
+   16
+  ],
+  "crop": "d2_treemap_pair.png",
+  "quality": 3,
+  "what_it_does": "Makes a change of control obvious from area alone: same frame size, same colours per holder, the state tile collapsing and a new holder appearing.",
+  "how_built": "Two equal-size rectangles divided with thin white gaps and a clear gutter, no arrow; consistent holder colour across both (cyan = state, navy = free float, purple = new strategic); % top-left bold in white, holder name bottom-left; a tinted note band with mini logos for governance rights beneath.",
+  "use_for": "Privatizations, IPOs, follow-ons, post-deal shareholding",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Slice treemap with % on top and label at the foot",
+  "category": "mosaic",
+  "deck": "Sabesp",
+  "pages": [
+   18
+  ],
+  "crop": "d2_slice_treemap.png",
+  "quality": 2,
+  "what_it_does": "Keeps the treemap readable by making it nearly a single row of tall slices, in stepped brand blues, with only the last slice subdivided.",
+  "how_built": "Rectangle cut vertically into four widths proportional to value, last column split horizontally in two; white gaps; bold % at top left and regular label bottom aligned; fills alternate tones so neighbours separate without borders.",
+  "use_for": "Cost base, revenue mix where many items are similar in size",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Hollow outline arrows between stakeholder panels and a dashed logo disc",
+  "category": "flow-cycle",
+  "deck": "Meliuz",
+  "pages": [
+   79
+  ],
+  "crop": "d2_hollow_arrows.png",
+  "quality": 2,
+  "what_it_does": "Maps what each side gives and gets with four outlined arrows around the platform, the arrow colour showing whose flow it is.",
+  "how_built": "Two tall rounded panels (brand tint and grey), each with name, icon rows, big stat, optional logos; centre: dashed circle with logo; above and below it hollow block arrows with sharp pointed tails, pink for user side, grey for partner side, with a flow label over or under each.",
+  "use_for": "Marketplaces, two-sided platforms, win-win models",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Icon-disc legend column with growth arrows between paired stacks",
+  "category": "icons",
+  "deck": "RD Saude",
+  "pages": [
+   3
+  ],
+  "crop": "d2_icon_legend_stacks.png",
+  "quality": 3,
+  "what_it_does": "Replaces a chart legend with round segment icons aligned to each band, and puts the growth of each segment on arrows between the two years so mix and growth read together.",
+  "how_built": "Two 100% stacked columns far apart; between them per band one thin arrow in the band colour with +% in the middle; left: icon in a disc with label below, colour-matched and vertically centred with its band; small tag above each column for the tiny top segment.",
+  "use_for": "Mix shift between two periods, revenue by segment",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Ranked donut row as a survey strip",
+  "category": "chart-styling",
+  "deck": "Arezzo&Co",
+  "pages": [
+   9
+  ],
+  "crop": "d2_donut_row.png",
+  "quality": 2,
+  "what_it_does": "Shows the importance of independent factors as five mini donuts of equal size in descending order, where a bar chart would imply they add up.",
+  "how_built": "Five identical small donuts in one row with dark remainder and cyan share, bold % in hole; two-line centred caption under each; tinted takeaway box with hard offset below.",
+  "use_for": "Multiple-response surveys, purchase factors, independent KPIs",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Folded square icon tabs on pale pill rows",
+  "category": "icons",
+  "deck": "Nubank",
+  "pages": [
+   26
+  ],
+  "crop": "d2_folded_tabs.png",
+  "quality": 2,
+  "what_it_does": "Lists modelling assumptions as physical tabs: a dark icon square wraps over each pale pill with folded corners.",
+  "how_built": "Pale lavender rounded rectangle with text and bold coloured key number; dark purple square overlapping its left end, taller than the pill, with small darker triangles at top and bottom right to fake a fold; white line icon inside.",
+  "use_for": "Assumption lists, four-to-five drivers next to a chart",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Scenario animals inside bar bases",
+  "category": "icons",
+  "deck": "Nubank",
+  "pages": [
+   26
+  ],
+  "crop": "d2_animals_in_bars.png",
+  "quality": 2,
+  "what_it_does": "Labels scenarios from inside the bars with a bear or bull line icon and bold name, removing the need for an axis or legend.",
+  "how_built": "Three wide bars in different brand tones with value chip on top; white outline bear or bull icon near the foot, white bold case name below it; a thick vertical rule at left with heading and a tinted chip acting as chart intro; comparison reference in a shadow chip at top right.",
+  "use_for": "Bear, base and bull outcomes",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Scenario glow header over bullets and range rows",
+  "category": "table",
+  "deck": "Vibra",
+  "pages": [
+   40
+  ],
+  "crop": "d2_scenario_range.png",
+  "quality": 3,
+  "what_it_does": "Unifies three scenarios under one glowing band of IRR and MOIC, with the assumptions in columns and the exit variables below as bear-to-bull range tubes.",
+  "how_built": "Single dark-to-green gradient plate with three bold case names and green IRR and white MOIC pairs; aligned dash bullets in three columns; white rule; table with row labels at left, one vertical rule, a rectangle with a green gradient glowing from the centre with a small base tick, bear and bull values at each end, base value under it, range on the far right in grey.",
+  "use_for": "Returns analysis, PE exit scenarios, sensitivity summary on dark",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Logo-topped count capsules above a chart",
+  "category": "comparison",
+  "deck": "Vasta",
+  "pages": [
+   5
+  ],
+  "crop": "d2_logo_capsules.png",
+  "quality": 2,
+  "what_it_does": "Adds a mini brand census on top of a financial chart so the reader sees what the business comprises and how it performs in one column stack.",
+  "how_built": "Five logos evenly spaced in a row; below each a white rounded rectangle with a magenta outline (lighter for lesser brands), bold count and unit in two lines; chart immediately below using overlapped-label bars and a pale line with chip labels.",
+  "use_for": "Multi-brand companies, portfolio with one-number facts",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Lit and ghost logo walls in dashed frames",
+  "category": "mosaic",
+  "deck": "BTG Pactual",
+  "pages": [
+   30
+  ],
+  "crop": "d2_ghost_wall.png",
+  "quality": 3,
+  "what_it_does": "Divides a set of logos into two groups and spotlights one by keeping it in full contrast with shadow while the other is greyed out in a pale frame, so the segmentation is grasped before any text.",
+  "how_built": "Two stacked 4x2 logo grids; top with dark dashed frame on white and soft shadow, full-colour black logos, a leader line and diamond into the section title; bottom same size with pale teal dashed border, grey fill, logos at about 25% opacity.",
+  "use_for": "Segmenting peers, clients or partners into tiers",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Pointed attribute band into a stem splitting to two icon conclusions",
+  "category": "flow-cycle",
+  "deck": "BTG Pactual",
+  "pages": [
+   30
+  ],
+  "crop": "d2_band_stem.png",
+  "quality": 2,
+  "what_it_does": "Collapses a row of attributes down through a shallow arrow point into a single stem that forks in two conclusions.",
+  "how_built": "Pale blue rectangle whose lower edge forms a very wide shallow V, five bold attributes evenly spaced; thin line from the tip; hollow diamond at the fork, filled diamonds at both ends; large dark icon and centred two-tone sentence under each end.",
+  "use_for": "From characteristics to implications, closing half of a logic slide",
+  "needs_real_asset": false
+ },
+ {
+  "element": "Stem flags over square icon tiles on an arrow rail",
+  "category": "flow-cycle",
+  "deck": "Nubank",
+  "pages": [
+   30
+  ],
+  "crop": "d2_stem_flags.png",
+  "quality": 2,
+  "what_it_does": "Lays out a four-step adoption loop as big icon tiles on one arrow, each step's text hanging right-aligned against a vertical stem rising from its tile.",
+  "how_built": "Pale rounded tray; thin black arrow crossing the tray; four large rounded-square brand tiles with white icons sitting on the line; thin vertical stem rising from each tile's right portion; right-aligned two-line bold head and smaller note set against the stem's left side.",
+  "use_for": "Customer journey, engagement-to-ARPU chains, bottom strip of a dense slide",
+  "needs_real_asset": false
+ }
+]

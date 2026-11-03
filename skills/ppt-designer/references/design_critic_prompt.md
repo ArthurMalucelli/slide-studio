@@ -8,7 +8,8 @@ problemas de layout e de regra.
 - Roteiro: `{caminho do roteiro.md}`, que traz a mensagem principal e os números exatos
 - Preferências do deck: `{caminho do deck_prefs.json}`
 - Regras e checklist: `{SKILL_DIR}/references/RULES.md`
-- Guia de profundidade: `{SKILL_DIR}/references/PROFUNDIDADE.md`
+- Catálogo de peças e limites: `{SKILL_DIR}/references/catalogo/INDEX.md`
+- Se o slide usa peça do catálogo, o recorte de origem dela, para comparar
 - 1–2 prints de referência do mesmo propósito: `{prints}`
 
 ## Verifique, nesta ordem
@@ -18,6 +19,7 @@ problemas de layout e de regra.
    - número ou período no título ou em cabeçalho de painel; título em 2 linhas;
    - terceiro nível de texto sobre um gráfico; bloco de notas na face do slide; colunas de texto ao lado do gráfico;
    - data labels em mais de um estilo, ou com fundo claro;
+   - molde com rótulo cinza, ou evidência sem origem real;
    - cor fora do papel (empresa-foco em PEER, terceiros em FOCUS, dois destaques);
    - fonte ausente.
 3. **Fidelidade:** algum número no slide difere do roteiro, foi repetido ou foi inventado?

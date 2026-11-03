@@ -3,6 +3,8 @@
 973 slides catalogados por **propósito** (o que o slide faz no deck) e por **padrão visual** (como ele mostra).
 ★★★ = referência a copiar (105 slides, ~10% de cada deck) · ★★ = bom (565) · ★ = exemplo do propósito (303).
 
+Elementos, mapas, profundidade e peças prontas: `references/catalogo/INDEX.md`.
+
 ## Como usar (designer)
 
 1. Identifique o propósito do slide que vai montar e abra `por-proposito/<propósito>.md` (mensagem, visual e truque de cada slide, os melhores primeiro e alternando decks).

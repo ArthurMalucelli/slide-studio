@@ -53,7 +53,7 @@ Truques que funcionaram:
 
 ## Profundidade
 
-Guia e referências: `references/PROFUNDIDADE.md`. Exemplo: `references/exemplo_profundidade.py`.
+Guia: `references/catalogo/INDEX.md`. Exemplo: `references/exemplo_profundidade.py`. Peças completas para copiar: `references/pecas_*.py`, com os helpers de `lib/pecas_base.py`.
 
 | Função | Uso |
 |---|---|

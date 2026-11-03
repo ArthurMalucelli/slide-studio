@@ -1,0 +1,3853 @@
+[
+ {
+  "element": "Storyline rail with rotated message",
+  "category": "navigation",
+  "deck": "AB InBev",
+  "pages": [
+   6,
+   7,
+   13,
+   15,
+   20,
+   28,
+   38,
+   50
+  ],
+  "crop": "b1_ab_rail.png",
+  "quality": 3,
+  "what_it_does": "Gives each slide a two- or three-word plot point, so the left edge alone tells the story as the reader flips.",
+  "how_built": "Full-height solid brand rail about 6% of width; page number at top in small white; rotated 90-degree large white phrase bottom-aligned ('Evolving Mindsets', 'Dream Big'), not the section name. Rail turns dark grey in the appendix (p79).",
+  "use_for": "Long decks with an argument per slide; separating main body from appendix by rail colour alone.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Criteria track with logo spotlight",
+  "category": "navigation",
+  "deck": "AB InBev",
+  "pages": [
+   40,
+   41,
+   42
+  ],
+  "crop": "b1_ab_criteria_track.png",
+  "quality": 3,
+  "what_it_does": "Tells the reader which criteria are being tested and which competitor is under the lens across a slide run.",
+  "how_built": "A chevron pair points from a short sentence into a grey band with a long horizontal line carrying three pill handles labelled with criteria; below, a row of competitor logos acts as the legend, the active one full colour and the others faded, and the chart recolours to match across the pages.",
+  "use_for": "Multi-slide competitor comparison with a repeated chart.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Three-level tracker: section, chapter, slide idea",
+  "category": "navigation",
+  "deck": "BTG Pactual",
+  "pages": [
+   56,
+   5,
+   27,
+   50
+  ],
+  "crop": "b3_three_level_nav.png",
+  "quality": 3,
+  "what_it_does": "Tells the reader at once which thesis, which chapter inside it and which of three sub-arguments they are on.",
+  "how_built": "Bottom text rail with five thesis names and a thick bar over the active one; top right tabs for the chapter, active one dark and taller; under the title, a thin full-width rule with three small rectangle ticks and captions, active tick solid, others outlined, ended by a small X.",
+  "use_for": "Long decks with nested arguments; the third level suits a chapter that makes exactly three points.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Master plan re-entered as tracker",
+  "category": "navigation",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   9,
+   10,
+   15,
+   23,
+   33
+  ],
+  "crop": "b2_cs_plan_tracker.png",
+  "quality": 3,
+  "what_it_does": "Shows where the advisory plan stands by returning to the same four-step page with only the current step lit.",
+  "how_built": "Build one master slide with 4 columns. Duplicate it before each section; set the other columns to about 25% opacity and keep the active one at full. Step labels are small italics between two vertical ticks on a line running edge to edge. Column values are constant across all copies, so the page also recaps the numbers.",
+  "use_for": "Multi-step plans, transaction sequences, any deck with one governing framework",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Second-level tab tracker with dashed selection frame",
+  "category": "navigation",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   26,
+   27,
+   28,
+   29,
+   30,
+   31
+  ],
+  "crop": "b4_section_tabs.png",
+  "quality": 3,
+  "what_it_does": "Shows which of several deal parts the slide belongs to, inside one section.",
+  "how_built": "Three equal dark gradient bars across the top under the subtitle with white labels; active tab gets a red dashed double frame slightly bigger than the bar, others stay plain.",
+  "use_for": "Multi-asset deal, sum-of-the-parts, several business units",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Thesis orbit agenda with bracketed BUY",
+  "category": "navigation",
+  "deck": "Intelbras / Sabesp",
+  "pages": [
+   4,
+   5,
+   14,
+   22,
+   "Sabesp 4,5,15,26"
+  ],
+  "crop": "b2_in_thesis_orbit_buy.png",
+  "quality": 3,
+  "what_it_does": "Turns the agenda into a statement: the logo at the hub, 3 theses on the arc, the verdict beside them.",
+  "how_built": "Two concentric circle outlines bleeding off the left edge, logo inside the inner one. Three 120px circles with line icons sit on the outer ring, heading to the right of each. Black heavy \"BUY!\" between two L-shaped corner marks at top-left and bottom-right. On section dividers remove BUY and fade the other two theses.",
+  "use_for": "Thesis overview and thesis dividers",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Agenda dressed as the company's website",
+  "category": "navigation",
+  "deck": "Meliuz",
+  "pages": [
+   64,
+   65
+  ],
+  "crop": "b4_site_chrome_toc.png",
+  "quality": 3,
+  "what_it_does": "Makes a 150-page index feel like browsing the target's own product, so the structure is memorable.",
+  "how_built": "Full-width brand-colour nav bar with fake menu items, white search box with magnifier, cart icon with red count badge at right; body is 3 columns of underlined linked titles numbered 1.1, 2.1; footer rule with link columns and social icon circles.",
+  "use_for": "Long deck agenda or appendix index for a consumer or platform company",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Verdict ticket divider with thesis rail",
+  "category": "navigation",
+  "deck": "Mercado Libre",
+  "pages": [
+   5,
+   6,
+   12,
+   23,
+   37
+  ],
+  "crop": "b2_ml_verdict_card.png",
+  "quality": 3,
+  "what_it_does": "Repeats ticker, BUY, upside and IRR at every section change, so the recommendation is never out of sight.",
+  "how_built": "Grey page, thin kraft header strip. Top plate: ticker left, large green BUY right. White card below: vertical green line with 3 dots and thesis names; inactive theses and their dots fade to pale grey. Card footer split by a hairline: Upside left, IRR plus exit year right. Same fields as the shipping label on the cover.",
+  "use_for": "Section dividers in a stock pitch; the closing recap",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Mini-diagram as a locator on repeat slides",
+  "category": "navigation",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   30,
+   31,
+   32,
+   24,
+   25,
+   26
+  ],
+  "crop": "b3_revenue_tree_path.png",
+  "quality": 3,
+  "what_it_does": "Keeps the same driver tree on every slide of a chapter and colours only the branch being discussed, so the reader sees which lever is under test.",
+  "how_built": "Top box Revenue; pale elbow arrows down to AUV X Units and on to Price X Traffic and NRG; active path in solid red, inactive boxes in flat grey with white italic text; pale X between multiplied boxes. The same tree moves slide to slide with a new branch lit. Pp. 24-26 repeat it with the Reclaim the Flame plan cards.",
+  "use_for": "Revenue build-ups, DuPont, any decomposition argued lever by lever.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Sized bubbles as a scope selector",
+  "category": "navigation",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   28,
+   33,
+   36
+  ],
+  "crop": "b3_bubble_locator.png",
+  "quality": 3,
+  "what_it_does": "Shows market size by scope in p.28, then reappears with two bubbles ghosted to mark which market the slide now covers.",
+  "how_built": "Three pale rounded columns, each with numbered red disc, market name, circle sized to the value, red share tag at the base; two thin grey lines tie the bubbles together like a growing cone. Later slides fade the unused columns.",
+  "use_for": "TAM ladders and geographic expansion chapters.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Guest-company chrome recolor",
+  "category": "navigation",
+  "deck": "Sabesp / Intelbras / CSN (Liability Management)",
+  "pages": [
+   17,
+   10,
+   27,
+   28,
+   30,
+   31
+  ],
+  "crop": "b2_sa_guest_recolor.png",
+  "quality": 3,
+  "what_it_does": "Tells the reader instantly that this slide is about another company (benchmark or asset), not the subject.",
+  "how_built": "Keep the template, swap one theme: side rail, title tick, active breadcrumb word and subtitle accents take the guest brand colour, and the top-right logo becomes the guest logo. Sabesp p17 goes purple for Equatorial, Intelbras p10 red for Coca-Cola, CSN p27-31 yellow for MRS and red for TECON. A theme-colour swap only.",
+  "use_for": "Case studies, peer benchmarks, subsidiaries and asset-by-asset sections",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Running term-sheet ledger beneath a stepper",
+  "category": "navigation",
+  "deck": "Vibra",
+  "pages": [
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ],
+  "crop": "b1_vi_term_ledger.png",
+  "quality": 3,
+  "what_it_does": "Keeps deal numbers for the current step on screen as the reader goes through a multi-step transaction.",
+  "how_built": "Fixed left column about 22% of width: the wheel stepper (already catalogued), then a KPI ledger of paired stats per sub-header ('Block Trade: BRL 35.4 Price per Share | 5% Premium'), values in accent with small grey unit, pairs split by a thin fading vertical line.",
+  "use_for": "Multi-stage transaction structure, LBO steps.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Breadcrumb whose vocabulary swaps in the appendix",
+  "category": "navigation",
+  "deck": "3R Petroleum",
+  "pages": [
+   56,
+   60,
+   73,
+   99
+  ],
+  "crop": "b4_breadcrumb_swap.png",
+  "quality": 2,
+  "what_it_does": "Each appendix block gets its own local path, so backup slides show where they sit in that sub-topic.",
+  "how_built": "Footer text line with pipe separators, current item bold and accent; main deck lists main sections, each appendix group replaces the list with its own steps (Operation | Macro | Oil Reserves...).",
+  "use_for": "Deep appendix with several mini-storylines",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Footer tab tracker with sliding overbar",
+  "category": "navigation",
+  "deck": "AB InBev",
+  "pages": [
+   6,
+   13,
+   20,
+   28,
+   38,
+   57
+  ],
+  "crop": "b1_ab_footer_tracker.png",
+  "quality": 2,
+  "what_it_does": "Shows which of five chapters the reader is in without taking content space.",
+  "how_built": "Hairline across the footer, five evenly spaced uppercase labels under it; a thick short accent segment sits on the hairline above the active label and moves between slides.",
+  "use_for": "Any deck with 4-6 chapters.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Year stepper header",
+  "category": "navigation",
+  "deck": "Alupar",
+  "pages": [
+   22,
+   23,
+   24,
+   25,
+   26
+  ],
+  "crop": "b2_al_year_stepper.png",
+  "quality": 2,
+  "what_it_does": "Locates each tranche on the financing calendar while the body changes.",
+  "how_built": "Four small boxes in a row across the top, linked by thin arrows. Past or active years use blue italics on navy; future ones white-outlined grey. Below it, a one-line navy strip states what happens at that date.",
+  "use_for": "Financing schedules, phased projects, multi-year rollouts",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Fading double-rule agenda",
+  "category": "navigation",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   2
+  ],
+  "crop": "b2_cs_agenda_rules.png",
+  "quality": 2,
+  "what_it_does": "Gives a plain list on a dark page a structured, ledger-like rhythm.",
+  "how_built": "Each item sits between two horizontal bars that run from the left edge to about 56% of the width and fade from grey to transparent. Items have regular white text and generous gaps; the abstract artwork occupies the free side.",
+  "use_for": "Agendas and index pages on dark themes",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Chapter phase tabs",
+  "category": "navigation",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   4,
+   5,
+   6
+  ],
+  "crop": "b2_cs_phase_tabs.png",
+  "quality": 2,
+  "what_it_does": "Shows the phase of a story across a three-slide narrative.",
+  "how_built": "Three adjoining dark tabs at the top of the body (Restructuring, Aggressive Growth, Financial Distress); active is lit blue, the others dim, and the charts below change. Low-res crop.",
+  "use_for": "Company history split into eras",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Book-style table of contents",
+  "category": "navigation",
+  "deck": "Kering - Moncler",
+  "pages": [
+   2
+  ],
+  "crop": "b1_ke_toc.png",
+  "quality": 2,
+  "what_it_does": "Gives the deck the feel of a bound report.",
+  "how_built": "Bold section names with a short gold tick at left; dotted leaders across to right-aligned page numbers; generous even row spacing on a warm off-white page. Use tab leaders: here hand-typed dots render unevenly.",
+  "use_for": "Formal M&A or report-style decks.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Spine with rotated section name, roman numerals in appendix, grey chevrons",
+  "category": "navigation",
+  "deck": "Meliuz",
+  "pages": [
+   14,
+   66,
+   143
+  ],
+  "crop": "b4_spine_roman.png",
+  "quality": 2,
+  "what_it_does": "Tells the reader the section and whether they are in main deck or backup, without reading the footer.",
+  "how_built": "Dark left rail; page number at top; section name rotated 90 degrees; chevron stack at base (the rail shape itself is already catalogued). Appendix switches chevrons from brand colour to grey and page numbers to roman numerals.",
+  "use_for": "Decks with a long appendix",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Four-pill section tabs",
+  "category": "navigation",
+  "deck": "Mercado Libre",
+  "pages": [
+   7,
+   11,
+   13,
+   28,
+   35
+  ],
+  "crop": "b2_ml_section_tabs.png",
+  "quality": 2,
+  "what_it_does": "Gives a web-style top menu that shows the current pillar without taking up title width.",
+  "how_built": "Four equal rounded rectangles in the top right of each content slide. Active one slate fill with white text; inactive ones light grey with text barely darker than the fill, so they read as disabled.",
+  "use_for": "Decks with 3-5 pillars and a long appendix",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Sector-object icon on every nav item",
+  "category": "navigation",
+  "deck": "RD Saude",
+  "pages": [
+   29,
+   3,
+   40
+  ],
+  "crop": "b3_sector_icon_nav.png",
+  "quality": 2,
+  "what_it_does": "Turns a generic footer tracker into a piece of company identity and shows the section by bold green text.",
+  "how_built": "Footer rule; each section label preceded by a small outline icon drawn from the sector (pills for a pharmacy, a building for overview); active label bold and coloured, others regular.",
+  "use_for": "Any company with a simple recognisable object: pills, boxes, houses, aircraft.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Thesis recap divider with lit active row",
+  "category": "navigation",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   4,
+   5,
+   15,
+   27
+  ],
+  "crop": null,
+  "quality": 2,
+  "what_it_does": "Re-states all theses at each chapter break while lighting only the next one, so the divider also carries the argument.",
+  "how_built": "Dark full-bleed slide; left vertical spine with one node per thesis; each thesis is an outlined rounded row with title and one line of subtitle; inactive rows hidden or dim. BTG Pactual pp. 4, 20, 49 does the same with an icon rail, the active thesis in white with a big ghost name on the side.",
+  "use_for": "Chapter dividers in a thesis-driven deck.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Breadcrumb sentence footer",
+  "category": "navigation",
+  "deck": "Sabesp / Intelbras / CSN (Liability Management)",
+  "pages": [
+   11,
+   16,
+   8,
+   9,
+   21
+  ],
+  "crop": "b2_sa_breadcrumb.png",
+  "quality": 2,
+  "what_it_does": "Keeps the whole storyline readable on one line, with the current chapter coloured.",
+  "how_built": "Footer line under a full-width hairline: section names separated by pipes, active name bold in accent colour, sources in italic grey on the same baseline. Appendix pages reduce to the single word Appendix.",
+  "use_for": "Any structured deck; cheaper than tabs",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Inline breadcrumb in gold",
+  "category": "navigation",
+  "deck": "Kering - Moncler",
+  "pages": [
+   5,
+   7,
+   19,
+   25,
+   28
+  ],
+  "crop": "b1_ke_breadcrumb.png",
+  "quality": 1,
+  "what_it_does": "Marks the current chapter in a single text line.",
+  "how_built": "Centered line of chapter names split by pipes, active one in gold; heavy rule above, firm name and page number at right. Rede D'Or uses the same with teal.",
+  "use_for": "Decks with many chapters, where tabs would not fit.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Numbered disc inside the title",
+  "category": "navigation",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "crop": "b3_title_number_disc.png",
+  "quality": 1,
+  "what_it_does": "Ties each slide title to one of the numbered growth avenues without a separate tracker.",
+  "how_built": "Red disc with white number and a pale ring, placed just before the title text at cap height; number matches the columns of the opening slide of the chapter.",
+  "use_for": "Chapters split into two to four numbered arguments.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Deck index slide for Q&A",
+  "category": "navigation",
+  "deck": "Vasta",
+  "pages": [
+   42,
+   43
+  ],
+  "crop": null,
+  "quality": 1,
+  "what_it_does": "Provides a jump list for Q&A, grouped with section openers in bold; underlined styling suggests hyperlinks, not verified in the PDF.",
+  "how_built": "Full-bleed accent slide with three columns of numbered underlined links, section starts in bold. BTG Pactual p.82 and RD Saude pp.65-66 do the same; RD adds an appendix version.",
+  "use_for": "Q&A backup navigation.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Bar segments continued into captions",
+  "category": "annotation",
+  "deck": "BTG Pactual",
+  "pages": [
+   18,
+   19
+  ],
+  "crop": "b3_bar_segments_to_captions.png",
+  "quality": 3,
+  "what_it_does": "Uses the last stacked bar as a table row header: each segment height sets the height of its explanation.",
+  "how_built": "Last column of the stacked bar touches a block of pale rows of equal heights to its segments, tinted to match; each row has a title and a reading; from one row, a thin line and diamond run right to a detail panel, where a curved thick arrow carries 74% between two TAM numbers.",
+  "use_for": "Segmented markets where each layer needs a qualitative note.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Purchase-price banner over football field",
+  "category": "annotation",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   21
+  ],
+  "crop": "b2_cs_football_banner.png",
+  "quality": 3,
+  "what_it_does": "Tests all ranges against the deal price in one vertical line.",
+  "how_built": "Pale blue box above the bars with price in blue and implied multiple in grey. Dashed line runs from a dot at its base through all bars to the axis. Low and high values sit outside the bars.",
+  "use_for": "Football fields, target prices",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Highlight plate shaped as an L that holds the caption",
+  "category": "annotation",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   24
+  ],
+  "crop": "b4_l_note_plate.png",
+  "quality": 3,
+  "what_it_does": "Merges the takeaway and the highlighted years into one shape, leaving the rest of the chart clean.",
+  "how_built": "Tinted polygon: a horizontal strip across the top holding bold text, a vertical block dropping down over only the last years through to the axis labels. Build by union of two rectangles.",
+  "use_for": "Line chart with a turning point",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Scribble ring linking the same number across exhibits",
+  "category": "annotation",
+  "deck": "Cosan",
+  "pages": [
+   14
+  ],
+  "crop": "b4_scribble_ring_link.png",
+  "quality": 3,
+  "what_it_does": "Tells the reader the table total and the bridge end point are the same figure, using a hand gesture.",
+  "how_built": "Irregular dotted hand-drawn oval around the number; the same ring repeats on the same value in the table and at the top of the final bar.",
+  "use_for": "Bridges, net debt, any number that recurs on a slide",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Span bracket with notes in the empty years",
+  "category": "annotation",
+  "deck": "Cosan",
+  "pages": [
+   12
+  ],
+  "crop": "b4_span_bracket_notes.png",
+  "quality": 3,
+  "what_it_does": "Uses the empty part of the chart to explain why nothing happened during that period.",
+  "how_built": "Accent rule with a diamond at both ends over the gap, title centred above it; grey rectangle below holding three bold-lead italic notes, in place of the absent bars.",
+  "use_for": "Time series with a drought, gap or regime",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Political-era dividers over a bar chart",
+  "category": "annotation",
+  "deck": "Cury Construtora",
+  "pages": [
+   8
+  ],
+  "crop": "b3_era_dividers.png",
+  "quality": 3,
+  "what_it_does": "Explains the data by government period without adding text inside the bars.",
+  "how_built": "Evenly spaced bars; dashed vertical lines rising above the bars at each regime change; right-aligned grey caption hugging each line at the top, naming the period and what it did.",
+  "use_for": "Regulated sectors and policy-driven series: funding, tariffs, tax regimes.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Insider-buying flags on price history",
+  "category": "annotation",
+  "deck": "Cury Construtora",
+  "pages": [
+   22
+  ],
+  "crop": "b3_event_flags.png",
+  "quality": 3,
+  "what_it_does": "Shows the alignment claim directly, each purchase planted on the date it occurred.",
+  "how_built": "Thin price line; tall blue-outlined candle-like rectangles on stems hanging from the line at purchase dates, with Compra and amount above each; end labels with total stakes bottom right.",
+  "use_for": "Insider trades, buybacks, capital raises, M&A dates.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Insider trades flagged on the price chart",
+  "category": "annotation",
+  "deck": "Meliuz",
+  "pages": [
+   19
+  ],
+  "crop": "b4_insider_flags.png",
+  "quality": 3,
+  "what_it_does": "Turns the stock chart into evidence of management behaviour.",
+  "how_built": "Hollow red circle on the line at each event, dashed vertical leader rising to a two-weight label: bold verb, then quantity (Compra de 60k acoes).",
+  "use_for": "Events, buybacks, insider trades, catalysts",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Formula with stepped leader notes",
+  "category": "annotation",
+  "deck": "Mercado Libre",
+  "pages": [
+   94,
+   64
+  ],
+  "crop": "b2_ml_formula_stairs.png",
+  "quality": 3,
+  "what_it_does": "Breaks a formula into terms using a staircase of notes, so each one is read in turn.",
+  "how_built": "Math-font equation on one line. Thick navy bar below each term. From each bar a thin line drops to a yellow diamond, with a note to the right; line lengths increase leftwards so the notes form a stair. An arrow from the result leads to consequence text. Dashed rules enclose a summary paragraph.",
+  "use_for": "Pricing mechanics, unit economics, regulatory formulas",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Hand-brushed circle on the winner",
+  "category": "annotation",
+  "deck": "Mercado Libre",
+  "pages": [
+   68
+  ],
+  "crop": "b2_ml_brush_circle.png",
+  "quality": 3,
+  "what_it_does": "Adds one human gesture to a formal table and pinpoints the winner.",
+  "how_built": "Yellow brush-stroke ellipse, tapered and open-ended like marker pen, around the single winning number. Peers in the same row enclosed by a thin dashed navy box. Draw it as a freeform or PNG; use only once per deck.",
+  "use_for": "Peer comparison tables",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Price chart with bull and bear icons on target lines",
+  "category": "annotation",
+  "deck": "RD Saude",
+  "pages": [
+   5
+  ],
+  "crop": "b3_price_lines_bull_bear.png",
+  "quality": 3,
+  "what_it_does": "Marks bull, base and bear values on the price history itself, so the verdict sits against where the stock trades.",
+  "how_built": "Dark slide; price line runs under three full-width dashed lines in green, yellow and red; value label at each right end, base in a dashed box; small outline bull above and bear below the band. Right side: grey card with dashed green edge and offset shadow holding HOLD, price, a thick down arrow labelled Downside, target.",
+  "use_for": "Recommendation slide, especially for a Hold or Sell that needs its range visible.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Phase window aligned across stacked charts",
+  "category": "annotation",
+  "deck": "Rede D'Or",
+  "pages": [
+   60,
+   61,
+   62,
+   63
+  ],
+  "crop": "b1_rd_phase_bands.png",
+  "quality": 3,
+  "what_it_does": "Labels a regime on two charts at once so the reader sees the same period driving both.",
+  "how_built": "Translucent coloured rectangle with dashed outline and white phase title over the time span, repeated at the same x on the chart below; each phase gets its own hue; the build walks Before, During, After, each with a side panel in the same hue explaining it.",
+  "use_for": "Regime narratives: pre/during/post crisis, management eras, cycles.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Formula with brackets and dashed notes",
+  "category": "annotation",
+  "deck": "Sabesp",
+  "pages": [
+   19,
+   20,
+   21
+  ],
+  "crop": "b2_sa_formula_callouts.png",
+  "quality": 3,
+  "what_it_does": "Shows which terms of a regulatory formula are locked and why this drives the thesis.",
+  "how_built": "Centred equation with key terms bold navy. Curly brackets under grouped terms carry a small bold label. Straight stems run down to dashed rounded boxes with one-sentence meaning. A diamond bullet below states the takeaway.",
+  "use_for": "Tariff formulas, covenants, DuPont",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Gap wedge with curved arrows",
+  "category": "annotation",
+  "deck": "Sabesp",
+  "pages": [
+   19
+  ],
+  "crop": "b2_sa_gap_arrows.png",
+  "quality": 3,
+  "what_it_does": "Converts the space between two lines into named money.",
+  "how_built": "Shade the area between the series in pale cyan from the event onward. Dashed vertical marks the event, labelled Privatization. From the wedge end, two thin curved arrows leave for small tinted cards with bold values. Pill labels on both lines.",
+  "use_for": "Actual vs ceiling, plan vs delivery, before vs after",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Fieldset legend frame",
+  "category": "annotation",
+  "deck": "Sabesp / Intelbras",
+  "pages": [
+   11,
+   "Intelbras 8"
+  ],
+  "crop": "b2_sa_penalty_frames.png",
+  "quality": 3,
+  "what_it_does": "Puts a heading into the border, saving a line and binding label to box.",
+  "how_built": "Two-point coloured rectangle outline with bold coloured title centred on the top edge; a white or page-coloured patch behind the text breaks the line. Stack several, one sentence each, in a grey panel.",
+  "use_for": "Consequences, rules, programme definitions",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Row highlight running across twin cards",
+  "category": "annotation",
+  "deck": "Vibra",
+  "pages": [
+   14
+  ],
+  "crop": "b1_vi_compare_row.png",
+  "quality": 3,
+  "what_it_does": "Draws attention to the one line of a side-by-side that decides the argument.",
+  "how_built": "Two shadowed cards, each with an italic title, logos and a key-value list; one dashed strip with a fading accent runs across both cards at the same row ('Operator Margin: Lower / Higher').",
+  "use_for": "Business model comparisons.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Deal ellipses on a threshold chart",
+  "category": "annotation",
+  "deck": "Vibra",
+  "pages": [
+   25
+  ],
+  "crop": "b1_vi_deal_ellipses.png",
+  "quality": 3,
+  "what_it_does": "Marks which offers pass a limit, so the chart reads as a story of three bids.",
+  "how_built": "Scatter with background split into two color bands by the limit (grey 'Threshold Violation', green 'Target Leverage Range'); paired dots as short vertical ranges; thin dashed ellipses around each offer with an italic label; the proposed deal in a heavier, brighter dashed circle with bold label.",
+  "use_for": "Offer comparison, covenant limits, feasibility maps.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Deal ledger cards above a stock line",
+  "category": "annotation",
+  "deck": "Vibra",
+  "pages": [
+   6
+  ],
+  "crop": "b1_vi_event_chart.png",
+  "quality": 3,
+  "what_it_does": "Pairs each past capital-allocation decision with what the stock did at the time.",
+  "how_built": "CEO tenure strip with year scale at the top; row of outlined cards dated and aligned to that scale, each with status ('Dissolved', 'Exit') and logo; below, the price line with small callouts and dashed window for acquisitions; a comps table completes the right side.",
+  "use_for": "Management track record, capital allocation reviews.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Logos as series end labels",
+  "category": "annotation",
+  "deck": "Arezzo&Co",
+  "pages": [
+   4
+  ],
+  "crop": "b3_logo_series_labels.png",
+  "quality": 2,
+  "what_it_does": "Removes the legend hunt by ending every line in the company's own logo beside its value.",
+  "how_built": "Line chart with small value tags at right ends, company logos stacked in same order right after them; call-outs on the plot with light or dark hard-shadow boxes.",
+  "use_for": "Peer comparison lines with at most about six companies.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Double dashed selection ring",
+  "category": "annotation",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   32,
+   36
+  ],
+  "crop": "b4_selection_ring.png",
+  "quality": 2,
+  "what_it_does": "Flags the one row or conclusion like a marquee selection, without adding a fill.",
+  "how_built": "Rounded rectangles drawn twice with slight offset in dashed line (red on rows, white on summary boxes), containing just the figures that matter, echoing into a summary card beneath.",
+  "use_for": "Key lines of a model table on dark slides",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Ghost delta bar with I-beam note",
+  "category": "annotation",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   24
+  ],
+  "crop": "b4_ghost_delta_bar.png",
+  "quality": 2,
+  "what_it_does": "Identifies the gain as an explanation rather than a mass, between two solid totals.",
+  "how_built": "Two solid gradient bars; middle one is pale tint with dashed outline floating at the delta; capped stem drops to a dashed note box.",
+  "use_for": "Before and after with one explained gap",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Texture-coded bridge legend",
+  "category": "annotation",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   36
+  ],
+  "crop": "b4_texture_legend_bridge.png",
+  "quality": 2,
+  "what_it_does": "Gives equity, debt, synergies and incremental value separate material on a single-hue page.",
+  "how_built": "White outline for equity, solid red for debt, dark red for synergies, hatch for the increment; a top legend with long swatches; thin red connector rules; subscript on final labels.",
+  "use_for": "Monochrome value bridges",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Forecast divider with its own note zone",
+  "category": "annotation",
+  "deck": "Cosan",
+  "pages": [
+   14
+  ],
+  "crop": "b4_forecast_divider_note.png",
+  "quality": 2,
+  "what_it_does": "Separates actuals from estimates and uses the zone to state the point.",
+  "how_built": "Dark vertical line between years with a small rightward arrow at the top; light grey zone covers the estimate years, italic note at its top; ratio series as filled tags over the bars.",
+  "use_for": "Actuals vs. estimate charts",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Dashed logo tether on seat plan",
+  "category": "annotation",
+  "deck": "Cosan",
+  "pages": [
+   6
+  ],
+  "crop": "b4_logo_seat_tether.png",
+  "quality": 2,
+  "what_it_does": "Shows which shareholder holds which seat (the plan itself is already catalogued).",
+  "how_built": "Shareholder logos beside the seat, joined by dashed line; seat recoloured in a contrasting tone; pale zone with caption New Board Members groups them.",
+  "use_for": "Board change",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "\"Not this, but that\" card",
+  "category": "annotation",
+  "deck": "Intelbras",
+  "pages": [
+   10
+  ],
+  "crop": "b2_in_product_x.png",
+  "quality": 2,
+  "what_it_does": "Dismantles the assumed explanation and lands the real one.",
+  "how_built": "Dashed red rounded box: small statement of what the moat is not, grey down-triangle, statement of what it is, red footer strip with a fact. Sits at the end of a chain of bordered pills linked by fading arrows.",
+  "use_for": "Reframing an insight",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Evidence bracket into takeaway box",
+  "category": "annotation",
+  "deck": "Kering - Moncler",
+  "pages": [
+   7,
+   25
+  ],
+  "crop": "b1_ke_bracket_takeaway.png",
+  "quality": 2,
+  "what_it_does": "Binds a whole list to one conclusion so the reader knows what to make of it.",
+  "how_built": "Thin gold dashed bracket spanning the content's width; short dashed drop with a tiny solid triangle; sentence; pale box with gold dashed outline holding the implication.",
+  "use_for": "Bottom of any list or exhibit column.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Named zones over a bar chart",
+  "category": "annotation",
+  "deck": "Kering - Moncler",
+  "pages": [
+   7
+  ],
+  "crop": "b1_ke_zones.png",
+  "quality": 2,
+  "what_it_does": "Classifies peers into two camps on the chart itself.",
+  "how_built": "Green and pink tinted dashed rectangles behind the positive and negative extremes, with gold uppercase labels outside the frame; dark gradient bars stay neutral and the zone colour carries the meaning.",
+  "use_for": "Winners vs losers, specialists vs generalists.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Action zone in a risk matrix",
+  "category": "annotation",
+  "deck": "Kering - Moncler",
+  "pages": [
+   28
+  ],
+  "crop": "b1_ke_action_zone.png",
+  "quality": 2,
+  "what_it_does": "Says which risks require action before closing, not just which are large.",
+  "how_built": "Pale grey dashed box around the top-right cell labelled 'PRE-CLOSING' in small spaced caps; gold axis bands LOW/MID/HIGH on both axes; numbered dots match a right-hand ledger with mitigation and residual risk columns. Glow dots already catalogued; this entry is the zone and the residual column.",
+  "use_for": "Risk slides where a subset triggers conditions.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Curve labels set along the slope, gap arrow",
+  "category": "annotation",
+  "deck": "Meliuz",
+  "pages": [
+   40
+  ],
+  "crop": "b4_slope_label_gap_arrow.png",
+  "quality": 2,
+  "what_it_does": "Removes the legend and makes the crossover and final gap the message.",
+  "how_built": "Text rotated to the line's angle, in the line colour, with quotes around it because the series are words; double-headed dashed arrow at the last period.",
+  "use_for": "Two-series crossover",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Series tags as filled pills",
+  "category": "annotation",
+  "deck": "Nubank",
+  "pages": [
+   8,
+   27
+  ],
+  "crop": "b4_pill_data_labels.png",
+  "quality": 2,
+  "what_it_does": "Each value is coloured by its series, so the legend becomes almost unnecessary and overlaps remain readable.",
+  "how_built": "Small filled rounded rectangle at each data point in series colour with white bold number, bigger than usual. Also red square tags for ratios on Cosan p14.",
+  "use_for": "Line charts with few points",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Dashed tinted delta chips",
+  "category": "annotation",
+  "deck": "Rede D'Or",
+  "pages": [
+   64,
+   65,
+   55,
+   57,
+   58
+  ],
+  "crop": "b1_rd_delta_chips.png",
+  "quality": 2,
+  "what_it_does": "Layers the takeaway number directly on the chart without covering bars or needing a leader.",
+  "how_built": "Muted blue semi-opaque rectangle with white bold text and a dark dashed outline, placed in the open space above each bar pair ('+43,9%'), or as a sentence box inside a chart area ('Cancer represents ~9% of the claims').",
+  "use_for": "Before/after bars, chart with one key takeaway.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Rounded value pills on line points",
+  "category": "annotation",
+  "deck": "Rede D'Or",
+  "pages": [
+   14,
+   15,
+   56,
+   57
+  ],
+  "crop": "b1_rd_pill_labels.png",
+  "quality": 2,
+  "what_it_does": "Removes the y-axis and turns each data point into a readable label in its series colour.",
+  "how_built": "Small rounded-rect label centred on every point, filled with the series colour, white text; no y-axis or gridlines, only the x baseline; smooth lines pass behind the pills. Same pill convention on bars.",
+  "use_for": "Line charts with 5-15 points and 2 series.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Hatched exclusion on a score map",
+  "category": "annotation",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   38
+  ],
+  "crop": "b3_hatched_excluded_map.png",
+  "quality": 2,
+  "what_it_does": "Separates markets out of scope (home region) from those scored low, a difference grey alone would not show.",
+  "how_built": "Choropleth in a white-to-red scale; home countries filled with diagonal hatching; no-data grey; slim gradient legend Low to High. Adjacent card lists scoring criteria.",
+  "use_for": "Screening maps; any heatmap with a not applicable class.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Dashed rounded bracket with a verdict on its edge",
+  "category": "annotation",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   30,
+   39
+  ],
+  "crop": "b3_dashed_bracket.png",
+  "quality": 2,
+  "what_it_does": "Groups part of a chart and states the group's reading, keeping the remainder outside as the contrast.",
+  "how_built": "Grey dashed rounded rectangle around selected bars, passing below the axis; bold statement seated inside the top, with number in red, often breaking the dashes; bars outside stay grey.",
+  "use_for": "Selected years or categories in any bar chart.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Pill data labels",
+  "category": "annotation",
+  "deck": "Sabesp / Intelbras",
+  "pages": [
+   2,
+   8,
+   11,
+   16
+  ],
+  "crop": "b2_sa_pill_labels.png",
+  "quality": 2,
+  "what_it_does": "Makes chart labels part of the identity and readable over bars and lines.",
+  "how_built": "Rounded rectangles with white text: pale cyan centred on bars and navy on line points, sitting on the mark instead of above it. Intelbras caps each bar top with the pill. Applied to every chart throughout the deck.",
+  "use_for": "Combo charts with two series",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Tinted dashed window over bars",
+  "category": "annotation",
+  "deck": "Sabesp / Mercado Libre",
+  "pages": [
+   11,
+   19,
+   "ML 19,48"
+  ],
+  "crop": "b2_sa_bar_window.png",
+  "quality": 2,
+  "what_it_does": "Isolates the period that matters while keeping the full series visible.",
+  "how_built": "Rounded rectangle with pale tint at about 15% and dashed blue outline placed behind or over two to four bars; a small tinted note sits at its corner, overlapping the edge.",
+  "use_for": "Post-event windows and forecast periods",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Formula chip pinned to a waterfall",
+  "category": "annotation",
+  "deck": "Senior Sistemas",
+  "pages": [
+   55
+  ],
+  "crop": "b1_se_wacc_chip.png",
+  "quality": 2,
+  "what_it_does": "Shows the arithmetic of an adjustment right where it changes the chart.",
+  "how_built": "Shadowed pale chip across the top of the chart with 'WACC: 11,7% + 3,0% = 14,7%', result in bold accent, with a bold heading ('Size premium') above and a tick to the bar.",
+  "use_for": "WACC builds, adjustments, bridge charts.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Bracket to result chip",
+  "category": "annotation",
+  "deck": "Senior Sistemas",
+  "pages": [
+   55
+  ],
+  "crop": "b1_se_bracket_chip.png",
+  "quality": 2,
+  "what_it_does": "Collapses a run of bars into one derived assumption.",
+  "how_built": "A black square bracket spans the bars; a dashed line runs from the bracket to a shadowed chip with a bold accent result ('g = 4,17%').",
+  "use_for": "Terminal growth, multi-year averages, implied assumptions.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Holder table with IRR pills",
+  "category": "annotation",
+  "deck": "Vibra",
+  "pages": [
+   31
+  ],
+  "crop": "b1_vi_irr_pills.png",
+  "quality": 2,
+  "what_it_does": "Answers 'why would they sell' under each seller's own position data.",
+  "how_built": "Thin outlined one-row table of share count by quarter; a thin vertical drop at each side reaches outlined pills under the table: 'IRR (Ex-InFinance)' and 'IRR (With InFinance)' joined by a line.",
+  "use_for": "Negotiating logic, counterparties' returns.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Axis-break mark in a bar gap",
+  "category": "annotation",
+  "deck": "Vibra",
+  "pages": [
+   29
+  ],
+  "crop": "b1_vi_axis_break.png",
+  "quality": 1,
+  "what_it_does": "Separates unlike groups or signals a scale jump without needing an axis.",
+  "how_built": "Vertical light grey rule between bars interrupted by a pair of slanted short strokes; same double-slash splits horizontal rules on p31.",
+  "use_for": "Bars with mismatched groups; sectional dividers.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Raw field research wall",
+  "category": "evidence",
+  "deck": "3R Petroleum",
+  "pages": [
+   51
+  ],
+  "crop": "b4_field_research_wall.png",
+  "quality": 3,
+  "what_it_does": "Unpolished screenshots and a PPE photo prove the fieldwork really occurred.",
+  "how_built": "White slide, unframed images with one caption each: call grids, a full iPhone call screen showing name and duration, tall photo of the team on the platform in orange gear.",
+  "use_for": "Appendix proof of access",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Browser-shell news cards, retyped",
+  "category": "evidence",
+  "deck": "3R Petroleum",
+  "pages": [
+   56,
+   58
+  ],
+  "crop": "b4_browser_news_shell.png",
+  "quality": 3,
+  "what_it_does": "Gets news into the slide clean and legible, without a pixelated screenshot.",
+  "how_built": "Grey rounded window with red, yellow, green dots at the top left and a red close dot at top right, blank address pill; white body with outlet logo, bold headline, regular subhead. Fully drawable.",
+  "use_for": "News and regulatory headlines",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Interview wall with tally band",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   15,
+   67
+  ],
+  "crop": "b1_ab_interview_wall.png",
+  "quality": 3,
+  "what_it_does": "Proves the breadth of primary research at a glance and makes the count the headline.",
+  "how_built": "Lead interviewee card at left (Zoom grid, bold source, summary) joined by a line and thick tick to an open-right frame holding 8 Zoom screenshots with italic 'Name | Role' captions and one bold quote with accent tick; full-bleed accent band below with two huge numerals ('47 Employees Interviewed', '04 Different Countries').",
+  "use_for": "Management culture or qualitative thesis backed by many calls.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Oversized research tally plate",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   38,
+   50
+  ],
+  "crop": "b1_ab_tally.png",
+  "quality": 3,
+  "what_it_does": "States the sample size as a title, before the reader sees any finding.",
+  "how_built": "Pale grey plate as wide as the column; accent numeral plus grey word at about 3x body size ('50 Orders 19 Interviewed', '23 Interviewed').",
+  "use_for": "Surveys, mystery shops, store checks.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Mystery-shop experiment panel",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   38,
+   71
+  ],
+  "crop": "b1_ab_mystery_shop.png",
+  "quality": 3,
+  "what_it_does": "Presents an original experiment like a lab result, with data, physical proof and control conditions together.",
+  "how_built": "Grey panel: 3-row results table with competitor logos as row labels and the winning row in a dashed box; a one-line finding with accent deltas; two photos of the measurement (thermometer in a bottle); a side note in small italic behind a bracket line stating the controls ('same day, same time, same place').",
+  "use_for": "Any primary test: price checks, delivery times, product teardowns.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Code screenshot as method proof",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   13,
+   14,
+   24,
+   124,
+   125
+  ],
+  "crop": "b1_ab_code_proof.png",
+  "quality": 3,
+  "what_it_does": "Backs a soft claim with visible work by showing both the output and the script that made it.",
+  "how_built": "Two stacked images with italic labels 'Output' and 'Input': a black-and-white word cloud cropped hard at the edges, and a dark IDE screenshot below; each has a two-tone rule on top. Word cloud and script bleed off the right edge. Python scrape plus map on p124-125.",
+  "use_for": "Text mining of transcripts, web scraping, proprietary datasets.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Office-visit interview block",
+  "category": "evidence",
+  "deck": "Alupar",
+  "pages": [
+   18
+  ],
+  "crop": "b2_al_office_visit.png",
+  "quality": 3,
+  "what_it_does": "Combines proof of access with what the person said, and ties it to the deal order.",
+  "how_built": "Photo at the company reception, with diamond-tipped frame, next to name and role over a hairline. Oversized black quotation marks on both sides of the body. Above, a 1-2-3 stepper of funding stages in small square tags joined by hairlines; the same tags reappear on the cards at right.",
+  "use_for": "Management meetings that determine a structure",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Field research scoreboard with call screenshot",
+  "category": "evidence",
+  "deck": "BTG Pactual",
+  "pages": [
+   26,
+   27
+  ],
+  "crop": "b3_field_scoreboard_videocall.png",
+  "quality": 3,
+  "what_it_does": "Proves the sample size and shows the conversation really happened, then converts it into a single share.",
+  "how_built": "Dark panel: We went out on field and talked to 39 IFA offices, big number in light blue; below, logo rows linked by a thin line with a small X to a count; right, full video-call screenshot with the interviewee's logo and date on a dim strip across the top; from the panel a diamond leader drops to the finding and a 9% / 91% framed bar.",
+  "use_for": "Primary research summary: expert calls, store visits, surveys.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Tap-by-tap product walkthrough",
+  "category": "evidence",
+  "deck": "BTG Pactual",
+  "pages": [
+   45,
+   94,
+   95
+  ],
+  "crop": "b3_tap_walkthrough.png",
+  "quality": 3,
+  "what_it_does": "Shows the analysts personally tested the product and counts the steps to the claim being made.",
+  "how_built": "Three phone screenshots on a baseline arrow running from a dark Current Account label to a dark Investments label; a hand-pointer icon over the tapped item; captions 1st Touch, 2nd Touch, You are now in the platform. Logos at both ends of the title rule. Pp. 94-95 use app-logo columns with screenshots and verdict lines.",
+  "use_for": "Product, UX or integration claims.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Signed term sheets",
+  "category": "evidence",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   32,
+   33,
+   34,
+   35
+  ],
+  "crop": "b4_signature_term_sheets.png",
+  "quality": 3,
+  "what_it_does": "Makes a hypothetical deal feel executed, and adds team personality to dry bond terms.",
+  "how_built": "Three outlined term boxes with an underlined header and label-value rows. Below each, a row of three script signatures over hairlines with printed names. Project gets an italic code name in the title (Project Talos).",
+  "use_for": "Proposed financing, deal terms, M&A proposal",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "News window with date, tied to the chart below",
+  "category": "evidence",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   14,
+   20
+  ],
+  "crop": "b4_news_window_traffic.png",
+  "quality": 3,
+  "what_it_does": "Puts a dated headline right on top of the numbers it explains.",
+  "how_built": "Thin dark-outlined card with three small traffic-light dots, outlet logo top right, bold headline, Summary with a bullet, date bottom right. A pale funnel links down into the framed chart.",
+  "use_for": "Linking news to data",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Geo-heatmap proof page",
+  "category": "evidence",
+  "deck": "Intelbras / Mercado Libre",
+  "pages": [
+   9,
+   14,
+   86
+  ],
+  "crop": "b2_in_geo_proof.png",
+  "quality": 3,
+  "what_it_does": "Turns a claim about reach into a map the team built, with rivals plotted as well.",
+  "how_built": "Two heatmap screenshots at city and metro scale, joined to outlined labels by a thin line with a diamond tip. Competitors marked as coloured stars with a small legend. To the right: dashed green boxes with 1.35 km and 4.7/5 KPIs above the code screenshot and caption.",
+  "use_for": "Footprint, capillarity, store-network analysis",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Word-frequency rows from earnings calls",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   40
+  ],
+  "crop": "b4_word_frequency_rows.png",
+  "quality": 3,
+  "what_it_does": "Proves a strategy shift from what management actually says.",
+  "how_built": "Dark code pane with bold vertical-rule caption, two small word and count tables by quarter, relevant rows wrapped in dashed boxes colour-coded by theme with a matching mini legend.",
+  "use_for": "Management narrative shifts; earnings call analysis",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Code to feed to verdict triptych",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   47
+  ],
+  "crop": "b4_code_phone_verdict.png",
+  "quality": 3,
+  "what_it_does": "Shows method, raw material and result left to right, so a homemade sentiment figure feels credible.",
+  "how_built": "Dark code pane full height; phone mockup with a mock feed of posts; donut with platform logo in its hole; dashed takeaway box beneath.",
+  "use_for": "Social listening, scraping, ML side analysis",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Primary-research counter band",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   14
+  ],
+  "crop": "b4_interview_counter_band.png",
+  "quality": 3,
+  "what_it_does": "Quantifies the fieldwork and shows real faces, right where the claim is made.",
+  "how_built": "Dark full-width band; big accent numbers with labels (2 directors, 6 employees, 29 ex-staff) on the left; video-call screenshots with date and interviewee name beneath.",
+  "use_for": "Field research summaries",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Survey question to yes/no bar",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   14
+  ],
+  "crop": "b4_survey_question_bar.png",
+  "quality": 3,
+  "what_it_does": "Connects the exact question to the answer.",
+  "how_built": "Dashed box with quoted question, hand-drawn curved arrow into a two-segment bar with value and label inside each part; two large-number sentences give n below. A vertical line links the box up to the counter that sourced it.",
+  "use_for": "Single-question primary surveys",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Field test: phone with leaders into findings",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   116
+  ],
+  "crop": "b4_field_test_phone_leaders.png",
+  "quality": 3,
+  "what_it_does": "Lets the reader follow the test the team ran on the product: screen, finding, supporting fine print, call log.",
+  "how_built": "Large phone with a real screenshot; solid leader from the phone to dashed finding box; dashed cyan leader from the app's button to matching cyan frame around fee table in a rounded panel; second phone showing 15 call-log entries.",
+  "use_for": "Mystery shopping, product tests",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Chat bubbles as customer evidence",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   124
+  ],
+  "crop": "b4_chat_bubble_evidence.png",
+  "quality": 3,
+  "what_it_does": "Uses unedited customer messages as qualitative data with a tally beside.",
+  "how_built": "Dark pill with the question, dotted diamond leader to a key stat; cropped grey bubbles with avatar scattered on white; L-shadow card of three icon themes summarising mentions.",
+  "use_for": "Customer interviews by message",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Field-trip selfie on a location band",
+  "category": "evidence",
+  "deck": "Mercado Libre",
+  "pages": [
+   14
+  ],
+  "crop": "b2_ml_field_selfie.png",
+  "quality": 3,
+  "what_it_does": "Places the analysts physically at the asset, in one small corner.",
+  "how_built": "Navy band from the left edge under the chart area, with italic place name and white pin icon. The photo rounded and navy-outlined, overlapping the band end and rising above it.",
+  "use_for": "Site visits, store checks, plant tours",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Hands-on platform test",
+  "category": "evidence",
+  "deck": "Mercado Libre",
+  "pages": [
+   28,
+   96
+  ],
+  "crop": "b2_ml_platform_test.png",
+  "quality": 3,
+  "what_it_does": "Replaces opinion with an experiment the team ran on the product itself.",
+  "how_built": "Screenshot of the real dashboard in a rounded frame with a navy title bar, \"Mercado Libre website printscreen\", bleeding right. Over the top of the screenshot, two outlined white boxes restate the key figures in large type (\"41 > 6\", \"ACOS = 5.9%\"). Left: dashed box with up arrow and 35.4%, then conclusion sentence.",
+  "use_for": "Product tests, mystery shopping, pricing experiments",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Survey source chip",
+  "category": "evidence",
+  "deck": "Mercado Libre / Intelbras",
+  "pages": [
+   13,
+   52,
+   53,
+   "Intelbras 8"
+  ],
+  "crop": "b2_ml_survey_chip.png",
+  "quality": 3,
+  "what_it_does": "Marks a chart as proprietary research and gives sample size at a glance.",
+  "how_built": "Google Forms purple icon overlapping a grey rounded plate with \"467 answers\". Place it beside the chart next to a dashed box enclosing the bars that matter; those bars switch to the accent colour. Intelbras adds an outlined bubble: \"59+ responses from active resellers\".",
+  "use_for": "Own surveys and field polls",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Code screenshot as receipt",
+  "category": "evidence",
+  "deck": "Mercado Libre / Intelbras",
+  "pages": [
+   7,
+   "Intelbras 9"
+  ],
+  "crop": "b2_ml_textmining_board.png",
+  "quality": 3,
+  "what_it_does": "Shows how a claim was produced, with the code placed next to the result.",
+  "how_built": "Dark rounded editor screenshot beside the output. In ML p7, a five-row ranking of words from shareholder letters: rank square, pill with word and count, top pill yellow, rest navy; column headers Nº, Transcript, Q, Python script. A novel metric that needs little space.",
+  "use_for": "Text mining, scraped datasets, custom models",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Book cover as authority",
+  "category": "evidence",
+  "deck": "Mercado Libre / Intelbras",
+  "pages": [
+   4,
+   11,
+   68,
+   74,
+   "Intelbras 43"
+  ],
+  "crop": "b2_ml_book_quote.png",
+  "quality": 3,
+  "what_it_does": "Borrows a known framework by showing the cover next to the quote it supports.",
+  "how_built": "Cover image at quote height, sometimes poking above the plate. Grey plate with justified quote and key words in navy bold; navy strip underneath saying what the idea means for this company. ML p68 extends this to a tall panel (crop b2_ml_book_panel.png) with author tag and two quotes.",
+  "use_for": "Framework citations such as Seven Powers, Good to Great, Outsiders",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Stacked video-call screenshots",
+  "category": "evidence",
+  "deck": "Mercado Libre / Sabesp",
+  "pages": [
+   11,
+   25,
+   84,
+   129,
+   "Sabesp 12,34,49,66,67"
+  ],
+  "crop": "b2_ml_zoom_stack.png",
+  "quality": 3,
+  "what_it_does": "Proves that primary interviews happened, using the raw look of the call as credibility.",
+  "how_built": "Two or three Zoom screenshots overlapped in a cluster, with a navy flag rectangle poking out at the top-left of each. Set in a grey panel with left navy rail and notch, the quote in italics below. Sabesp p66 uses one larger centred call over a tinted quote band.",
+  "use_for": "Expert calls, management calls, employee interviews",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Python logo as method stamp",
+  "category": "evidence",
+  "deck": "Mercado Libre / Sabesp / Intelbras / Alupar",
+  "pages": [
+   14,
+   "Sabesp 17,25",
+   "Intelbras 9",
+   "Alupar 18"
+  ],
+  "crop": "b2_ml_heatmap_panel.png",
+  "quality": 3,
+  "what_it_does": "Signals analysis built by the team rather than sourced, without a sentence of explanation.",
+  "how_built": "Small Python logo, sometimes on a white rounded tile, in the corner of a map or next to a caption, as a stamp of provenance. Works best with a one-line caption such as \"MELI Distribution Centers Heatmap\" on a navy panel.",
+  "use_for": "Self-built maps, regressions and scraped data",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Timed transaction race with phones",
+  "category": "evidence",
+  "deck": "Nubank",
+  "pages": [
+   8
+  ],
+  "crop": "b4_pix_race.png",
+  "quality": 3,
+  "what_it_does": "Turns a claim about efficiency into a measured stopwatch test against the rival.",
+  "how_built": "Two tinted bars behind phones; numbered circles on each phone = steps; stopwatch icon plus big time at the bar's end; grey tag beneath states auth steps; floating note translates the gap into a yearly cost for the user.",
+  "use_for": "App UX, onboarding, process comparisons",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Pin density map with code overlay",
+  "category": "evidence",
+  "deck": "Nubank",
+  "pages": [
+   25
+  ],
+  "crop": "b4_pin_density_map.png",
+  "quality": 3,
+  "what_it_does": "Layers proprietary analysis on a city: income choropleth and bank presence.",
+  "how_built": "Purple tonal blobs from a custom geo analysis; black map pins sized by branch concentration; pin legend stacked by size; rounded dark code panel with brand-tinted Python badge at its corner; gradient scale strip below.",
+  "use_for": "Geo white space, store network, proprietary analysis",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Real paperwork as exhibit",
+  "category": "evidence",
+  "deck": "Nubank",
+  "pages": [
+   27
+  ],
+  "crop": "b4_form_exhibit.png",
+  "quality": 3,
+  "what_it_does": "Shows the incumbent's actual paper form so the word legacy needs no adjectives.",
+  "how_built": "Accent pill header; form screenshot tall at left; violet vertical rule; row of logos with three bold-lead findings at right.",
+  "use_for": "Regulatory filings, forms, contracts, price lists",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Pin census on a real street map",
+  "category": "evidence",
+  "deck": "RD Saude",
+  "pages": [
+   14,
+   15
+  ],
+  "crop": "b3_pin_census_map.png",
+  "quality": 3,
+  "what_it_does": "Field-style proof of the store-density claim by counting competitors on two real neighbourhood maps.",
+  "how_built": "Google Maps screenshot with hand-placed pins coloured per chain; legend plate at left repeating those pin colours; a dashed note at right states the single reading, Just one RD Store in that poor area. Page 14 shows the rich neighbourhood for contrast.",
+  "use_for": "Retail footprint, capillarity, white space in any local market.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Browser-chrome news card",
+  "category": "evidence",
+  "deck": "Rede D'Or",
+  "pages": [
+   14,
+   51,
+   54,
+   56,
+   64
+  ],
+  "crop": "b1_rd_browser_card.png",
+  "quality": 3,
+  "what_it_does": "Makes a press headline look like live evidence and can be built without any screenshot.",
+  "how_built": "Grey rounded panel with red, yellow, green dots at top-left and a red dot at right; white pill with the URL; white card with outlet logo centered, bold headline and one-line standfirst retyped as live text. Beam into it from a chart bar is already catalogued; this entry is the card itself.",
+  "use_for": "Press events, regulatory changes, contract terminations.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Stack of phone call screens",
+  "category": "evidence",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   18
+  ],
+  "crop": "b3_phone_call_stack.png",
+  "quality": 3,
+  "what_it_does": "Documents anonymised calls while protecting identities, since the screens show only labels such as BK Florida 21.",
+  "how_built": "Four iPhone call-screen mockups in two overlapping pairs, screen text naming chain and region only, next to a large sentence with the count and a red phrase; a divider rule with a grey chevron disc leads to what was found.",
+  "use_for": "Calls with sources who cannot be named.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Phone mockup holding proprietary data",
+  "category": "evidence",
+  "deck": "Vasta",
+  "pages": [
+   17
+  ],
+  "crop": "b3_phone_field_data.png",
+  "quality": 3,
+  "what_it_does": "Puts scraped app-store data inside the phone it refers to, so the source and the numbers read as one object.",
+  "how_built": "Phone outline drawn as a shape cropped by the card base; app logo, bell icon, red headline, then a grey rounded panel with a 2x2 grid of white stat tiles with icon, number, label; a pale teal takeaway box overlaps the bottom of the phone and card; card header Field evidence, Proprietary scraping.",
+  "use_for": "App usage, reviews, scraped digital metrics. The phone is drawable; only the logo is real.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "One-line headline strips",
+  "category": "evidence",
+  "deck": "Vibra",
+  "pages": [
+   39
+  ],
+  "crop": "b1_vi_headline_strips.png",
+  "quality": 3,
+  "what_it_does": "Offers press evidence in the smallest possible space.",
+  "how_built": "Thin outlined rows, each with bold headline at left, short date and tiny outlet logo at right; 3 stacked with even gaps.",
+  "use_for": "Market chatter, buyer signals, precedent news.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "News card with overlapping source stamp",
+  "category": "evidence",
+  "deck": "Vibra",
+  "pages": [
+   14,
+   25
+  ],
+  "crop": "b1_vi_news_card.png",
+  "quality": 3,
+  "what_it_does": "Summarises an article in your words while keeping its source and date visible.",
+  "how_built": "Accent outlined box; dark band with bold white headline; white plate with outlet wordmark overlapping the band's right end and the frame; 'Summary:' with 2 bullets; bold italic date bottom-right. On p25 a tapered connector ties it to a 'Sell Side Analysis at the Time' panel of three attributed numbers.",
+  "use_for": "Deal history and press-sourced facts.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Field selfie grid with on-photo credit",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   38,
+   50,
+   68,
+   69,
+   70
+  ],
+  "crop": "b1_ab_field_selfies.png",
+  "quality": 2,
+  "what_it_does": "Shows the team physically went to the field, and names each source.",
+  "how_built": "Grid of 2x3 tight portrait photos with no border; white italic 'Name | Employer' overlaid at the bottom of each; a large italic pull quote takes the last two cells so the grid and the quote read as one block.",
+  "use_for": "Store visits, couriers, channel checks, customer interviews.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Book cover as authority prop",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   28
+  ],
+  "crop": "b1_ab_book_archetypes.png",
+  "quality": 2,
+  "what_it_does": "Grounds a framework in a recognised source and then maps it to the company's portfolio.",
+  "how_built": "Book cover in a thin-line frame, overlapping a dark text band; below, each archetype name sits on a thick accent rule that runs into a dashed box with the brand name; a dashed elbow ties the middle row back to the book.",
+  "use_for": "Framework slides with a named academic or popular source.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "People-we-spoke-to appendix page",
+  "category": "evidence",
+  "deck": "AB InBev",
+  "pages": [
+   63,
+   64,
+   65,
+   66,
+   67
+  ],
+  "crop": "b1_ab_people_appendix.png",
+  "quality": 2,
+  "what_it_does": "Gives every marquee interview its own proof page to pull up during Q&A.",
+  "how_built": "Large cut-out portrait bottom-left on a pale band, name and title behind a dark tick, Zoom screenshot with soft shadow at right; repeats one person per slide in the appendix.",
+  "use_for": "Q&A backup for primary research claims.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Provenance stamp on quotes",
+  "category": "evidence",
+  "deck": "BTG Pactual",
+  "pages": [
+   33,
+   27,
+   58
+  ],
+  "crop": "b3_provenance_stamp.png",
+  "quality": 2,
+  "what_it_does": "Dates and sources each quote so it reads as a logged interview rather than decoration.",
+  "how_built": "Small logo, thin vertical bar, bold line Conversation happened on 04/03, then a black diamond with a thin line leading to the speaker's portrait.",
+  "use_for": "Any interview quote; cheap to apply if the interview is real.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Store-visit photo strip",
+  "category": "evidence",
+  "deck": "Intelbras",
+  "pages": [
+   8
+  ],
+  "crop": "b2_in_store_photos.png",
+  "quality": 2,
+  "what_it_does": "Backs a survey with evidence of fieldwork at the point of sale.",
+  "how_built": "Four same-size portrait photos in a row with small gutters, no captions, directly under the argument that they support, and next to the survey chart and a reseller quote.",
+  "use_for": "Channel checks",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Book cover as evidence exhibit",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   15
+  ],
+  "crop": "b4_book_exhibit.png",
+  "quality": 2,
+  "what_it_does": "Cites a source object, and the box summarises what it says.",
+  "how_built": "Dashed accent box; book cover at left, accent heading, short numbered ledger with bold key words at right.",
+  "use_for": "Founder memoir, letters, reports",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Event proof card",
+  "category": "evidence",
+  "deck": "Meliuz",
+  "pages": [
+   11
+  ],
+  "crop": "b4_event_proof_card.png",
+  "quality": 2,
+  "what_it_does": "Proves direct access to management with a photo and a thank-you note.",
+  "how_built": "Card (modal state on the previous slide): dashed-frame photo at left, right has uppercase name, role, dated italic account, two logos, asterisked thanks. Inserted on click from the executive's slide.",
+  "use_for": "Management meetings, site visits",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "School logos on a board roster",
+  "category": "evidence",
+  "deck": "Mercado Libre",
+  "pages": [
+   69,
+   70,
+   71
+  ],
+  "crop": "b2_ml_school_logos.png",
+  "quality": 2,
+  "what_it_does": "Turns education into a scan-ready credential row.",
+  "how_built": "Row of university logos labelled Schools above the portrait cluster, with name and short bio lines at right in a grey band. Low-res crop.",
+  "use_for": "Board and management pages",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Source letter pinned beside its formula",
+  "category": "evidence",
+  "deck": "Nubank",
+  "pages": [
+   63
+  ],
+  "crop": "b4_source_letter_formula.png",
+  "quality": 2,
+  "what_it_does": "Credits where a calculation came from and gives its formula at once.",
+  "how_built": "Rounded pale tile holding a shareholder letter page; black band below with a typeset formula in white; highlighted result row in the table at the left.",
+  "use_for": "Appendix method slides",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Call screenshot with insight caption",
+  "category": "evidence",
+  "deck": "RD Saude",
+  "pages": [
+   73,
+   76
+  ],
+  "crop": "b3_analyst_calls.png",
+  "quality": 2,
+  "what_it_does": "Shows the actual analyst or IR call, app chrome included, with the takeaway directly attached.",
+  "how_built": "Name and role as subhead; uncropped Teams or Zoom window including the toolbar and Leave button; grey plate directly under the image with Insights: and the quote. P.76 uses a single screen centred over a plinth and quote.",
+  "use_for": "Appendix proof of expert calls.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Oversized mac-window headlines",
+  "category": "evidence",
+  "deck": "RD Saude",
+  "pages": [
+   60
+  ],
+  "crop": "b3_browser_news.png",
+  "quality": 2,
+  "what_it_does": "Makes a headline the main content of a modal slide, with outlet branding as the window header.",
+  "how_built": "Big grey rounded window, traffic-light dots drawn as shapes, outlet logo on its brand colour strip, headline in very large type on white, date under it at right; two windows side by side.",
+  "use_for": "Risk or catalyst slides driven by press events. Needs outlet logos.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Field-visit selfie strip",
+  "category": "evidence",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   18
+  ],
+  "crop": "b3_selfie_strip.png",
+  "quality": 2,
+  "what_it_does": "Makes the visit count feel lived by showing analysts with staff in the kitchens.",
+  "how_built": "Tightly tiled selfies with no gaps, in decreasing width left to right, ending in small stacked tiles; a red rule on left and base; under it a sentence with the count in bold (10 kitchens, 28 employees) and three Roman-numeral findings.",
+  "use_for": "Store, plant or site visits.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Browser-window news cards",
+  "category": "evidence",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   39
+  ],
+  "crop": "b3_browser_news_pair.png",
+  "quality": 2,
+  "what_it_does": "Presents two dated headlines as a before and after story, joined by a double chevron.",
+  "how_built": "White card with soft shadow; three small red dots and a white address pill holding the outlet name; quoted headline with bold keywords; grey date bottom right; pale double chevron between cards.",
+  "use_for": "News as sequence of events; drawable, no screenshot needed.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Incident photo log",
+  "category": "evidence",
+  "deck": "Sabesp",
+  "pages": [
+   61
+  ],
+  "crop": "b2_sa_incident_log.png",
+  "quality": 2,
+  "what_it_does": "Makes operating risk concrete by dating real events in pictures.",
+  "how_built": "Four pairs of news photos in a 2x2 layout, each with a bold event headline above and month tag beside it. Page 62 then dims it behind a band asking what the company is doing about it. Low-res crop from the contact sheet.",
+  "use_for": "Risk sections, accidents, ESG incidents",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "News app masthead on a clipping",
+  "category": "evidence",
+  "deck": "Senior Sistemas",
+  "pages": [
+   38
+  ],
+  "crop": "b1_se_news_masthead.png",
+  "quality": 2,
+  "what_it_does": "Gives a quoted article the look of a real app, not simply a text box.",
+  "how_built": "Dark gradient bar with spaced italic outlet name, magnifier and hamburger icons at right; beneath it, a clipping with bold quoted headline, body and date. The torn lower edge is already catalogued; this entry is the masthead.",
+  "use_for": "News evidence where no screenshot is available.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Bond identity card",
+  "category": "evidence",
+  "deck": "3R Petroleum",
+  "pages": [
+   74
+  ],
+  "crop": "b4_bond_id_card.png",
+  "quality": 1,
+  "what_it_does": "Documents the debt input as a registry record.",
+  "how_built": "White shadow card styled like a registry: code in bold with a small pill for the law, then grey label and value rows.",
+  "use_for": "Debenture or instrument reference",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Expert dossier stack",
+  "category": "quote",
+  "deck": "AB InBev",
+  "pages": [
+   6,
+   20,
+   55
+  ],
+  "crop": "b1_ab_expert_stack.png",
+  "quality": 3,
+  "what_it_does": "Establishes who is speaking, what method they bring and what they said, in one column.",
+  "how_built": "Top down: cut-out portrait at left over a pale plate that holds a method-vs-method comparison; credential with a thick dark tick ('Professor at Columbia University' bold, name regular); dark band with white quote, key phrase in accent, italic source below. The breakout of the portrait is already catalogued as depth; this entry is the information order.",
+  "use_for": "Authority framing for a method or thesis, CEO or founder views.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Pennant plate into 'we asked' cards",
+  "category": "quote",
+  "deck": "AB InBev",
+  "pages": [
+   20
+  ],
+  "crop": "b1_ab_asked_block.png",
+  "quality": 3,
+  "what_it_does": "Turns one interview into a structured takeaway: pillars said, then specific questions and answers.",
+  "how_built": "Long hairline with a small elongated-hexagon bead joins the photo side to a pale plate with three accent words split by vertical rules; the plate's base tapers to a shallow point; a line with another bead drops to a dashed frame captioned 'We asked Jorge Paulo about...' holding three equal cards with accent headings.",
+  "use_for": "Writing up a marquee interview without quoting paragraphs.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Video still wired to quote card",
+  "category": "quote",
+  "deck": "Alupar",
+  "pages": [
+   11
+  ],
+  "crop": "b2_al_diamond_frames.png",
+  "quality": 3,
+  "what_it_does": "Links speaker and statement with a drawn connector rather than simple adjacency.",
+  "how_built": "Interview still in a thin blue frame; hairline with diamond tip runs from its right edge to an outlined quote card with bold name, grey role, bold key terms, centred text. Small diamonds at frame corners.",
+  "use_for": "Expert interviews placed beside charts they explain",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Alternating pentagon quote ribbons with round portraits",
+  "category": "quote",
+  "deck": "BTG Pactual",
+  "pages": [
+   33
+  ],
+  "crop": "b3_pentagon_quote_ribbons.png",
+  "quality": 3,
+  "what_it_does": "Stages two interview quotes as a back-and-forth, each pointing the opposite way.",
+  "how_built": "Two pale full-bleed bands with one pointed end, first bleeding off right and pointing left, second bleeding off left and pointing right, in different tints; round portrait overlapping the flat end; key phrases in accent blue; attribution right aligned in grey.",
+  "use_for": "Two or three contrasting quotes from experts or customers.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Dated call stamp above a quote",
+  "category": "quote",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   31
+  ],
+  "crop": "b4_call_stamp_quote.png",
+  "quality": 3,
+  "what_it_does": "Gives an interview the authority of a logged record.",
+  "how_built": "Dark full-width strip with uppercase date, time and participants; below, justified quote with bold key phrases between small double-quote marks at each side.",
+  "use_for": "Expert calls; a photo-free interview",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Video-call grid and transcript card",
+  "category": "quote",
+  "deck": "Cosan",
+  "pages": [
+   6
+  ],
+  "crop": "b4_video_call_quote.png",
+  "quality": 3,
+  "what_it_does": "Pairs a real interview capture with the sentence used.",
+  "how_built": "Bordered pale card; 2x2 meeting screenshot at left; quote with bold key clauses and centred name and title at right, placed under the subhead that it supports.",
+  "use_for": "Executive interviews",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Anonymized quote with blurred portrait",
+  "category": "quote",
+  "deck": "Meliuz",
+  "pages": [
+   15
+  ],
+  "crop": "b4_anonymized_quote.png",
+  "quality": 3,
+  "what_it_does": "Keeps a sensitive quote human while showing the source's anonymity was protected.",
+  "how_built": "Grey panel; portrait in diamond crop heavily gaussian blurred, next to quote with highlighted sentence; named speakers alternate sides; footnote says anonymity was preserved on request.",
+  "use_for": "Ex-employee and expert interviews",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Name-tab analyst block",
+  "category": "quote",
+  "deck": "Rede D'Or",
+  "pages": [
+   15,
+   51,
+   58
+  ],
+  "crop": "b1_rd_analyst_block.png",
+  "quality": 3,
+  "what_it_does": "Quotes a sell-side or industry expert with a visible call as proof it took place.",
+  "how_built": "Pale grey panel; white shadowed name tab straddling its top edge ('Caio Rocha, Bradesco BBI HC Analyst'); small Zoom screenshot centered under it; centered quote with two phrases in accent.",
+  "use_for": "Expert calls, sell-side commentary placed beside a chart.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Quotes bookending a timeline",
+  "category": "quote",
+  "deck": "Sabesp",
+  "pages": [
+   17
+  ],
+  "crop": "b2_sa_timeline_bookend.png",
+  "quality": 3,
+  "what_it_does": "Lets the buyer and the target speak to each other across the track record.",
+  "how_built": "Ribbon timeline in the centre. Left end: cut-out portrait of one CEO with quote plate; right end: the other CEO, mirrored. Final node recoloured from purple to the subject colour, with its label in matching bold, so it reads as the next case in the series.",
+  "use_for": "Acquirer track records, turnaround precedents",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Video-grid quote card",
+  "category": "quote",
+  "deck": "Vasta",
+  "pages": [
+   13
+  ],
+  "crop": "b3_video_quote_card.png",
+  "quality": 3,
+  "what_it_does": "Compresses a call into a small corner card that gives proof of the call and the quote without taking over the slide.",
+  "how_built": "Pale rounded card bleeding off the right edge; left: one large and five small rounded video stills with accent borders; quote mark in accent and justified text with bold and pink emphasis; dark full-width name bar at the base; meeting-app logo at top right of the card.",
+  "use_for": "A supporting quote beside a chart.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Quote card with photo, firm and spine",
+  "category": "quote",
+  "deck": "Vibra",
+  "pages": [
+   29
+  ],
+  "crop": "b1_vi_quote.png",
+  "quality": 3,
+  "what_it_does": "Shows the source, their firm, and the team with them, then a quote that reads like testimony.",
+  "how_built": "Thin frame with a dark angular spine at left; top row with team-and-source photo, name and italic role, firm logo at right; rule; large slanted black quote marks in both top corners; grey text with bold key sentence; generous line spacing.",
+  "use_for": "Legal, regulatory, industry expert testimony.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Call screenshot inside a quote panel",
+  "category": "quote",
+  "deck": "3R Petroleum",
+  "pages": [
+   71
+  ],
+  "crop": null,
+  "quality": 2,
+  "what_it_does": "Shows the phone call took place next to what was said.",
+  "how_built": "Portrait and name above quote; small cropped phone call screen tucked at the side of the panel.",
+  "use_for": "Founder or expert interviews",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Thick frame portrait bonded to quote panel",
+  "category": "quote",
+  "deck": "Nubank",
+  "pages": [
+   17,
+   27
+  ],
+  "crop": "b4_framed_quote_portrait.png",
+  "quality": 2,
+  "what_it_does": "A consistent quote module whose frame colour can follow the speaker's brand.",
+  "how_built": "Pale tint rounded panel; at its right, portrait in a white rounded square with thick accent border overlapping the edge; quote with bold phrase, right-aligned italic name.",
+  "use_for": "All quotes; repeat through the deck",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Quote as root of a branching rationale",
+  "category": "quote",
+  "deck": "RD Saude",
+  "pages": [
+   57
+  ],
+  "crop": "b3_quote_to_reasons.png",
+  "quality": 2,
+  "what_it_does": "Uses an investor's quote to justify an awkward call (Hold despite downside), then lists the reasons as branches.",
+  "how_built": "Saturated panel with quote and team statement; a dark green vertical line from its lower-left corner with three horizontal branches to Roman-numbered reasons.",
+  "use_for": "Defending a non-obvious rating.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "CEO portrait with dashed dossier",
+  "category": "quote",
+  "deck": "Senior Sistemas",
+  "pages": [
+   23
+  ],
+  "crop": "b1_se_ceo_dossier.png",
+  "quality": 2,
+  "what_it_does": "Attaches a leader's strategic view directly to their photo.",
+  "how_built": "Large framed portrait with a coloured outline; to its right a dashed tinted box continuing the top edge of the frame with name and italic tenure; a dashed line descends and branches with small diamonds to bold-led points; KPI rings beneath.",
+  "use_for": "Founder and CEO profiles tied to a capital allocation thesis.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Verdict T-bracket: price to target to upside to IRR",
+  "category": "data-device",
+  "deck": "3R Petroleum",
+  "pages": [
+   6
+  ],
+  "crop": "b4_verdict_t_bracket.png",
+  "quality": 3,
+  "what_it_does": "Reads the recommendation as a derivation rather than a claim.",
+  "how_built": "Light card on dark. Pill BUY at top. Horizontal I-beam between current and target price with bold numbers and small labels; vertical capped stem drops to upside; second capped stem to IRR. Result figures in accent. On the chart, dashed target line ends in a small price tag.",
+  "use_for": "Recommendation slide",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Formula with oversized operators to result table",
+  "category": "data-device",
+  "deck": "3R Petroleum",
+  "pages": [
+   73
+  ],
+  "crop": "b4_formula_operators.png",
+  "quality": 3,
+  "what_it_does": "Shows inputs flowing into results, so calculation looks like a machine instead of a table.",
+  "how_built": "Grey L-shadow blocks; values in plain weight; big operator glyphs in accent (+, x, =) drawn as shapes; result with bold name below; arrow from Beta to a source label; large triangle pointing to a striped result table with bold WACC row.",
+  "use_for": "WACC, Ke, any equation with real inputs",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Barrel unit economics stack",
+  "category": "data-device",
+  "deck": "3R Petroleum",
+  "pages": [
+   36
+  ],
+  "crop": "b4_barrel_unit_economics.png",
+  "quality": 3,
+  "what_it_does": "Maps the P&L to a physical unit of product.",
+  "how_built": "Drawn barrel icon with a fill level next to a stack of four rounded rows: revenue per barrel dark, costs mid, net income in light accent, keeping height equal.",
+  "use_for": "Unit economics: per barrel, ton, customer, store",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Giant-number equation strip",
+  "category": "data-device",
+  "deck": "AB InBev",
+  "pages": [
+   6,
+   7
+  ],
+  "crop": "b1_ab_equation.png",
+  "quality": 3,
+  "what_it_does": "Turns a derived metric into one line of arithmetic that can be read from the back of the room.",
+  "how_built": "Dashed top and bottom rule, or dashed box; 3-4 oversized bold accent numbers with dark operators between; small italic caption below each term. Rede D'Or p39 uses the same logic for EV - debt + cash - provision = equity.",
+  "use_for": "Moat years, working capital, EV bridge, any metric with 2-4 inputs.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Partial-fill square rating",
+  "category": "data-device",
+  "deck": "AB InBev",
+  "pages": [
+   50,
+   106
+  ],
+  "crop": "b1_ab_square_rating.png",
+  "quality": 3,
+  "what_it_does": "Shows survey scores as a rating that reads faster than a table and looks like raw field data.",
+  "how_built": "Five squares in a row, the last filled proportionally (4.1 = four solid plus a 10% sliver over pale grey), score at the right; each row led by the survey question with accent keywords; a dashed elbow with a tick links to an italic field note on a pale plate.",
+  "use_for": "Primary survey results, NPS-like scores, app reviews.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Logo rows on a social-class ruler",
+  "category": "data-device",
+  "deck": "Arezzo&Co",
+  "pages": [
+   4
+  ],
+  "crop": "b3_class_ruler_logos.png",
+  "quality": 3,
+  "what_it_does": "Shows each company's addressable class band, turning logos into a positioning scale.",
+  "how_built": "Column headers C-, C+, B-, B+, A-, A+ in bold; thin vertical gridlines; logos as row labels; thick accent line with circular end caps from lowest to highest class served.",
+  "use_for": "Positioning: price tiers, income classes, customer sizes.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Logo timeline by decade",
+  "category": "data-device",
+  "deck": "Arezzo&Co",
+  "pages": [
+   5
+  ],
+  "crop": "b3_logo_timeline.png",
+  "quality": 3,
+  "what_it_does": "Makes entry waves of foreign brands visible at a glance as a wall of logos standing on a time axis.",
+  "how_built": "Horizontal arrow with dot at start and bold decade labels beneath; three logos stacked above each decade; a bracket from the arrow's end feeds two call-outs, one with the survivor rate and one with the exceptions as logos.",
+  "use_for": "Entrants, competitors, acquisitions, product launches.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Verdict frame with bracketed upside",
+  "category": "data-device",
+  "deck": "BTG Pactual",
+  "pages": [
+   2
+  ],
+  "crop": "b3_verdict_frame.png",
+  "quality": 3,
+  "what_it_does": "Delivers rating, prices and upside in one ruled composition that reads left to right, with the three theses directly below as the reason.",
+  "how_built": "Thin white rectangle with small X marks cut into both vertical sides; Recommendation in light tracked type; BUY in bold green on a dark green block; current price left, target right, joined by a line with end ticks broken by 52% UPSIDE in green; below, a lighter full-width band with 01 02 03 thin numerals and X separators.",
+  "use_for": "Opening recommendation slide.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Hatched maturity strip with texture legend",
+  "category": "data-device",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   32,
+   33,
+   34,
+   35
+  ],
+  "crop": "b4_hatched_maturity_strip.png",
+  "quality": 3,
+  "what_it_does": "Separates not amortizing from amortizing by texture so the bullet maturity jumps out on a dark field.",
+  "how_built": "One row per tranche, one rounded cell per year under a year header. Cells filled with diagonal hatch pattern; final year is a dark gradient cell with red outline. Small key underneath.",
+  "use_for": "Debt ladder, vesting, contract or capex schedules",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Ownership wires with capped percentages",
+  "category": "data-device",
+  "deck": "Cosan",
+  "pages": [
+   20,
+   21,
+   22,
+   23,
+   31,
+   32,
+   33,
+   34
+  ],
+  "crop": "b4_capped_stake_wires.png",
+  "quality": 3,
+  "what_it_does": "Percent stakes sit on the line they describe, so the chart reads without a table.",
+  "how_built": "Rectangular logo boxes with thin border; orthogonal lines; each stake is text interrupting the line, held between two short horizontal caps like an I-beam. Lines change colour by ownership path.",
+  "use_for": "Shareholder and corporate structures",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Decision range bar with ringed outcome",
+  "category": "data-device",
+  "deck": "Cosan",
+  "pages": [
+   12
+  ],
+  "crop": "b4_price_range_bar.png",
+  "quality": 3,
+  "what_it_does": "Shows where a price landed inside its range in one line.",
+  "how_built": "Framed red-edged strip at the bottom: bold label, low number inside a dotted oval, tapered arrow line to high number. An elbow connector from the chart gap leads to it.",
+  "use_for": "IPO pricing, guidance range, target range",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Map pinned to a share bar by stems",
+  "category": "data-device",
+  "deck": "Cury Construtora",
+  "pages": [
+   13
+  ],
+  "crop": "b3_map_stems_to_bar.png",
+  "quality": 3,
+  "what_it_does": "Connects geography to its numeric weight without a legend.",
+  "how_built": "Filled state silhouette above a segmented bar (SP 72%, RJ 28%); from each region a thin vertical stem falls to its segment and ends in a small foot cap.",
+  "use_for": "Concentration by region: landbank, revenue, store base.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Return ladder under a formula band",
+  "category": "data-device",
+  "deck": "Cury Construtora",
+  "pages": [
+   31
+  ],
+  "crop": "b3_return_ladder_formula.png",
+  "quality": 3,
+  "what_it_does": "Sets the exit math in the header, then adds up what makes up the IRR as a stepped list.",
+  "how_built": "Dark gradient band with exit year, fair P/E, arrow, and the fraction drawn as text over a rule; beneath, grey parallelograms of decreasing width on a blue vertical thread, each joined by a thin line to a framed value box on a second thread; the final parallelogram solid dark, value box in blue.",
+  "use_for": "IRR or TSR decomposition, sum-of-parts summaries.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Award rosette panel",
+  "category": "data-device",
+  "deck": "Intelbras",
+  "pages": [
+   43
+  ],
+  "crop": "b2_in_award_rosette.png",
+  "quality": 3,
+  "what_it_does": "Shows external recognition as a compact trophy case.",
+  "how_built": "Thick green rectangle. Each row: awarding-body logo, line rosette with \"1st\" in green, year and category.",
+  "use_for": "Rankings, awards, certifications",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Director handover ledger",
+  "category": "data-device",
+  "deck": "Kering - Moncler",
+  "pages": [
+   7
+  ],
+  "crop": "b1_ke_handover.png",
+  "quality": 3,
+  "what_it_does": "Turns management turnover across peers into one scannable pattern.",
+  "how_built": "Rows split by dashed lines; brand wordmark at left as row label; outgoing name and dates, dotted arrow, incoming name and year; columns right-aligned to the arrow.",
+  "use_for": "Peer leadership change, supplier switches, any A-to-B ledger.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Severity roundel problem-solution table",
+  "category": "data-device",
+  "deck": "Kering - Moncler",
+  "pages": [
+   19
+  ],
+  "crop": "b1_ke_severity.png",
+  "quality": 3,
+  "what_it_does": "Rates each problem and maps it to the fix and consequence in a single line.",
+  "how_built": "Dark header table: first column a ring-in-disc (red or amber fill, navy outer ring, white hole), then weakness, why it matters, solution, implication; rules only, no fills.",
+  "use_for": "Deal rationale, target fit, strategic gaps.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Own score ruler with logo tokens",
+  "category": "data-device",
+  "deck": "Meliuz",
+  "pages": [
+   48,
+   49
+  ],
+  "crop": "b4_own_score_ruler.png",
+  "quality": 3,
+  "what_it_does": "Publishes a self-built metric with its criteria and rubric alongside the result.",
+  "how_built": "Grey track with dashed ticks 0 to 4; circular logo tokens placed by score, target highlighted by a thin window around a tie; dashed elbow from the dark method banner; criteria as grey chips and 1 to 4 rubric at right.",
+  "use_for": "Team-built scoring: UX, product, governance",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Star-rating scorecard with logos",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   11
+  ],
+  "crop": "b2_ml_star_scorecard.png",
+  "quality": 3,
+  "what_it_does": "Makes the employee-satisfaction ranking readable at a glance using a familiar symbol.",
+  "how_built": "Rows of logo plus five outlined stars, filled in yellow to the exact fraction of the score. Source logo (Glassdoor) top right; numeric scores in a tall dashed rounded column headed SCORE in navy italics.",
+  "use_for": "Glassdoor, app ratings, Reclame Aqui, customer reviews",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Formula with direction arrows",
+  "category": "data-device",
+  "deck": "Rede D'Or",
+  "pages": [
+   61,
+   62,
+   63
+  ],
+  "crop": "b1_rd_arrow_formula.png",
+  "quality": 3,
+  "what_it_does": "Explains a ratio's move by marking which term moved, not just the result.",
+  "how_built": "Typeset fraction (MLR(%) = Claims / Premiums) in math italics with a small coloured vertical arrow beside the term that changes, down in one state, up in the next; one formula per bullet of the phase.",
+  "use_for": "Margin mechanics, ROIC trees, explaining a KPI's shift by regime.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Logo-as-CV clusters",
+  "category": "data-device",
+  "deck": "Rede D'Or",
+  "pages": [
+   20
+  ],
+  "crop": "b1_rd_logo_cv.png",
+  "quality": 3,
+  "what_it_does": "Summarises a board's experience as sectors and former employers instead of biographies.",
+  "how_built": "Dashed boxes grouped by skill (Finance, Healthcare, Marketing, Insurances) with a bold heading and 2-4 logos each, placed around a central image of the board; the chair named above with their former employers' logos beside the head of the table. The seated-table scene is already catalogued; this entry is the clusters.",
+  "use_for": "Board and management quality without biography paragraphs.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Staircase cohort heatmap",
+  "category": "data-device",
+  "deck": "Sabesp",
+  "pages": [
+   17
+  ],
+  "crop": "b2_sa_cohort_stair.png",
+  "quality": 3,
+  "what_it_does": "Aligns acquisitions on years since purchase to show a repeatable pattern.",
+  "how_built": "Grid with rows per asset and columns Year +0 to +9; cells shade by value and rows stop at their last year, forming a stair. The empty corner holds an outlined callout (Average -2.9% per year) with code thumbnail and Python logo. Colour scale at right.",
+  "use_for": "Acquisition cohorts, vintages, post-deal tracking",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Dashed year-logo ticker",
+  "category": "data-device",
+  "deck": "Senior Sistemas",
+  "pages": [
+   23,
+   51
+  ],
+  "crop": "b1_se_ma_ticker.png",
+  "quality": 3,
+  "what_it_does": "Compresses a deal history into a single band and groups same-year deals.",
+  "how_built": "Full-width solid band with a darker title block at left; thin dashed white frames each holding a bold white year above a logo on a translucent backing; several deals share one wider frame; p51 reuses the band for ownership milestones.",
+  "use_for": "M&A history, ownership history, product launches.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Company coin to proof token rows",
+  "category": "data-device",
+  "deck": "Senior Sistemas",
+  "pages": [
+   40
+  ],
+  "crop": "b1_se_proof_tokens.png",
+  "quality": 3,
+  "what_it_does": "Shows each buyer's thesis-fit item with a compact proof: the logic line goes from the target to a piece of evidence.",
+  "how_built": "Investor header band with logo, AUM at right; rows are pale rounded strips with bold lead-in at left; at right, a logo coin connected by a thin dashed line to a token: flag, dotted-circle map, or KPI chip, with some rows using coin trios for portfolio companies.",
+  "use_for": "Buyer universe, thesis fit, partner or exit analysis.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Nash payoff grid",
+  "category": "data-device",
+  "deck": "Vasta",
+  "pages": [
+   24
+  ],
+  "crop": "b3_payoff_matrix.png",
+  "quality": 3,
+  "what_it_does": "Turns a competitive-response argument into a small game theory table with the equilibrium lit.",
+  "how_built": "3x3 grid of rounded white tiles with grey border; row and column strategies as plain labels; each cell holds bold own payoff over italic rival payoff; the equilibrium cell solid dark magenta with a pale halo plate; note with a coloured dot legend below, Nash = Cautious, Accommodate.",
+  "use_for": "Entry decisions, price wars, competitor reactions.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "One-of-seven seat outcome with signature row",
+  "category": "data-device",
+  "deck": "Vasta",
+  "pages": [
+   35
+  ],
+  "crop": "b3_one_of_seven_signatures.png",
+  "quality": 3,
+  "what_it_does": "Makes a deal structure feel signed: the clause result is one huge phrase, and the team literally sign it.",
+  "how_built": "Illustration of a meeting at left, note card at right, small chevron down to a pale tile with 1 of 7 in huge bold; below, five handwritten signatures on thin rules with italic names. A term sheet card with Roman-numbered clauses sits alongside.",
+  "use_for": "Deal, governance and private-equity pitches. Team signature images required.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Risk cards priced in IRR",
+  "category": "data-device",
+  "deck": "Vasta",
+  "pages": [
+   40
+  ],
+  "crop": "b3_priced_risk_cards.png",
+  "quality": 3,
+  "what_it_does": "Ties each risk matrix code to the assumption stressed and the effect on returns, so risk is quantified instead of described.",
+  "how_built": "Grid of pale squares on two axes, a few filled with colour by type and carrying codes such as E1, M1; at right, same-colour code tiles head row cards with three parts: description, stress assumption, IRR with a red down triangle and points lost. Restaurant Brands p.48 does the same in a table with an Impact column (pp. seen only as thumbnail).",
+  "use_for": "Risk slide in any valuation pitch.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Pre/post cap table tree",
+  "category": "data-device",
+  "deck": "Vibra",
+  "pages": [
+   31,
+   32,
+   35,
+   36
+  ],
+  "crop": "b1_vi_captable.png",
+  "quality": 3,
+  "what_it_does": "Shows the change of ownership per step, including who sold, with the same tree before and after.",
+  "how_built": "Two identical trees separated by a large thin chevron; holder boxes with logo in a row on top, lines into the company below; % chips sit on the lines; pale tabs 1st Step and 2nd Step above the boxes they affect; on the Post side, chips turn accent and carry 'plus or minus delta' labels beside them.",
+  "use_for": "Deal structuring, shareholder changes, spin-offs.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Triangular exit table with an embedded KPI row",
+  "category": "data-device",
+  "deck": "Vibra",
+  "pages": [
+   39
+  ],
+  "crop": "b1_vi_exit_triangle.png",
+  "quality": 3,
+  "what_it_does": "Shows every exit year's cash flow while making one year the recommendation.",
+  "how_built": "Staircase table of cash flows with a year per row and last-column MOIC and IRR behind a vertical rule; the chosen row expands to full width in glowing tint with accent values; its empty cells on the right hold inline KPIs (22.0% Final Stake, 10,315 Buyout, 9.0x EV/EBITDA) and a logo mark stamped on top.",
+  "use_for": "Exit timing, IRR tables, hold-period analysis.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Bull, house, bear ringed icons",
+  "category": "data-device",
+  "deck": "3R Petroleum",
+  "pages": [
+   26
+  ],
+  "crop": "b4_animal_scenario_icons.png",
+  "quality": 2,
+  "what_it_does": "Gives three scenarios a mascot so they are recalled later.",
+  "how_built": "Double-ring circle with line icon on top of each card (bull, house, bear), then scenario name in bold and light, then parallel bullets with bold first word.",
+  "use_for": "Scenario definitions",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Perception map with attribute vectors",
+  "category": "data-device",
+  "deck": "AB InBev",
+  "pages": [
+   28
+  ],
+  "crop": "b1_ab_perception_map.png",
+  "quality": 2,
+  "what_it_does": "Places brands against consumer attributes so that a claim like 'little overlap' becomes visible.",
+  "how_built": "Grey panel with heavy cross axes (HEAVY/LIGHT, BUDGET/PREMIUM); thin grey arrows radiating from the centre to italic attribute words; accent dots with brand names; accent title tab at the top-left corner and short accent ticks on the panel's bottom edge.",
+  "use_for": "Brand positioning, cannibalisation, competitive whitespace.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Logo-stem M&A timeline",
+  "category": "data-device",
+  "deck": "AB InBev",
+  "pages": [
+   79
+  ],
+  "crop": "b1_ab_logo_timeline.png",
+  "quality": 2,
+  "what_it_does": "Shows a company's consolidation history through the brands it absorbed, without any text.",
+  "how_built": "Thick accent timeline with black dots; black stems alternate above and below with logos stacked at the ends, year labels hugging the line; merged-entity logos sit directly on the line where they form.",
+  "use_for": "Roll-ups, brand history, deal chronologies.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Logo wall as portfolio evidence",
+  "category": "data-device",
+  "deck": "AB InBev",
+  "pages": [
+   22
+  ],
+  "crop": "b1_ab_logo_wall.png",
+  "quality": 2,
+  "what_it_does": "Conveys portfolio breadth by sheer density rather than a count.",
+  "how_built": "Dashed rectangle packed with 30-odd logos in 4 tight rows and no gaps; the bottom row uses filled colour tiles to change the texture.",
+  "use_for": "Brand portfolios, client lists, investor bases.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Stake exit tree with logos",
+  "category": "data-device",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   24,
+   31
+  ],
+  "crop": "b4_stake_exit_tree.png",
+  "quality": 2,
+  "what_it_does": "Explains who sold what to whom in a glance.",
+  "how_built": "Dashed context box on top; dashed bracket joins it to stacked logo tiles; dashed lines carrying percent labels converge on a single buyer logo tile.",
+  "use_for": "M&A precedent and deal history",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Logo-header scorecard with target column",
+  "category": "data-device",
+  "deck": "Kering - Moncler",
+  "pages": [
+   6
+  ],
+  "crop": "b1_ke_logo_scorecard.png",
+  "quality": 2,
+  "what_it_does": "Compares returns across peers using logos, with the target's column isolated.",
+  "how_built": "Horizon rows (1M to 5Y) by brand columns with logos as headers; gold dashed box around the target column, including its logo; last column average with green and red text.",
+  "use_for": "Peer performance, comps summaries.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Logo-labelled slider rows",
+  "category": "data-device",
+  "deck": "Meliuz",
+  "pages": [
+   49
+  ],
+  "crop": "b4_logo_sliders.png",
+  "quality": 2,
+  "what_it_does": "Replaces a bar chart with sliders that echo an app interface, each coloured in the rival's brand.",
+  "how_built": "Thin grey track, brand-colour fill, dark knob at the value, logo at left, score at right, on a card.",
+  "use_for": "Peer ratings, app scores",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Multiples as beads on a track",
+  "category": "data-device",
+  "deck": "Meliuz",
+  "pages": [
+   143
+  ],
+  "crop": "b4_logo_bead_track.png",
+  "quality": 2,
+  "what_it_does": "Lets you find the subject's rank among peers quickly, without a table or bars.",
+  "how_built": "Thick grey rounded track, evenly spaced brand-colour dots in rank order, value above, logo under; dashed metric label at left. Ordinal not to scale.",
+  "use_for": "Trading comps with many logos",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Logos as scatter points",
+  "category": "data-device",
+  "deck": "Meliuz",
+  "pages": [
+   15
+  ],
+  "crop": "b4_logo_scatter.png",
+  "quality": 2,
+  "what_it_does": "Peers are read directly with no lookup.",
+  "how_built": "Small dark dot plus adjacent logo in place of a text label, dotted trendline, R-squared in corner, subject has an oversized colour dot and larger logo.",
+  "use_for": "Comps regressions, satisfaction vs. rating",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Brand-coloured dot coverage matrix",
+  "category": "data-device",
+  "deck": "Meliuz",
+  "pages": [
+   112,
+   120
+  ],
+  "crop": "b4_dot_coverage_matrix.png",
+  "quality": 2,
+  "what_it_does": "Gives breadth of offering as a density pattern and a total to compare.",
+  "how_built": "Logo column headers on alternating pale column bands; product rows at left; dot in each company's brand colour where offered, none where not; dark total bar at the bottom. Check variant on p112.",
+  "use_for": "Ecosystem or product coverage",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Logo scatter",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   153,
+   152
+  ],
+  "crop": "b2_ml_logo_scatter.png",
+  "quality": 2,
+  "what_it_does": "Lets the reader name competitors without a legend or labels.",
+  "how_built": "Plain scatter, tiny navy dots, each logo floating right above its dot. Keep gridlines off. ML p152 varies this with tinted quadrant labels and country names.",
+  "use_for": "Positioning maps",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Icon-and-logo matrix table",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   154
+  ],
+  "crop": "b2_ml_app_table.png",
+  "quality": 2,
+  "what_it_does": "Replaces headers with recognisable marks, making a dull table instantly identifiable.",
+  "how_built": "Navy first column with white-backed brand marks on each row; App Store and Play Store icons as column headers; light grey body cells, large bold values.",
+  "use_for": "App ratings, platform presence, channel coverage",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Question-level ESG scorecard",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   78,
+   79
+  ],
+  "crop": "b2_ml_esg_scorecard.png",
+  "quality": 2,
+  "what_it_does": "Shows ESG scoring is homemade and auditable, question by question.",
+  "how_built": "Long table of questions with five peer columns and average, with subtotal rows for E, S, G and a highlighted final row. Discipline over decoration. Low-res crop.",
+  "use_for": "ESG, governance or qualitative scoring",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Org tree with tenure chips",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   74
+  ],
+  "crop": "b2_ml_org_tenure.png",
+  "quality": 2,
+  "what_it_does": "Adds a performance fact, tenure, to a standard org chart.",
+  "how_built": "Round CEO portrait over a row of dashed name boxes; each carries a navy chip with years at the firm. Above, a timeline of tenure milestones in years. Low-res crop.",
+  "use_for": "Management quality",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Tenure portrait card with KPI base",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   7
+  ],
+  "crop": "b2_ml_tenure_portrait.png",
+  "quality": 2,
+  "what_it_does": "Reduces a founder bio to one number, then ties it to company results.",
+  "how_built": "Circular photo in a thick partial navy arc, breaking the top edge of a thin L-frame, name to the right. Large numeral with \"Years at MELI\" below. Navy strip across both cards with three KPI pairs.",
+  "use_for": "Founder and management pages",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Logo milestones timeline",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   7
+  ],
+  "crop": "b2_ml_logo_timeline.png",
+  "quality": 2,
+  "what_it_does": "Shows expansion as the birth of sub-brands, without any sentence.",
+  "how_built": "Thick navy line with ticks, years above, sub-brand logos below; text labels only where no logo exists.",
+  "use_for": "Platform and product histories",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Logo ring for cross-sell",
+  "category": "data-device",
+  "deck": "Mercado Libre",
+  "pages": [
+   4
+  ],
+  "crop": "b2_ml_crosssell_ring.png",
+  "quality": 2,
+  "what_it_does": "Depicts an ecosystem loop with its product logos.",
+  "how_built": "Ring of curved arrows linking sub-brand logos around an italic centre word, on a grey panel, next to a Seven Powers cover and quote. Low-res crop.",
+  "use_for": "Ecosystems, flywheels",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Risk code tiles",
+  "category": "data-device",
+  "deck": "Mercado Libre / Intelbras / Sabesp",
+  "pages": [
+   36,
+   "Intelbras 34",
+   "Sabesp 36"
+  ],
+  "crop": "b2_in_risk_tiles.png",
+  "quality": 2,
+  "what_it_does": "Replaces dots in a risk matrix with codes tied by colour to a legend list.",
+  "how_built": "Square tiles with codes (M1, C2) placed on Probability x Impact axes. Tile colour marks risk family. Right: three stacked coloured plates with the family name and code items. Low-res crop.",
+  "use_for": "Risk slides; ML version dims non-priority tiles to grey",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Scenario icon rows",
+  "category": "data-device",
+  "deck": "Mercado Libre / Sabesp",
+  "pages": [
+   35,
+   "Sabesp 76"
+  ],
+  "crop": "b2_ml_scenario_icons.png",
+  "quality": 2,
+  "what_it_does": "Makes bull, base and bear readable without labels and aligns assumptions across scenarios.",
+  "how_built": "Silhouette bull, house, bear down the left (Sabesp uses line bear, scales, bull above three colour-tiered tables). Columns PRICE, ADS, GMV in navy italics; each value in a grey navy-outlined box.",
+  "use_for": "Scenario summaries with 2-4 drivers",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Pill-variable formula stack",
+  "category": "data-device",
+  "deck": "Nubank",
+  "pages": [
+   56,
+   71
+  ],
+  "crop": null,
+  "quality": 2,
+  "what_it_does": "Separates each stage's inputs and ends on a single chip.",
+  "how_built": "Column of accent pills (ROE, g, N, Ke) with values at right in two grey panels, typeset formula beneath each, result chip at the far end.",
+  "use_for": "Multi-stage P/E or DDM",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Black formula plate",
+  "category": "data-device",
+  "deck": "Sabesp / Intelbras",
+  "pages": [
+   92,
+   99,
+   "Intelbras 74,82,84"
+  ],
+  "crop": "b2_sa_black_formula.png",
+  "quality": 2,
+  "what_it_does": "Sets the method apart from the numbers in appendix calculation pages.",
+  "how_built": "Near-black rectangle with white serif LaTeX-style equation placed under or over the table it governs. Low-res crop.",
+  "use_for": "Ke, WACC, ROIC, elasticity back-up",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Arrow ring KPI",
+  "category": "data-device",
+  "deck": "Senior Sistemas",
+  "pages": [
+   23
+  ],
+  "crop": "b1_se_arrow_rings.png",
+  "quality": 2,
+  "what_it_does": "Implies a growing or recurring KPI, more than a plain number or donut would.",
+  "how_built": "Thick gradient ring in a near full circle, ending in an arrowhead that points out to the right; the centre holds small white label with the value bold.",
+  "use_for": "Recurring revenue share, cumulative growth.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Stepped ladder on a colour-fading stem",
+  "category": "data-device",
+  "deck": "Vasta",
+  "pages": [
+   17
+  ],
+  "crop": "b3_brand_ladder.png",
+  "quality": 2,
+  "what_it_does": "Reads brands from premium to affordable as rungs, the hue fading along with the price.",
+  "how_built": "Thin vertical line with one dot per row in a fading tint; name and italic tier at left; short rounded bar and bold value at right in the same tint. Header icon of stairs.",
+  "use_for": "Product or price architectures.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Dashed deal-type tags in comps table",
+  "category": "data-device",
+  "deck": "Vibra",
+  "pages": [
+   39
+  ],
+  "crop": "b1_vi_chip_tags.png",
+  "quality": 2,
+  "what_it_does": "Lets a transaction table be scanned by deal type.",
+  "how_built": "Normal comps columns, the last one being two dashed outline chips per row, one for seller type and one for buyer logic; header row in accent outline.",
+  "use_for": "Precedent transaction tables.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Before/After money-flow mini diagram",
+  "category": "data-device",
+  "deck": "Vibra",
+  "pages": [
+   14
+  ],
+  "crop": "b1_vi_flow.png",
+  "quality": 2,
+  "what_it_does": "Shows the structural change in a deal in a single line of boxes.",
+  "how_built": "Two row labels at left in italics (Operator, Client), Before and After column titles; grey lines for old flow and accent lines for new flow; '$' labels; a lightning icon for the product; dashed leader to accent '0% Tax' tag.",
+  "use_for": "Tax structure, regulatory arbitrage, business model changes.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Yellow audit columns",
+  "category": "data-device",
+  "deck": "Sabesp / Intelbras",
+  "pages": [
+   76,
+   70,
+   91,
+   92,
+   "Intelbras 67,78,82"
+  ],
+  "crop": "b2_sa_yellow_audit.png",
+  "quality": 1,
+  "what_it_does": "Lets reviewers jump to assumption and output cells in dense tables.",
+  "how_built": "Pure spreadsheet yellow on only the assumption and result columns or cells; everything else stays unfilled. Harsh, but works as a convention on appendix pages only.",
+  "use_for": "Appendix calculations",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Staircase term tree",
+  "category": "structure",
+  "deck": "Alupar",
+  "pages": [
+   22,
+   23,
+   24
+  ],
+  "crop": "b2_al_stair_tree.png",
+  "quality": 3,
+  "what_it_does": "Lets the reader step through a debt instrument one term at a time.",
+  "how_built": "Left: tranche values in large italics joined by a bracket. Right: each term (Carencia, Garantias, Amortizacao, Maturity) stepped inward with an L-shaped leader ending in a dot; bold title, italic value. Active block blue, rest grey.",
+  "use_for": "Term sheets, multi-tranche financing",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Signed term-sheet cards",
+  "category": "structure",
+  "deck": "Alupar",
+  "pages": [
+   2,
+   18
+  ],
+  "crop": "b2_al_signed_termsheet.png",
+  "quality": 3,
+  "what_it_does": "Makes the proposal feel like a committed mandate rather than a suggestion.",
+  "how_built": "Top frame with title breaking the border holds four KPIs; a stem forks to three cards. Each card: italic title with rule, four lines of terms, two handwritten signatures with name lines at the foot. P18 repeats on covenant cards (crop b2_al_covenant_signed.png).",
+  "use_for": "Financing proposals, recommendation summaries, covenants",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Versus hourglass with logos and checks",
+  "category": "structure",
+  "deck": "BTG Pactual",
+  "pages": [
+   41,
+   42,
+   43
+  ],
+  "crop": "b3_versus_hourglass.png",
+  "quality": 3,
+  "what_it_does": "Frames two camps as facing each other at one point, then the next slides show BTG occupying the middle.",
+  "how_built": "Two flat tinted panels with inner edges cut diagonally so they almost meet at a centre X; three logos in a row at the top of each, hairline under; large green check icons with title and grey text, mirrored alignment; side labels rotated 90 degrees. Pp. 42-43 place the company in a circle at the point of the X.",
+  "use_for": "Two business models, incumbents vs challengers; positioning the target as the blend.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Decision tree with lit path",
+  "category": "structure",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   21
+  ],
+  "crop": "b2_cs_decision_tree.png",
+  "quality": 3,
+  "what_it_does": "Prices each contract outcome and shows the recommended route.",
+  "how_built": "Framed grey panel. Question bars span the width in white with black border. Yes route navy, No route grey, with diamond nodes at splits and small L-brackets by the labels. Leaves are NPV boxes offset vertically by value; chosen ones navy-outlined, others grey.",
+  "use_for": "Deal scenarios, contract options, regulatory outcomes",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Before/after ownership tree",
+  "category": "structure",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   22
+  ],
+  "crop": "b2_cs_ownership_flow.png",
+  "quality": 3,
+  "what_it_does": "Shows what the transaction changes in the group and where proceeds go.",
+  "how_built": "Left tree from adviser and parent logos forks to two steps. Each connects by right-angled line to an open-top frame titled in its border. Top frame: logo with stem to subsidiaries, % chips on stem (dashed chips), outline arrow, reduced tree. Bottom: tranche tile and interest table. Dashed notes box lower left.",
+  "use_for": "M&A, carve-outs, debt repayment",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Three-state recap ledger synced to a structure diagram",
+  "category": "structure",
+  "deck": "Cosan",
+  "pages": [
+   31,
+   32,
+   33,
+   34
+  ],
+  "crop": "b4_state_ledger.png",
+  "quality": 3,
+  "what_it_does": "Compresses a multi-step transaction to four numbers per stage and shows which stage is being discussed.",
+  "how_built": "Three stacked outlined boxes, each with title notched into the top border between two small diamonds, and four big-number columns with accent labels. Active box full contrast, the others about 15 percent opacity. Right side redraws the matching ownership chart per state.",
+  "use_for": "Transaction recap, before and after, staged plans",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Mirrored career timelines meeting at a handover",
+  "category": "structure",
+  "deck": "Cury Construtora",
+  "pages": [
+   21
+  ],
+  "crop": "b3_mirrored_careers.png",
+  "quality": 3,
+  "what_it_does": "Stages a CEO succession by running outgoing and incoming careers toward the same year.",
+  "how_built": "Outlined hexagon nodes on a thin line with year above and role beneath; upper line runs left to right from the outgoing CEO's photo side, lower runs right to left from the successor's; the 2026 nodes filled blue and stacked at centre; below, name plates with a central explanation box linked by bracket lines.",
+  "use_for": "Succession, founder transition, merger of two teams.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Thesis ladder ending in a verdict shout",
+  "category": "structure",
+  "deck": "Nubank",
+  "pages": [
+   4,
+   5,
+   12,
+   22
+  ],
+  "crop": "b4_thesis_ladder_buy.png",
+  "quality": 3,
+  "what_it_does": "Turns the thesis recap into a progress path where each pillar is claimed, then pays off in one word.",
+  "how_built": "Three short claims stepped along a dashed diagonal with one line-icon each, shown one at a time on repeat slides, final state adds huge BUY! plus a one-line human punchline in the translucent band. (Diagonal cut itself is already catalogued.)",
+  "use_for": "Thesis recap and section openers",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Rhetorical question interrupt",
+  "category": "structure",
+  "deck": "Nubank",
+  "pages": [
+   31
+  ],
+  "crop": "b4_question_interrupt.png",
+  "quality": 3,
+  "what_it_does": "Marks the turn in the argument with a question on top of the slide just finished.",
+  "how_built": "The previous slide dimmed in grey; large rounded white panel with large light-weight text and one bold accent phrase, nothing else. 3R uses the same idea on a dark full-width band: What about the peers? (p3, p10, p14).",
+  "use_for": "Storyline transitions in place of dividers",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Risk IDs with drill-down sequence",
+  "category": "structure",
+  "deck": "Rede D'Or",
+  "pages": [
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48
+  ],
+  "crop": "b1_rd_risk_ids.png",
+  "quality": 3,
+  "what_it_does": "Makes the risk map the index for a run of evidence slides, one per risk.",
+  "how_built": "Risk tiles coded by family with letter prefix and matching colour (O, S, MG); legend panels at right repeat prefix colours; each following page keeps the map and swaps the right side for a single risk's text and a small proof chart or clipping. Hard-offset shadows already catalogued; this entry is the ID system and the drill-down.",
+  "use_for": "Risk sections where every risk needs its own evidence.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Combinatorial scenario pop-up",
+  "category": "structure",
+  "deck": "3R Petroleum",
+  "pages": [
+   27
+  ],
+  "crop": "b4_combinatorial_modal.png",
+  "quality": 2,
+  "what_it_does": "Shows how the count of 27 scenarios comes from 3 by 3 by 3.",
+  "how_built": "Big count with accent number on a top card; second card overlapping, three columns divided by thick accent rules, each with driver name, Bear/Base/Bull lines and bold values.",
+  "use_for": "Scenario and sensitivity setup",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "SWOT speech tags with one lit at a time",
+  "category": "structure",
+  "deck": "3R Petroleum",
+  "pages": [
+   99,
+   100
+  ],
+  "crop": "b4_swot_speech_tags.png",
+  "quality": 2,
+  "what_it_does": "Revives a stale SWOT with a coded label, and spotlights one quadrant per click.",
+  "how_built": "Rounded tag with left-pointing pointer: line icon, thin white divider, big letter; text row on left separated by thick grey rule; inactive rows fade tag and text.",
+  "use_for": "SWOT or any four-item framework",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Risk matrix lit by group",
+  "category": "structure",
+  "deck": "3R Petroleum",
+  "pages": [
+   44,
+   45,
+   46
+  ],
+  "crop": "b4_risk_matrix_lit.png",
+  "quality": 2,
+  "what_it_does": "Reads risks group by group instead of one crowded matrix.",
+  "how_built": "Hairline 4x4 grid; extruded tiles with codes (1A, 2B); right-hand stacked list. Active group's tiles go dark and its list card gains a border; others fade to pastel.",
+  "use_for": "Risk matrix",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Comparison table driven by a person toggle",
+  "category": "structure",
+  "deck": "AB InBev",
+  "pages": [
+   13,
+   14
+  ],
+  "crop": "b1_ab_word_table.png",
+  "quality": 2,
+  "what_it_does": "Lets one table carry two successive arguments by switching which person and which rows are in focus.",
+  "how_built": "Stacked names above the table: the active one bold on a thick accent rule, the inactive grey on a grey rule; a dashed connector with a dashed label ('Performance-driven') drops to the table; dashed box around the rows that prove it; thick accent bars cap both table sides. Next slide swaps name and box.",
+  "use_for": "Before/after CEO, old vs new strategy, two-slide build.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Bar-terminated connector tree",
+  "category": "structure",
+  "deck": "AB InBev",
+  "pages": [
+   7
+  ],
+  "crop": "b1_ab_connector_tree.png",
+  "quality": 2,
+  "what_it_does": "Replaces a boring org-style tree with a drawn logic line that ends in a calculation.",
+  "how_built": "Thin coloured lines leave a dashed box from small diamonds, one colour per branch; branches end in short thick bars on which the labels sit (Suppliers, Clients, Negative WK); a dashed line then falls to a T-tick on the equation strip below.",
+  "use_for": "Driver logic that terminates in a number.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Tonal tile risk grid plus monitor list",
+  "category": "structure",
+  "deck": "AB InBev",
+  "pages": [
+   56,
+   57
+  ],
+  "crop": "b1_ab_heat_tiles_monitor.png",
+  "quality": 2,
+  "what_it_does": "Moves risk from a static map to what the team will keep checking after buying.",
+  "how_built": "4x3 grid of pale grey tiles between two heavy arrows; only occupied tiles filled, with shade of accent as severity and R-codes inside; right, a dashed card 'Following-up the investment' under a capped-end bracket rule, with Roman-numbered question pairs and accent keywords. On p56 the right side is a coin-numbered risk list instead.",
+  "use_for": "Risk slide plus post-investment monitoring checklist.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Zigzag value chain with stepped dashes",
+  "category": "structure",
+  "deck": "Arezzo&Co",
+  "pages": [
+   2
+  ],
+  "crop": "b3_zigzag_value_chain.png",
+  "quality": 2,
+  "what_it_does": "Fits a value chain into a narrow side panel and ends it in the single conclusion.",
+  "how_built": "Tall pale panel; three text boxes alternate left and right with icons opposite, linked by dashed elbow lines; arrow into a dark box at the bottom with the takeaway, keywords in accent.",
+  "use_for": "Narrow side-panel context next to charts.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Open cycle frame around a stack",
+  "category": "structure",
+  "deck": "BTG Pactual",
+  "pages": [
+   46,
+   47
+  ],
+  "crop": "b3_cycle_frame_low_high.png",
+  "quality": 2,
+  "what_it_does": "Says the stack is a loop without drawing a circle diagram.",
+  "how_built": "Thin rectangle around three brand blocks, with gaps in the top and bottom border containing chevrons pointing opposite ways; next to it, trapezoid tags LOW and HIGH linked by a diamond leader to a detail box listing why.",
+  "use_for": "Ecosystems and flywheels when a stack of products reads more clearly than a wheel.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Acquirer logo matrix",
+  "category": "structure",
+  "deck": "CSN (Liability Management)",
+  "pages": [
+   20
+  ],
+  "crop": "b2_cs_acquirer_matrix.png",
+  "quality": 2,
+  "what_it_does": "Compares buyers by logo, with same criteria per column.",
+  "how_built": "Dark vertical tab with rotated label at left; logos as column headers; short bold criteria text below each. Low-res crop.",
+  "use_for": "Buyer screens, peer profiles",
+  "needs_real_asset": true,
+  "lote": "b2"
+ },
+ {
+  "element": "Icon-tile spine",
+  "category": "structure",
+  "deck": "Intelbras",
+  "pages": [
+   24
+  ],
+  "crop": "b2_in_icon_spine.png",
+  "quality": 2,
+  "what_it_does": "Makes a fact list read as one connected story from intro plate down.",
+  "how_built": "Square dark-green tiles with white icons stacked on a short vertical stem below a grey intro plate with heavy base rule. Key figures bold green.",
+  "use_for": "Acquisition recaps, step lists",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Acquisition sheet: logo band, diamond leaders, device",
+  "category": "structure",
+  "deck": "Meliuz",
+  "pages": [
+   84,
+   85,
+   86,
+   87,
+   89
+  ],
+  "crop": "b4_acquisition_sheet.png",
+  "quality": 2,
+  "what_it_does": "Makes each acquired company a repeatable fact card.",
+  "how_built": "Grey full-width band with target logo centred; target's brand colour vertical line with horizontal branches of growing length ending in a diamond; KPI bold plus italic label; device mockup at right; dashed note below.",
+  "use_for": "Series of acquisitions, portfolio, subsidiaries",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Square-node stem list",
+  "category": "structure",
+  "deck": "Mercado Libre",
+  "pages": [
+   34,
+   129,
+   147,
+   61
+  ],
+  "crop": "b2_ml_stem_list.png",
+  "quality": 2,
+  "what_it_does": "Connects drivers to a chart in reading order and ends with a highlight.",
+  "how_built": "Thin vertical navy stem with square nodes and italic labels; the last node is a yellow circle, sometimes with a highlighted row. Low-res crop.",
+  "use_for": "Margin bridges, driver lists",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Inline logic strip",
+  "category": "structure",
+  "deck": "Nubank",
+  "pages": [
+   27
+  ],
+  "crop": "b4_logic_strip.png",
+  "quality": 2,
+  "what_it_does": "States a cause, mechanism and consequence between a chart and its text in one row.",
+  "how_built": "Pale rounded band behind; icon + short phrase, then accent block arrow with the verb inside (Exclusion), then outcome + icon; the left edge tucks behind the donut.",
+  "use_for": "So-what strip beside charts",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Dashed circuit tying a source to its evidence",
+  "category": "structure",
+  "deck": "RD Saude",
+  "pages": [
+   23
+  ],
+  "crop": "b3_dashed_circuit.png",
+  "quality": 2,
+  "what_it_does": "Shows that the three charts on a slide are all consequences of one framework.",
+  "how_built": "A book cover and summary plate; dashed green elbow connectors leave the plate and run to the accent bar of each section heading, avoiding the charts.",
+  "use_for": "Any framework-to-evidence slide. Connector is drawable; the cover is optional.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Zig-zag executive strips",
+  "category": "structure",
+  "deck": "Rede D'Or",
+  "pages": [
+   20,
+   16
+  ],
+  "crop": "b1_rd_zigzag_execs.png",
+  "quality": 2,
+  "what_it_does": "Lists executives with less monotony and fits a headshot without a column of faces.",
+  "how_built": "Full-width pale strips stacked; a small waist-up cut-out alternates left and right, with text aligned to the photo side (bold name and title, regular tenure line).",
+  "use_for": "Management lists of 2-4 people.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Parallel scenario cards",
+  "category": "structure",
+  "deck": "Rede D'Or",
+  "pages": [
+   34
+  ],
+  "crop": "b1_rd_scenarios.png",
+  "quality": 2,
+  "what_it_does": "Shows bear, base and bull as a single assumption change with the outcome.",
+  "how_built": "Three identical grey cards with a thick right and bottom edge in scenario colour; coloured scenario title, target price, upside, a rule, then the sentence naming the varied assumption with only the year coloured.",
+  "use_for": "Scenario summary driven by one variable.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Linking sentence band between charts",
+  "category": "structure",
+  "deck": "Rede D'Or",
+  "pages": [
+   5
+  ],
+  "crop": "b1_rd_link_band.png",
+  "quality": 2,
+  "what_it_does": "States the causal bridge between two charts: one party's cost is another's revenue.",
+  "how_built": "Full-width solid band with white centred sentence between two chart rows; a thin arrow enters from a dashed bar above and leaves toward the chart below.",
+  "use_for": "Value chain P&Ls, payer-provider logic, two-stage reasoning.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Reasons-add-up card",
+  "category": "structure",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   39,
+   16,
+   30
+  ],
+  "crop": "b3_reason_sum_card.png",
+  "quality": 2,
+  "what_it_does": "Writes a diagnosis as an equation of words: cause + cause + cause, downward triangle, root cause.",
+  "how_built": "Rounded grey card with solid red title band; three italic bold red phrases split by pale plus signs; wide flat grey down-triangle; result in larger italic red. P.30 uses it as X >> Y pills then a triangle then a verdict.",
+  "use_for": "Why something failed, root-cause conclusions, value bridges in words.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Causal pill pair",
+  "category": "structure",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   30,
+   39
+  ],
+  "crop": "b3_causal_pills.png",
+  "quality": 2,
+  "what_it_does": "Reduces an elasticity or a purchase math to cause-and-effect in two pills and a verdict line.",
+  "how_built": "Two muted red rounded pills in italic white, pale double chevron between, wide fading triangle below pointing at a one-line conclusion with key words in red.",
+  "use_for": "Mini-conclusions in the bottom-right of a dense slide.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Corner number tag on card",
+  "category": "structure",
+  "deck": "Senior Sistemas",
+  "pages": [
+   23
+  ],
+  "crop": "b1_se_corner_numbers.png",
+  "quality": 2,
+  "what_it_does": "Numbers reasons discretely, leaving the text free of list markers.",
+  "how_built": "Grey card with soft bottom-right shadow; small solid square with white bold italic numeral straddling the top-right edge; bold coloured lead-in followed by regular text.",
+  "use_for": "Short ranked lists of 3-5 items.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Icon disc straddling pill row",
+  "category": "structure",
+  "deck": "Senior Sistemas",
+  "pages": [
+   38
+  ],
+  "crop": "b1_se_icon_pills.png",
+  "quality": 2,
+  "what_it_does": "Reads as a brief event sequence with lighter weight than bullets.",
+  "how_built": "Pale rounded pills stacked with even gaps; a small dark gradient disc with white line icon overlaps each pill's left edge; text indented to clear it.",
+  "use_for": "Event chains, status lists of 3-4.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Reasons column closing in a synthesis card",
+  "category": "structure",
+  "deck": "Senior Sistemas",
+  "pages": [
+   40
+  ],
+  "crop": "b1_se_synthesis.png",
+  "quality": 2,
+  "what_it_does": "Sends the eye from reasons to conclusion within one column.",
+  "how_built": "Pale rounded cards with a thick coloured left edge bending around the corners and '01 Title' in bold; the last card is solid brand colour with logo, 'Sintese' and white text, about 1.5x taller.",
+  "use_for": "Criteria list with a single takeaway at the bottom.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Skim-layer lede",
+  "category": "identity",
+  "deck": "AB InBev",
+  "pages": [
+   6,
+   7,
+   13,
+   15,
+   20,
+   28,
+   38,
+   43,
+   50,
+   57
+  ],
+  "crop": "b1_ab_lede.png",
+  "quality": 3,
+  "what_it_does": "Lets a judge read only the coloured words and still get the slide's claim.",
+  "how_built": "Two-line full-width grey sentence with a thick dark tick at left; 5-8 phrases set in bold accent colour, which is the only strong colour in the sentence.",
+  "use_for": "Every content slide; replaces a separate 'key takeaway' box.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Brand takeover: palette follows the protagonist",
+  "category": "identity",
+  "deck": "CSN - ArcelorMittal",
+  "pages": [
+   14,
+   24
+  ],
+  "crop": "b4_brand_takeover.png",
+  "quality": 3,
+  "what_it_does": "The colour instantly tells whose story is on screen, and a competitor slide reads as foreign territory.",
+  "how_built": "Swap the whole theme token set by subject: CSN blue to ArcelorMittal red (also Cosan green to Compass red with corner logo swap). Nubank does it for a single slide: rail, accents, pills and corner logo turn Inter orange (p17), MELI logo on p54. Composite crop shows both.",
+  "use_for": "Two-company deals, holding and subsidiary, competitor deep dive",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Dark mode reserved for the deal section",
+  "category": "identity",
+  "deck": "Vibra",
+  "pages": [
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "crop": null,
+  "quality": 3,
+  "what_it_does": "Signals the shift from analysis to the proposed transaction without a divider.",
+  "how_built": "Body slides are white with a dark green rail; from the structure section on, every slide goes black with accent type and faint line texture, returning for Q&A; navigation drops away in favour of the left-hand stepper.",
+  "use_for": "Separating diagnosis from proposal or valuation.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Two-tone tick on titles and subheads",
+  "category": "identity",
+  "deck": "3R Petroleum",
+  "pages": [
+   33,
+   74,
+   99
+  ],
+  "crop": "b4_two_tone_subhead.png",
+  "quality": 2,
+  "what_it_does": "Gives every heading a repeated brand mark and a clear hierarchy without boxes.",
+  "how_built": "Short vertical bar left of the heading, split dark on top and lighter accent at the bottom where the grey caption sits; same device at title scale and subhead scale.",
+  "use_for": "Any deck, as signature heading system",
+  "needs_real_asset": false,
+  "lote": "b4"
+ },
+ {
+  "element": "Blueprint backdrop",
+  "category": "identity",
+  "deck": "Alupar",
+  "pages": [
+   2,
+   22,
+   27
+  ],
+  "crop": "b2_al_grid_backdrop.png",
+  "quality": 2,
+  "what_it_does": "Ties the deck visually to engineering and infrastructure.",
+  "how_built": "Near-black navy page with faint grid lines, small plus marks scattered and a low wireframe mesh wave rising from the base, all under 15% contrast. Pair with thin blue hairlines ending in diamond dots.",
+  "use_for": "Infrastructure and energy decks",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Case number badge under logo",
+  "category": "identity",
+  "deck": "Intelbras",
+  "pages": [
+   24,
+   25,
+   26
+  ],
+  "crop": "b2_in_number_badge.png",
+  "quality": 2,
+  "what_it_does": "Numbers parallel growth avenues without another agenda slide.",
+  "how_built": "Top right, below the guest or subject logo: dark green circle with a thin white numeral.",
+  "use_for": "Series of 2-5 parallel cases",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Career path told in logos",
+  "category": "identity",
+  "deck": "RD Saude",
+  "pages": [
+   29
+  ],
+  "crop": "b3_career_logo_path.png",
+  "quality": 2,
+  "what_it_does": "Gives a CEO's credibility in four employer logos rather than a bio paragraph.",
+  "how_built": "Dashed-border logo boxes joined by short green arrows, turning back on itself with an elbow to the current employer, which is on a grey tile; portrait and bio plate beneath.",
+  "use_for": "Management slides. Logos only.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Slashed title accent",
+  "category": "identity",
+  "deck": "RD Saude",
+  "pages": [
+   29,
+   3,
+   18
+  ],
+  "crop": "b3_slashed_title_accent.png",
+  "quality": 2,
+  "what_it_does": "Gives every title a small branded mark that repeats across hundreds of slides.",
+  "how_built": "Vertical bar left of the title and subtitle, cut by a diagonal white slash into solid top and pale gradient bottom; a smaller version marks each subheading. Vasta and Restaurant Brands use a similar slashed bar; Vasta has a rounded pill with two slashes.",
+  "use_for": "Title mark in any template.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Python badge as method stamp",
+  "category": "identity",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   38
+  ],
+  "crop": "b3_python_method_criteria.png",
+  "quality": 2,
+  "what_it_does": "Signals in one icon that the numbers were computed by the team rather than collected.",
+  "how_built": "Python logo perched on the upper-left corner of a rounded criteria card, card title sitting in a gap in the top border, Roman-number tiles on the criteria list. Cury Construtora p.13 does it as a small blue pill Python Script at the corner of a chart.",
+  "use_for": "Proprietary scoring, scraping, simulations.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Illustration hanging over a card edge",
+  "category": "identity",
+  "deck": "Vibra",
+  "pages": [
+   29
+  ],
+  "crop": "b1_vi_overhang_nozzle.png",
+  "quality": 2,
+  "what_it_does": "Adds a topical object to a dense data slide without taking layout space.",
+  "how_built": "Transparent line drawing (fuel nozzle, dripping) placed to break the title band and the right border of the card; only one per slide.",
+  "use_for": "Sector identity in text-heavy panels.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Closing verdict with four numbered cards",
+  "category": "cover-divider",
+  "deck": "Restaurant Brands International",
+  "pages": [
+   49
+  ],
+  "crop": "b3_closing_verdict_cards.png",
+  "quality": 3,
+  "what_it_does": "Ends on one giant word and compresses the whole deck into three theses plus a risk column.",
+  "how_built": "Cover photo at top and bottom; translucent dark red band across the middle; BUY! in huge white type; four white rounded cards straddling the band's lower edge, each with a square red tag at its top-left corner hanging off the card (I, II, III, !); red hollow diamond bullets; the risk card title is italic.",
+  "use_for": "Final slide before Q&A.",
+  "needs_real_asset": true,
+  "lote": "b3"
+ },
+ {
+  "element": "Teal-washed asset photo closing",
+  "category": "cover-divider",
+  "deck": "3R Petroleum",
+  "pages": [
+   47,
+   48
+  ],
+  "crop": "b4_duotone_photo.png",
+  "quality": 2,
+  "what_it_does": "Keeps a real asset in the closing and in the index while staying in brand palette.",
+  "how_built": "Full-bleed photo of the rig under a theme gradient overlay; thin large Q&A centred; same image at lower contrast behind index pages.",
+  "use_for": "Q&A and index for asset-heavy companies",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Question answered on the closing slide",
+  "category": "cover-divider",
+  "deck": "BTG Pactual",
+  "pages": [
+   80
+  ],
+  "crop": "b3_rhetorical_close.png",
+  "quality": 2,
+  "what_it_does": "Frames the conclusion as a question to the judges and answers with one word and a logo.",
+  "how_built": "Dark slide with thin-weight question as title; three stacked pentagon arrows in tints of light blue of unequal length, sentence continued across them with ellipses; large grey triangle in the lower-right corner with parallel diagonal bands holding Yes! and the logo.",
+  "use_for": "Final recommendation.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Single-photo metaphor cover",
+  "category": "cover-divider",
+  "deck": "Kering - Moncler",
+  "pages": [
+   1
+  ],
+  "crop": "b1_ke_cover.png",
+  "quality": 2,
+  "what_it_does": "Sets up the deal with an image tied to the target's identity, not a corporate photo.",
+  "how_built": "Full-bleed mountain at golden hour for Moncler; only two small logos centered on the sky; firm name small at bottom-right; no title text.",
+  "use_for": "M&A or brand-led theses where an image carries the idea.",
+  "needs_real_asset": true,
+  "lote": "b1"
+ },
+ {
+  "element": "Cover ribbon echoing the chevrons of the rail",
+  "category": "cover-divider",
+  "deck": "Meliuz",
+  "pages": [
+   1,
+   63
+  ],
+  "crop": "b4_cover_ribbon_chevrons.png",
+  "quality": 2,
+  "what_it_does": "Introduces the deck's chevron motif on the cover, then repeats it for Q&A with only the text swapped.",
+  "how_built": "Dark page; white arrow-shaped logo band bleeding from left; thin band with event name and three fading chevrons; phone screen on brand disc.",
+  "use_for": "Consumer app or brand cover",
+  "needs_real_asset": true,
+  "lote": "b4"
+ },
+ {
+  "element": "Tape-and-halftone dividers",
+  "category": "cover-divider",
+  "deck": "Mercado Libre",
+  "pages": [
+   43,
+   58,
+   67,
+   83,
+   97,
+   124
+  ],
+  "crop": null,
+  "quality": 2,
+  "what_it_does": "Extends the shipping-box idea from the cover through the entire appendix.",
+  "how_built": "Kraft background, two yellow tape-coloured rectangles at left and right with halftone dot grids, a centred title in dark grey. The depth of the kraft label itself is already catalogued; this entry is only the divider pattern.",
+  "use_for": "Section dividers when the company has a physical product metaphor",
+  "needs_real_asset": false,
+  "lote": "b2"
+ },
+ {
+  "element": "Ghost numeral divider with chapter tabs",
+  "category": "cover-divider",
+  "deck": "Vasta",
+  "pages": [
+   4,
+   7,
+   11,
+   16,
+   20,
+   26,
+   30,
+   33,
+   39
+  ],
+  "crop": "b3_ghost_numeral_divider.png",
+  "quality": 2,
+  "what_it_does": "Gives the deck a calm rhythm and shows the chapter number and position in the same slide.",
+  "how_built": "Pale background; huge number in a very light tint of the accent behind and above a heavy black chapter title; short accent rule; italic subtitle; a row of six small number-over-label tabs split by thin vertical rules, the active one in accent with an underline.",
+  "use_for": "Section dividers; works with any accent colour.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Bare verdict word on thesis page",
+  "category": "other",
+  "deck": "AB InBev",
+  "pages": [
+   2
+  ],
+  "crop": "b1_ab_verdict.png",
+  "quality": 2,
+  "what_it_does": "Makes the recommendation the largest, quietest thing on the page.",
+  "how_built": "Dark page: thin frame open on the left with price pairs at top (current to target, joined by a capped rule) and return pairs at bottom (IRR, FCFE); between them a single thin-weight accent 'BUY'; three thesis pillars branch off a diagonal as small pill nodes with italic labels.",
+  "use_for": "Opening thesis or investment summary.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Icon metaphor with hand-drawn arrow",
+  "category": "other",
+  "deck": "BTG Pactual",
+  "pages": [
+   56
+  ],
+  "crop": "b3_cake_metaphor.png",
+  "quality": 2,
+  "what_it_does": "Makes a compensation policy memorable: the whole cake must grow, not just the slice.",
+  "how_built": "Pale panel; small and large cake line icons linked by a loose sketched arrow; second line outside the panel, with a slice icon in a contrasting colour, completing the sentence.",
+  "use_for": "Incentive or culture points hard to chart.",
+  "needs_real_asset": false,
+  "lote": "b3"
+ },
+ {
+  "element": "Verdict title on full-bleed price line",
+  "category": "other",
+  "deck": "Rede D'Or",
+  "pages": [
+   10
+  ],
+  "crop": "b1_rd_hold.png",
+  "quality": 2,
+  "what_it_does": "Places the recommendation next to the price path that justifies it.",
+  "how_built": "Dark gradient page; title is ticker and verdict ('RDOR3 - HOLD'); price line takes most of the page, with a dashed horizontal at the target price labelled on the line; a stat cluster at right gives DCF, IRR and current price.",
+  "use_for": "Recommendation opener, especially a nuanced hold.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ },
+ {
+  "element": "Result seal on a leader",
+  "category": "other",
+  "deck": "Vibra",
+  "pages": [
+   14
+  ],
+  "crop": "b1_vi_seal.png",
+  "quality": 2,
+  "what_it_does": "Stamps the conclusion of a flow diagram as a verdict.",
+  "how_built": "Dashed horizontal leader from the panel into an accent circle with thick white rim and outer ring, white value and label ('18.1% Premium').",
+  "use_for": "End result of a structure or mechanism.",
+  "needs_real_asset": false,
+  "lote": "b1"
+ }
+]

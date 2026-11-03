@@ -108,6 +108,7 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo **exatamente** `refer
 - **Nenhum número repetido no slide.** Cada número aparece em um bloco só.
 - **Números em en-US** (1,234.5), já arredondados como devem aparecer.
 - **Notas:** definições, ressalvas ("projeção da empresa, não pedido firme") e premissas. Vão para as notas do apresentador, não para a face do slide; por isso, ressalva indispensável para ler o dado entra no itálico.
+- **Material real:** liste o que existe (foto, print, entrevista, citação, notícia com link). Pergunte ao usuário se houver dúvida; nunca invente.
 - **Ordem de corte:** o que sai primeiro se não couber.
 
 ## 5. Entrega
