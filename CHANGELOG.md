@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.2
+
+- Nunca gráfico de barras com só duas barras; nova peça `two_values_stairs`.
+- Linha sem marcador nos pontos.
+- Feixe alinhado e simétrico; novo helper `beam_to_card`.
+- Rodapé sempre `Sources: Company Data, Group Calculations.`; fontes detalhadas nas notas do apresentador.
+- No modo rico, ao menos 2 painéis com peça de profundidade visível; uma peça pequena não basta.
+
 ## 0.4.1
 
 - Todo slide passa a levar ao menos uma peça do catálogo, salvo no novo modo `visual = "sóbrio"`.

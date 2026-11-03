@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.4.1-1249C6">
+  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.4.2-1249C6">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-plugin-0B1D4E">
   <img alt="Saída" src="https://img.shields.io/badge/sa%C3%ADda-.pptx%20edit%C3%A1vel-4FA3F5">
 </p>
@@ -179,7 +179,7 @@ Na primeira vez do deck, responda as preferências, que ficam em `deck_prefs.jso
 | Números grandes | não, sim | não |
 | Nível visual | rico, sóbrio | rico |
 
-No modo **rico**, todo slide leva ao menos uma peça do catálogo.
+No modo **rico**, slides de 2 ou mais painéis levam peça de profundidade em ao menos 2 deles.
 
 **3. Ajuste em português normal**
 
@@ -197,6 +197,9 @@ Vieram de decks reais e de revisões de quem apresentou. Estão em [`RULES.md`](
 - Um cabeçalho e um itálico por visual, sem terceiro nível de texto.
 - Sem bloco de notas na face do slide: as ressalvas vão para as notas do apresentador.
 - Sem colunas de texto coladas no gráfico.
+- Nunca gráfico de barras com só duas barras, nem linha com marcador nos pontos.
+- Feixe colado no dado e simétrico.
+- Rodapé sempre `Sources: Company Data, Group Calculations.`
 - Data label em um único estilo.
 - Cor com significado fixo e um único destaque por painel.
 - Números exatamente como no roteiro.

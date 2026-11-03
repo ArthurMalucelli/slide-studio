@@ -18,8 +18,11 @@ São regras aprendidas em decks reais de equity research, com feedback de quem a
 | **Nada encosta nas zonas proibidas do mestre** (`grid.forbidden`: logos, curvas, faixas) | O mestre cobre essa área |
 | **Cor com significado fixo** (tabela abaixo) | Quem lê aprende o código uma vez e o reaproveita no deck inteiro |
 | **Evidência só com material real.** Foto, print, entrevista, citação e notícia nunca são inventados; o molde com rótulo cinza não vai para a entrega | A banca cobra a origem, e prova falsa derruba o deck |
-| **Todo slide leva peça do catálogo** (salvo `visual = "sóbrio"`): ao menos uma que crie profundidade ou faça o dado argumentar. Não acrescente texto novo para isso: se a peça pede frase, ela vem do roteiro ou é proposta ao usuário | Só título e gráficos planos deixa o slide sem sal |
-| **Fonte em todo slide** (`ss.footer`) | Padrão universal nos decks de referência |
+| **Gráfico de barras nunca com só duas barras.** Dois valores viram degrau com seta (`two_values_stairs`) ou outra peça | Duas barras são o visual mais sem graça do deck |
+| **Linha sem marcador nos pontos.** Linha contínua, com o rótulo em cima dela; área em degradê embaixo dá corpo | Bolinha polui e parece gráfico padrão |
+| **Feixe alinhado:** sai colado no dado, na altura exata dele, e abre igual em cima e embaixo (`beam_to_card`) | Feixe assimétrico ou solto parece torto |
+| **Todo slide leva peça do catálogo** (salvo `visual = "sóbrio"`): em slide de 2 ou mais painéis, ao menos 2 painéis com peça de profundidade visível, grande o bastante para mudar a cara do slide. Só uma peça pequena não basta. Não acrescente texto novo para isso: se a peça pede frase, ela vem do roteiro ou é proposta ao usuário | Só título e gráficos planos deixa o slide sem sal |
+| **Fonte em todo slide, sempre simplificada:** `Sources: Company Data, Group Calculations.` As fontes detalhadas vão para as notas do apresentador | O rodapé não compete com o slide; o detalhe fica para o Q&A |
 | **Números exatamente como no roteiro**, texto fixo en-US nos rótulos (`texts=`) | O designer não altera dado; formatação regional do PowerPoint quebra números |
 | **Validar no PDF exportado pelo Microsoft PowerPoint** | LibreOffice e Keynote renderizam gráficos de outro jeito e escondem bugs |
 | **Legenda com formas desenhadas** ou legenda nativa; nunca o glifo ■ | O glifo sai miúdo e desalinhado |
@@ -76,6 +79,9 @@ A fonte é a do tema do mestre ou a de `deck_prefs.font`.
 - [ ] Cor: FOCUS só na empresa-foco, PEER em terceiros, um ACCENT por painel, NEG só negativo
 - [ ] Nenhum número repetido no slide; todos iguais aos do roteiro
 - [ ] Sem texto grande, número gigante ou parágrafo (salvo `big_numbers`)
-- [ ] Ao menos uma peça do catálogo no slide (salvo `visual = "sóbrio"`), comparada com o recorte de origem
-- [ ] Fonte no rodapé; notas do roteiro nas notas do apresentador
+- [ ] Ao menos 2 painéis com peça de profundidade (salvo `visual = "sóbrio"`), comparada com o recorte de origem
+- [ ] Nenhum gráfico de barras com só duas barras; nenhuma linha com marcador
+- [ ] Feixe colado no dado e simétrico
+- [ ] Rodapé só com `Sources: Company Data, Group Calculations.`
+- [ ] Notas e fontes detalhadas nas notas do apresentador
 - [ ] Respeita `deck_prefs` (fundo, 3D, barras)

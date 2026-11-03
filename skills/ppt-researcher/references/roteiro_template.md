@@ -38,6 +38,9 @@
 {Fotos, prints, entrevistas, citações, notícias com link, pesquisa própria; ou "nenhum". O designer só usa peça de evidência com o que estiver aqui.}
 
 ## Fontes (rodapé)
+Sources: Company Data, Group Calculations.
+
+## Fontes detalhadas (notas do apresentador)
 {Fonte 1 (data); Fonte 2 (data); …}
 
 ## Ordem de corte (se não couber)

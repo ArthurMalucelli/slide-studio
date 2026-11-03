@@ -147,6 +147,13 @@ def gallery(prs, layout, slides, source_note):
         ss.footer(s, source_note)
 
 
+def beam_to_card(s, edge, y0, y1, card_x, pad, end_tone=0.55, color=F):
+    """Feixe alinhado: sai colado no dado (borda x=edge, de y0 a y1) e abre igual em cima e embaixo até card_x.
+    Devolve (y do topo, altura) do cartão, que fica centrado no dado."""
+    grad(ss.poly(s, [(edge, y0), (edge, y1), (card_x, y1 + pad), (card_x, y0 - pad)], color), ((0, color), (1, light(color, end_tone))), 0)
+    return y0 - pad, y1 - y0 + 2 * pad
+
+
 # ---------- Mapas ----------
 _GEO50, _ADM1 = None, None
 

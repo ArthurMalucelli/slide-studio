@@ -11,6 +11,22 @@ from pecas_base import dark, light  # noqa: E402
 
 # ---------- Sólidos ----------
 
+def two_values_stairs(s, x, y, w, h, lo=("FY25", ">27"), hi=("FY26", ">33")):
+    """Dois valores sem gráfico de duas barras: degrau no valor antigo e seta no novo. Técnica de 3R p.28."""
+    m = M((-235, 92, 1422, 700), (x, y, w, h))
+    poly(s, m, ((1379, 622), (1379, 351), (1365, 359), (1312, 331), (1312, 659)), dark(F, .3))
+    poly(s, m, ((1320, 92), (1265, 122), (1365, 359), (1422, 328)), dark(F, .3))
+    poly(s, m, ((1312, 659), (1312, 331), (1365, 359), (1265, 122), (1137, 242), (1188, 268), (1188, 596)), F)
+    for x0, y0, x1, y1, c, (per, val) in ((30, 300, 1180, 412, F, hi), (-235, 420, 1112, 532, D, lo)):
+        R(s, m, x0, y0, x1, y1, c)
+        tm(s, m, x0 + 28, y0, x0 + 170, y1, per, size=11, color=W, bold=True, align=PP_ALIGN.LEFT)
+        pb = m.box(x1 - 150, y0 + 24, x1 - 30, y1 - 24)
+        rr(s, *pb, W, .3); tx(s, *pb, val, size=10, bold=True, color=c)
+    poly(s, m, ((1312, 659), (1312, 431), (1245, 468), (1245, 696)), dark(D, .3))
+    poly(s, m, ((1245, 696), (1245, 468), (1120, 405), (1120, 633)), D)
+    poly(s, m, ((1312, 431), (1188, 367), (1120, 405), (1245, 468)), light(D, .18))
+
+
 def iso_plates(s, x, y, w, h):
     m = M((197, 253, 680, 567), (x, y, w, h))
     for k, c, t in ((2, light(F, .85), "Base layer"), (1, light(F, .45), "Middle layer"), (0, F, "Top layer")):
@@ -444,14 +460,14 @@ def orbit_rows(s, x, y, w, h):
 
 def beam_bars(s, x, y, w, h):
     m = M((300, 96, 960, 497), (x, y, w, h))
-    for i, (bt, st, sb) in enumerate(((300, 330, 390), (260, 290, 370), (220, 245, 335), (150, 188, 261))):
+    for i, (bt, st, sb) in enumerate(((300, 330, 390), (260, 290, 370), (220, 245, 335), (150, 260, 333))):
         bx = 330 + i * 45
         if i == 3: bx = 470
         R(s, m, bx + 2.5, bt + 3, bx + 27.5, 423, "000000")
         R(s, m, bx, bt, bx + 25, 420, G2)
         R(s, m, bx, st, bx + 25, sb, F)
     ss.line(s, *m.p((315, 420)), *m.p((510, 420)), G4, 0.75, dash=False)
-    poly(s, m, ((497, 188), (498, 261), (590, 497), (590, 96)), F, alpha=86)
+    poly(s, m, ((495, 260), (495, 333), (590, 497), (590, 96)), F, alpha=86)
     R(s, m, 590, 96, 960, 497, G1, F, width=1.5)
     tm(s, m, 610, 110, 940, 170, "Digital revenue", size=10, bold=True, color=F)
     mini_bars(s, m, 625, 200, 925, 400, n=9)

@@ -88,7 +88,7 @@ pdftoppm -r 60 -png <pasta>/_master/layouts_preview.pdf <pasta>/_master/layout
    - composição → rosca ou barra 100%;
    - geografia → `region_map`;
    - sequência → timeline/funil.
-5. **Abra `references/catalogo/INDEX.md` e escolha as peças do slide.** Obrigatório, salvo `visual = "sóbrio"`: todo slide leva ao menos uma peça do catálogo que crie profundidade ou faça o dado argumentar (feixe até um cartão, parede, placas, mapa, veredito, anotação). Slide só com título e gráficos planos está reprovado. Se o conteúdo é só dado, ligue o dado à conclusão com feixe e cartão, ou marque-o com anotação. Considere ao menos 3 candidatas por slide, veja os recortes e escolha pelo claim, sem repetir a mesma peça em slides vizinhos. As peças prontas estão em `references/pecas_*.py`. Compare a peça montada com o recorte de origem, lado a lado. Se a peça pede material real, peça ao usuário; nunca invente.
+5. **Abra `references/catalogo/INDEX.md` e escolha as peças do slide.** Obrigatório, salvo `visual = "sóbrio"`: em slide de 2 ou mais painéis, ao menos 2 painéis levam peça de profundidade visível, grande o bastante para mudar a cara do slide (sólido, parede, placas, feixe até um cartão, mapa). Um cartãozinho no canto de um slide de gráficos planos está reprovado. Nunca use gráfico de barras com só duas barras nem linha com marcador. Se o conteúdo é só dado, ligue o dado à conclusão com feixe e cartão, ou marque-o com anotação. Considere ao menos 3 candidatas por slide, veja os recortes e escolha pelo claim, sem repetir a mesma peça em slides vizinhos. As peças prontas estão em `references/pecas_*.py`. Compare a peça montada com o recorte de origem, lado a lado. Se a peça pede material real, peça ao usuário; nunca invente.
 6. **Escreva em 3–5 linhas o plano do layout, nomeando cada peça, sua função em `pecas_*.py` e o recorte de origem** e só então codifique: layout do mestre, painel → visual e de qual print ★★★ veio a ideia.
 
 ## 4. Build
@@ -98,7 +98,7 @@ Crie `<pasta>/slides/build_<tema>_v1.py`:
 - importar `slide_style as ss` e usar `ss.new_deck(mestre, prefs="deck_prefs.json", profile_dir="_master")`;
 - usar a grade com `ss.cols(n)`, `ss.rows(n)` e `ss.panel_header(...)`; nunca coordenadas soltas;
 - cores só pelos papéis (`ss.FOCUS`, `ss.ACCENT`, `ss.PEER`…), nunca hex solto;
-- `ss.footer(s, "Sources: …", notes="…")` sempre: as notas do roteiro vão para as notas do apresentador.
+- `ss.footer(s, "Sources: Company Data, Group Calculations.", notes="…")` sempre: o rodapé é só isso, e as notas e fontes detalhadas do roteiro vão para as notas do apresentador.
 - um cabeçalho e um itálico por visual; se um bloco do roteiro tem dois gráficos, separe em dois painéis e registre os novos cabeçalhos no roteiro.
 
 Gere o arquivo: `python3 build_<tema>_v1.py <mestre> slides/<Empresa>_<Tema>_v1.pptx`.

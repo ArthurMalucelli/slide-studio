@@ -96,6 +96,7 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo **exatamente** `refer
   - fonte.
   
   Um bloco é um visual. Duas séries de naturezas diferentes viram dois blocos, cada um com o seu claim.
+- **Dois valores só não sustentam um gráfico:** se um bloco tem só dois pontos, avise no roteiro, para o designer usar outra peça.
 - **Não diga que gráfico usar.** No máximo, informe a *relação* do dado:
   - comparação;
   - evolução no tempo;

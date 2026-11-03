@@ -35,7 +35,8 @@ Os arquivos são longos: use `grep` por palavra ou leia só o começo, onde est�
 | Comparar nota, cenário ou payoff | Dado | `square_rating`, `payoff_grid`; placar de estrelas em `pecas_elementos_b.py` |
 | Risco com tamanho | Dado, Estrutura | `priced_risks`; códigos com drill-down em `pecas_elementos_b.py` |
 | Fazer o gráfico argumentar | Anotação | `scribble_link`, `span_bracket`, `event_flags`, `phase_windows` |
-| Explicar um pedaço do dado | Profundidade | `beam_bars`, `donut_flare`, `zoom_wedge` |
+| Mostrar só dois valores | Profundidade | `two_values_stairs`; nunca gráfico de duas barras |
+| Explicar um pedaço do dado | Profundidade | `beam_to_card` (em `pecas_base`), `beam_bars`, `donut_flare`, `zoom_wedge` |
 | Mostrar camadas ou segmentos | Profundidade | `pyramid3d`, `iso_plates`, `arc_ribbons`, `lens_stack` |
 | Dar volume a um cartão ou painel | Profundidade | `tapered_wall`, `gutter_wall`, `bevel_panel`, `slab_cards` |
 | Separar uma mensagem do resto da página | Profundidade | `modal_sandwich`, `l_wedges`, `spotlight` |
