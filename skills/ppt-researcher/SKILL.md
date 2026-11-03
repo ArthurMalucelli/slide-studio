@@ -90,10 +90,12 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo **exatamente** `refer
   - No modo expositivo, o título diz o fato principal.
   - No modo analítico, diz a conclusão.
 - **De 2 a 4 blocos de conteúdo.** Cada bloco tem:
-  - claim (1 frase, que vira o cabeçalho do painel);
+  - claim (1 frase sem número nem período, que vira o cabeçalho do painel);
   - descrição do dado com unidade e período (vira o itálico);
   - **tabela com os números exatos**;
   - fonte.
+  
+  Um bloco é um visual. Duas séries de naturezas diferentes viram dois blocos, cada um com o seu claim.
 - **Não diga que gráfico usar.** No máximo, informe a *relação* do dado:
   - comparação;
   - evolução no tempo;
@@ -105,7 +107,7 @@ Escreva `research/<empresa>-<tópico>/roteiro.md` seguindo **exatamente** `refer
   Quem escolhe o visual é o designer.
 - **Nenhum número repetido no slide.** Cada número aparece em um bloco só.
 - **Números em en-US** (1,234.5), já arredondados como devem aparecer.
-- **Notas:** definições, ressalvas ("projeção da empresa, não pedido firme") e premissas.
+- **Notas:** definições, ressalvas ("projeção da empresa, não pedido firme") e premissas. Vão para as notas do apresentador, não para a face do slide; por isso, ressalva indispensável para ler o dado entra no itálico.
 - **Ordem de corte:** o que sai primeiro se não couber.
 
 ## 5. Entrega

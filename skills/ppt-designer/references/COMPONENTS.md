@@ -12,7 +12,7 @@ O exemplo completo, que roda com qualquer mestre e qualquer grade, está em `ref
 | `setup(s, título, subtítulo, panels=())` | Preenche título e subtítulo; remove placeholders de conteúdo vazios |
 | `cols(n)` / `rows(n)` | Divide a área útil em n colunas `[(x, w)]` / n faixas `[(y, h)]` |
 | `panel_header(s, x, y, w, frase, itálico)` | Cabeçalho do painel; devolve o y onde o visual começa |
-| `footer(s, "Sources: …", "notas")` | Rodapé no placeholder do mestre ou logo abaixo da área útil |
+| `footer(s, "Sources: …", notes="…")` | Fontes no placeholder do mestre ou logo abaixo da área útil; `notes` vai para as notas do apresentador, nunca para a face do slide |
 | `tracker(s, itens, ativo, x, y)` | Tracker de seção desenhado (opcional) |
 | `forbidden_hit(x, y, w, h)` | True se a caixa encosta numa zona proibida |
 | `save(prs, caminho)` | Salva e roda `fix_axes` (obrigatório) |
@@ -24,7 +24,7 @@ O exemplo completo, que roda com qualquer mestre e qualquer grade, está em `ref
 | `chart(s, XL_CHART_TYPE.…, (x,y,w,h), cats, [(nome, vals)], fmt)` | Cria o gráfico numa caixa |
 | `base_chart(ch, vmax, vmin=0, gap)` | Limpo: sem grade, eixo de valor oculto, fundo transparente |
 | `plot_layout(ch, x, y, w, h)` | Área de plotagem em frações; necessária para ancorar anotações com `frame()` |
-| `labels(ser._element, fmt, fill, color, pos, points, texts)` | Data labels em pill; `texts=` fixa o texto, `points={i: {...}}` destaca um ponto |
+| `labels(ser._element, fmt, fill, color, pos, points, texts)` | Data labels em pill, sempre fundo escuro e texto branco (RULES.md); `texts=` fixa o texto, `points={i: {...}}` muda a cor de um ponto |
 | `color_points(ser, [cores])` | Foco em FOCUS, pares em PEER (**comps-barras**) |
 | `combo_line(ch, ACCENT, smin, smax, texts)` + `native_legend(ch)` | Colunas + linha suavizada no 2º eixo (**colunas+linha**) |
 | `smooth_line(ch)` | Suaviza um gráfico de linha nos dois níveis do XML |
@@ -33,7 +33,6 @@ O exemplo completo, que roda com qualquer mestre e qualquer grade, está em `ref
 
 Truques que funcionaram:
 - **Total + recorte da empresa:** `COLUMN_CLUSTERED` com `overlap=100`, o total em PEER atrás e a fatia da empresa em FOCUS na frente. O pill do total fica `outEnd`; um gráfico empilhado não aceita `outEnd`.
-- **Barra horizontal com descrição:** texto curto em FG2 depois do pill, explicando o que cada valor representa.
 - **Cascata (bridge):** barras sólidas; se o eixo não começar em zero, avisar no rodapé.
 - **Linha de mercado:** PEER_DARK 2.5pt, pills `ctr` em cima da linha e `delta_bracket` à direita do último ponto, em vez de uma linha de referência atravessando o gráfico.
 
@@ -45,7 +44,6 @@ Truques que funcionaram:
 | `pill(s, cx, y, rótulo, fill, color)` | Etiqueta arredondada centrada em cx |
 | `line(…)`, `rect(…)`, `bracket(…)`, `delta_bracket(…)` | Fios, caixas, colchetes de anotação (ACCENT ou AXIS) |
 | `legend(s, x, y, rows)` | Legenda com formas: `box`, `dash`, `tick`, `line` |
-| `note(s, x, y, w, h, msg)` | Nota 8pt itálica |
 | `picture(s, caminho, x, y_base, largura)` | Imagem pousada numa linha de base (**lineup-imagens**) |
 | `region_map(s, caixa, grupos, cores, by=…)` | Mapa-múndi por região. `by="continent"`, `"region_wb"`, `"subregion"` ou `"iso"`. Devolve `(px, py)` para ancorar rótulos com linha guia. Rótulos fora do mapa (faixa de cima) ou sobre o oceano (**mapa**) |
 | `poly(s, pts, fill)` | Polígono livre editável |

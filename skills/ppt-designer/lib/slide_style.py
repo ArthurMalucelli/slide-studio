@@ -17,6 +17,7 @@ de desenhar, o que permite mudar a paleta de um deck sem mexer no script. Um hex
 Grade: ss.G["content_left"], ss.G["column_x"]… (ver profile.json). Helpers: ss.cols(n), ss.rows(n).
 """
 import json
+import re
 from pathlib import Path
 
 from lxml import etree
@@ -174,9 +175,19 @@ def header_ph(slide, idx, value, kind, box=None):
     return p
 
 
+def _check_no_digits(where, title):
+    """Regra fixa: título de slide e cabeçalho de painel não têm número, nem período como FY26 (vai no itálico)."""
+    if re.search(r"\d", title):
+        print(f"AVISO: número em {where}: {title!r}. Leve o número ao gráfico e o período ao itálico.")
+
+
 def setup(slide, title, subtitle=None, panels=(), drop_others=True):
     """Título e subtítulo nos placeholders que o profile identificou; panels: [(idx, texto, 'h'|'s', box|None)].
     drop_others: remove os placeholders de conteúdo vazios (gráficos e desenhos vão em caixas próprias)."""
+    _check_no_digits("título do slide", title)
+    for _idx, _val, _kind, _box in panels:
+        if _kind == "h":
+            _check_no_digits("cabeçalho de painel", _val)
     t, s = G.get("title"), G.get("subtitle")
     if t and has_ph(slide, t["idx"]):
         set_ph(slide, t["idx"], title, FG)
@@ -197,9 +208,11 @@ def setup(slide, title, subtitle=None, panels=(), drop_others=True):
 
 
 def footer(slide, sources, notes=None, size=7):
-    """Rodapé 'Sources: …' (+ notas numa 2ª linha): no placeholder de rodapé do mestre, se houver; senão numa caixa
-    logo abaixo da área de conteúdo, alinhada à direita."""
-    body = sources + ("\v" + notes if notes else "")
+    """Rodapé 'Sources: …' no placeholder de rodapé do mestre, se houver; senão numa caixa logo abaixo da área de
+    conteúdo. notes: ressalvas e definições; vão para as notas do apresentador, nunca para a face do slide."""
+    body = sources
+    if notes:
+        slide.notes_slide.notes_text_frame.text = notes
     f = G.get("footer")
     if f and has_ph(slide, f["idx"]):
         fp = ph(slide, f["idx"])
@@ -237,7 +250,8 @@ def tracker(slide, items, active, x, y, size=14):
 
 def panel_header(slide, x, y, w, head, sub):
     """Cabeçalho desenhado: frase-conclusão 14pt + itálico 11pt (o que o gráfico mostra, unidade, período).
-    Devolve o y onde o visual começa."""
+    Devolve o y onde o visual começa. Um cabeçalho para um visual: dois gráficos pedem dois painéis."""
+    _check_no_digits("cabeçalho de painel", head)
     hd = text(slide, x, y, w, 0.28, [[(head, {"color": FG, "size": 14})]], anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
     hd.text_frame.word_wrap = False
     text(slide, x, y + 0.28, w, 0.23, [[(sub, {"italic": True, "color": MUTED, "size": 11})]],
@@ -281,11 +295,6 @@ def text(slide, x, y, w, h, runs, size=9, align=PP_ALIGN.LEFT, anchor=MSO_ANCHOR
             f.bold = st.get("bold", False); f.italic = st.get("italic", False)
             f.color.rgb = rgb(st.get("color", FG))
     return sp
-
-
-def note(slide, x, y, w, h, msg):
-    """Nota de painel: 8pt itálico MUTED."""
-    return text(slide, x, y, w, h, [[(msg, {"italic": True, "color": MUTED, "size": 8})]], margin=0.0)
 
 
 def line(slide, x1, y1, x2, y2, color=MUTED, width=1, dash=True):
@@ -496,7 +505,8 @@ def _label_body(el, fmt, fill, color, pos, border=None, dash=False, rich=None):
 
 
 def labels(ser, fmt, fill, color=WHITE, pos="outEnd", points=None, texts=None):
-    """Data labels em pill (retângulo arredondado). ser = series._element.
+    """Data labels em pill (retângulo arredondado). ser = series._element. Padrão único do slide: fundo escuro e
+    texto branco (FOCUS na empresa-foco, PEER_DARK em terceiros, NEG em negativo), mesmo em série de cor clara.
     texts: texto fixo por ponto (evita formatação regional). points = {idx: dict(fill, color, border, dash, rich, delete, pos)}."""
     for old in ser.findall(qn("c:dLbls")):
         ser.remove(old)
@@ -593,7 +603,7 @@ def combo_line(ch, color, smin, smax, texts=None, points=None, fmt="0.0%"):
     mk = E("c:marker"); sub(mk, "c:symbol", val="none")
     sp.addnext(mk)
     sub(ser, "c:smooth", val=1)
-    labels(ser, fmt, color, WHITE, pos="ctr", points=points, texts=texts)
+    labels(ser, fmt, FOCUS, WHITE, pos="ctr", points=points, texts=texts)
     lc = E("c:lineChart"); sub(lc, "c:grouping", val="standard"); sub(lc, "c:varyColors", val=0)
     lc.append(ser); sub(lc, "c:marker", val=1)
     sub(lc, "c:smooth", val=1)

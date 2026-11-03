@@ -93,7 +93,8 @@ Crie `<pasta>/slides/build_<tema>_v1.py`:
 - importar `slide_style as ss` e usar `ss.new_deck(mestre, prefs="deck_prefs.json", profile_dir="_master")`;
 - usar a grade com `ss.cols(n)`, `ss.rows(n)` e `ss.panel_header(...)`; nunca coordenadas soltas;
 - cores só pelos papéis (`ss.FOCUS`, `ss.ACCENT`, `ss.PEER`…), nunca hex solto;
-- `ss.footer(s, "Sources: …", "notas")` sempre.
+- `ss.footer(s, "Sources: …", notes="…")` sempre: as notas do roteiro vão para as notas do apresentador.
+- um cabeçalho e um itálico por visual; se um bloco do roteiro tem dois gráficos, separe em dois painéis e registre os novos cabeçalhos no roteiro.
 
 Gere o arquivo: `python3 build_<tema>_v1.py <mestre> slides/<Empresa>_<Tema>_v1.pptx`.
 

@@ -77,7 +77,7 @@ def q3_map(s, x, y, w, h):
         ss.line(s, cx, y0 + LAB, px(alo), py(ala), ss.AXIS, 0.75, dash=False)
         ss.text(s, cx - 0.5, y0, 1.0, 0.15, [[(name, {"bold": True, "color": ss.FOCUS, "size": 7.5})]],
                 align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE, margin=0.0)
-        ss.pill(s, cx, y0 + 0.16, v, fill=ss.FOCUS if hi else ss.FOCUS_TINT, color=ss.WHITE if hi else ss.FOCUS,
+        ss.pill(s, cx, y0 + 0.16, v, fill=ss.FOCUS, color=ss.WHITE,
                 h=0.19, size=7.5)
 
 
@@ -110,7 +110,8 @@ if __name__ == "__main__":
     (ty, rh), (by, _) = ss.rows(2)
     q1_comps(s, lx, ty, cw, rh); q2_combo(s, rx, ty, cw, rh)
     q3_map(s, lx, by, cw, rh); q4_line(s, rx, by, cw, rh)
-    ss.footer(s, "Sources: illustrative data only; replace with the slide's sources.", "Notes go on a second line.")
+    ss.footer(s, "Sources: illustrative data only; replace with the slide's sources.",
+              notes="Caveats go to the speaker notes, never on the slide.")
 
     # slide 2: mesmos painéis, outra grade (1 largo em cima + 2 embaixo)
     s = ss.add_slide(prs, LAYOUT)
