@@ -72,6 +72,8 @@ Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovo
 **A imagem é parte da prova, ou sai.** O jato aparece porque o painel compara aquele modelo. Foto de uma loja ao lado de um gráfico que não fala dela é "foto do nada", mesmo sendo real. Assunto financeiro ou de número costuma ficar sem imagem, e tudo bem.
 
 - **Nunca monte um prédio ou uma máquina com retângulos.**
+- **Slide sobre pessoas mostra as pessoas.** Fundador, time ou conselho pedem rosto ou lugar na mesa, mesmo havendo número para tudo. Tempo de casa de cada executivo pode ser nome com dado; não precisa virar mais uma barra.
+- **Assunto com forma própria:** conselho é uma mesa, e funil é um funil. Pode desenhar a coisa com formas nativas se cada parte carregar um nome ou um dado: tire a parte, e o slide perde informação. Se os lugares estiverem vazios de sentido, é enfeite. Não associe a parte a uma pessoa ou a um fato que o roteiro não prova.
 - **Produto:** mockup gerado, com o nome da marca quando o slide é sobre ela (`gerar_imagem.py --mockup --marca Nome`). Confira a grafia ampliada, e diga nas notas do apresentador que é ilustrativo. Foto de produto recortada não entra.
 - **Foto real** só de pessoa citada ou documento, com origem nas notas do apresentador.
 - **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
@@ -82,7 +84,7 @@ Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovo
 
 ## 6. Cor: uma família com três tons
 
-**Todo gráfico do slide usa as mesmas cores:** a série principal na cor principal em todos os gráficos, e a segunda série no tom claro. Cinza é só para terceiros **ao lado** da empresa-foco no mesmo gráfico; um gráfico inteiro em cinza ao lado de gráficos azuis parece erro, mesmo que todos sejam terceiros. Escuro, médio e claro da mesma família fazem quase tudo (ChallengeB: marinho, azul, azul claro; Sabesp: marinho, azul, ciano). Cinza para o que é terceiro. Um acento pontual só onde houver alerta. O painel de fundo, quando existe, é um cinza quase branco, igual em todo o slide.
+**Todo gráfico do slide usa as mesmas cores:** a série principal na cor principal em todos os gráficos, e a segunda série no tom claro. Terceiros ficam no tom claro da cor principal. Cinza é só para trilha e fundo: slide em que o cinza domina fica sem vida, mesmo com as regras cumpridas. Escuro, médio e claro da mesma família fazem quase tudo (ChallengeB: marinho, azul, azul claro; Sabesp: marinho, azul, ciano). Um acento pontual só onde houver alerta. O painel de fundo, quando existe, é um cinza quase branco, igual em todo o slide.
 
 ## 7. Anote o gráfico, sem soltar texto
 

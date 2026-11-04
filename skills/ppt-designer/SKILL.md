@@ -82,7 +82,7 @@ Não copie slide nenhum. Siga `references/RECEITA.md`, passo a passo: argumento 
 
 Veja antes as imagens de `references/reprovados/` e `references/aprovados/`. Depois, abra `references/exemplos/INDEX.md`: em `por-tipo/` estão as peças por tipo, com `★` primeiro, e em `por-formato/`, os slides por número de quadrantes. Veja 3 a 5 parecidos com o seu, e `gabarito.md` para os decks preferidos do dono. Olhe as imagens. `catalogo.json` filtra por deck, nota e página; só parte das contagens de quadrantes foi conferida à mão (`quadrantes_conferido`). `scripts/medir_slide.py <pdf> <página>` serve para entender as medidas de uma peça.
 
-**Conteúdo qualitativo:** se uma frase não tem prova numérica boa, dispare o agente de criatividade antes de desenhar (Agent tool, `subagent_type: general-purpose`, com `references/criatividade_prompt.md`). Ele devolve 3 representações. Escolha uma pelos testes da receita e registre em `plan.md` as três e o motivo. Se nenhuma passar, deixe simples e avise. Slide só de dados não precisa dele.
+**Conteúdo qualitativo ou sobre pessoas:** se uma frase não tem prova numérica boa, ou se o slide é sobre fundador, time ou conselho, dispare o agente de criatividade antes de desenhar (Agent tool, `subagent_type: general-purpose`, com `references/criatividade_prompt.md`). Ele devolve 3 representações. Escolha uma pelos testes da receita e registre em `plan.md` as três e o motivo. Se nenhuma passar, deixe simples e avise. Com pessoas no assunto, ele é obrigatório mesmo havendo número para tudo. Outro slide só de dados não precisa dele.
 
 **Falta conteúdo?** Não invente, não decore e não troque gráfico por caixa de texto. Diga ao usuário o que falta no roteiro: a pergunta do passo 1 é a que mais revela roteiro fraco.
 

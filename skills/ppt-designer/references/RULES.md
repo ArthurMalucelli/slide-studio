@@ -69,6 +69,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Quatro gráficos em quadrantes:** "fica demais" (`checar_slide.py` barra) | No máximo 3 gráficos. O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama |
 | **Faixa colorida atrás dos rótulos do eixo:** "1Q25 2Q25..." em blocos cinza: "uma merda" | Rótulo de eixo sem fundo |
 | **Gráficos com cores diferentes no mesmo slide:** um em cinza, outro em marinho, outro em azul claro (`checar_slide.py` barra) | Mesma cor principal em todos. Cinza só ao lado da empresa-foco no mesmo gráfico |
+| **Slide sobre pessoas sem nenhuma pessoa:** fundador e time em 4 painéis de dados, com o cinza dominando: parece relatório | Rosto ou mesa com nomes; terceiros em tom claro da cor principal |
 | **Objeto torto:** avião ou máquina em perspectiva, parecendo inclinado | De perfil e nivelado (`gerar_imagem.py --objeto`) |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |
 | **Frase de conclusão solta** embaixo do slide, em faixa escura, caixa com sombra ou com marcador | A conclusão está no título e no subtítulo. Tire |
@@ -105,7 +106,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Dois níveis de texto por visual, nunca três.** Cada gráfico tem um cabeçalho e um itálico, sem rótulo ou "sub-subtítulo" extra. Dois gráficos sob a mesma ideia viram dois painéis, cada um com o seu cabeçalho | Terceiro nível repete o itálico e polui o topo do gráfico |
 | **Sem bloco de notas na face do slide.** Definições e ressalvas vão para as notas do apresentador (`ss.footer(..., notes=...)`); no rodapé, só as fontes | O slide é visual; a ressalva é falada ou vai para o Q&A |
 | **Sem colunas de texto ao lado do gráfico** (ano fiscal, escopo, base, descrição por linha). O essencial vai no itálico; o resto, nas notas do apresentador | Vira tabela colada no gráfico e compete com o dado |
-| **Data label com um único estilo no slide:** retângulo arredondado, fundo escuro, texto branco bold 9pt. FOCUS na empresa-foco, PEER_DARK em terceiros, NEG em negativo. Nunca fundo claro com texto preto, nem a cor de uma série clara ou do ACCENT | Pills de cores e contrastes diferentes parecem erro |
+| **Data label com um único estilo no slide:** retângulo arredondado, fundo escuro, texto branco bold 9pt. FOCUS na empresa-foco, FOCUS_DARK em terceiros, NEG em negativo. Nunca fundo claro com texto preto, nem a cor de uma série clara ou do ACCENT | Pills de cores e contrastes diferentes parecem erro |
 | **Nem tudo é gráfico** | Lineup, posicionamento e conteúdo qualitativo funcionam melhor como imagem, ícone ou diagrama com um dado curto |
 | **Tudo alinhado à grade do mestre** (`ss.cols`, `ss.rows`, `profile.json`) | Cabeçalhos dos painéis vizinhos na mesma altura, margens iguais |
 | **Nada encosta nas zonas proibidas do mestre** (`grid.forbidden`: logos, curvas, faixas) | O mestre cobre essa área |
@@ -136,7 +137,8 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | `FOCUS` | empresa-foco, série principal |
 | `FOCUS_TINT` | empresa-foco fora de destaque, "restante", regiões não destacadas |
 | `ACCENT` | **único** destaque: anotação, colchete ou o ponto que importa. Segunda série usa `FOCUS_DARK` ou `FOCUS_TINT`; nunca fundo de data label |
-| `PEER` / `PEER_DARK` | terceiros e concorrentes, mercado total; **nunca** a empresa-foco |
+| `PEER` / `PEER_DARK` | trilha, fundo e mercado total atrás da empresa; **nunca** a empresa-foco, nem como cor de concorrentes |
+| `FOCUS_TINT` | terceiros e concorrentes |
 | `NEG` | só valor negativo ou alerta |
 | `FG` / `FG2` / `MUTED` / `AXIS` | texto principal / descrição / secundário / eixos e fios |
 | `FOCUS_DARK` / `FOCUS_TOP` | lateral e topo de sólidos 3D |
@@ -168,7 +170,7 @@ A fonte é a do tema do mestre ou a de `deck_prefs.font`.
 - [ ] Cabeçalhos dos painéis vizinhos na mesma altura; itálicos também
 - [ ] Nenhum texto cortado, truncado ou colidindo (pills × barras vizinhas, rótulos × linhas)
 - [ ] Nada sobre as zonas proibidas do mestre
-- [ ] Cor: a mesma cor principal em todos os gráficos, PEER só ao lado da empresa-foco no mesmo gráfico, um ACCENT por painel, NEG só negativo
+- [ ] Cor: a mesma cor principal em todos os gráficos, terceiros no tom claro, cinza só em trilha e fundo, um ACCENT por painel, NEG só negativo
 - [ ] Nenhum número repetido no slide; todos iguais aos do roteiro
 - [ ] Sem texto grande, número gigante ou parágrafo (salvo `big_numbers`)
 - [ ] Cada peça passa nos 4 testes (origem, destino, forma = conteúdo, função); no máximo um protagonista

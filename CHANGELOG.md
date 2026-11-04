@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.6.2
+
+- Slide sobre pessoas mostra as pessoas, e aciona o agente de criatividade mesmo havendo dados.
+- Assunto com forma própria, como a mesa de um conselho, pode ser desenhado com formas se cada parte carregar um nome ou um dado.
+- Concorrentes vão no tom claro da cor principal; cinza fica para trilha e fundo.
+- O verificador conta grade de quadrados no limite de 3 gráficos.
+- O crítico cobra ao menos uma peça que não seja gráfico.
+
 ## 0.6.1
 
 - Todo gráfico do slide usa a mesma cor principal; o verificador barra gráfico só em cinza ao lado de gráficos em cor.

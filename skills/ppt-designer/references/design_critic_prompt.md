@@ -27,7 +27,7 @@ Você não conhece a justificativa de quem montou. Olhe como um juiz exigente qu
 Rode antes `python3 {SKILL_DIR}/scripts/checar_slide.py <pptx> --profile <profile.json>`: todo ERRO dele é ALTA. Marque ALTA para qualquer item de "Reprovado pelo dono do deck" em `RULES.md`. Marque ALTA também se houver mais de um protagonista. E marque ALTA se o slide parecer uma pilha de gráficos iguais, ou claramente abaixo do print de origem lado a lado; nesse caso diga o que falta no conteúdo, se a causa for o roteiro. **Não peça mais peças para resolver sem sal.** Peça composição melhor ou dado melhor.
 
 ## Verifique, nesta ordem
-1. **Mensagem:** dá para entender a mensagem principal do roteiro em 5 segundos? Todo painel a sustenta?
+1. **Mensagem e vida:** dá para entender a mensagem principal do roteiro em 5 segundos? Todo painel a sustenta? O slide tem ao menos uma peça que não é gráfico? Marque ALTA se o assunto é pessoas e nenhuma aparece, e MÉDIA se todos os painéis são gráfico ou se o cinza domina.
 2. **Regras fixas.** Itens de RULES.md:
    - texto grande ou número gigante sem permissão;
    - número ou período no título ou em cabeçalho de painel; título em 2 linhas;
@@ -36,7 +36,7 @@ Rode antes `python3 {SKILL_DIR}/scripts/checar_slide.py <pptx> --profile <profil
    - molde com rótulo cinza, ou evidência sem origem real;
    - gráfico de barras com só duas barras; linha com marcador nos pontos;
    - rodapé diferente de `Sources: Company Data, Group Calculations.`;
-   - cor fora do papel (empresa-foco em PEER, terceiros em FOCUS, dois destaques);
+   - cor fora do papel (empresa-foco em cinza, concorrentes em cinza ou em FOCUS, dois destaques);
    - fonte ausente.
 3. **Fidelidade:** algum número no slide difere do roteiro, foi repetido ou foi inventado?
 4. **Geometria:**

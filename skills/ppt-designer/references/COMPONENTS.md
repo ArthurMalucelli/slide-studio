@@ -25,7 +25,7 @@ O exemplo completo, que roda com qualquer mestre e qualquer grade, está em `ref
 | `base_chart(ch, vmax, vmin=0, gap)` | Limpo: sem grade, eixo de valor oculto, fundo transparente |
 | `plot_layout(ch, x, y, w, h)` | Área de plotagem em frações; necessária para ancorar anotações com `frame()` |
 | `labels(ser._element, fmt, fill, color, pos, points, texts)` | Data labels em pill, sempre fundo escuro e texto branco (RULES.md); `texts=` fixa o texto, `points={i: {...}}` muda a cor de um ponto |
-| `color_points(ser, [cores])` | Foco em FOCUS, pares em PEER (**comps-barras**) |
+| `color_points(ser, [cores])` | Foco em FOCUS, pares em FOCUS_TINT (**comps-barras**) |
 | `combo_line(ch, ACCENT, smin, smax, texts)` + `native_legend(ch)` | Colunas + linha suavizada no 2º eixo (**colunas+linha**) |
 | `smooth_line(ch)` | Suaviza um gráfico de linha nos dois níveis do XML |
 | `doughnut(s, x, y, d, nomes, vals, cores, center_label)` | Rosca com legenda rica ao lado (**donut**) |
