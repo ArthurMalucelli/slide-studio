@@ -4,6 +4,7 @@
 
 - Todo gráfico do slide usa a mesma cor principal; o verificador barra gráfico só em cinza ao lado de gráficos em cor.
 - `gerar_imagem.py --objeto`: veículo ou máquina de perfil e nivelado.
+- `gerar_imagem.py` não trava mais esperando a entrada do Codex.
 
 ## 0.6.0
 
