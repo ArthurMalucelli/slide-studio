@@ -69,6 +69,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Quatro gráficos em quadrantes:** "fica demais" (`checar_slide.py` barra) | No máximo 3 gráficos. O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama |
 | **Faixa colorida atrás dos rótulos do eixo:** "1Q25 2Q25..." em blocos cinza: "uma merda" | Rótulo de eixo sem fundo |
 | **Gráficos com cores diferentes no mesmo slide:** um em cinza, outro em marinho, outro em azul claro (`checar_slide.py` barra) | Mesma cor principal em todos. Cinza só ao lado da empresa-foco no mesmo gráfico |
+| **Foto de pessoa com o fundo atrás:** retrato em retângulo, ou em duotone: "tem que tirar a parte de trás" (reprovado no Nubank às cegas) | Pessoa recortada, em cor natural (`recortar_pessoa.swift`) |
 | **Slide sobre pessoas sem nenhuma pessoa:** fundador e time em 4 painéis de dados, com o cinza dominando: parece relatório | Rosto ou mesa com nomes; terceiros em tom claro da cor principal |
 | **Objeto torto:** avião ou máquina em perspectiva, parecendo inclinado | De perfil e nivelado (`gerar_imagem.py --objeto`) |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |

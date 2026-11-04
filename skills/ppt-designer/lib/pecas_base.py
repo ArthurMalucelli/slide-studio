@@ -168,6 +168,42 @@ def dobra(s, x, y0, w, top_h, y1, fold=0.18, inset=0.19, upper=None, lower=None,
     return (x, y0, w, top_h), (x + inset, yf + fold, w - 2 * inset, y1 - yf - fold)
 
 
+def lugar(s, cx, yb, cor, h=0.34, vazio=False):
+    """Pessoa de cabeça e ombros, com a base em yb. Vazio: contorno na cor, por dentro branco."""
+    w, d = h * 0.92, h * 0.44
+    corpo = s.shapes.add_shape(MSO_SHAPE.ROUND_2_SAME_RECTANGLE, Inches(cx - w / 2), Inches(yb - h * 0.52), Inches(w), Inches(h * 0.52))
+    corpo.adjustments[0] = 0.5
+    cabeca = s.shapes.add_shape(MSO_SHAPE.OVAL, Inches(cx - d / 2), Inches(yb - h), Inches(d), Inches(d))
+    for sp in (corpo, cabeca):
+        sp.shadow.inherit = False
+        if vazio:
+            ss.paint(sp.fill, ss.WHITE); sp.line.color.rgb = ss.rgb(cor); sp.line.width = Pt(1.25)
+        else:
+            ss.paint(sp.fill, cor); sp.line.fill.background()
+
+
+def mesa(s, cx, cy, w, h, cima, baixo, pontas=(), cor=None, cor_clara=None, lugar_h=0.34):
+    """Mesa de conselho ou time. cima, baixo e pontas: um valor por lugar, True cheio e False vazio.
+    Cada lugar tem de carregar um dado: a cor diz quem pode indicar, quem votou, quem é novo. Devolve (x0, y0, x1, y1) da mesa."""
+    cor = cor or ss.FOCUS
+    cor_clara = cor_clara or ss.FOCUS_TINT
+    x0, y0 = cx - w / 2, cy - h / 2
+    def fila(valores, yb):
+        passo = w * 0.84 / len(valores)
+        for i, v in enumerate(valores):
+            lugar(s, x0 + w * 0.08 + passo * (i + 0.5), yb, cor if v else cor_clara, lugar_h, vazio=not v)
+    if cima: fila(cima, y0 + lugar_h * 0.24)
+    for i, v in enumerate(pontas):      # lados da mesa: atrás dela, para não parecer solto
+        lugar(s, x0 - lugar_h * 0.3 if i == 0 else x0 + w + lugar_h * 0.3, cy + lugar_h / 2, cor if v else cor_clara, lugar_h, vazio=not v)
+    tampo = s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(x0), Inches(y0), Inches(w), Inches(h))
+    tampo.adjustments[0] = 0.5
+    tampo.shadow.inherit = False
+    tampo.line.fill.background()
+    grad(tampo, [(0, ss.FOCUS_TOP), (1, cor_clara)], angle=90)
+    if baixo: fila(baixo, y0 + h + lugar_h * 0.72)
+    return x0, y0, x0 + w, y0 + h
+
+
 def painel_volume(s, x, y, w, h, offset=0.06):
     """Painel cinza com volume: sombra dura deslocada, sem sombra suave. Cabeçalho, itálico e dado ficam dentro."""
     ss.rect(s, x + offset, y + offset, w, h, ss.CARD_EDGE)

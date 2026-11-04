@@ -3,6 +3,8 @@
 ## 0.6.2
 
 - Slide sobre pessoas mostra as pessoas, e aciona o agente de criatividade mesmo havendo dados.
+- `recortar_pessoa.swift`: foto de pessoa sem fundo. Retrato em retângulo agora é reprovado.
+- `pb.mesa`: mesa com lugares coloridos pelo dado; o agente de criatividade a inclui nas opções de slide sobre conselho ou time.
 - Assunto com forma própria, como a mesa de um conselho, pode ser desenhado com formas se cada parte carregar um nome ou um dado.
 - Concorrentes vão no tom claro da cor principal; cinza fica para trilha e fundo.
 - O verificador conta grade de quadrados no limite de 3 gráficos.
