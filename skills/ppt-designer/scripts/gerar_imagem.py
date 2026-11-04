@@ -5,6 +5,7 @@ Uso:
   gerar_imagem.py "a large warehouse retail store" saida.png        cena isométrica
   gerar_imagem.py --mockup "a detergent bottle and tub" saida.png    produto, sem marca
   gerar_imagem.py --mockup --marca Kirkland "a detergent bottle" saida.png   produto com o nome da marca; é ilustrativo
+  gerar_imagem.py --objeto "a regional jet airliner" saida.png       veículo ou máquina, de perfil e nivelado
   gerar_imagem.py --recortar entrada.png saida.png     só recorta o fundo de uma imagem que já existe
   gerar_imagem.py --prompt "a large warehouse retail store"   só imprime o prompt, para o usuário gerar onde quiser
 
@@ -27,6 +28,11 @@ PROMPT = ("Isometric 3D illustration, miniature diorama style of {cena}, built o
 MOCKUP = ("Clean 3D product mockup of {cena}, {rotulo}, centered and fully visible with generous empty margin on all "
           "sides, nothing cropped, square 1:1 image, same front three-quarter angle, soft studio light, polished "
           "materials, pure white solid background with no cast shadow, no people.")
+# Veículo ou máquina: de perfil e nivelado, para não parecer torto e para aceitar chamadas em volta.
+OBJETO = ("Clean 3D illustration of {cena}, perfectly level exact side profile view, centerline perfectly horizontal, no "
+          "tilt, no perspective, no rotation, wheels or base aligned on a straight horizontal line, centered and fully "
+          "visible with generous empty margin on all sides, nothing cropped, soft studio light, polished materials, pure "
+          "white solid background with no cast shadow, no people, no text, no logo.")
 SEM_MARCA = "plain packaging with no brand, no logo and no text"
 COM_MARCA = ('simple clean packaging where the only text is the brand name "{marca}" printed large and correctly spelled '
              "on every item, in a consistent label design across all items, no other text")
@@ -71,7 +77,7 @@ def gerar(cena, saida, modelo=PROMPT):
                   f"stop. Prompt: {modelo.format(cena=cena)}")
         try:
             r = subprocess.run(["codex", "exec", "--skip-git-repo-check", "-C", t, pedido], capture_output=True,
-                               text=True, timeout=420)
+                               text=True, timeout=420, stdin=subprocess.DEVNULL)  # sem isto, o codex espera a entrada e nunca termina
         except subprocess.TimeoutExpired:
             return None
     # O caminho vem da resposta do próprio Codex: procurar a imagem mais nova pega a de outro agente em paralelo.
@@ -82,6 +88,8 @@ def gerar(cena, saida, modelo=PROMPT):
 def main():
     a = sys.argv[1:]
     modelo = PROMPT
+    if a and a[0] == "--objeto":
+        modelo, a = OBJETO, a[1:]
     if a and a[0] == "--mockup":
         a = a[1:]
         rotulo = SEM_MARCA

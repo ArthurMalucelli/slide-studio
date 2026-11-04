@@ -75,13 +75,14 @@ Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovo
 - **Produto:** mockup gerado, com o nome da marca quando o slide é sobre ela (`gerar_imagem.py --mockup --marca Nome`). Confira a grafia ampliada, e diga nas notas do apresentador que é ilustrativo. Foto de produto recortada não entra.
 - **Foto real** só de pessoa citada ou documento, com origem nas notas do apresentador.
 - **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
-- **Padronize:** todas quadradas, com o mesmo tamanho, o mesmo ângulo e a mesma escala de objeto no slide. Olhe cada uma ampliada: nada cortado, nada torto. Refaça a que destoar.
+- **Veículo ou máquina anotada:** `gerar_imagem.py --objeto "<objeto>" saida.png`, de perfil e nivelado. Imagem em perspectiva parece torta. Confira ampliada se a linha do objeto está na horizontal; se não estiver, gere de novo. Mantenha a proporção da imagem, que é comprida, e use a largura do painel, com as chamadas em cima e embaixo. O verificador não vê imagem sobre texto: confira no PDF se rodas e cauda não encostam nas chamadas.
+- **Padronize:** cenas e mockups, todos quadrados, com o mesmo tamanho, o mesmo ângulo e a mesma escala de objeto no slide. Olhe cada uma ampliada: nada cortado, nada torto. Refaça a que destoar.
 - Se nada disso der, use ícone de um traço e avise o usuário do que faltou.
 - Foto de pessoa e citação só com origem real. Nunca invente.
 
 ## 6. Cor: uma família com três tons
 
-Escuro, médio e claro da mesma família fazem quase tudo (ChallengeB: marinho, azul, azul claro; Sabesp: marinho, azul, ciano). Cinza para o que é terceiro. Um acento pontual só onde houver alerta. O painel de fundo, quando existe, é um cinza quase branco, igual em todo o slide.
+**Todo gráfico do slide usa as mesmas cores:** a série principal na cor principal em todos os gráficos, e a segunda série no tom claro. Cinza é só para terceiros **ao lado** da empresa-foco no mesmo gráfico; um gráfico inteiro em cinza ao lado de gráficos azuis parece erro, mesmo que todos sejam terceiros. Escuro, médio e claro da mesma família fazem quase tudo (ChallengeB: marinho, azul, azul claro; Sabesp: marinho, azul, ciano). Cinza para o que é terceiro. Um acento pontual só onde houver alerta. O painel de fundo, quando existe, é um cinza quase branco, igual em todo o slide.
 
 ## 7. Anote o gráfico, sem soltar texto
 

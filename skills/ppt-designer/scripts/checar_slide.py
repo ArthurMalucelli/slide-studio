@@ -215,6 +215,26 @@ def checar(pptx, pdf, profile):
     if len(graficos) > 3:
         err.append(f"{len(graficos)} gráficos no slide (máximo 3). O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama.")
 
+    # Cores: todo gráfico divide a cor principal com os outros. Rótulos e eixos não contam, só o preenchimento das séries.
+    def _cores(ch):
+        ns = {"c": "http://schemas.openxmlformats.org/drawingml/2006/chart", "a": "http://schemas.openxmlformats.org/drawingml/2006/main"}
+        raiz, out = ch._chartSpace, set()
+        for caminho in ("//c:ser/c:spPr/a:solidFill/a:srgbClr/@val", "//c:ser/c:spPr/a:ln/a:solidFill/a:srgbClr/@val", "//c:ser/c:dPt/c:spPr/a:solidFill/a:srgbClr/@val"):
+            out |= {v.upper() for v in raiz.xpath(caminho)}
+        return out - {"FFFFFF", "D62F2F"}
+    paletas = [_cores(g.chart) for g in graficos]
+    paletas = [p for p in paletas if p]
+    def _saturacao(h):
+        r, g_, b = (int(h[i:i + 2], 16) for i in (0, 2, 4))
+        return max(r, g_, b) - min(r, g_, b)
+    if len(paletas) >= 2:
+        for i, p in enumerate(paletas):
+            outros = set().union(*(q for j, q in enumerate(paletas) if j != i))
+            if not (p & outros) and max(_saturacao(h) for h in p) < 40:
+                err.append(f"Gráfico {i + 1} só em cinza ({', '.join(sorted(p))}), e os outros em cor: use a mesma cor principal em todos.")
+            elif not (p & outros):
+                av.append(f"Gráfico {i + 1} não divide nenhuma cor com os outros ({', '.join(sorted(p))}).")
+
     # Gráficos: duas barras, dois pontos, marcador
     for g in graficos:
         ch = g.chart
