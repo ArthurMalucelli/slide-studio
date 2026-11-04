@@ -68,6 +68,8 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Trilhos com nós:** setas finas ligando círculos, com linhas tracejadas verticais | Sem versão aprovada de fluxo até agora. As imagens sozinhas foram aprovadas |
 | **Quatro gráficos em quadrantes:** "fica demais" (`checar_slide.py` barra) | No máximo 3 gráficos. O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama |
 | **Faixa colorida atrás dos rótulos do eixo:** "1Q25 2Q25..." em blocos cinza: "uma merda" | Rótulo de eixo sem fundo |
+| **Gráficos com cores diferentes no mesmo slide:** um em cinza, outro em marinho, outro em azul claro (`checar_slide.py` barra) | Mesma cor principal em todos. Cinza só ao lado da empresa-foco no mesmo gráfico |
+| **Objeto torto:** avião ou máquina em perspectiva, parecendo inclinado | De perfil e nivelado (`gerar_imagem.py --objeto`) |
 | **Colagem de tipos:** dois gráficos + três cards + barrinhas de progresso + frase solta | Escolha um padrão do gabarito e fique nele |
 | **Frase de conclusão solta** embaixo do slide, em faixa escura, caixa com sombra ou com marcador | A conclusão está no título e no subtítulo. Tire |
 | **Rótulos no lugar do dado:** painel com a geometria do gabarito, mas caixas de texto onde ele tinha gráfico | Sem o dado, troque de slide do gabarito (passo 5 da transposição) |
@@ -75,6 +77,8 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Ilustração caseira e flecha fina:** fábrica e loja desenhadas com formas, setas de 1pt | A ideia de diagrama pode ser boa. Ícones de um só traço ou peça do catálogo, e fluxo como faixa grossa com valor |
 
 ## Aprovado pelo dono do deck
+
+**Cadeia de valor em 2×2, feita pelo plugin numa sessão real (127 palavras, 26 dados):** "bem bom". Em cima, dois painéis com volume ligados por um bloco: ilustração do produto com chamadas para quem fornece cada parte, e margem por elo. Embaixo, dois gráficos. Três gráficos e um quadrante de outra natureza. Só faltou nivelar o objeto e padronizar as cores.
 
 **A melhor peça até agora: dois painéis com volume, com a última barra abrindo por cunha numa cascata (teste de assunto novo, sem orientação):** "bem legal". O total de uma coluna abre na decomposição dele: 46 = 4 + 7 + 8 + 9 + 10 + 8. Ponta estreita colada na coluna e larga na borda inteira do outro painel. Exemplo: `references/aprovados/`.
 
@@ -164,7 +168,7 @@ A fonte é a do tema do mestre ou a de `deck_prefs.font`.
 - [ ] Cabeçalhos dos painéis vizinhos na mesma altura; itálicos também
 - [ ] Nenhum texto cortado, truncado ou colidindo (pills × barras vizinhas, rótulos × linhas)
 - [ ] Nada sobre as zonas proibidas do mestre
-- [ ] Cor: FOCUS só na empresa-foco, PEER em terceiros, um ACCENT por painel, NEG só negativo
+- [ ] Cor: a mesma cor principal em todos os gráficos, PEER só ao lado da empresa-foco no mesmo gráfico, um ACCENT por painel, NEG só negativo
 - [ ] Nenhum número repetido no slide; todos iguais aos do roteiro
 - [ ] Sem texto grande, número gigante ou parágrafo (salvo `big_numbers`)
 - [ ] Cada peça passa nos 4 testes (origem, destino, forma = conteúdo, função); no máximo um protagonista

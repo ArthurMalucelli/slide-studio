@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.1
+
+- Todo gráfico do slide usa a mesma cor principal; o verificador barra gráfico só em cinza ao lado de gráficos em cor.
+- `gerar_imagem.py --objeto`: veículo ou máquina de perfil e nivelado.
+
 ## 0.6.0
 
 - Novo catálogo em `references/exemplos/`: 1.647 slides por número de quadrantes e 980 peças por tipo, nas cores originais, com `catalogo.json` para filtrar.
