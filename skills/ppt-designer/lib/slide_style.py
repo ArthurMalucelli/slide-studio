@@ -643,7 +643,7 @@ def _label_body(el, fmt, fill, color, pos, border=None, dash=False, rich=None):
 
 def labels(ser, fmt, fill, color=WHITE, pos="outEnd", points=None, texts=None):
     """Data labels em pill (retângulo arredondado). ser = series._element. Padrão único do slide: fundo escuro e
-    texto branco (FOCUS na empresa-foco, FOCUS_DARK em terceiros, NEG em negativo), mesmo em série de cor clara.
+    texto branco (FOCUS_DARK em todos, NEG só em negativo), mesmo em série de cor clara.
     texts: texto fixo por ponto (evita formatação regional). points = {idx: dict(fill, color, border, dash, rich, delete, pos)}."""
     # outEnd em barra empilhada é XML inválido: o PowerPoint para num aviso de reparo e recusa tudo depois (-1712, -9074).
     grupo = ser.getparent().find(qn("c:grouping")) if ser.getparent() is not None else None

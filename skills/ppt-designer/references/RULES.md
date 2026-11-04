@@ -69,6 +69,8 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Quatro gráficos em quadrantes:** "fica demais" (`checar_slide.py` barra) | No máximo 3 gráficos. O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama |
 | **Faixa colorida atrás dos rótulos do eixo:** "1Q25 2Q25..." em blocos cinza: "uma merda" | Rótulo de eixo sem fundo |
 | **Gráficos com cores diferentes no mesmo slide:** um em cinza, outro em marinho, outro em azul claro (`checar_slide.py` barra) | Mesma cor principal em todos. Cinza só ao lado da empresa-foco no mesmo gráfico |
+| **Data labels em cores diferentes:** roxo no foco e escuro no resto: "despadronizados" (`checar_slide.py` barra) | Todos na mesma cor; NEG só em negativo |
+| **Tabelinha cifrada:** "Votes → seats" com ≥40% e 5, sem dizer de quem nem o que é: "não entendi" | Frase que se explica, ou corte para as notas. Se a mesa já prova, a tabela sobra |
 | **Foto de pessoa com o fundo atrás:** retrato em retângulo, ou em duotone: "tem que tirar a parte de trás" (reprovado no Nubank às cegas) | Pessoa recortada, em cor natural (`recortar_pessoa.swift`) |
 | **Slide sobre pessoas sem nenhuma pessoa:** fundador e time em 4 painéis de dados, com o cinza dominando: parece relatório | Rosto ou mesa com nomes; terceiros em tom claro da cor principal |
 | **Objeto torto:** avião ou máquina em perspectiva, parecendo inclinado | De perfil e nivelado (`gerar_imagem.py --objeto`) |
@@ -107,7 +109,7 @@ Medido e comparado nas rodadas de teste. Tirar os chips não basta: slides sem c
 | **Dois níveis de texto por visual, nunca três.** Cada gráfico tem um cabeçalho e um itálico, sem rótulo ou "sub-subtítulo" extra. Dois gráficos sob a mesma ideia viram dois painéis, cada um com o seu cabeçalho | Terceiro nível repete o itálico e polui o topo do gráfico |
 | **Sem bloco de notas na face do slide.** Definições e ressalvas vão para as notas do apresentador (`ss.footer(..., notes=...)`); no rodapé, só as fontes | O slide é visual; a ressalva é falada ou vai para o Q&A |
 | **Sem colunas de texto ao lado do gráfico** (ano fiscal, escopo, base, descrição por linha). O essencial vai no itálico; o resto, nas notas do apresentador | Vira tabela colada no gráfico e compete com o dado |
-| **Data label com um único estilo no slide:** retângulo arredondado, fundo escuro, texto branco bold 9pt. FOCUS na empresa-foco, FOCUS_DARK em terceiros, NEG em negativo. Nunca fundo claro com texto preto, nem a cor de uma série clara ou do ACCENT | Pills de cores e contrastes diferentes parecem erro |
+| **Data label com um único estilo no slide:** retângulo arredondado, fundo escuro, texto branco bold 9pt. FOCUS_DARK em todos, inclusive na empresa-foco, que se destaca pela barra; NEG só em negativo. Nunca fundo claro com texto preto, nem a cor de uma série clara ou do ACCENT | Pills de cores e contrastes diferentes parecem erro |
 | **Nem tudo é gráfico** | Lineup, posicionamento e conteúdo qualitativo funcionam melhor como imagem, ícone ou diagrama com um dado curto |
 | **Tudo alinhado à grade do mestre** (`ss.cols`, `ss.rows`, `profile.json`) | Cabeçalhos dos painéis vizinhos na mesma altura, margens iguais |
 | **Nada encosta nas zonas proibidas do mestre** (`grid.forbidden`: logos, curvas, faixas) | O mestre cobre essa área |

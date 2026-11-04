@@ -248,6 +248,14 @@ def checar(pptx, pdf, profile):
             elif not (p & outros):
                 av.append(f"Gráfico {i + 1} não divide nenhuma cor com os outros ({', '.join(sorted(p))}).")
 
+    # Data labels: uma cor só no slide, fora o vermelho de negativo.
+    rotulos = set()
+    for g in graficos:
+        rotulos |= {v.upper() for v in g.chart._chartSpace.xpath("//c:dLbls//c:spPr/a:solidFill/a:srgbClr/@val")}
+    rotulos -= {"D62F2F", "FFFFFF"}
+    if len(rotulos) > 1:
+        err.append(f"Data labels em {len(rotulos)} cores ({', '.join(sorted(rotulos))}): use uma só no slide; vermelho só em negativo.")
+
     # Gráficos: duas barras, dois pontos, marcador
     for g in graficos:
         ch = g.chart
