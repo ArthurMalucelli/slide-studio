@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.6.1-1249C6">
+  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-0.6.2-1249C6">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-plugin-0B1D4E">
   <img alt="Saída" src="https://img.shields.io/badge/sa%C3%ADda-.pptx%20edit%C3%A1vel-4FA3F5">
 </p>

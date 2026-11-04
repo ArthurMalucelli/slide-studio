@@ -72,8 +72,10 @@ Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovo
 **A imagem é parte da prova, ou sai.** O jato aparece porque o painel compara aquele modelo. Foto de uma loja ao lado de um gráfico que não fala dela é "foto do nada", mesmo sendo real. Assunto financeiro ou de número costuma ficar sem imagem, e tudo bem.
 
 - **Nunca monte um prédio ou uma máquina com retângulos.**
+- **Slide sobre pessoas mostra as pessoas.** Fundador, time ou conselho pedem rosto ou lugar na mesa, mesmo havendo número para tudo. Tempo de casa de cada executivo pode ser nome com dado; não precisa virar mais uma barra.
+- **Assunto com forma própria:** conselho é uma mesa, e funil é um funil. Pode desenhar a coisa com formas nativas (`pb.mesa` desenha a mesa) se cada parte carregar um nome ou um dado: tire a parte, e o slide perde informação. Se os lugares estiverem vazios de sentido, é enfeite. Não associe a parte a uma pessoa ou a um fato que o roteiro não prova.
 - **Produto:** mockup gerado, com o nome da marca quando o slide é sobre ela (`gerar_imagem.py --mockup --marca Nome`). Confira a grafia ampliada, e diga nas notas do apresentador que é ilustrativo. Foto de produto recortada não entra.
-- **Foto real** só de pessoa citada ou documento, com origem nas notas do apresentador.
+- **Foto real** só de pessoa citada ou documento, com origem nas notas do apresentador. **Foto de pessoa nunca fica em retângulo:** recorte o fundo com `swift scripts/recortar_pessoa.swift entrada.jpg saida.png`, mantenha a cor natural e deixe a pessoa solta sobre o slide. Sem duotone. Registre o recorte nas notas, e confira cabelo e mãos ampliados.
 - **Ilustração gerada** serve para etapas, cadeia de valor e cenas: `scripts/gerar_imagem.py "<cena>" saida.png` usa o prompt isométrico padrão e recorta o fundo. Só as que entram no slide: cada uma gasta da conta do Codex do usuário. É ilustração, nunca evidência.
 - **Veículo ou máquina anotada:** `gerar_imagem.py --objeto "<objeto>" saida.png`, de perfil e nivelado. Imagem em perspectiva parece torta. Confira ampliada se a linha do objeto está na horizontal; se não estiver, gere de novo. Mantenha a proporção da imagem, que é comprida, e use a largura do painel, com as chamadas em cima e embaixo. O verificador não vê imagem sobre texto: confira no PDF se rodas e cauda não encostam nas chamadas.
 - **Padronize:** cenas e mockups, todos quadrados, com o mesmo tamanho, o mesmo ângulo e a mesma escala de objeto no slide. Olhe cada uma ampliada: nada cortado, nada torto. Refaça a que destoar.
@@ -82,7 +84,7 @@ Mockup e ilustração gerados ganham de foto real de produto, que o dono reprovo
 
 ## 6. Cor: uma família com três tons
 
-**Todo gráfico do slide usa as mesmas cores:** a série principal na cor principal em todos os gráficos, e a segunda série no tom claro. Cinza é só para terceiros **ao lado** da empresa-foco no mesmo gráfico; um gráfico inteiro em cinza ao lado de gráficos azuis parece erro, mesmo que todos sejam terceiros. Escuro, médio e claro da mesma família fazem quase tudo (ChallengeB: marinho, azul, azul claro; Sabesp: marinho, azul, ciano). Cinza para o que é terceiro. Um acento pontual só onde houver alerta. O painel de fundo, quando existe, é um cinza quase branco, igual em todo o slide.
+**Todo gráfico do slide usa as mesmas cores:** a série principal na cor principal em todos os gráficos, e a segunda série no tom claro. Terceiros ficam no tom claro da cor principal. Cinza é só para trilha e fundo: slide em que o cinza domina fica sem vida, mesmo com as regras cumpridas. Escuro, médio e claro da mesma família fazem quase tudo (ChallengeB: marinho, azul, azul claro; Sabesp: marinho, azul, ciano). Um acento pontual só onde houver alerta. O painel de fundo, quando existe, é um cinza quase branco, igual em todo o slide.
 
 ## 7. Anote o gráfico, sem soltar texto
 

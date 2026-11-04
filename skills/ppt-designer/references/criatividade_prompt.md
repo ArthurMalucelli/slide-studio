@@ -16,10 +16,11 @@ Você pensa em formas de representar uma informação num slide de equity resear
   - `ChallengeB_p013.jpg`: espinha de ícones ligada a um documento real
   - `ChallengeB_p014.jpg`: comparação "vs" com foto
   - `Sabesp_p013.jpg`: mecanismo ligado a um fluxo com dado
+  - `Nubank_p007.jpg`: retrato de quem o slide cita, e time ao redor de uma mesa
 - Abra também 3 peças de `{SKILL_DIR}/references/exemplos/por-tipo/` que combinem com o conteúdo, como `fluxo-ciclo.md`, `timeline.md`, `matriz-comparacao.md`, `arvore-organograma.md` ou `3d-profundidade.md`. As imagens delas estão em `tipo/<tipo>/`, e o slide inteiro, em `slides/`.
 
 ## Entregue
-**3 representações bem diferentes entre si**, cada uma com outra lógica visual. Não vale a mesma ideia com outra forma. Para cada uma:
+**3 representações bem diferentes entre si**, cada uma com outra lógica visual. Não vale a mesma ideia com outra forma. Se o assunto é conselho ou time, uma delas é a mesa com os lugares coloridos pelo dado (`pb.mesa`), sem precisar de um nome por lugar. Para cada uma:
 
 1. **Nome e lógica:** em uma frase, a metáfora ou estrutura ("escada", "o dinheiro entrando e saindo", "antes e depois").
 2. **O que o leitor entende nela e não entenderia numa lista.** Se a resposta for "fica mais bonito", descarte a ideia.
@@ -31,7 +32,7 @@ Você pensa em formas de representar uma informação num slide de equity resear
 Termine com a sua recomendação em uma linha, e o maior risco de ela sair feia.
 
 ## Proibido
-- Ilustração montada com retângulos e flecha fina.
+- Ilustração montada com retângulos e flecha fina. A exceção é um assunto com forma própria, como a mesa de um conselho, em que cada parte carrega um nome ou um dado.
 - Dado, citação, foto ou entrevista inventados.
 - Faixa de KPIs, cards de ícone com frases centralizadas, retângulo de um bloco só, e os demais itens reprovados.
 - Mais de uma peça de profundidade.

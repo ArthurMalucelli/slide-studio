@@ -212,8 +212,21 @@ def checar(pptx, pdf, profile):
     if len(grandes) < 2 and not cunha_grande:
         err.append("Slide sem profundidade: faltam painéis com volume (`painel_volume`, `ponte_volume`) ou dobra.")
 
-    if len(graficos) > 3:
-        err.append(f"{len(graficos)} gráficos no slide (máximo 3). O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama.")
+    # Dado desenhado em grade de quadrados conta como gráfico: fugir do limite com formas não muda o que o leitor vê.
+    def _quadrado(sh):
+        try:
+            return sh.shape_type == 1 and sh.auto_shape_type in (1, 5) and sh.width / IN < 1 and sh.height / IN < 1
+        except (ValueError, NotImplementedError):
+            return False
+    tamanhos = {}
+    for sh in shapes:
+        if _quadrado(sh):
+            tamanhos.setdefault((round(sh.width / IN, 2), round(sh.height / IN, 2)), []).append(sh)
+    # Grade de verdade tem ao menos 3 linhas e 3 colunas; só repetir o tamanho pega chips de uma timeline.
+    grades = sum(1 for g in tamanhos.values() if len(g) >= 9 and len({round(sh.left / IN, 1) for sh in g}) >= 3
+                 and len({round(sh.top / IN, 1) for sh in g}) >= 3)
+    if len(graficos) + grades > 3:
+        err.append(f"{len(graficos)} gráficos e {grades} grade(s) de formas no slide (máximo 3). O quarto quadrante é outra coisa: ilustração, timeline, citação, diagrama.")
 
     # Cores: todo gráfico divide a cor principal com os outros. Rótulos e eixos não contam, só o preenchimento das séries.
     def _cores(ch):
@@ -234,6 +247,14 @@ def checar(pptx, pdf, profile):
                 err.append(f"Gráfico {i + 1} só em cinza ({', '.join(sorted(p))}), e os outros em cor: use a mesma cor principal em todos.")
             elif not (p & outros):
                 av.append(f"Gráfico {i + 1} não divide nenhuma cor com os outros ({', '.join(sorted(p))}).")
+
+    # Data labels: uma cor só no slide, fora o vermelho de negativo.
+    rotulos = set()
+    for g in graficos:
+        rotulos |= {v.upper() for v in g.chart._chartSpace.xpath("//c:dLbls//c:spPr/a:solidFill/a:srgbClr/@val")}
+    rotulos -= {"D62F2F", "FFFFFF"}
+    if len(rotulos) > 1:
+        err.append(f"Data labels em {len(rotulos)} cores ({', '.join(sorted(rotulos))}): use uma só no slide; vermelho só em negativo.")
 
     # Gráficos: duas barras, dois pontos, marcador
     for g in graficos:
