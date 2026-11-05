@@ -1,5 +1,9 @@
 # Changelog
 
+## A seguir
+
+- `export_pdf.ps1` segue as regras do `export_pdf.sh`: valida antes de abrir, uma exportação por vez, cópia própria com nome único, e nunca fecha o PowerPoint nem toca em outra apresentação. Não foi testado com PowerPoint.
+
 ## 0.6.1
 
 - Todo gráfico do slide usa a mesma cor principal; o verificador barra gráfico só em cinza ao lado de gráficos em cor.
